@@ -1,0 +1,4906 @@
+{
+ "id": "ch07",
+ "no": "07",
+ "title": "Iron, empire and the Axial Age",
+ "sub": "c. 1200 to 500 BCE",
+ "sources": {
+  "ajr-pearce-wunsch": {
+   "citation": "Simcha Gross, review of Pearce and Wunsch, Documents of Judean Exiles and West Semites in Babylonia, Ancient Jew Review (2015)",
+   "url": "https://ancientjewreview.com/read/2015/2/18/pearce-and-wunsch-documents-of-judean-exiles-and-west-semites-in-babylonia-1"
+  },
+  "brit-gordium": {
+   "citation": "Encyclopaedia Britannica, \"Gordium\"",
+   "url": "https://www.britannica.com/place/Gordium"
+  },
+  "sinha2019": {
+   "citation": "Sinha et al., \"Role of climate in the rise and fall of the Neo-Assyrian empire\", Science Advances (2019)",
+   "url": "https://experts.umn.edu/en/publications/role-of-climate-in-the-rise-and-fall-of-the-neo-assyrian-empire/"
+  },
+  "met-assyria": {
+   "citation": "The Met, \"Assyria, 1365-609 B.C.\"",
+   "url": "https://www.metmuseum.org/toah/hd/assy/hd_assy.htm"
+  },
+  "brit-assyria": {
+   "citation": "Encyclopaedia Britannica, \"Assyria\"",
+   "url": "https://www.britannica.com/place/Assyria"
+  },
+  "met-urartu": {
+   "citation": "The Met, \"Urartu\"",
+   "url": "https://www.metmuseum.org/toah/hd/urar/hd_urar.htm"
+  },
+  "brit-phrygia": {
+   "citation": "Encyclopaedia Britannica, \"Phrygia\"",
+   "url": "https://www.britannica.com/place/Phrygia"
+  },
+  "penn-gordion": {
+   "citation": "Rose and Darbyshire (eds.), The New Chronology of Iron Age Gordion (Penn Museum, 2011)",
+   "url": "https://www.penn.museum/publications/publication/988"
+  },
+  "brit-lydia": {
+   "citation": "Encyclopaedia Britannica, \"Lydia\"",
+   "url": "https://www.britannica.com/place/Lydia-ancient-region-Anatolia"
+  },
+  "brit-media": {
+   "citation": "Encyclopaedia Britannica, \"Media\"",
+   "url": "https://www.britannica.com/place/Media-ancient-region-Iran"
+  },
+  "brit-psamtik": {
+   "citation": "Encyclopaedia Britannica, \"Psamtik I\"",
+   "url": "https://www.britannica.com/biography/Psamtik-I"
+  },
+  "brit-nebuchadnezzar": {
+   "citation": "Encyclopaedia Britannica, \"Nebuchadnezzar II\"",
+   "url": "https://www.britannica.com/biography/Nebuchadnezzar-II"
+  },
+  "bm-cyrus": {
+   "citation": "British Museum, the Cyrus Cylinder (1880,0617.1941)",
+   "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+  },
+  "jm-teldan": {
+   "citation": "The Jewish Museum, \"Tel Dan Stele\"",
+   "url": "https://thejewishmuseum.org/exhibitions/tel-dan-stele/"
+  },
+  "jhs-athas": {
+   "citation": "Review of George Athas, The Tel Dan Inscription, Journal of Hebrew Scriptures",
+   "url": "https://jhsonline.org/index.php/jhs/article/download/5680/4733"
+  },
+  "bg-2kgs9": {
+   "citation": "2 Kings 9:24, 27; 2 Kings 3:4-5; Isaiah 37:36 (NRSVUE, Bible Gateway)",
+   "url": "https://www.biblegateway.com/passage/?search=2+Kings+9%3A24%2C27%3B2+Kings+3%3A4-5%3BIsaiah+37%3A36&version=NRSVUE"
+  },
+  "louvre-mesha": {
+   "citation": "Louvre, the Mesha stele",
+   "url": "https://collections.louvre.fr/en/ark:/53355/cl010120339"
+  },
+  "bar-mesha": {
+   "citation": "Biblical Archaeology Society, \"What does the Mesha Stele say?\"",
+   "url": "https://www.biblicalarchaeology.org/daily/what-does-the-mesha-stele-say/"
+  },
+  "eurekalert-mesha2019": {
+   "citation": "EurekAlert, on Finkelstein, Na'aman and Römer, Tel Aviv (2019): a new reading of line 31 of the Mesha stele",
+   "url": "https://www.eurekalert.org/pub_releases/2019-05/tfg-nro042519.php"
+  },
+  "bar-mesha2022": {
+   "citation": "Lemaire and Delorme, \"The Mesha Stele and King David of the Bible\", Biblical Archaeology Society (2022)",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/the-mesha-stele-and-king-david-of-the-bible/"
+  },
+  "bm-kurkh": {
+   "citation": "British Museum, the Kurkh stela of Shalmaneser III (1863,0619.2)",
+   "url": "https://www.britishmuseum.org/collection/object/W_1863-0619-2"
+  },
+  "cojs-kurkh": {
+   "citation": "Center for Online Judaic Studies, the Kurkh monolith and the battle of Qarqar",
+   "url": "https://cojs.org/?p=6525"
+  },
+  "bm-blackobelisk": {
+   "citation": "British Museum, the Black Obelisk of Shalmaneser III (1848,1104.1)",
+   "url": "https://britishmuseum.org/collection/object/W_1848-1104-1"
+  },
+  "franklin-samaria": {
+   "citation": "Norma Franklin, on Samaria before Omri, The Bible and Interpretation",
+   "url": "https://bibleinterp.arizona.edu/node/2369"
+  },
+  "garfinkel-qeiyafa": {
+   "citation": "Garfinkel, Streit, Ganor and Reimer, radiocarbon dates from Khirbet Qeiyafa, Radiocarbon (2015)",
+   "url": "https://www.cambridge.org/core/product/F6BDFDFA8FA03784AAD424866E552349"
+  },
+  "naaman2017": {
+   "citation": "Nadav Na'aman, on Khirbet Qeiyafa, Journal of Hebrew Scriptures (2017)",
+   "url": "https://jhsonline.org/index.php/jhs/article/view/29370"
+  },
+  "fantalkin2017": {
+   "citation": "Fantalkin and Finkelstein, \"The date of abandonment and territorial affiliation of Khirbet Qeiyafa\", Tel Aviv (2017)",
+   "url": "https://cris.iucc.ac.il/en/publications/the-date-of-abandonment-and-territorial-affiliation-of-khirbet-qe/"
+  },
+  "bas-jerusalem": {
+   "citation": "Biblical Archaeology Society, on the size of ancient Jerusalem",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/ancient-jerusalem/"
+  },
+  "regev2024": {
+   "citation": "Regev et al., radiocarbon chronology of Iron Age Jerusalem, PNAS (2024)",
+   "url": "https://ui.adsabs.harvard.edu/abs/2024PNAS..12121024R"
+  },
+  "bas-regev": {
+   "citation": "Biblical Archaeology Society, \"How large was King David's Jerusalem?\"",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/how-large-was-king-davids-jerusalem/"
+  },
+  "eurekalert-arad": {
+   "citation": "EurekAlert, on Faigenbaum-Golovin, Finkelstein et al., PNAS (2016): literacy at Arad",
+   "url": "https://www.eurekalert.org/news-releases/718904"
+  },
+  "shaus2020": {
+   "citation": "Shaus et al., forensic and algorithmic handwriting analysis of the Arad ostraca, PLOS ONE (2020)",
+   "url": "https://cris.huji.ac.il/en/publications/forensic-document-examination-and-algorithmic-handwriting-analysi-2/"
+  },
+  "cojs-ketef": {
+   "citation": "Center for Online Judaic Studies, the silver amulets from Ketef Hinnom",
+   "url": "https://cojs.org/silver_scroll_amulets_from_ketef_hinnom-_c-_600_bce/"
+  },
+  "barkay2004": {
+   "citation": "Barkay et al., \"The amulets from Ketef Hinnom\", Bulletin of the American Schools of Oriental Research 334 (2004)",
+   "url": "https://www.journals.uchicago.edu/doi/10.2307/4150106"
+  },
+  "brit-tp3": {
+   "citation": "Encyclopaedia Britannica, \"Tiglath-pileser III\"",
+   "url": "https://www.Britannica.com/biography/Tiglath-pileser-III"
+  },
+  "ebsco-tp3": {
+   "citation": "EBSCO Research Starters, \"Tiglath-pileser III rules Assyria\"",
+   "url": "https://www.ebsco.com/research-starters/history/tiglath-pileser-iii-rules-assyria"
+  },
+  "radner2018": {
+   "citation": "Karen Radner, \"The 'lost tribes of Israel' in the context of the resettlement programme of the Assyrian empire\" (2018)",
+   "url": "https://epub.ub.uni-muenchen.de/58863/1/Radner_Lost_tribes_of_Israel_BZAW_511_2018.pdf"
+  },
+  "radner-road": {
+   "citation": "Karen Radner, \"The King's Road\", Assyrian empire builders (UCL)",
+   "url": "https://www.ucl.ac.uk/sargon/essentials/governors/thekingsroad/"
+  },
+  "bm-library": {
+   "citation": "British Museum, \"What was Ashurbanipal's library?\"",
+   "url": "https://www.britishmuseum.org/research/projects/what-was-ashurbanipals-library"
+  },
+  "bm-chronicle612": {
+   "citation": "British Museum, Babylonian Chronicle for 616-609 BCE, via Google Arts & Culture",
+   "url": "https://artsandculture.google.com/asset/cuneiform-tablet-with-part-of-the-babylonian-chronicle-616-609-bc/xAEPSobA2ozDxw"
+  },
+  "bg-2kgs18": {
+   "citation": "2 Kings 17:3-6; 18:9-14; 19:35-37; 20:20 (NRSVUE, Bible Gateway)",
+   "url": "https://www.biblegateway.com/passage/?search=2+Kings+17%3A3-6%3B2+Kings+18%3A9-14%3B2+Kings+19%3A35-37%3B2+Kings+20%3A20&version=NRSVUE"
+  },
+  "park2012": {
+   "citation": "Sung Jin Park, \"A new historical reconstruction of the fall of Samaria\", Biblica 93 (2012)",
+   "url": "https://www.bsw.org/biblica/vol-93-2012/a-new-historical-reconstruction-of-the-fall-of-samaria/490/"
+  },
+  "bm-taylor": {
+   "citation": "British Museum, the Taylor Prism of Sennacherib (1855,1003.1)",
+   "url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1"
+  },
+  "cojs-prisms": {
+   "citation": "Center for Online Judaic Studies, Sennacherib's annals on the Taylor, Jerusalem and Oriental Institute prisms",
+   "url": "https://cojs.org/hezekiah-s_defeat-_the_annals_of_sennacherib_on_the_taylor-_jerusalem-_and_oriental_institute_prisms-_700_bce/"
+  },
+  "luc-sennacherib": {
+   "citation": "Loyola University Chicago, Sennacherib's account of his campaign against Judah (trans. George Smith)",
+   "url": "https://avande1.sites.luc.edu/jerusalem/sources/sennacherib-cuneiform.htm"
+  },
+  "bm-lachish": {
+   "citation": "British Museum, Lachish relief from Sennacherib's palace at Nineveh (1856,0909.14.8)",
+   "url": "https://www.britishmuseum.org/collection/object/W_1856-0909-14_8"
+  },
+  "huji-ramp": {
+   "citation": "Hebrew University, on Garfinkel et al., Oxford Journal of Archaeology (2021): the Lachish siege ramp",
+   "url": "https://en.huji.ac.il/node/3127307"
+  },
+  "bas-ramps": {
+   "citation": "Biblical Archaeology Society, \"Lachish and its siege ramps\"",
+   "url": "https://library.biblicalarchaeology.org/sidebar/lachish-and-its-siege-ramps/"
+  },
+  "jpost-siloam": {
+   "citation": "Jerusalem Post, on the Siloam inscription (2022)",
+   "url": "https://www.jpost.com/archaeology/article-701676"
+  },
+  "frumkin2003": {
+   "citation": "Frumkin, Shimron and Rosenbaum, \"Radiometric dating of the Siloam tunnel\", Nature (2003)",
+   "url": "https://cris.huji.ac.il/en/publications/radiometric-dating-of-the-siloam-tunnel-jerusalem/"
+  },
+  "bas-tunnel": {
+   "citation": "Biblical Archaeology Society, \"Hezekiah's tunnel reexamined\"",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/hezekiahs-tunnel-reexamined/"
+  },
+  "lipschits2010": {
+   "citation": "Lipschits, Sergi and Koch, \"Royal Judahite jar handles\", Tel Aviv (2010)",
+   "url": "https://cris.tau.ac.il/en/publications/royal-judahite-jar-handles-reconsidering-the-chronology-of-the-lm/"
+  },
+  "phys-hezekiah": {
+   "citation": "Phys.org, on the seal impression of King Hezekiah (2015)",
+   "url": "https://phys.org/news/2015-12-israelite-judean-king-exposed-situ.pdf"
+  },
+  "toi-assyrian2025": {
+   "citation": "Times of Israel, on an Assyrian inscription found near the Temple Mount (2025)",
+   "url": "https://www.timesofisrael.com/biblical-tax-notice-1st-ever-assyrian-inscription-found-near-jerusalems-temple-mount/"
+  },
+  "bm-chronicle597": {
+   "citation": "British Museum, the Babylonian Chronicle of Nebuchadnezzar II",
+   "url": "https://www.britishmuseum.org/explore/highlights/highlight_objects/me/c/cuneiform_nebuchadnezzar_ii.aspx"
+  },
+  "jta-1956": {
+   "citation": "Jewish Telegraphic Agency, on Wiseman's publication of the Babylonian Chronicle (1956)",
+   "url": "https://www.jta.org/archive/clay-tablets-establish-day-of-nebuchadnezzars-capture-of-jerusalem"
+  },
+  "cojs-jehoiachin": {
+   "citation": "Center for Online Judaic Studies, Babylonian ration list naming King Jehoiachin",
+   "url": "https://cojs.org/babylonian_ration_list-_king_jehoiakhin_in_exile-_592-1_bce/"
+  },
+  "tyndale-alyahudu": {
+   "citation": "Tyndale House, Cambridge, \"The Al-Yahudu tablets\"",
+   "url": "https://tyndale.cam.ac.uk/explore/articles/the-al-yahudu-tablets/"
+  },
+  "brit-lachish": {
+   "citation": "Encyclopaedia Britannica, \"Lachish\"",
+   "url": "https://www.britannica.com/place/Lachish"
+  },
+  "bg-exile": {
+   "citation": "2 Kings 24:14; Jeremiah 52:28-30 (NRSVUE, Bible Gateway)",
+   "url": "https://www.biblegateway.com/passage/?search=Jeremiah+52%3A28-30%3B2+Kings+24%3A14&version=NRSVUE"
+  },
+  "cdf-lipschits": {
+   "citation": "Collège de France, Oded Lipschits, \"Home alone in Judah\"",
+   "url": "https://college-de-france.fr/en/agenda/guest-lecturer/home-alone-in-judah-hints-of-how-the-babylonian-empire-administered-an-empty-land-0"
+  },
+  "jhs-lipschits": {
+   "citation": "Review panel on Oded Lipschits, The Fall and Rise of Jerusalem, Journal of Hebrew Scriptures",
+   "url": "https://jhsonline.org/index.php/jhs/article/download/5656/4709"
+  },
+  "sbl-faust": {
+   "citation": "Avraham Faust, Judah in the Neo-Babylonian Period (SBL, 2012)",
+   "url": "https://cart.sbl-site.org/books/061718P"
+  },
+  "bg-ezra": {
+   "citation": "Ezra 1:2-3; 6:15; Isaiah 45:1 (NRSVUE, Bible Gateway)",
+   "url": "https://www.biblegateway.com/passage/?search=Ezra+1%3A2-3%3BEzra+6%3A15%3BIsaiah+45%3A1&version=NRSVUE"
+  },
+  "bas-cyrus": {
+   "citation": "Biblical Archaeology Society, \"The Cyrus Cylinder\"",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/the-cyrus-cylinder/"
+  },
+  "jhs-edelman": {
+   "citation": "Mark Boda, review of Diana Edelman, The Origins of the 'Second' Temple, Journal of Hebrew Scriptures",
+   "url": "https://jhsonline.org/index.php/jhs/article/download/5675/4728"
+  },
+  "nce-cyrus": {
+   "citation": "New Catholic Encyclopedia, \"Cyrus, King of Persia\" (via Encyclopedia.com)",
+   "url": "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/cyrus-king-persia"
+  },
+  "met-phoen7": {
+   "citation": "The Met, \"The Phoenicians (1500-300 B.C.)\" (2004)",
+   "url": "https://www.metmuseum.org/toah/hd/phoe/hd_phoe.htm"
+  },
+  "bmcr-aubet": {
+   "citation": "R. Wright, review of Maria Eugenia Aubet, The Phoenicians and the West, Bryn Mawr Classical Review 2003.12.17",
+   "url": "https://bmcr.brynmawr.edu/2003/2003.12.17"
+  },
+  "brit-cadiz": {
+   "citation": "Encyclopaedia Britannica, \"Cádiz\"",
+   "url": "https://www.britannica.com/place/Cadiz-Spain"
+  },
+  "suarez2021": {
+   "citation": "Suárez-Padilla, Jiménez-Jáimez and Caro, on the radiocarbon dating of Phoenician Huelva and Gadir, Antiquity 95 (2021)",
+   "url": "https://cambridge.org/core/services/aop-cambridge-core/content/view/S0003598X21001058"
+  },
+  "brit-carthage": {
+   "citation": "Encyclopaedia Britannica, \"Carthage\"",
+   "url": "https://www.britannica.com/place/Carthage-ancient-city-Tunisia"
+  },
+  "maraoui-schon": {
+   "citation": "Maraoui Telmini and Schön, on early Carthage and its radiocarbon dates, Rivista di Studi Fenici",
+   "url": "https://open.rstfen.cnr.it/index.php/rsf/article/download/26/5/143"
+  },
+  "docter2008": {
+   "citation": "Docter et al., \"New radiocarbon dates from Carthage\" (2008), record",
+   "url": "https://research.rug.nl/en/publications/new-radiocarbon-dates-from-carthage-bridging-the-gap-between-hist/"
+  },
+  "natgeo-tartessos": {
+   "citation": "National Geographic, on Tartessos and the Phoenicians (interview with Sebastián Celestino)",
+   "url": "https://www.nationalgeographic.com/premium/article/tartessos-phoenician-ancient-spanish-culture"
+  },
+  "aja-tartessos": {
+   "citation": "Manuel Fernández-Götz, review of Celestino and López-Ruiz, Tartessos and the Phoenicians in Iberia, American Journal of Archaeology (2019)",
+   "url": "https://www.ajaonline.org/book-review/3902"
+  },
+  "brit-tartessus": {
+   "citation": "Encyclopaedia Britannica, \"Tartessus\"",
+   "url": "https://www.britannica.com/place/Tartessus"
+  },
+  "ct-canchoroano": {
+   "citation": "Construyendo Tarteso, \"Cancho Roano\"",
+   "url": "https://construyendotarteso.com/en/cancho-roano/"
+  },
+  "ls-busts2023": {
+   "citation": "Live Science, on the Tartessian busts from Casas del Turuñuelo (2023)",
+   "url": "https://www.livescience.com/archaeology/2600-year-old-stone-busts-of-lost-ancient-tartessos-people-discovered-in-sealed-pit-in-spain"
+  },
+  "ls-slate2024": {
+   "citation": "Live Science, on the warrior slate from Casas del Turuñuelo (2024)",
+   "url": "https://livescience.com/archaeology/2500-year-old-slate-containing-drawings-of-battle-scenes-and-paleo-alphabet-discovered-in-spain"
+  },
+  "archmag-turunuelo": {
+   "citation": "Archaeology Magazine (Greece), on Cutillas-Victoria et al., Scientific Reports (2024)",
+   "url": "https://archaeologymag.com/2024/10/tartessos-cultures-construction-skills-at-casas-del-turunuelo"
+  },
+  "nigro2013": {
+   "citation": "Lorenzo Nigro, on the earliest Phoenician phase at Motya, Vicino Oriente 17 (2013)",
+   "url": "https://ancientportsantiques.com/wp-content/uploads/Documents/PLACES/Sicily-Malta/Motye/Motye-Nigro2013.pdf"
+  },
+  "brit-citium": {
+   "citation": "Encyclopaedia Britannica, \"Citium\"",
+   "url": "https://www.britannica.com/place/Citium"
+  },
+  "ox-tophet": {
+   "citation": "University of Oxford, \"Ancient Carthaginians really did sacrifice their children\" (2014), on Xella et al., Antiquity (2013)",
+   "url": "https://www.ox.ac.uk/news/2014-01-23-ancient-carthaginians-really-did-sacrifice-their-children"
+  },
+  "xella2013": {
+   "citation": "Xella, Quinn, Melchiorri and van Dommelen, \"Cemetery or sacrifice? Infant burials at the Carthage tophet\", Antiquity (2013)",
+   "url": "https://core-cms.cambridgecore.org/core/journals/antiquity/article/cemetery-or-sacrifice-infant-burials-at-the-carthage-tophet/DAC7C386CD20F5C280C9DB41E5184A2E"
+  },
+  "schwartz2010": {
+   "citation": "Schwartz, Houghton, Macchiarelli and Bondioli, \"Skeletal remains from Punic Carthage do not support systematic sacrifice of infants\", PLOS ONE (2010)",
+   "url": "https://doaj.org/article/17ebe9c6c04d4b1ba37042220dab14f2"
+  },
+  "schwartz2012": {
+   "citation": "Schwartz et al., \"Bones, teeth, and estimating age of perinates: Carthaginian infant sacrifice revisited\", Antiquity (2012)",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/bones-teeth-and-estimating-age-of-perinates-carthaginian-infant-sacrifice-revisited/CA46F625ED28CFD23EFB5A71D06BCF48"
+  },
+  "ringbauer2025": {
+   "citation": "Ringbauer et al., \"Punic people were genetically diverse with almost no Levantine ancestors\", Nature 643 (2025)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40269169/"
+  },
+  "brit-greek-alphabet": {
+   "citation": "Encyclopaedia Britannica, \"Greek language: the Greek alphabet\"",
+   "url": "https://www.britannica.com/topic/Greek-language/The-Greek-alphabet"
+  },
+  "ox-lefkandi": {
+   "citation": "University of Oxford, Lefkandi excavation project",
+   "url": "https://lefkandi.classics.ox.ac.uk/"
+  },
+  "pakkanen2000": {
+   "citation": "Pakkanen and Pakkanen, \"The Toumba building at Lefkandi\", Annual of the British School at Athens 95 (2000)",
+   "url": "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/toumba-building-at-lefkandi-some-methodological-reflections-on-its-plan-and-function1/D1974B39BD78EEE14C96E60CFD13CF1C"
+  },
+  "nielsen2004": {
+   "citation": "Thomas Heine Nielsen, \"The number of poleis\", in An Inventory of Archaic and Classical Poleis (Oxford, 2004)",
+   "url": "https://academic.oup.com/book/47066/chapter/422670006"
+  },
+  "pithecusae": {
+   "citation": "Museo di Pithecusae, \"The history of the museum\"",
+   "url": "https://www.pithecusae.it/en/the-history-of-the-museum/"
+  },
+  "ebsco-colonies": {
+   "citation": "EBSCO Research Starters, \"Greeks colonize the Mediterranean and Black Sea regions\"",
+   "url": "https://www.ebsco.com/research-starters/history/greeks-colonize-mediterranean-and-black-sea-regions"
+  },
+  "brit-syracuse": {
+   "citation": "Encyclopaedia Britannica, \"Syracuse\"",
+   "url": "https://www.britannica.com/place/Syracuse-Italy"
+  },
+  "bmcr-berezan": {
+   "citation": "Baebler, review of Solovyov on Berezan, Bryn Mawr Classical Review 2000.06.01",
+   "url": "https://bmcr.brynmawr.edu/?p=21752"
+  },
+  "gr-dipylon": {
+   "citation": "Hellenic Ministry of Culture, the Dipylon oinochoe (National Archaeological Museum A 192)",
+   "url": "https://olympicgames.culture.gov.gr/en/epathla/4_EAM_A192.html"
+  },
+  "brown-nestor": {
+   "citation": "Brown University, Joukowsky Institute, \"Nestor's cup\"",
+   "url": "https://webhelper.brown.edu/joukowsky/courses/greekpast/4695.html"
+  },
+  "waal2019": {
+   "citation": "Willemijn Waal, \"On the origins of the Greek alphabet\", ANE Today 7.3 (2019)",
+   "url": "https://anetoday.org/greek-alphabet-origins/"
+  },
+  "bmcr-hoplites": {
+   "citation": "Matthew Sears, review of Kagan and Viggiano (eds.), Men of Bronze, Bryn Mawr Classical Review 2013.10.70",
+   "url": "https://bmcr.brynmawr.edu/?p=37842"
+  },
+  "pup-menofbronze": {
+   "citation": "Princeton University Press, Kagan and Viggiano (eds.), Men of Bronze: Hoplite Warfare in Ancient Greece (2013)",
+   "url": "https://press.princeton.edu/isbn/9780691168456"
+  },
+  "brit-archaic": {
+   "citation": "Encyclopaedia Britannica, \"Ancient Greece: the later Archaic periods\"",
+   "url": "https://www.britannica.com/place/ancient-Greece/The-later-Archaic-periods"
+  },
+  "brit-solon": {
+   "citation": "Encyclopaedia Britannica, \"Solon\"",
+   "url": "https://www.britannica.com/biography/Solon"
+  },
+  "brit-cleisthenes": {
+   "citation": "Encyclopaedia Britannica, \"Cleisthenes of Athens\"",
+   "url": "https://www.britannica.com/biography/Cleisthenes-of-Athens"
+  },
+  "brit-hesiod": {
+   "citation": "Encyclopaedia Britannica, \"Hesiod\"",
+   "url": "https://www.britannica.com/biography/Hesiod"
+  },
+  "bmcr-olympic": {
+   "citation": "Review of Paul Christesen, Olympic Victor Lists and Ancient Greek History, Bryn Mawr Classical Review 2009.04.67",
+   "url": "https://bmcr.brynmawr.edu/?p=26976"
+  },
+  "sage-axial": {
+   "citation": "SAGE Encyclopedia of the Sociology of Religion, \"Axial Age\"",
+   "url": "https://sk.sagepub.com/ency/edvol/embed/the-sage-encyclopedia-of-sociology-of-religion/chpt/axial-age"
+  },
+  "bowersock2013": {
+   "citation": "G. W. Bowersock, \"A different turning point for mankind?\", New York Review of Books (2013)",
+   "url": "https://www.nybooks.com/articles/2013/05/09/different-turning-point-mankind/"
+  },
+  "bellah-joas": {
+   "citation": "Bellah and Joas (eds.), The Axial Age and Its Consequences (Harvard, 2012), publisher's page",
+   "url": "https://www.degruyterbrill.com/isbn/9780674067400"
+  },
+  "pw-armstrong": {
+   "citation": "Publishers Weekly, review of Karen Armstrong, The Great Transformation (2006)",
+   "url": "https://publishersweekly.com/9780375413179"
+  },
+  "regent-provan": {
+   "citation": "Regent College, Iain Provan, Convenient Myths (Baylor, 2013)",
+   "url": "https://world.regent-college.edu/books-media/convenient-myths--the-axial-age--dark-green-religion--and-the-world-that-never-was"
+  },
+  "eurekalert-baumard": {
+   "citation": "EurekAlert, on Baumard, Hyafil, Morris and Boyer, Current Biology (2015)",
+   "url": "https://www.eurekalert.org/news-releases/563049"
+  },
+  "mullins2018": {
+   "citation": "Mullins, Hoyer, Turchin et al., \"A systematic assessment of 'Axial Age' proposals using global comparative historical evidence\", American Sociological Review (2018)",
+   "url": "https://peterturchin.com/publications/a-systematic-assessment-of-axial-age-proposals-using-global-comparative-historical-evidence/"
+  },
+  "turchin2023": {
+   "citation": "Turchin et al., \"Explaining the rise of moralizing religions\", Religion, Brain & Behavior (2023)",
+   "url": "https://peterturchin.com/publications/explaining-the-rise-of-moralizing-religions-a-test-of-competing-hypotheses-using-the-seshat-databank/"
+  },
+  "livius-medes": {
+   "citation": "Livius, \"Medes\"",
+   "url": "https://www.livius.org/articles/people/medes/"
+  },
+  "henkelman2017": {
+   "citation": "Henkelman and Redard (eds.), Persian Religion in the Achaemenid Period (2017), via Reading Religion",
+   "url": "https://readingreligion.org/books/persian-religion-achaemenid-period-la-religion-perse-lepoque-ach%25C3%25A9m%25C3%25A9nide"
+  },
+  "ox-nabonidus": {
+   "citation": "Oxford, Cabinet, \"Nabonidus Chronicle\"",
+   "url": "https://www.cabinet.ox.ac.uk/nabonidus-chronicle-bm-0"
+  },
+  "brit-cyrus": {
+   "citation": "Encyclopaedia Britannica, \"Cyrus the Great\"",
+   "url": "https://www.britannica.com/biography/Cyrus-the-Great"
+  },
+  "brit-cambyses": {
+   "citation": "Encyclopaedia Britannica, \"Cambyses II\"",
+   "url": "https://www.britannica.com/print/article/90718"
+  },
+  "unesco-bisotun": {
+   "citation": "UNESCO World Heritage, \"Bisotun\"",
+   "url": "https://whc.unesco.org/en/list/1222/"
+  },
+  "iranica-zoroaster": {
+   "citation": "W. W. Malandra, \"Zoroaster ii: general survey\", Encyclopaedia Iranica (2009)",
+   "url": "https://www.iranicaonline.org/articles/zoroaster-ii-general-survey/"
+  },
+  "brit-zoroastrianism": {
+   "citation": "Encyclopaedia Britannica, \"Zoroastrianism\"",
+   "url": "https://www.britannica.com/topic/Zoroastrianism"
+  },
+  "iranica-achaemenid-rel": {
+   "citation": "Mary Boyce, \"Achaemenid religion\", Encyclopaedia Iranica",
+   "url": "https://www.iranicaonline.org/articles/achaemenid-religion"
+  },
+  "bmcr-2019-persian": {
+   "citation": "Bryn Mawr Classical Review 2019.02.17, on Persian religion in the Achaemenid period",
+   "url": "https://bmcr.brynmawr.edu/2019/2019.02.17"
+  },
+  "kirkus-cohn": {
+   "citation": "Kirkus Reviews, Norman Cohn, Cosmos, Chaos and the World to Come",
+   "url": "https://www.kirkusreviews.com/book-reviews/norman-cohn/cosmos-chaos-and-the-world-to-come/print"
+  },
+  "commentary-levenson": {
+   "citation": "David Berger, review of Jon Levenson, Resurrection and the Restoration of Israel, Commentary",
+   "url": "https://www.commentary.org/articles/david-berger/resurrection-and-the-restoration-of-israel-by-jon-d-levenson/"
+  },
+  "ehrman-zoroaster": {
+   "citation": "Bart Ehrman, \"Resurrection from the dead: were Jews influenced by Zoroastrianism?\"",
+   "url": "https://ehrmanblog.org/resurrection-from-the-dead-were-jews-influenced-by-zoroastrianism/"
+  },
+  "brit-veda": {
+   "citation": "Encyclopaedia Britannica, \"Veda\"",
+   "url": "https://britannica.com/topic/Veda"
+  },
+  "shatapatha": {
+   "citation": "Shatapatha Brahmana 1.4.1.10-17, trans. Julius Eggeling (1882)",
+   "url": "https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63127.html"
+  },
+  "lucknow-iron": {
+   "citation": "Anil Kumar, University of Lucknow, lecture notes on the early Iron Age in India",
+   "url": "https://www.lkouniv.ac.in/site/writereaddata/siteContent/202004150925271082anil_kumar_Early_Iron_Age.pdf"
+  },
+  "brit-india-500": {
+   "citation": "Encyclopaedia Britannica, \"India: the beginning of the historical period, c. 500-150 BCE\"",
+   "url": "https://britannica.com/place/India/The-beginning-of-the-historical-period-c-500-150-bce"
+  },
+  "brit-varna": {
+   "citation": "Encyclopaedia Britannica, \"Varna\"",
+   "url": "https://www.britannica.com/topic/varna-Hinduism"
+  },
+  "brit-upanishad": {
+   "citation": "Encyclopaedia Britannica, \"Upanishad\"",
+   "url": "https://www.britannica.com/topic/Upanishad"
+  },
+  "brit-ajivika": {
+   "citation": "Encyclopaedia Britannica, \"Ajivika\"",
+   "url": "https://www.britannica.com/topic/Ajivika"
+  },
+  "brit-mahavira": {
+   "citation": "Encyclopaedia Britannica, \"Mahavira\"",
+   "url": "https://britannica.com/biography/Mahavira-Jaina-teacher"
+  },
+  "brit-buddha": {
+   "citation": "Encyclopaedia Britannica, \"Buddha\"",
+   "url": "https://www.britannica.com/biography/Buddha-founder-of-Buddhism"
+  },
+  "harvey-buddha": {
+   "citation": "Peter Harvey, An Introduction to Buddhism (Cambridge), chapter \"The Buddha and his Indian context\"",
+   "url": "https://www.cambridge.org/highereducation/books/an-introduction-to-buddhism/9CA7B749D45ABAAB372422AEEE863A97/the-buddha-and-his-indian-context/E45C44CE2A1A97C89BF44F1FE6A28302"
+  },
+  "cousins1996": {
+   "citation": "L. S. Cousins, \"The dating of the historical Buddha: a review article\", Journal of the Royal Asiatic Society (1996)",
+   "url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/dating-of-the-historical-buddha-a-review-article/DB9652059E084F835EF52BA16A0DBC03"
+  },
+  "unesco-lumbini": {
+   "citation": "UNESCO World Heritage, \"Lumbini, the Birthplace of the Lord Buddha\"",
+   "url": "https://whc.unesco.org/en/list/666/"
+  },
+  "coningham2013": {
+   "citation": "Coningham, Acharya et al., \"The earliest Buddhist shrine\", Antiquity 87 (2013)",
+   "url": "https://www.cambridge.org/core/product/90338647E132E7B20420CCC9C847E237"
+  },
+  "natgeo-lumbini": {
+   "citation": "National Geographic, on the Lumbini excavations (2013)",
+   "url": "https://www.nationalgeographic.com/news/2013/11/131125-buddha-birth-nepal-archaeology-science-lumbini-religion-history/"
+  },
+  "brit-fourtruths": {
+   "citation": "Encyclopaedia Britannica, \"Buddhism: the Four Noble Truths\"",
+   "url": "https://www.britannica.com/topic/Buddhism/The-Four-Noble-Truths"
+  },
+  "brit-zuozhuan": {
+   "citation": "Encyclopaedia Britannica, \"Zuozhuan\"",
+   "url": "https://www.britannica.com/topic/Zuozhuan"
+  },
+  "brit-chunqiu": {
+   "citation": "Encyclopaedia Britannica, \"Chunqiu\"",
+   "url": "https://www.britannica.com/topic/Chunqiu"
+  },
+  "iu-sa-dates": {
+   "citation": "Robert Eno, Indiana University, Spring and Autumn period dates",
+   "url": "https://chinatxt.sitehost.iu.edu/History/SA-Dates.html"
+  },
+  "brit-confucius": {
+   "citation": "Encyclopaedia Britannica, \"Confucius\"",
+   "url": "https://www.britannica.com/biography/Confucius"
+  },
+  "sep-confucius": {
+   "citation": "Stanford Encyclopedia of Philosophy, \"Confucius\"",
+   "url": "https://plato.stanford.edu/entries/confucius/"
+  },
+  "poli-li2024": {
+   "citation": "Poli and Li, on 'Zhongni said' and 'Kongzi said' manuscripts, Early China 47 (2024)",
+   "url": "https://www.cambridge.org/core/product/08F1860CBCFD361F58B2034439A71526"
+  },
+  "penn-names": {
+   "citation": "University of Pennsylvania, Bryan Van Norden on the rectification of names",
+   "url": "https://ealc.sas.upenn.edu/index.php/node/1049"
+  },
+  "sep-laozi": {
+   "citation": "Stanford Encyclopedia of Philosophy, \"Laozi\" (Alan Chan)",
+   "url": "https://plato.stanford.edu/entries/laozi/"
+  },
+  "brit-sunzi": {
+   "citation": "Encyclopaedia Britannica, \"Sunzi\"",
+   "url": "https://www.britannica.com/biography/Sunzi"
+  },
+  "chinadaily-yinqueshan": {
+   "citation": "China Daily, on the Yinqueshan bamboo slips (2015)",
+   "url": "https://shandong.chinadaily.com.cn/sdct/2015-09/01/c_520963.htm"
+  },
+  "bg-prophets": {
+   "citation": "Amos 2:6-7; 5:21-24; Isaiah 5:8; Micah 6:8; Hosea 6:6 (NRSVUE, Bible Gateway)",
+   "url": "https://www.biblegateway.com/passage/?search=Amos+5%3A21-24%3BAmos+2%3A6-7%3BIsaiah+5%3A8%3BMicah+6%3A8%3BHosea+6%3A6&version=NRSVUE"
+  },
+  "bg-amos1": {
+   "citation": "Amos 1:1; 2 Kings 23:4-7; Isaiah 45:1 (NRSVUE, Bible Gateway)",
+   "url": "https://www.biblegateway.com/passage/?search=2+Kings+23%3A4-7%3BIsaiah+45%3A1%3BAmos+1%3A1&version=NRSVUE"
+  },
+  "bg-isa45": {
+   "citation": "2 Kings 22:8; Isaiah 45:5-7; Hosea 6:6 (NRSVUE, Bible Gateway)",
+   "url": "https://www.biblegateway.com/passage/?search=2+Kings+22%3A8%3BIsaiah+45%3A5-7%3BHosea+6%3A6&version=NRSVUE"
+  },
+  "bas-ajrud": {
+   "citation": "Biblical Archaeology Society, on the Kuntillet 'Ajrud inscriptions",
+   "url": "https://library.biblicalarchaeology.org/?p=109169"
+  },
+  "mondriaan2013": {
+   "citation": "Marlene Mondriaan, on the Judeans of Elephantine, Journal for Semitics 22 (2013)",
+   "url": "https://repository.up.ac.za/handle/2263/40058"
+  },
+  "torah-passover": {
+   "citation": "Tamara Cohn Eskenazi, \"The Passover papyrus\", TheTorah.com (2020)",
+   "url": "https://www.thetorah.com/article/the-passover-papyrus-orders-a-religious-furlough-for-judean-soldiers"
+  },
+  "bas-elephantine": {
+   "citation": "Biblical Archaeology Society, \"Dear Jerusalem priests: petition to rebuild their temple\"",
+   "url": "https://library.biblicalarchaeology.org/sidebar/dear-jerusalem-priests-petition-to-rebuild-their-temple/"
+  },
+  "brit-isaiah": {
+   "citation": "Encyclopaedia Britannica, \"Book of Isaiah\"",
+   "url": "https://www.britannica.com/topic/Book-of-Isaiah"
+  },
+  "bimson-oswalt": {
+   "citation": "John Bimson, review of John Oswalt on Isaiah, Evangel (1987)",
+   "url": "https://gospelstudies.org.uk/biblicalstudies/pdf/evangel/05-4_019.pdf"
+  },
+  "brit-deuteronomy": {
+   "citation": "Encyclopaedia Britannica, \"Biblical literature: Deuteronomy\"",
+   "url": "https://www.britannica.com/topic/biblical-literature/Deuteronomy-Introductory-discourse"
+  },
+  "romer-dtr": {
+   "citation": "Thomas Römer, \"The current discussion on the so-called Deuteronomistic History\" (2014 lecture)",
+   "url": "https://icu.repo.nii.ac.jp/record/4035/files/04-R%C3%B6mer.pdf"
+  },
+  "jhs-smith-early": {
+   "citation": "Seth Sanders, review of Mark S. Smith, The Early History of God, Journal of Hebrew Scriptures",
+   "url": "https://jhsonline.org/index.php/jhs/article/download/5866/4919?inline=1"
+  },
+  "jhs-smith-origins": {
+   "citation": "Robert Gnuse, review of Mark S. Smith, The Origins of Biblical Monotheism, Journal of Hebrew Scriptures",
+   "url": "https://jhsonline.org/index.php/jhs/article/download/5954/5007?inline=1"
+  },
+  "karagiannis2024": {
+   "citation": "Karagiannis, on monotheism in the Hebrew Bible, Napoca Roots 12 (2024)",
+   "url": "https://napocaroots.reviste.ubbcluj.ro/index.php/roots/article/view/102"
+  },
+  "jhs-macdonald": {
+   "citation": "William Morrow, review of Nathan MacDonald, Deuteronomy and the Meaning of 'Monotheism', Journal of Hebrew Scriptures",
+   "url": "https://jhsonline.org/index.php/jhs/article/download/5726/4779?inline=1"
+  },
+  "bas-stern2025": {
+   "citation": "Philip D. Stern, \"When did monotheism emerge in ancient Israel?\", Bible History Daily (2025)",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/when-did-monotheism-emerge-in-ancient-israel/"
+  },
+  "jhs-pentateuch": {
+   "citation": "David Bosworth, review of Knoppers and Levinson (eds.), The Pentateuch as Torah, Journal of Hebrew Scriptures 9 (2009)",
+   "url": "https://jhsonline.org/index.php/jhs/article/download/7323/6024?inline=1"
+  },
+  "rr-adler": {
+   "citation": "Joseph Scales, review of Yonatan Adler, The Origins of Judaism, Reading Religion",
+   "url": "https://readingreligion.org/9780300254907/the-origins-of-judaism"
+  }
+ },
+ "claims": {
+  "c-neo-assyria": {
+   "text": "The Neo-Assyrian empire, centred in northern Iraq, lasted from about 912 to 609 BCE and became the largest empire the world had yet seen.",
+   "label": "approx",
+   "sources": [
+    "sinha2019",
+    "brit-assyria"
+   ],
+   "show": false
+  },
+  "c-assyria-capitals": {
+   "text": "Assyria's kings moved their capital from Ashur to Kalhu (Nimrud), then to Dur-Sharrukin, and under Sennacherib to Nineveh; Ashur stayed the religious centre.",
+   "label": "consensus",
+   "sources": [
+    "met-assyria"
+   ],
+   "show": false
+  },
+  "c-urartu": {
+   "text": "Urartu, Assyria's northern rival, ruled from Tushpa on Lake Van from the 9th century BCE until its cities were destroyed in the later 7th century.",
+   "label": "approx",
+   "sources": [
+    "met-urartu"
+   ],
+   "show": false
+  },
+  "c-gordion-redate": {
+   "text": "The great destruction at Gordion, capital of Phrygia, was long tied to a Cimmerian attack about 700 BCE; it is now dated about 800 BCE and attributed to an accidental fire.",
+   "label": "debated",
+   "sources": [
+    "penn-gordion",
+    "brit-gordium"
+   ],
+   "show": true,
+   "note": "Britannica still gives the older story. The redating, published by the Penn Museum in 2011, shows how a written story can mislead archaeological dating."
+  },
+  "c-lydia": {
+   "text": "Lydia, ruled from Sardis, is credited with inventing coinage, and was conquered by Cyrus of Persia in the 540s BCE.",
+   "label": "approx",
+   "sources": [
+    "brit-lydia"
+   ],
+   "show": false
+  },
+  "c-media": {
+   "text": "Media, in north-western Iran, with its capital at Ecbatana, helped Babylon destroy Assyria and was conquered by Cyrus in 550 BCE.",
+   "label": "approx",
+   "sources": [
+    "brit-media"
+   ],
+   "show": false
+  },
+  "c-saite": {
+   "text": "In Egypt, Psamtik I founded the 26th (Saite) dynasty in 664 BCE and freed Egypt from Assyria; it lasted until the Persian conquest of 525.",
+   "label": "consensus",
+   "sources": [
+    "brit-psamtik"
+   ],
+   "show": false
+  },
+  "c-nebuchadnezzar": {
+   "text": "Nebuchadnezzar II of Babylon (c. 605-562 BCE) defeated Egypt at Carchemish in 605 and dominated the Levant.",
+   "label": "approx",
+   "sources": [
+    "brit-nebuchadnezzar"
+   ],
+   "show": false
+  },
+  "c-teldan": {
+   "text": "The Tel Dan stele, found in 1993-94, is a 9th-century Aramaic inscription in which a king of Damascus, probably Hazael, boasts of killing a king of Israel and a king of the 'House of David'.",
+   "label": "consensus",
+   "sources": [
+    "jm-teldan"
+   ],
+   "show": false,
+   "note": "A minority reads 'House of David' as a place-name, or dates the stele later; most scholars read it as the name of Judah's royal dynasty."
+  },
+  "c-teldan-jehu": {
+   "text": "The Bible credits these two deaths to Jehu, who seized Israel's throne (2 Kings 9:24, 27).",
+   "label": "tradition",
+   "sources": [
+    "bg-2kgs9",
+    "jhs-athas"
+   ],
+   "show": true,
+   "note": "The two accounts conflict; both are written from a side."
+  },
+  "c-mesha": {
+   "text": "The Mesha stele, found in 1868 and dating to the later 9th century BCE, records how Mesha of Moab threw off Israelite rule: 'Omri, king of Israel, oppressed Moab for a long time'. It also names Yahweh, Israel's God.",
+   "label": "consensus",
+   "sources": [
+    "louvre-mesha",
+    "bar-mesha"
+   ],
+   "show": false
+  },
+  "c-mesha-david": {
+   "text": "Whether the Mesha stele also mentions the 'House of David' is debated.",
+   "label": "debated",
+   "sources": [
+    "eurekalert-mesha2019",
+    "bar-mesha2022"
+   ],
+   "show": true,
+   "note": "André Lemaire proposed the reading in 1994 and in 2022 argued new images confirm it; Finkelstein, Na'aman and Römer (2019) read a different name, Balak."
+  },
+  "c-kurkh": {
+   "text": "An Assyrian inscription records that 'Ahab the Israelite' sent 2,000 chariots and 10,000 soldiers to a coalition that fought Shalmaneser III at Qarqar in 853 BCE.",
+   "label": "approx",
+   "sources": [
+    "bm-kurkh",
+    "cojs-kurkh"
+   ],
+   "show": true,
+   "note": "That Ahab is named is certain; the numbers may be exaggerated or miscopied."
+  },
+  "c-blackobelisk": {
+   "text": "The Black Obelisk of Shalmaneser III shows Jehu of 'the House of Omri' bowing before the Assyrian king, about 841 BCE.",
+   "label": "consensus",
+   "sources": [
+    "bm-blackobelisk"
+   ],
+   "show": false
+  },
+  "c-samaria": {
+   "text": "Omri made Samaria Israel's capital about 880 BCE; the Bible says he bought the hill for two talents of silver (1 Kings 16:24).",
+   "label": "approx",
+   "sources": [
+    "franklin-samaria"
+   ],
+   "show": false
+  },
+  "c-qeiyafa": {
+   "text": "Khirbet Qeiyafa, a fortified town dated by radiocarbon to about 1000 BCE, is central to the debate over whether a Judahite kingdom existed in David's time.",
+   "label": "debated",
+   "sources": [
+    "garfinkel-qeiyafa",
+    "naaman2017",
+    "fantalkin2017"
+   ],
+   "show": true,
+   "note": "Yosef Garfinkel calls it a fortress of David's kingdom; Na'aman, Fantalkin and Finkelstein see no clear link to Jerusalem or Judah."
+  },
+  "c-united-monarchy": {
+   "text": "How large and powerful the kingdom of David and Solomon was is one of the most contested questions in biblical archaeology.",
+   "label": "debated",
+   "sources": [
+    "bas-jerusalem",
+    "bas-regev",
+    "fantalkin2017"
+   ],
+   "show": true,
+   "note": "'Maximalists' such as Garfinkel see a real 10th-century state; Finkelstein's 'low chronology' sees Judah becoming a true state only in the 8th century; others take a middle position."
+  },
+  "c-jerusalem-size": {
+   "text": "Jerusalem grew from perhaps 2,000 people in the 10th century BCE to about 8,000 by the late 8th century, when a new quarter on the western hill was walled in.",
+   "label": "approx",
+   "sources": [
+    "bas-jerusalem"
+   ],
+   "show": true,
+   "note": "Population estimates vary widely."
+  },
+  "c-regev2024": {
+   "text": "A 2024 radiocarbon study found substantial occupation in Jerusalem in the 12th-10th centuries BCE and dated its eastern wall to about 750 under Uzziah, earlier than once thought.",
+   "label": "debated",
+   "sources": [
+    "regev2024",
+    "bas-regev"
+   ],
+   "show": true,
+   "note": "The study is new; its implications for the age of David are still being discussed."
+  },
+  "c-arad": {
+   "text": "Studies of letters on pottery from the fort of Arad, about 600 BCE, identified at least six writers, and on a later analysis at least twelve, suggesting literacy reached down the ranks of the army.",
+   "label": "debated",
+   "sources": [
+    "eurekalert-arad",
+    "shaus2020"
+   ],
+   "show": true,
+   "note": "Some argue this makes the writing of biblical texts in this period more plausible; others note that literacy was still limited to a small group."
+  },
+  "c-ketef": {
+   "text": "Two tiny silver amulets from a tomb at Ketef Hinnom in Jerusalem, about 600 BCE, carry words of the priestly blessing of Numbers 6:24-26, the oldest known texts that match a passage of the Hebrew Bible.",
+   "label": "approx",
+   "sources": [
+    "cojs-ketef",
+    "barkay2004"
+   ],
+   "show": false
+  },
+  "c-tp3": {
+   "text": "Tiglath-pileser III (745-727 BCE), the 'Pul' of 2 Kings 15:19, began Assyria's greatest expansion.",
+   "label": "approx",
+   "sources": [
+    "brit-tp3",
+    "ebsco-tp3"
+   ],
+   "show": false
+  },
+  "c-tp3-reforms": {
+   "text": "He divided the empire into smaller provinces under governors answerable to the king, built a standing army, and made mass deportation a deliberate policy.",
+   "label": "approx",
+   "sources": [
+    "ebsco-tp3"
+   ],
+   "show": false
+  },
+  "c-oded": {
+   "text": "One estimate, from 157 recorded resettlements, is that Assyria moved about 4.4 million people over three centuries.",
+   "label": "approx",
+   "sources": [
+    "radner2018",
+    "ebsco-tp3"
+   ],
+   "show": true,
+   "note": "Bustenay Oded's extrapolation from Assyrian royal records, whose figures may be exaggerated."
+  },
+  "c-kings-road": {
+   "text": "Relay stations along a royal road let letters cross the empire quickly: about 700 km in four or five days.",
+   "label": "approx",
+   "sources": [
+    "radner-road"
+   ],
+   "show": false
+  },
+  "c-ashurbanipal-library": {
+   "text": "More than 30,000 tablets and fragments from Ashurbanipal's library and other collections at Nineveh are in the British Museum.",
+   "label": "approx",
+   "sources": [
+    "bm-library"
+   ],
+   "show": false
+  },
+  "c-nineveh-fall": {
+   "text": "In 612 BCE the Babylonians and Medes besieged and took Nineveh; the last Assyrian king made a stand at Harran, which fell in 610-609.",
+   "label": "consensus",
+   "sources": [
+    "bm-chronicle612",
+    "brit-assyria"
+   ],
+   "show": false
+  },
+  "c-assyria-drought": {
+   "text": "A 2019 study of a cave deposit in northern Iraq linked Assyria's rise to an unusually wet period and its fall partly to severe droughts in the 7th century.",
+   "label": "debated",
+   "sources": [
+    "sinha2019"
+   ],
+   "show": true,
+   "note": "The authors present drought as one factor alongside civil war and overextension."
+  },
+  "c-samaria-fall": {
+   "text": "Samaria fell to Assyria in 722 BCE after a three-year siege (2 Kings 17:5-6; 18:9-11); Sargon II later claimed to have deported 27,280 people.",
+   "label": "approx",
+   "sources": [
+    "bg-2kgs18",
+    "radner2018"
+   ],
+   "show": false
+  },
+  "c-samaria-who": {
+   "text": "Whether Shalmaneser V or Sargon II took Samaria is debated.",
+   "label": "debated",
+   "sources": [
+    "park2012"
+   ],
+   "show": true,
+   "note": "The Bible and the Babylonian Chronicle name Shalmaneser; Sargon's inscriptions claim it. Many historians think the city was taken twice, in 722 and 720."
+  },
+  "c-prism": {
+   "text": "Sennacherib's annals for 701 BCE claim he besieged 46 fortified towns of Judah, took 200,150 people, shut Hezekiah up in Jerusalem 'like a bird in a cage', and received 30 talents of gold and 800 of silver.",
+   "label": "consensus",
+   "sources": [
+    "bm-taylor",
+    "cojs-prisms",
+    "luc-sennacherib"
+   ],
+   "show": false,
+   "note": "The figure of 200,150 is almost certainly inflated."
+  },
+  "c-2kings-701": {
+   "text": "2 Kings 18-19 agrees that Hezekiah paid tribute (30 talents of gold, 300 of silver), and says that the angel of the Lord struck down 185,000 Assyrians and Sennacherib went home.",
+   "label": "tradition",
+   "sources": [
+    "bg-2kgs18"
+   ],
+   "show": true,
+   "note": "Neither account says Jerusalem was taken. Historians explain the Assyrian withdrawal in different ways."
+  },
+  "c-lachish-reliefs": {
+   "text": "Sennacherib decorated a room of his palace at Nineveh with reliefs of the siege of Lachish.",
+   "label": "consensus",
+   "sources": [
+    "bm-lachish"
+   ],
+   "show": false
+  },
+  "c-lachish-ramp": {
+   "text": "At Lachish, the Assyrian siege ramp survives, the only one known, built of some 3 million stones; the defenders built a counter-ramp inside the wall.",
+   "label": "approx",
+   "sources": [
+    "huji-ramp",
+    "bas-ramps"
+   ],
+   "show": false
+  },
+  "c-siloam": {
+   "text": "A tunnel 533 metres long carries water from the Gihon spring into Jerusalem; an inscription found in it in 1880 describes the moment the two teams of diggers met.",
+   "label": "consensus",
+   "sources": [
+    "jpost-siloam",
+    "bg-2kgs18"
+   ],
+   "show": false
+  },
+  "c-siloam-date": {
+   "text": "2 Kings 20:20 credits the tunnel to Hezekiah; radiocarbon dates of about 700 BCE fit that, but some archaeologists date it a century earlier.",
+   "label": "debated",
+   "sources": [
+    "frumkin2003",
+    "bas-tunnel"
+   ],
+   "show": true,
+   "note": "Frumkin and colleagues (2003) read their dates as supporting the biblical account; Ronny Reich and Eli Shukron argue from the stratigraphy for the late 9th or early 8th century."
+  },
+  "c-lmlk": {
+   "text": "Hundreds of jar handles stamped lmlk, 'belonging to the king', show Judah's royal administration of supplies.",
+   "label": "debated",
+   "sources": [
+    "lipschits2010"
+   ],
+   "show": true,
+   "note": "They were long tied to Hezekiah's preparations for 701; Lipschits, Sergi and Koch argue the system began earlier, under Assyrian rule, and continued after 701."
+  },
+  "c-hezekiah-bulla": {
+   "text": "A clay seal impression reading 'Belonging to Hezekiah [son of] Ahaz, king of Judah', announced in 2015, was found in 2009 excavations beside the Temple Mount.",
+   "label": "consensus",
+   "sources": [
+    "phys-hezekiah"
+   ],
+   "show": false
+  },
+  "c-assyrian-note": {
+   "text": "In 2025 a fragment of an Assyrian administrative document, probably about a late payment, was found near the Temple Mount: the first Assyrian inscription from Jerusalem.",
+   "label": "approx",
+   "sources": [
+    "toi-assyrian2025"
+   ],
+   "show": true,
+   "note": "It is small and still being studied."
+  },
+  "c-597": {
+   "text": "A Babylonian chronicle records that Nebuchadnezzar took Jerusalem on 2 Adar of his 7th year, 16 March 597 BCE, and appointed a new king.",
+   "label": "consensus",
+   "sources": [
+    "bm-chronicle597",
+    "jta-1956",
+    "brit-nebuchadnezzar"
+   ],
+   "show": false
+  },
+  "c-586": {
+   "text": "Jerusalem and its temple were destroyed in 587 or 586 BCE.",
+   "label": "approx",
+   "sources": [
+    "brit-nebuchadnezzar"
+   ],
+   "show": true,
+   "note": "No Babylonian chronicle survives for this year, and biblical reckonings can be counted either way."
+  },
+  "c-lachish-letters": {
+   "text": "Letters written on pottery, found in the gate of Lachish, date from the last years before the Babylonian conquest; one says 'we are watching for the signals of Lachish'.",
+   "label": "approx",
+   "sources": [
+    "brit-lachish"
+   ],
+   "show": false
+  },
+  "c-jehoiachin-rations": {
+   "text": "Babylonian ration lists from 592/591 BCE record oil for 'Ya'u-kinu, king of the land of Yahudu', the exiled king Jehoiachin, and his sons.",
+   "label": "consensus",
+   "sources": [
+    "cojs-jehoiachin"
+   ],
+   "show": false
+  },
+  "c-alyahudu": {
+   "text": "More than 150 Babylonian tablets from 'Judahtown' (Al-Yahudu) and nearby villages record Judean families farming in Babylonia, many of them long after 539 BCE.",
+   "label": "approx",
+   "sources": [
+    "tyndale-alyahudu",
+    "ajr-pearce-wunsch"
+   ],
+   "show": true,
+   "note": "The tablets came through the antiquities market, so their exact find-spot is unknown. They date from roughly 572 to 477 BCE."
+  },
+  "c-exile-numbers": {
+   "text": "The Bible gives different numbers for those deported: 10,000 in 597 (2 Kings 24:14), or 4,600 in all (Jeremiah 52:28-30).",
+   "label": "tradition",
+   "sources": [
+    "bg-exile"
+   ],
+   "show": false
+  },
+  "c-who-remained": {
+   "text": "How empty Judah was after 586 BCE is debated: one estimate is that its population fell from about 110,000 to 40,000.",
+   "label": "debated",
+   "sources": [
+    "cdf-lipschits",
+    "jhs-lipschits",
+    "sbl-faust"
+   ],
+   "show": true,
+   "note": "Oded Lipschits argues life continued in Benjamin, with Mizpah as capital; Avraham Faust argues the whole land was devastated for centuries."
+  },
+  "c-cyrus-cylinder": {
+   "text": "The Cyrus Cylinder, written after Cyrus took Babylon in 539 BCE, says Marduk chose him, and that he restored temples and let deported peoples return home.",
+   "label": "consensus",
+   "sources": [
+    "bm-cyrus"
+   ],
+   "show": false
+  },
+  "c-cyrus-ezra": {
+   "text": "Ezra 1 says Cyrus decreed that the Judeans could rebuild their temple; the Cylinder does not mention Judah or Jerusalem.",
+   "label": "debated",
+   "sources": [
+    "bas-cyrus",
+    "bg-ezra",
+    "bm-cyrus"
+   ],
+   "show": true,
+   "note": "Many scholars see the Cylinder as evidence of a general policy that fits Ezra; others doubt there was any such policy. The British Museum calls the idea of it as a 'charter of human rights' anachronistic."
+  },
+  "c-second-temple": {
+   "text": "Ezra 6:15 dates the completion of the rebuilt temple to Darius's 6th year, conventionally 515 BCE.",
+   "label": "tradition",
+   "sources": [
+    "bg-ezra",
+    "jhs-edelman"
+   ],
+   "show": true,
+   "note": "Diana Edelman argues for about 465 BCE; most scholars keep the traditional date."
+  },
+  "c-tyre": {
+   "text": "Tyre, Sidon, Byblos and Arwad were rival Phoenician city-states; the Greek name 'Phoenician' may come from the purple dye they made from murex shells.",
+   "label": "consensus",
+   "sources": [
+    "met-phoen7"
+   ],
+   "show": false
+  },
+  "c-phoen-posts": {
+   "text": "By the late 8th century BCE Phoenicians, like Greeks, had trading posts around the whole Mediterranean.",
+   "label": "consensus",
+   "sources": [
+    "met-phoen7"
+   ],
+   "show": false
+  },
+  "c-silver": {
+   "text": "Trade in luxury goods, and above all the silver of southern Spain, drove Tyre's expansion west.",
+   "label": "debated",
+   "sources": [
+    "bmcr-aubet"
+   ],
+   "show": true,
+   "note": "This is Maria Eugenia Aubet's influential view; others give more weight to tribute demanded by Assyria."
+  },
+  "c-gadir-trad": {
+   "text": "Tradition dates the founding of Gadir (Cádiz) from Tyre as early as about 1100 BCE.",
+   "label": "tradition",
+   "sources": [
+    "brit-cadiz"
+   ],
+   "show": true,
+   "note": "The date comes from Greek and Roman writers; archaeology points about three centuries later."
+  },
+  "c-huelva": {
+   "text": "Radiocarbon dates place a Phoenician trading quarter at Huelva in the second half of the 9th century BCE, with Gadir following at the very end of that century.",
+   "label": "approx",
+   "sources": [
+    "suarez2021"
+   ],
+   "show": true,
+   "note": "The 2021 study corrected earlier claims of a 10th-century date; some Spanish scholars still argue for earlier contact."
+  },
+  "c-huelva-mixed": {
+   "text": "Huelva was probably a mixed town, where eastern traders worked iron and silver beside local people.",
+   "label": "debated",
+   "sources": [
+    "suarez2021"
+   ],
+   "show": false
+  },
+  "c-carthage-trad": {
+   "text": "Carthage's traditional founding date, from Tyre, is 814 BCE.",
+   "label": "tradition",
+   "sources": [
+    "brit-carthage",
+    "met-phoen7"
+   ],
+   "show": true,
+   "note": "The date comes from later Greek and Roman historians."
+  },
+  "c-carthage-c14": {
+   "text": "The earliest radiocarbon-dated layers at Carthage fall in the late 9th to early 8th century BCE.",
+   "label": "approx",
+   "sources": [
+    "maraoui-schon",
+    "docter2008"
+   ],
+   "show": true,
+   "note": "This fits the traditional date roughly, but cannot confirm it."
+  },
+  "c-motya": {
+   "text": "At Motya in western Sicily the first Phoenician settlement dates to about 775-750 BCE.",
+   "label": "approx",
+   "sources": [
+    "nigro2013"
+   ],
+   "show": false
+  },
+  "c-kition": {
+   "text": "Kition on Cyprus was a dependency of Tyre, where a governor dedicated an offering to 'Baal of Lebanon'.",
+   "label": "consensus",
+   "sources": [
+    "brit-citium"
+   ],
+   "show": false
+  },
+  "c-tartessos": {
+   "text": "Tartessos, the culture of south-west Spain that Greek writers described as a rich kingdom, grew out of contact between Phoenicians and local people from the 8th century BCE.",
+   "label": "debated",
+   "sources": [
+    "natgeo-tartessos",
+    "aja-tartessos",
+    "brit-tartessus"
+   ],
+   "show": true,
+   "note": "Sebastián Celestino sees a network of chiefs rather than a kingdom; some scholars argue for older local roots, and others call sites like El Carambolo Phoenician. Britannica thinks Tartessos was probably the biblical Tarshish."
+  },
+  "c-turunuelo": {
+   "text": "At Casas del Turuñuelo in Extremadura, archaeologists found carved stone faces in 2023 and a slate with warriors and writing in 2024, from the 5th century BCE.",
+   "label": "consensus",
+   "sources": [
+    "ls-busts2023",
+    "ls-slate2024",
+    "archmag-turunuelo"
+   ],
+   "show": false
+  },
+  "c-turunuelo-faces": {
+   "text": "The faces challenge the idea that Tartessian art did not depict human beings.",
+   "label": "debated",
+   "sources": [
+    "ls-busts2023"
+   ],
+   "show": true,
+   "note": "Their excavators read two as goddesses and one as a warrior; the slate has not yet been fully published."
+  },
+  "c-canchoroano": {
+   "text": "Cancho Roano, a sanctuary-palace in Extremadura, was burned and sealed under clay at the end of the 5th century BCE after a mass animal sacrifice.",
+   "label": "approx",
+   "sources": [
+    "ct-canchoroano"
+   ],
+   "show": false
+  },
+  "c-tophet": {
+   "text": "At the Carthage tophet, thousands of urns hold the burned bones of infants and young animals.",
+   "label": "consensus",
+   "sources": [
+    "xella2013",
+    "schwartz2010"
+   ],
+   "show": false
+  },
+  "c-tophet-debate": {
+   "text": "Whether these children were sacrificed is debated.",
+   "label": "debated",
+   "sources": [
+    "ox-tophet",
+    "xella2013",
+    "schwartz2010",
+    "schwartz2012"
+   ],
+   "show": true,
+   "note": "Xella, Quinn and colleagues (2013) call the evidence for sacrifice 'overwhelming', pointing to inscriptions recording vows to the gods. Schwartz and colleagues argue that the ages of the children, many before birth, fit natural deaths better."
+  },
+  "c-punic-dna": {
+   "text": "A 2025 study of DNA from Punic sites found almost no ancestry from the Levant: Phoenician culture spread mainly by people adopting it, not by mass migration.",
+   "label": "approx",
+   "sources": [
+    "ringbauer2025"
+   ],
+   "show": true,
+   "note": "Most ancestry was Sicilian and Aegean-like, with a North African minority, even at Carthage."
+  },
+  "c-greek-alphabet": {
+   "text": "The Greeks borrowed the Phoenician alphabet and added letters for vowels, by the 8th century BCE at the latest.",
+   "label": "consensus",
+   "sources": [
+    "brit-greek-alphabet",
+    "waal2019"
+   ],
+   "show": false
+  },
+  "c-lefkandi": {
+   "text": "At Lefkandi on Euboea, a large building of about 950 BCE with rich burials, found in 1981, showed that the Greek 'Dark Age' was less poor and isolated than once thought.",
+   "label": "approx",
+   "sources": [
+    "ox-lefkandi",
+    "pakkanen2000"
+   ],
+   "show": true,
+   "note": "Whether the building was a ruler's house, a hero's shrine or a funeral building is debated."
+  },
+  "c-poleis": {
+   "text": "Over a thousand Greek communities are known that were, or may have been, poleis, self-governing city-states.",
+   "label": "approx",
+   "sources": [
+    "nielsen2004"
+   ],
+   "show": false
+  },
+  "c-pithekoussai": {
+   "text": "Pithekoussai on Ischia, founded by Euboeans about 770-750 BCE, is the oldest Greek settlement in the western Mediterranean.",
+   "label": "approx",
+   "sources": [
+    "pithecusae"
+   ],
+   "show": false
+  },
+  "c-colonies": {
+   "text": "Traditional dates place Greek colonies at Naxos in Sicily in 734 BCE, Syracuse about 733 and Massalia (Marseille) about 600; Miletus founded many around the Black Sea.",
+   "label": "approx",
+   "sources": [
+    "ebsco-colonies",
+    "brit-syracuse"
+   ],
+   "show": true,
+   "note": "Shortage of land is often given as the main motive; trade is the alternative. Archaeology sometimes dates foundations a little later than tradition, as at Berezan."
+  },
+  "c-berezan": {
+   "text": "At Berezan on the Black Sea, tradition gives 647 BCE, but the earliest houses and graves date to the last quarter of the 7th century.",
+   "label": "approx",
+   "sources": [
+    "bmcr-berezan"
+   ],
+   "show": false
+  },
+  "c-dipylon": {
+   "text": "The earliest Greek alphabetic inscriptions date from about 740-700 BCE, among them a line on a wine jug from Athens promising it to the most graceful dancer, and verses on 'Nestor's cup' from Pithekoussai.",
+   "label": "approx",
+   "sources": [
+    "gr-dipylon",
+    "brown-nestor",
+    "brit-greek-alphabet"
+   ],
+   "show": false
+  },
+  "c-alphabet-date": {
+   "text": "When the Greeks first adopted the alphabet is debated: most classicists say the 8th century or shortly before, while Willemijn Waal argues for about the 11th century.",
+   "label": "debated",
+   "sources": [
+    "waal2019",
+    "brit-greek-alphabet"
+   ],
+   "show": false
+  },
+  "c-hoplites": {
+   "text": "Greek citizen-soldiers, hoplites, fought in close formation with large shields; whether this changed politics suddenly or gradually is debated.",
+   "label": "debated",
+   "sources": [
+    "bmcr-hoplites",
+    "pup-menofbronze"
+   ],
+   "show": true,
+   "note": "Victor Davis Hanson and others see a 'hoplite revolution' that empowered farmers; Hans van Wees and Peter Krentz see a gradual development, with a mass phalanx only late in the 6th century."
+  },
+  "c-tyrants": {
+   "text": "Cypselus, who seized power at Corinth about 650 BCE, is the first securely dated Greek tyrant.",
+   "label": "approx",
+   "sources": [
+    "brit-archaic"
+   ],
+   "show": false
+  },
+  "c-solon": {
+   "text": "At Athens in the early 6th century BCE (traditionally 594), Solon cancelled debts, freed citizens enslaved for debt, and based political rights on wealth rather than birth.",
+   "label": "approx",
+   "sources": [
+    "brit-solon"
+   ],
+   "show": true,
+   "note": "594 is the traditional date, the year of his archonship; Britannica thinks his reforms probably came about 20 years later."
+  },
+  "c-cleisthenes": {
+   "text": "In 508/507 BCE Cleisthenes reorganised Athens into ten tribes made of local units (demes) and a Council of 500, the foundation of Athenian democracy.",
+   "label": "consensus",
+   "sources": [
+    "brit-cleisthenes"
+   ],
+   "show": false
+  },
+  "c-hesiod": {
+   "text": "Hesiod, about 700 BCE, wrote the Theogony, on the origins of the gods, and Works and Days, which praises honest labour and justice.",
+   "label": "approx",
+   "sources": [
+    "brit-hesiod"
+   ],
+   "show": false
+  },
+  "c-olympics": {
+   "text": "The traditional date of the first Olympic Games is 776 BCE.",
+   "label": "tradition",
+   "sources": [
+    "bmcr-olympic"
+   ],
+   "show": true,
+   "note": "The list was compiled about 400 BCE by Hippias of Elis; Paul Christesen argues its early dates are largely guesswork."
+  },
+  "c-jaspers": {
+   "text": "In 1949 the philosopher Karl Jaspers called the period of about 800-200 BCE the 'Axial Age', when thinkers in China, India, Persia, Israel and Greece laid the foundations of later thought.",
+   "label": "consensus",
+   "sources": [
+    "sage-axial",
+    "bowersock2013"
+   ],
+   "show": false
+  },
+  "c-axial-figures": {
+   "text": "The figures usually grouped together include Confucius, the Buddha, the Hebrew prophets, Zoroaster and the Greek philosophers.",
+   "label": "consensus",
+   "sources": [
+    "bowersock2013"
+   ],
+   "show": false
+  },
+  "c-axial-revival": {
+   "text": "The sociologist S. N. Eisenstadt revived the idea from the 1980s, and Robert Bellah and Hans Joas edited a major collection on it in 2012; Karen Armstrong popularised it.",
+   "label": "consensus",
+   "sources": [
+    "sage-axial",
+    "bellah-joas",
+    "pw-armstrong"
+   ],
+   "show": false
+  },
+  "c-axial-critics": {
+   "text": "Critics say the 'Axial Age' groups people who were not truly contemporary, leaves out other civilizations, and treats rough coincidence as meaningful.",
+   "label": "debated",
+   "sources": [
+    "bowersock2013",
+    "regent-provan"
+   ],
+   "show": true,
+   "note": "G. W. Bowersock notes Zoroaster is now dated well before 800 BCE; Iain Provan calls the idea a 'convenient myth'. Jan Assmann denies it was a single turning point but finds it useful for comparison."
+  },
+  "c-baumard": {
+   "text": "A 2015 study argued that rising prosperity best explains the appearance of ascetic, moralising teachings in China, India and the eastern Mediterranean about 500-300 BCE.",
+   "label": "debated",
+   "sources": [
+    "eurekalert-baumard"
+   ],
+   "show": true,
+   "note": "It is one hypothesis among several."
+  },
+  "c-seshat": {
+   "text": "A 2018 study using a large historical database found that supposedly 'axial' features appeared in many places, often centuries or millennia before 800 BCE, undermining the idea of a single age.",
+   "label": "debated",
+   "sources": [
+    "mullins2018",
+    "turchin2023"
+   ],
+   "show": true,
+   "note": "Its authors, including Peter Turchin, argue that warfare and resources, not new religions, drove the growth of large societies."
+  },
+  "c-medes": {
+   "text": "The Medes, centred on Ecbatana, helped Babylon destroy Nineveh in 612 BCE; whether they ruled a true empire is debated.",
+   "label": "debated",
+   "sources": [
+    "livius-medes",
+    "henkelman2017"
+   ],
+   "show": true,
+   "note": "Herodotus describes a Median empire; many historians now see a looser federation."
+  },
+  "c-cyrus-conquests": {
+   "text": "Cyrus II of Persia, king from 559 BCE until his death in 530, defeated the Median king about 550, conquered Lydia about 547/546 and took Babylon in 539.",
+   "label": "approx",
+   "sources": [
+    "ox-nabonidus",
+    "brit-cyrus",
+    "nce-cyrus"
+   ],
+   "show": false
+  },
+  "c-cambyses": {
+   "text": "His son Cambyses conquered Egypt in 525 BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-cambyses"
+   ],
+   "show": false
+  },
+  "c-bisotun": {
+   "text": "Darius I recorded his seizure of power and victories over rebels (522-521 BCE) in a vast relief, made about 521-520, and inscription at Bisotun, in Old Persian, Elamite and Babylonian.",
+   "label": "consensus",
+   "sources": [
+    "unesco-bisotun"
+   ],
+   "show": false
+  },
+  "c-zoroaster-date": {
+   "text": "When Zoroaster (Zarathustra) lived is uncertain; the closest thing to a consensus places him about 1000 BCE, give or take a century or more.",
+   "label": "debated",
+   "sources": [
+    "iranica-zoroaster"
+   ],
+   "show": true,
+   "note": "Proposals range from about 1750 BCE to the 6th century BCE; the traditional late date is generally thought unreliable, and some scholars doubt the Gathas can be dated at all."
+  },
+  "c-gathas": {
+   "text": "The Gathas, hymns in an archaic language attributed to Zoroaster, praise Ahura Mazda, the Wise Lord, and call people to choose between two opposed spirits, good and evil.",
+   "label": "consensus",
+   "sources": [
+    "iranica-zoroaster",
+    "brit-zoroastrianism"
+   ],
+   "show": false
+  },
+  "c-achaemenid-religion": {
+   "text": "Whether the Persian kings were Zoroastrians is debated: Darius worshipped Ahuramazda, but never names Zoroaster.",
+   "label": "debated",
+   "sources": [
+    "iranica-achaemenid-rel",
+    "henkelman2017",
+    "bmcr-2019-persian"
+   ],
+   "show": true,
+   "note": "Mary Boyce held that they were; others see a shared older Iranian religion, and recent work on the Persepolis tablets shows many cults besides."
+  },
+  "c-persian-influence": {
+   "text": "Some scholars argue that Persian religion shaped later Jewish ideas of angels and demons, the end of the world and the resurrection of the dead.",
+   "label": "debated",
+   "sources": [
+    "brit-zoroastrianism",
+    "kirkus-cohn",
+    "commentary-levenson",
+    "ehrman-zoroaster"
+   ],
+   "show": true,
+   "note": "Norman Cohn argued for strong influence, and Britannica calls some Zoroastrian influence on Judaism likely; Jon Levenson traces resurrection to Israel's own traditions, and Bart Ehrman, who once accepted Persian influence, now doubts it."
+  },
+  "c-influence-caution": {
+   "text": "Bodily resurrection appears clearly in the Hebrew Bible only in Daniel 12:2, written long after the Persian empire fell, and Zoroastrian texts were written down very late.",
+   "label": "consensus",
+   "sources": [
+    "ehrman-zoroaster",
+    "commentary-levenson"
+   ],
+   "show": false
+  },
+  "c-vedas-date": {
+   "text": "The Vedas, India's oldest sacred texts, are usually dated about 1500-1200 BCE and later, though no exact date is possible; they were handed down orally for centuries.",
+   "label": "approx",
+   "sources": [
+    "brit-veda"
+   ],
+   "show": false
+  },
+  "c-brahmanas": {
+   "text": "Prose texts on ritual, the Brahmanas, were composed perhaps about 900 BCE.",
+   "label": "approx",
+   "sources": [
+    "brit-veda"
+   ],
+   "show": false
+  },
+  "c-videgha": {
+   "text": "One Brahmana tells how the sacred fire of Agni was carried east across northern India to the river Sadanira, a story often read as a memory of Vedic culture spreading into the Ganges plain.",
+   "label": "tradition",
+   "sources": [
+    "shatapatha"
+   ],
+   "show": true,
+   "note": "The story is a myth; its reading as history is an interpretation."
+  },
+  "c-iron-india": {
+   "text": "When iron came into use in the Ganges valley is debated: older views said about the 7th-6th centuries BCE, while excavations in Uttar Pradesh have suggested the early 2nd millennium.",
+   "label": "debated",
+   "sources": [
+    "lucknow-iron"
+   ],
+   "show": true,
+   "note": "The early dates come from one programme of excavations and are contested."
+  },
+  "c-second-urban": {
+   "text": "Cities reappeared in the Ganges valley in the 1st millennium BCE, the 'second urbanisation' of India after the Indus, with coinage following.",
+   "label": "approx",
+   "sources": [
+    "brit-india-500",
+    "lucknow-iron"
+   ],
+   "show": false
+  },
+  "c-mahajanapadas": {
+   "text": "Buddhist texts name sixteen 'great states' (mahajanapadas) in northern India; Magadha and Kosala became the most powerful.",
+   "label": "consensus",
+   "sources": [
+    "brit-india-500"
+   ],
+   "show": false
+  },
+  "c-varna": {
+   "text": "A hymn of the Rigveda describes four social classes (varnas), priests, warriors, producers and servants, born from the body of a cosmic being; the model was more an ideal than a description of society, which was divided into many hereditary groups.",
+   "label": "approx",
+   "sources": [
+    "brit-varna"
+   ],
+   "show": false
+  },
+  "c-upanishads": {
+   "text": "The earliest Upanishads, from about the middle of the 1st millennium BCE, teach that brahman, the single reality behind the universe, is identical with atman, the inner self.",
+   "label": "approx",
+   "sources": [
+    "brit-upanishad"
+   ],
+   "show": true,
+   "note": "Some Indologists date the oldest Upanishads somewhat earlier, before the Buddha."
+  },
+  "c-shramanas": {
+   "text": "Wandering ascetics (shramanas) such as the Ajivikas, Jains and Buddhists rejected the authority of the Vedic priests.",
+   "label": "consensus",
+   "sources": [
+    "brit-ajivika",
+    "brit-mahavira"
+   ],
+   "show": false
+  },
+  "c-mahavira": {
+   "text": "Mahavira, who gave Jainism its classic form and taught five great vows including non-violence, was a contemporary of the Buddha; tradition dates him 599-527 BCE.",
+   "label": "debated",
+   "sources": [
+    "brit-mahavira"
+   ],
+   "show": true,
+   "note": "Many scholars think the traditional dates may be up to a century too early."
+  },
+  "c-buddha-dates": {
+   "text": "The Buddha's dates are uncertain: a 'long chronology' puts his death about 486 BCE, a shorter one about 400 or later.",
+   "label": "debated",
+   "sources": [
+    "brit-buddha",
+    "harvey-buddha",
+    "cousins1996"
+   ],
+   "show": true,
+   "note": "Both count back from the emperor Ashoka, using different intervals from different traditions. Since a conference volume of 1991-92, many scholars favour a death about 400 BCE."
+  },
+  "c-lumbini2013": {
+   "text": "In 2013 archaeologists reported timber structures under the shrine at Lumbini, the Buddha's traditional birthplace, dated to about 550 BCE.",
+   "label": "debated",
+   "sources": [
+    "coningham2013",
+    "natgeo-lumbini"
+   ],
+   "show": true,
+   "note": "Critics say a tree shrine there could predate the Buddha, since tree worship was common."
+  },
+  "c-four-truths": {
+   "text": "The Buddha's Four Noble Truths: life involves suffering (dukkha); suffering arises from craving; craving can be ended; and the way to end it is the Eightfold Path.",
+   "label": "consensus",
+   "sources": [
+    "brit-fourtruths"
+   ],
+   "show": false
+  },
+  "c-buddha-places": {
+   "text": "Tradition places the Buddha's birth at Lumbini, his enlightenment at Bodh Gaya, his first sermon at Sarnath and his death at Kushinagar.",
+   "label": "tradition",
+   "sources": [
+    "brit-buddha",
+    "unesco-lumbini"
+   ],
+   "show": true,
+   "note": "The places are traditional; Ashoka marked several of them in the 3rd century BCE."
+  },
+  "c-chunqiu-period": {
+   "text": "The Spring and Autumn period runs from 770 to about 476 BCE, followed by the Warring States period to 221.",
+   "label": "approx",
+   "sources": [
+    "brit-zuozhuan"
+   ],
+   "show": false
+  },
+  "c-hegemons": {
+   "text": "As the Zhou kings lost power, the strongest lords acted as 'hegemons' (ba), beginning with Duke Huan of Qi in 680 BCE.",
+   "label": "approx",
+   "sources": [
+    "iu-sa-dates"
+   ],
+   "show": false
+  },
+  "c-chunqiu": {
+   "text": "The period is named after the Spring and Autumn Annals, the chronicle of the state of Lu from 722 to 481, which tradition says Confucius edited; the Zuozhuan, a longer narrative history, was compiled later.",
+   "label": "tradition",
+   "sources": [
+    "brit-chunqiu",
+    "brit-zuozhuan"
+   ],
+   "show": true,
+   "note": "The link to Confucius is traditional; the Zuozhuan is now thought to be anonymous, of the early Warring States period."
+  },
+  "c-confucius": {
+   "text": "Confucius (Kongzi), by tradition 551-479 BCE, was a teacher and minor official in the state of Lu who sought to restore good government through moral example and ritual.",
+   "label": "tradition",
+   "sources": [
+    "brit-confucius",
+    "sep-confucius"
+   ],
+   "show": true,
+   "note": "The dates come from later commentaries; the outline of his life is broadly accepted."
+  },
+  "c-analects": {
+   "text": "The Analects, sayings of Confucius and his disciples, were compiled after his death over a long period; how early the text took shape is debated.",
+   "label": "debated",
+   "sources": [
+    "brit-confucius",
+    "sep-confucius",
+    "poli-li2024"
+   ],
+   "show": true,
+   "note": "Some scholars argue the book became important only in the Han dynasty; a 2024 study of two manuscripts of about 300 BCE shows collections of his sayings already circulating."
+  },
+  "c-ren-li": {
+   "text": "Central Confucian ideas include ren (humaneness, caring for others), li (ritual propriety), the junzi (the exemplary person) and the 'rectification of names', making titles match reality.",
+   "label": "consensus",
+   "sources": [
+    "sep-confucius",
+    "penn-names"
+   ],
+   "show": false
+  },
+  "c-laozi": {
+   "text": "Tradition, recorded by Sima Qian, makes Laozi an archivist of the Zhou court whom Confucius consulted, who wrote the Daodejing before vanishing to the west.",
+   "label": "tradition",
+   "sources": [
+    "sep-laozi"
+   ],
+   "show": true,
+   "note": "Most scholars doubt the story, and think the Daodejing grew over time."
+  },
+  "c-daodejing": {
+   "text": "Many scholars think the Daodejing grew from collections of sayings circulating in the 4th century BCE and reached roughly its final form in the 3rd: bamboo slips found at Guodian in a tomb of about 300 BCE contain about two-fifths of its text.",
+   "label": "debated",
+   "sources": [
+    "sep-laozi"
+   ],
+   "show": true,
+   "note": "The Guodian version differs in order and wording; a minority defends an earlier date."
+  },
+  "c-sunzi": {
+   "text": "The Art of War is attributed to Sunzi, said to have served the state of Wu; it was probably written in the early Warring States period.",
+   "label": "debated",
+   "sources": [
+    "brit-sunzi",
+    "chinadaily-yinqueshan"
+   ],
+   "show": true,
+   "note": "Bamboo copies found at Yinqueshan in 1972 confirm the text existed by the early Han dynasty."
+  },
+  "c-amos": {
+   "text": "Amos, a shepherd from Tekoa in Judah, prophesied in the northern kingdom in the 8th century BCE, in the reigns of Uzziah and Jeroboam II (Amos 1:1).",
+   "label": "tradition",
+   "sources": [
+    "bg-amos1"
+   ],
+   "show": true,
+   "note": "The date comes from the book's own heading."
+  },
+  "c-social-critique": {
+   "text": "The 8th-century prophets attacked injustice: Amos condemns those who 'sell the righteous for silver', and has God say 'I hate, I despise your festivals... let justice roll down like water'; Micah sums up what God requires: 'to do justice and to love kindness and to walk humbly with your God'.",
+   "label": "consensus",
+   "sources": [
+    "bg-prophets"
+   ],
+   "show": false
+  },
+  "c-isaiah-books": {
+   "text": "Most scholars think the book of Isaiah has at least two main authors: Isaiah of Jerusalem, active from about 742 to 701 BCE, and an anonymous prophet of the exile, 'Second Isaiah' (chapters 40-55).",
+   "label": "debated",
+   "sources": [
+    "brit-isaiah",
+    "bimson-oswalt"
+   ],
+   "show": true,
+   "note": "Some conservative scholars, such as John Oswalt, defend a single author."
+  },
+  "c-ajrud": {
+   "text": "Inscriptions from Kuntillet 'Ajrud, about 800 BCE, bless people 'by Yahweh of Samaria and by his asherah'; what 'his asherah' means is debated.",
+   "label": "debated",
+   "sources": [
+    "bas-ajrud"
+   ],
+   "show": true,
+   "note": "Whether 'his asherah' means a goddess, a sacred tree or a cult object is debated."
+  },
+  "c-josiah": {
+   "text": "2 Kings 22-23 says that in Josiah's reign (about 621 BCE) a 'book of the law' was found in the temple, and the king removed objects made for Baal, Asherah and 'the host of heaven'.",
+   "label": "tradition",
+   "sources": [
+    "bg-isa45",
+    "bg-amos1"
+   ],
+   "show": false
+  },
+  "c-deuteronomy": {
+   "text": "Since 1805 many scholars have identified Josiah's book with an early form of Deuteronomy.",
+   "label": "debated",
+   "sources": [
+    "brit-deuteronomy"
+   ],
+   "show": true,
+   "note": "Some date its core a century earlier and link it to the northern kingdom."
+  },
+  "c-dtr-history": {
+   "text": "Many scholars think the books from Deuteronomy to 2 Kings form a 'Deuteronomistic History', edited in stages around Josiah's time and during the exile.",
+   "label": "debated",
+   "sources": [
+    "romer-dtr"
+   ],
+   "show": true,
+   "note": "Martin Noth (1943) proposed one exilic author; Frank Cross a first edition under Josiah; Thomas Römer sees three stages, the first answering Assyrian loyalty oaths."
+  },
+  "c-isa45": {
+   "text": "Second Isaiah states plainly that there is only one God: 'I am the Lord, and there is no other; besides me there is no god' (Isaiah 45:5).",
+   "label": "consensus",
+   "sources": [
+    "bg-isa45"
+   ],
+   "show": false
+  },
+  "c-monotheism-late": {
+   "text": "Many critical scholars argue that Israel's religion became fully monotheistic only during or after the exile.",
+   "label": "debated",
+   "sources": [
+    "jhs-smith-early",
+    "jhs-smith-origins",
+    "karagiannis2024"
+   ],
+   "show": true,
+   "note": "Mark S. Smith sees monotheism emerging from earlier worship of several gods, including Baal and Asherah. Robert Gnuse sees a genuine intellectual breakthrough; others stress a 'Yahweh-alone' movement among the prophets."
+  },
+  "c-monotheism-early": {
+   "text": "Other scholars find the denial of other gods already in early biblical poems, and question whether 'monotheism', a modern word, fits the Bible at all.",
+   "label": "debated",
+   "sources": [
+    "bas-stern2025",
+    "jhs-macdonald"
+   ],
+   "show": true,
+   "note": "Philip Stern (2025) argues for early origins; Nathan MacDonald argues Deuteronomy demands exclusive loyalty to Yahweh rather than denying other gods exist."
+  },
+  "c-elephantine": {
+   "text": "At Elephantine in southern Egypt, a garrison of Judean soldiers kept a temple of YHW in the 5th century BCE; after it was destroyed in about 410 they asked the governor of Judah for help to rebuild it.",
+   "label": "consensus",
+   "sources": [
+    "bas-elephantine",
+    "mondriaan2013",
+    "torah-passover"
+   ],
+   "show": false
+  },
+  "c-elephantine-torah": {
+   "text": "The Elephantine papyri show no clear knowledge of the Torah as a written authority, though a letter of 419 BCE sets festival dates that match those of Passover.",
+   "label": "debated",
+   "sources": [
+    "jhs-pentateuch",
+    "torah-passover"
+   ],
+   "show": true,
+   "note": "This is used by some to argue the Torah was still taking shape; others note how little survives."
+  },
+  "c-torah-persian": {
+   "text": "Many scholars think the Torah reached its final form in the Persian period; whether Persian authorities encouraged this is debated.",
+   "label": "debated",
+   "sources": [
+    "jhs-pentateuch"
+   ],
+   "show": true,
+   "note": "Peter Frei proposed Persian 'imperial authorisation'; others point to scribes, temple libraries or local elites."
+  },
+  "c-adler": {
+   "text": "Yonatan Adler (2022) argues that widespread observance of the Torah's laws began only in the 2nd century BCE.",
+   "label": "debated",
+   "sources": [
+    "rr-adler"
+   ],
+   "show": true,
+   "note": "Reviewers doubt the evidence can settle the question."
+  }
+ },
+ "pages": [
+  {
+   "title": "Iron, empire and the Axial Age",
+   "sub": "c. 1200 to 500 BCE",
+   "lede": "After the Bronze Age collapse, the Near East rebuilt itself around a new kind of power: empire on a scale never seen before, first Assyrian, then Babylonian, then Persian. In the same centuries, small peoples on the edges of these empires, Israel among them, produced ideas that would outlast them all.",
+   "body": [
+    "From about 900 BCE Assyria built the largest empire yet seen, ruled from a series of capitals in northern Iraq. [[c-neo-assyria]] [[c-assyria-capitals]] Around it lay other kingdoms: Urartu in the mountains to the north, [[c-urartu]] Phrygia and Lydia in Anatolia, [[c-gordion-redate]] [[c-lydia]] Media in Iran, [[c-media]] and Egypt, which revived under its Saite kings. [[c-saite]] Assyria fell in 612-609 BCE to Babylon and the Medes; Babylon under Nebuchadnezzar inherited its western empire, [[c-nebuchadnezzar]] and in 539 fell to Cyrus of Persia (7.8).",
+    "Pages 7.1 to 7.4 follow the kingdoms of Israel and Judah through these empires, using inscriptions, archaeology and the Bible side by side. Pages 7.5 and 7.6 turn west, to Phoenicians and Greeks. Pages 7.7 to 7.11 look at the 'Axial Age': the prophets of Israel, Zoroaster, the Buddha and Confucius.",
+    {
+     "table": {
+      "head": [
+       "Power",
+       "Capital",
+       "Dates (BCE)"
+      ],
+      "rows": [
+       [
+        "Assyria",
+        "Kalhu, then Nineveh",
+        "c. 912-609"
+       ],
+       [
+        "Babylonia",
+        "Babylon",
+        "626-539"
+       ],
+       [
+        "Egypt (Saite dynasty)",
+        "Sais",
+        "664-525"
+       ],
+       [
+        "Urartu",
+        "Tushpa (Van)",
+        "9th-7th century"
+       ],
+       [
+        "Lydia",
+        "Sardis",
+        "7th century-c. 546"
+       ],
+       [
+        "Media",
+        "Ecbatana",
+        "7th century-550"
+       ],
+       [
+        "Persia",
+        "Pasargadae",
+        "from 550"
+       ]
+      ],
+      "note": "[[c-neo-assyria]] [[c-saite]] [[c-urartu]] [[c-lydia]] [[c-media]]"
+     }
+    },
+    {
+     "compare": "Compare the 'club of great powers' of the Late Bronze Age (6.0). Then several kingdoms balanced each other; now one empire at a time dominated the whole region."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 36.4,
+     "lat": 34.4,
+     "zoom": 15
+    },
+    "caption": "The Near East, c. 700 BCE",
+    "hint": "Click a capital",
+    "legend": [
+     [
+      "dot",
+      "imperial capital"
+     ],
+     [
+      "pt",
+      "other city"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         43.9,
+         36.8
+        ],
+        "label": "ASSYRIA",
+        "size": 12
+       },
+       {
+        "ll": [
+         43.0,
+         39.4
+        ],
+        "label": "URARTU",
+        "size": 10
+       },
+       {
+        "ll": [
+         31.0,
+         39.5
+        ],
+        "label": "PHRYGIA",
+        "size": 10
+       },
+       {
+        "ll": [
+         28.2,
+         38.9
+        ],
+        "label": "LYDIA",
+        "size": 10
+       },
+       {
+        "ll": [
+         48.0,
+         35.9
+        ],
+        "label": "MEDIA",
+        "size": 10
+       },
+       {
+        "ll": [
+         45.4,
+         31.4
+        ],
+        "label": "BABYLONIA",
+        "size": 10
+       },
+       {
+        "ll": [
+         30.6,
+         28.6
+        ],
+        "label": "EGYPT",
+        "size": 11
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         43.15,
+         36.36
+        ],
+        "label": "Nineveh",
+        "date": "fell 612",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "7.2 · Assyria",
+         "title": "Nineveh",
+         "sub": "Sennacherib's capital",
+         "text": "[[c-assyria-capitals]] [[c-ashurbanipal-library]] [[c-nineveh-fall]]",
+         "sources": [
+          "met-assyria",
+          "bm-library",
+          "bm-chronicle612"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.42,
+         32.54
+        ],
+        "label": "Babylon",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "7.4 · Babylon",
+         "title": "Babylon",
+         "sub": "Nebuchadnezzar II, c. 605 to 562 BCE",
+         "text": "[[c-nebuchadnezzar]] [[c-597]] [[c-586]]",
+         "sources": [
+          "brit-nebuchadnezzar",
+          "bm-chronicle597"
+         ]
+        }
+       },
+       {
+        "ll": [
+         43.34,
+         38.5
+        ],
+        "label": "Tushpa",
+        "dy": -8
+       },
+       {
+        "ll": [
+         31.98,
+         39.65
+        ],
+        "label": "Gordion",
+        "dy": 14,
+        "plate": {
+         "kicker": "7.0 · the Iron Age world",
+         "title": "Gordion",
+         "sub": "capital of Phrygia",
+         "text": "[[c-gordion-redate]]",
+         "sources": [
+          "penn-gordion",
+          "brit-gordium",
+          "brit-phrygia"
+         ]
+        }
+       },
+       {
+        "ll": [
+         28.04,
+         38.49
+        ],
+        "label": "Sardis",
+        "dy": 14
+       },
+       {
+        "ll": [
+         48.52,
+         34.8
+        ],
+        "label": "Ecbatana",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         30.77,
+         30.97
+        ],
+        "label": "Sais",
+        "acc": true,
+        "big": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         35.236,
+         31.773
+        ],
+        "label": "Jerusalem",
+        "dy": 14
+       },
+       {
+        "ll": [
+         35.19,
+         32.28
+        ],
+        "label": "Samaria",
+        "anchor": "end",
+        "dy": -8
+       },
+       {
+        "ll": [
+         36.31,
+         33.51
+        ],
+        "label": "Damascus"
+       },
+       {
+        "ll": [
+         35.2,
+         33.27
+        ],
+        "label": "Tyre",
+        "anchor": "end"
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "In 612 BCE, which allies captured Nineveh?",
+     "choices": [
+      "Egypt and the kingdom of Judah",
+      "The Babylonians and the Medes",
+      "The Urartians and the Phrygians",
+      "The Persians and the Lydians"
+     ],
+     "answer": 1,
+     "why": "The Babylonians and Medes besieged and took Nineveh in 612 BCE; the last Assyrian king made a stand at Harran, which fell in 610-609.",
+     "wrong": {
+      "0": "Nineveh fell to the Babylonians and Medes; Egypt and Judah were not among the attackers.",
+      "2": "Urartu was Assyria's northern rival, but Nineveh fell to Babylon and the Medes.",
+      "3": "Persia rose later: Cyrus conquered Media in 550 BCE and Lydia in the 540s."
+     }
+    },
+    {
+     "q": "What does the redating of Gordion's great destruction from about 700 to about 800 BCE mainly show?",
+     "choices": [
+      "That Cimmerian raiders burned Gordion about 800 BCE instead",
+      "That a date tied to a written story can be a century off",
+      "That Britannica's older account has now been withdrawn",
+      "That coinage was first invented at Gordion in Phrygia"
+     ],
+     "answer": 1,
+     "why": "The old date came from linking the burned level to a Cimmerian attack known from texts. The redating, published in 2011, attributes it to an accidental fire about 800 BCE.",
+     "wrong": {
+      "0": "The destruction is now attributed to an accidental fire, not an attack.",
+      "2": "Britannica still gives the older story.",
+      "3": "Coinage is credited to Lydia."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Israel and Judah",
+   "sub": "two kingdoms in the inscriptions",
+   "lede": "The Bible tells of a united kingdom under David and Solomon that split into Israel in the north and Judah in the south. Inscriptions from Israel's neighbours, and Assyria, name its kings from the 9th century onward. Before that, the evidence becomes thin and fiercely debated.",
+   "body": [
+    "Several inscriptions from the 9th century BCE name Israel's kings. An Assyrian stela lists 'Ahab the Israelite' with 2,000 chariots at the battle of Qarqar in 853; [[c-kurkh]] the Moabite king Mesha remembers that 'Omri, king of Israel, oppressed Moab for a long time'; [[c-mesha]] and the Black Obelisk shows Jehu bowing to the Assyrian king. [[c-blackobelisk]] Omri founded Samaria as his capital. [[c-samaria]]",
+    "The Tel Dan stele, found in 1993-94, gives the earliest generally accepted mention of the 'House of David', Judah's dynasty, in a king of Damascus's boast of victory. [[c-teldan]] The Bible tells the same events differently, crediting the deaths to Jehu. [[c-teldan-jehu]] Whether the Mesha stele also mentions David is disputed. [[c-mesha-david]]",
+    "David and Solomon themselves are not named in any inscription of their time, and how large their kingdom was is hotly debated. [[c-united-monarchy]] The fortified town of Khirbet Qeiyafa, about 1000 BCE, is a key piece of evidence for both sides. [[c-qeiyafa]] Jerusalem was small in the 10th century and grew greatly in the 8th; [[c-jerusalem-size]] new radiocarbon dates suggest more early occupation than once thought. [[c-regev2024]]",
+    "By about 600 BCE, writing was spreading: soldiers at the fort of Arad wrote to one another, [[c-arad]] and a tomb in Jerusalem held silver amulets with the priestly blessing, the oldest known texts that match a passage of the Hebrew Bible. [[c-ketef]]",
+    {
+     "table": {
+      "head": [
+       "Inscription",
+       "Date (BCE)",
+       "Names"
+      ],
+      "rows": [
+       [
+        "Kurkh stela (Assyrian)",
+        "853",
+        "Ahab of Israel"
+       ],
+       [
+        "Mesha stele (Moabite)",
+        "later 9th century",
+        "Omri; Yahweh"
+       ],
+       [
+        "Tel Dan stele (Aramaic)",
+        "9th century",
+        "'House of David'"
+       ],
+       [
+        "Black Obelisk (Assyrian)",
+        "c. 841",
+        "Jehu, 'House of Omri'"
+       ],
+       [
+        "Ketef Hinnom amulets (Hebrew)",
+        "c. 600",
+        "the priestly blessing (Numbers 6)"
+       ]
+      ],
+      "note": "[[c-kurkh]] [[c-mesha]] [[c-teldan]] [[c-blackobelisk]] [[c-ketef]]"
+     }
+    },
+    {
+     "compare": "Compare the Merneptah Stele (4.9), which names a people called Israel about 1208 BCE, and the highland villages of 6.11."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 35.5,
+     "lat": 32.45,
+     "zoom": 110
+    },
+    "caption": "Israel, Judah and their neighbours, 9th-7th centuries BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "capital"
+     ],
+     [
+      "pt",
+      "site with key evidence"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         35.35,
+         32.55
+        ],
+        "label": "ISRAEL",
+        "size": 12
+       },
+       {
+        "ll": [
+         35.0,
+         31.45
+        ],
+        "label": "JUDAH",
+        "size": 12
+       },
+       {
+        "ll": [
+         35.95,
+         31.35
+        ],
+        "label": "MOAB",
+        "size": 10
+       },
+       {
+        "ll": [
+         36.35,
+         33.2
+        ],
+        "label": "ARAM",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         35.19,
+         32.28
+        ],
+        "label": "Samaria",
+        "date": "capital from c. 880",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "7.1 · Israel",
+         "title": "Samaria",
+         "sub": "Omri's capital",
+         "text": "[[c-samaria]] [[c-kurkh]] [[c-blackobelisk]]",
+         "sources": [
+          "franklin-samaria",
+          "bm-kurkh",
+          "bm-blackobelisk"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.236,
+         31.773
+        ],
+        "label": "Jerusalem",
+        "date": "Ketef Hinnom amulets",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "7.1 · Judah",
+         "title": "Jerusalem",
+         "sub": "capital of Judah",
+         "text": "[[c-jerusalem-size]] [[c-regev2024]] [[c-ketef]]",
+         "sources": [
+          "bas-jerusalem",
+          "regev2024",
+          "cojs-ketef"
+         ]
+        }
+       },
+       {
+        "ll": [
+         36.31,
+         33.51
+        ],
+        "label": "Damascus",
+        "acc": true,
+        "big": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         35.65,
+         33.25
+        ],
+        "label": "Tel Dan",
+        "date": "'House of David'",
+        "anchor": "end",
+        "plate": {
+         "kicker": "7.1 · inscriptions",
+         "title": "The Tel Dan stele",
+         "sub": "9th century BCE",
+         "text": "[[c-teldan]] [[c-teldan-jehu]]",
+         "sources": [
+          "jm-teldan",
+          "jhs-athas"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.78,
+         31.5
+        ],
+        "label": "Dhiban",
+        "date": "Mesha stele",
+        "plate": {
+         "kicker": "7.1 · inscriptions",
+         "title": "The Mesha stele",
+         "sub": "later 9th century BCE",
+         "text": "[[c-mesha]] [[c-mesha-david]]",
+         "sources": [
+          "louvre-mesha",
+          "bar-mesha",
+          "eurekalert-mesha2019",
+          "bar-mesha2022"
+         ]
+        }
+       },
+       {
+        "ll": [
+         34.96,
+         31.7
+        ],
+        "label": "Khirbet Qeiyafa",
+        "date": "c. 1000",
+        "anchor": "end",
+        "plate": {
+         "kicker": "7.1 · the David debate",
+         "title": "Khirbet Qeiyafa",
+         "sub": "c. 1000 BCE",
+         "text": "[[c-qeiyafa]] [[c-united-monarchy]]",
+         "sources": [
+          "garfinkel-qeiyafa",
+          "naaman2017",
+          "fantalkin2017"
+         ]
+        }
+       },
+       {
+        "ll": [
+         34.849,
+         31.565
+        ],
+        "label": "Lachish",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         35.13,
+         31.28
+        ],
+        "label": "Arad",
+        "date": "letters c. 600",
+        "plate": {
+         "kicker": "7.1 · literacy",
+         "title": "Arad",
+         "sub": "a fort on the southern frontier",
+         "text": "[[c-arad]]",
+         "sources": [
+          "eurekalert-arad",
+          "shaus2020"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "The Tel Dan stele credits a king of Damascus with killing the kings of Israel and Judah; 2 Kings 9 credits Jehu. What is the most defensible conclusion?",
+     "choices": [
+      "The stele is a forgery, since it contradicts the biblical account",
+      "Both are partisan, but the stele attests a 'House of David'",
+      "Both are partisan, but the stele shows Jehu was an Aramean",
+      "The Bible is silent about the deaths of these two kings"
+     ],
+     "answer": 1,
+     "why": "Neither source is neutral. The stele is still independent 9th-century evidence that Judah's dynasty was known as the 'House of David'.",
+     "wrong": {
+      "0": "Disagreeing with another source does not make it a forgery; it is a 9th-century Aramaic inscription.",
+      "2": "Jehu seized Israel's throne, and the Black Obelisk shows him as 'Jehu of the House of Omri'.",
+      "3": "2 Kings 9 credits both deaths to Jehu."
+     }
+    },
+    {
+     "q": "What do the Arad studies of 2016 and 2020 mainly suggest?",
+     "choices": [
+      "That most people in Judah could read and write by 600 BCE",
+      "That literacy reached down the ranks of Judah's army",
+      "That the Arad letters are the oldest texts matching the Bible",
+      "That the Bible was written down at Arad about 600 BCE"
+     ],
+     "answer": 1,
+     "why": "At least six, and on a later analysis twelve, writers at one small fort imply literacy beyond a few scribes. Some argue this makes the writing of biblical texts in this period more plausible.",
+     "wrong": {
+      "0": "Others note that literacy was still limited to a small group.",
+      "2": "The oldest known texts that match a passage of the Hebrew Bible are the Ketef Hinnom amulets.",
+      "3": "Some argue literacy makes the writing of biblical texts then more plausible; it does not show where they were written."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Assyrian empire",
+   "sub": "the first great empire of the Iron Age",
+   "lede": "Assyrian kings boasted of their cruelty, and their palace walls showed it. But their empire was also an administrative achievement: provinces, governors, roads and couriers, and the deliberate movement of whole peoples.",
+   "body": [
+    "Tiglath-pileser III, who seized the throne in 745 BCE, transformed Assyria. [[c-tp3]] He broke the empire into smaller provinces under governors answerable to him, built a standing army, and made deportation a tool of government. [[c-tp3-reforms]] Conquered peoples were moved across the empire to break resistance and to settle land; one estimate puts the total at over four million people. [[c-oded]] A network of relay stations carried royal letters across the empire in days. [[c-kings-road]]",
+    "Assyria's kings built palaces at Kalhu and Nineveh lined with carved reliefs. [[c-assyria-capitals]] The last great king, Ashurbanipal, collected texts, and more than 30,000 tablets and fragments from Nineveh are now in the British Museum, including the Epic of Gilgamesh (3.10). [[c-ashurbanipal-library]]",
+    "Then, within a few years, the empire vanished. In 612 BCE the Babylonians and Medes took Nineveh, and by 609 Assyria was gone. [[c-nineveh-fall]] Historians have blamed civil war and overextension; a 2019 study adds drought. [[c-assyria-drought]]",
+    {
+     "table": {
+      "head": [
+       "King",
+       "Reign (BCE)",
+       "Known for"
+      ],
+      "rows": [
+       [
+        "Tiglath-pileser III",
+        "745-727",
+        "reforms; mass deportation"
+       ],
+       [
+        "Sargon II",
+        "721-705",
+        "new capital; Samaria (7.3)"
+       ],
+       [
+        "Sennacherib",
+        "704-681",
+        "Nineveh; campaign against Judah, 701"
+       ],
+       [
+        "Ashurbanipal",
+        "668-c. 631",
+        "library at Nineveh"
+       ]
+      ],
+      "note": "[[c-tp3]] [[c-assyria-capitals]] [[c-ashurbanipal-library]]"
+     }
+    },
+    {
+     "compare": "Compare Akkad (3.6), the first empire: Assyria's kings saw themselves as Sargon's heirs, and one of them took his name."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "bars",
+    "caption": "How many people were deported?",
+    "title": "Numbers given by the sources (log scale)",
+    "scale": "log",
+    "min": 1000,
+    "max": 10000000,
+    "ticks": [
+     1000,
+     10000,
+     100000,
+     1000000,
+     10000000
+    ],
+    "tickLabels": [
+     "1,000",
+     "10,000",
+     "100,000",
+     "1 million",
+     "10 million"
+    ],
+    "axis": "people (each step is ten times the last)",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "Assyrian empire, total",
+      "sub": "Oded's estimate",
+      "v": 4400000,
+      "lab": "c. 4.4 million",
+      "acc": true,
+      "plate": {
+       "kicker": "7.2 · Assyria",
+       "title": "Deportation",
+       "sub": "9th to 7th centuries BCE",
+       "text": "[[c-tp3-reforms]] [[c-oded]]",
+       "sources": [
+        "ebsco-tp3",
+        "radner2018"
+       ]
+      }
+     },
+     {
+      "t": "Judah, 701",
+      "sub": "Sennacherib's claim",
+      "v": 200150,
+      "lab": "200,150",
+      "acc": true
+     },
+     {
+      "t": "Samaria, 722/720",
+      "sub": "Sargon II's claim",
+      "v": 27280,
+      "lab": "27,280",
+      "acc": true
+     },
+     {
+      "t": "Jerusalem, 597",
+      "sub": "2 Kings 24:14",
+      "v": 10000,
+      "lab": "10,000",
+      "open": true
+     },
+     {
+      "t": "All Babylonian deportations",
+      "sub": "Jeremiah 52:28-30",
+      "v": 4600,
+      "lab": "4,600",
+      "open": true
+     }
+    ],
+    "notes": [
+     "Solid: Assyrian figures. Hollow: biblical figures. Royal claims were often inflated."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why did Tiglath-pileser III make provinces smaller and put them under governors answerable to the king?",
+     "choices": [
+      "To return power to the hereditary noble families",
+      "To tie provincial power more closely to the crown",
+      "To end the mass deportation of conquered peoples",
+      "To let conquered peoples go on governing themselves"
+     ],
+     "answer": 1,
+     "why": "Smaller provinces under governors who answered to him, with a standing army, kept power in the king's hands.",
+     "wrong": {
+      "0": "The reform did the opposite, making governors answer to the king.",
+      "2": "He made mass deportation a deliberate policy.",
+      "3": "Conquered peoples were moved across the empire to break resistance, not left to rule themselves."
+     }
+    },
+    {
+     "q": "What does the 2019 climate study add to the history of Assyria's fall?",
+     "choices": [
+      "Proof that drought by itself brought the Assyrian empire down",
+      "A climate factor beside civil war and overextension",
+      "A new date, 539 BCE, for the fall of Nineveh",
+      "Tree-ring evidence taken from beams at Nineveh"
+     ],
+     "answer": 1,
+     "why": "A cave deposit links Assyria's rise to a wet period and its fall partly to severe droughts in the 7th century.",
+     "wrong": {
+      "0": "The authors present drought as one factor alongside civil war and overextension.",
+      "2": "Nineveh fell in 612 BCE.",
+      "3": "The record comes from a cave deposit in northern Iraq."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Assyria and the Bible",
+   "sub": "Samaria 722, Jerusalem 701",
+   "lede": "For the kingdoms of Israel and Judah, Assyria was catastrophe. Israel disappeared in 722 BCE. Judah survived Sennacherib's invasion of 701, and for once we have the invader's own account to set beside the Bible's.",
+   "body": [
+    "Samaria fell after a three-year siege in 722 BCE, and many Israelites were deported to Assyria (2 Kings 17); Sargon II claimed 27,280. [[c-samaria-fall]] Which Assyrian king took the city is debated. [[c-samaria-who]] The kingdom of Israel was never restored; its exiles are the 'lost tribes' of later legend.",
+    "In 701 Sennacherib invaded Judah. His annals boast of 46 towns besieged and Hezekiah shut up in Jerusalem 'like a bird in a cage'. [[c-prism]] 2 Kings agrees that Hezekiah paid tribute, but tells of an angel who struck down 185,000 Assyrians. [[c-2kings-701]] Neither source says Jerusalem fell. Sennacherib chose to celebrate Lachish instead, in reliefs for his palace, [[c-lachish-reliefs]] and the Assyrian siege ramp still stands there. [[c-lachish-ramp]]",
+    "In Jerusalem, a tunnel cut through rock brought the Gihon spring inside the walls, [[c-siloam]] traditionally credited to Hezekiah, though its date is debated. [[c-siloam-date]] Jars stamped 'belonging to the king' show a royal supply system at work. [[c-lmlk]] An impression of Hezekiah's own seal was announced in 2015, [[c-hezekiah-bulla]] and in 2025 the first Assyrian document from Jerusalem. [[c-assyrian-note]]",
+    {
+     "table": {
+      "head": [
+       "",
+       "Sennacherib's annals",
+       "2 Kings 18-19"
+      ],
+      "rows": [
+       [
+        "towns of Judah",
+        "46 besieged and taken",
+        "'all the fortified cities' captured"
+       ],
+       [
+        "Hezekiah's tribute",
+        "30 talents of gold, 800 of silver",
+        "30 talents of gold, 300 of silver"
+       ],
+       [
+        "Jerusalem",
+        "Hezekiah shut in 'like a bird in a cage'",
+        "saved; 185,000 Assyrians struck down"
+       ],
+       [
+        "Outcome",
+        "Assyrian victory",
+        "Sennacherib returns to Nineveh"
+       ]
+      ],
+      "note": "[[c-prism]] [[c-2kings-701]]"
+     }
+    },
+    {
+     "compare": "Compare Ramesses II's account of Kadesh (4.9): royal inscriptions record victories, and leave out what did not go to plan."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ledger",
+    "signs": false,
+    "caption": "Two accounts of 701 BCE",
+    "title": "What each side says",
+    "left": {
+     "h": "Sennacherib's annals",
+     "items": [
+      {
+       "t": "46 walled towns besieged",
+       "s": "and countless villages"
+      },
+      {
+       "t": "200,150 people taken",
+       "s": "probably inflated"
+      },
+      {
+       "t": "Hezekiah 'like a bird in a cage'",
+       "s": "shut up in Jerusalem"
+      },
+      {
+       "t": "Tribute",
+       "s": "30 talents of gold, 800 of silver"
+      },
+      {
+       "t": "Jerusalem",
+       "s": "not said to be taken"
+      }
+     ]
+    },
+    "right": {
+     "h": "2 Kings 18-19",
+     "items": [
+      {
+       "t": "'All the fortified cities'",
+       "s": "of Judah captured (18:13)"
+      },
+      {
+       "t": "Hezekiah submits",
+       "s": "'I have done wrong' (18:14)"
+      },
+      {
+       "t": "Isaiah encourages the king",
+       "s": "Jerusalem will be saved (19:32-34)"
+      },
+      {
+       "t": "Tribute",
+       "s": "30 talents of gold, 300 of silver"
+      },
+      {
+       "t": "185,000 Assyrians struck down",
+       "s": "Sennacherib goes home (19:35-36)"
+      }
+     ]
+    }
+   },
+   "practice": [
+    {
+     "q": "On which point do Sennacherib's annals and 2 Kings 18-19 agree?",
+     "choices": [
+      "Jerusalem was taken, and Hezekiah was deported to Nineveh",
+      "Hezekiah paid tribute, and Jerusalem was not taken",
+      "An angel struck down 185,000 of the Assyrian army",
+      "Hezekiah paid 800 talents of silver to Sennacherib"
+     ],
+     "answer": 1,
+     "why": "Both record tribute, including 30 talents of gold, and neither says Jerusalem fell.",
+     "wrong": {
+      "0": "Neither text says Jerusalem was captured.",
+      "2": "Only 2 Kings reports the 185,000.",
+      "3": "The annals say 800 talents of silver; 2 Kings says 300."
+     }
+    },
+    {
+     "q": "Why is the date of Hezekiah's tunnel still debated after radiocarbon dating in 2003?",
+     "choices": [
+      "The Siloam inscription names a king other than Hezekiah",
+      "Radiocarbon fits Hezekiah, but the layers point to earlier",
+      "Radiocarbon points earlier, but the layers fit Hezekiah",
+      "The tunnel was later recut by the Romans, which mixed up the dates"
+     ],
+     "answer": 1,
+     "why": "Frumkin and colleagues read their dates of about 700 BCE as supporting 2 Kings 20:20; Reich and Shukron argue from the stratigraphy for the late 9th or early 8th century.",
+     "wrong": {
+      "0": "The inscription describes the moment the two teams of diggers met; the dispute is between radiocarbon and stratigraphy.",
+      "2": "It is the other way round: the radiocarbon dates fit Hezekiah, and the stratigraphic argument points about a century earlier.",
+      "3": "No recutting is in question; the dispute is between radiocarbon dates of about 700 BCE and the stratigraphy."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Exile and return",
+   "sub": "Babylon, 597-515 BCE",
+   "lede": "In 587 or 586 BCE Babylon destroyed Jerusalem and its temple and carried its leaders into exile. Out of that disaster, many scholars think, came much of the Hebrew Bible as we have it, and a religion that could survive without a land.",
+   "body": [
+    "Nebuchadnezzar first took Jerusalem in March 597 BCE, a date fixed by a Babylonian chronicle, and carried King Jehoiachin to Babylon. [[c-597]] Babylonian ration lists name 'Ya'u-kinu, king of the land of Yahudu'. [[c-jehoiachin-rations]] After a revolt, Jerusalem and its temple were destroyed in 587 or 586. [[c-586]] Letters from Lachish catch the last months before the end. [[c-lachish-letters]]",
+    "The Bible's own figures for the deportations differ. [[c-exile-numbers]] How many stayed, and how empty the land became, is debated. [[c-who-remained]] In Babylonia, tablets from a village called 'Judahtown' show exiled families farming, marrying and paying taxes for generations. [[c-alyahudu]]",
+    "In 539 Cyrus of Persia took Babylon. His cylinder says he restored temples and returned deported peoples to their homes, [[c-cyrus-cylinder]] and Ezra 1 says he let the Judeans rebuild their temple; how far the two fit together is debated. [[c-cyrus-ezra]] The Second Temple was completed, by the traditional date, in 515 BCE. [[c-second-temple]] Many exiles stayed in Babylonia, where a Jewish community lasted until modern times.",
+    {
+     "table": {
+      "head": [
+       "Date (BCE)",
+       "Event"
+      ],
+      "rows": [
+       [
+        "597",
+        "Jerusalem taken; Jehoiachin exiled"
+       ],
+       [
+        "587/586",
+        "Jerusalem and the temple destroyed"
+       ],
+       [
+        "582",
+        "a further deportation (Jeremiah 52:30)"
+       ],
+       [
+        "539",
+        "Cyrus takes Babylon"
+       ],
+       [
+        "c. 515",
+        "Second Temple completed (traditional)"
+       ]
+      ],
+      "note": "[[c-597]] [[c-586]] [[c-cyrus-cylinder]] [[c-second-temple]]"
+     }
+    },
+    {
+     "compare": "Psalm 137, 'By the rivers of Babylon', and Second Isaiah (7.11) both speak from the exile. Isaiah 45:1 calls Cyrus the Lord's 'anointed'."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 40.0,
+     "lat": 32.8,
+     "zoom": 28
+    },
+    "caption": "Exile and return, 597-c. 515 BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc",
+      "to exile, 597 and 586"
+     ],
+     [
+      "acc dash",
+      "return, after 539"
+     ],
+     [
+      "dot",
+      "capital"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          35.4,
+          31.9
+         ],
+         [
+          36.6,
+          33.8
+         ],
+         [
+          37.8,
+          35.8
+         ],
+         [
+          40.5,
+          36.2
+         ],
+         [
+          43.0,
+          33.9
+         ],
+         [
+          44.3,
+          32.7
+         ]
+        ],
+        "label": "to exile",
+        "lab": [
+         40.5,
+         36.2
+        ],
+        "ldy": -10
+       }
+      ]
+     },
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          44.2,
+          32.7
+         ],
+         [
+          42.0,
+          34.4
+         ],
+         [
+          39.5,
+          35.4
+         ],
+         [
+          37.2,
+          35.0
+         ],
+         [
+          36.3,
+          33.6
+         ],
+         [
+          35.4,
+          31.95
+         ]
+        ],
+        "label": "return, after 539",
+        "lab": [
+         39.5,
+         35.4
+        ],
+        "ldy": 16,
+        "acc": true,
+        "head": true
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         39.6,
+         30.6
+        ],
+        "label": "ARABIAN DESERT",
+        "size": 9
+       },
+       {
+        "ll": [
+         44.8,
+         31.2
+        ],
+        "label": "BABYLONIA",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         35.236,
+         31.773
+        ],
+        "label": "Jerusalem",
+        "date": "destroyed 587/586",
+        "acc": true,
+        "big": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "7.4 · exile",
+         "title": "The fall of Jerusalem",
+         "sub": "597 and 587/586 BCE",
+         "text": "[[c-597]] [[c-586]] [[c-lachish-letters]] [[c-who-remained]]",
+         "sources": [
+          "bm-chronicle597",
+          "brit-nebuchadnezzar",
+          "brit-lachish",
+          "cdf-lipschits"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.42,
+         32.54
+        ],
+        "label": "Babylon",
+        "date": "taken by Cyrus, 539",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": -10,
+        "plate": {
+         "kicker": "7.4 · exile",
+         "title": "Judeans in Babylon",
+         "sub": "from 597 BCE",
+         "text": "[[c-jehoiachin-rations]] [[c-cyrus-cylinder]] [[c-cyrus-ezra]]",
+         "sources": [
+          "cojs-jehoiachin",
+          "bm-cyrus",
+          "bas-cyrus"
+         ]
+        }
+       },
+       {
+        "ll": [
+         45.23,
+         32.13
+        ],
+        "label": "Nippur region",
+        "date": "'Judahtown' tablets",
+        "anchor": "end",
+        "dy": 14,
+        "plate": {
+         "kicker": "7.4 · exile",
+         "title": "Al-Yahudu",
+         "sub": "'Judahtown' in Babylonia",
+         "text": "[[c-alyahudu]]",
+         "sources": [
+          "tyndale-alyahudu"
+         ]
+        }
+       },
+       {
+        "ll": [
+         38.01,
+         36.83
+        ],
+        "label": "Carchemish",
+        "date": "battle, 605",
+        "dy": -8,
+        "plate": {
+         "kicker": "7.4 · Babylon",
+         "title": "Carchemish",
+         "sub": "605 BCE",
+         "text": "[[c-nebuchadnezzar]]",
+         "sources": [
+          "brit-nebuchadnezzar"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What do the Al-Yahudu tablets most directly show?",
+     "choices": [
+      "That the Judean exiles went home together in 539 BCE",
+      "That Judean families farmed in Babylonia for generations",
+      "That Cyrus named the Judeans on his cylinder of 539",
+      "That they were found in controlled excavations at Jerusalem"
+     ],
+     "answer": 1,
+     "why": "More than 150 tablets from 'Judahtown' and nearby villages, dated about 572-477 BCE, record Judean families farming, many of them long after 539.",
+     "wrong": {
+      "0": "Many tablets date long after 539, so many Judeans stayed.",
+      "2": "The Cyrus Cylinder does not mention Judah or Jerusalem.",
+      "3": "They came through the antiquities market, so their find-spot is unknown."
+     }
+    },
+    {
+     "q": "What do Oded Lipschits and Avraham Faust mainly disagree about?",
+     "choices": [
+      "Whether Jerusalem and its temple were destroyed",
+      "How much of Judah's population survived after 586 BCE",
+      "Faust sees continuity at Mizpah; Lipschits, devastation",
+      "How many Judeans Nebuchadnezzar deported in 597 BCE"
+     ],
+     "answer": 1,
+     "why": "Lipschits argues life continued in Benjamin, with Mizpah as capital; Faust argues the whole land was devastated for centuries.",
+     "wrong": {
+      "0": "The destruction of Jerusalem and its temple in 587 or 586 BCE is not in dispute.",
+      "2": "It is the other way round: Lipschits argues for continuity, with Mizpah as capital, and Faust for devastation.",
+      "3": "That is a difference between biblical texts, 2 Kings and Jeremiah, not between these two archaeologists."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Phoenicians and Carthage",
+   "sub": "merchants of the western sea",
+   "lede": "From their narrow strip of coast, the merchants of Tyre sailed the length of the Mediterranean and out past Gibraltar, to the silver of southern Spain. Their colonies, above all Carthage, carried the culture of the Levant to Africa, Sicily and Iberia.",
+   "body": [
+    "Tyre, Sidon, Byblos and Arwad were rival trading cities, famous for purple dye. [[c-tyre]] From the 9th century BCE, Tyre led a push west, drawn above all by the silver of southern Spain. [[c-silver]] By the late 8th century, Phoenician trading posts ringed the Mediterranean, from Kition on Cyprus to Motya in Sicily. [[c-phoen-posts]] [[c-kition]] [[c-motya]]",
+    "In Spain, later tradition dated Gadir (Cádiz) to about 1100 BCE, [[c-gadir-trad]] but radiocarbon places the first Phoenician quarter at Huelva in the late 9th century, with Gadir just after. [[c-huelva]] The meeting of traders and local people produced the culture the Greeks called Tartessos, which may be the Bible's Tarshish. [[c-tartessos]] New finds keep changing the picture: in 2023 and 2024 excavators at Casas del Turuñuelo uncovered carved faces and a slate showing warriors. [[c-turunuelo]] [[c-turunuelo-faces]]",
+    "Carthage, traditionally founded in 814 BCE, [[c-carthage-trad]] has early radiocarbon dates that broadly fit, though its oldest pottery suggests about half a century later. [[c-carthage-c14]] It became the greatest Phoenician city in the west. Its tophet, a burial ground for the cremated remains of infants, [[c-tophet]] is the subject of one of archaeology's hardest debates: sacrifice or cemetery. [[c-tophet-debate]] DNA published in 2025 shows the people of Carthage and other Punic cities had almost no ancestry from the Levant: their culture spread by adoption, not migration. [[c-punic-dna]]",
+    {
+     "table": {
+      "head": [
+       "Place",
+       "Tradition",
+       "Archaeology"
+      ],
+      "rows": [
+       [
+        "Gadir (Cádiz)",
+        "c. 1100 BCE",
+        "end of the 9th century"
+       ],
+       [
+        "Huelva",
+        "-",
+        "second half of the 9th century"
+       ],
+       [
+        "Carthage",
+        "814 BCE",
+        "late 9th to early 8th century"
+       ],
+       [
+        "Motya (Sicily)",
+        "-",
+        "c. 775-750 BCE"
+       ]
+      ],
+      "note": "[[c-gadir-trad]] [[c-huelva]] [[c-carthage-trad]] [[c-carthage-c14]] [[c-motya]]"
+     }
+    },
+    {
+     "compare": "The Bible speaks of 'Topheth' in the valley of Hinnom outside Jerusalem, where people would 'make a son or a daughter pass through fire' (2 Kings 23:10); Jeremiah 7:31 condemns burning children there. Whether the phrase always meant sacrifice is also debated."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 14.5,
+     "lat": 36.6,
+     "zoom": 8
+    },
+    "caption": "Phoenician expansion, 9th-6th centuries BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc",
+      "sailing route (simplified)"
+     ],
+     [
+      "dot",
+      "Phoenician city or colony"
+     ],
+     [
+      "pt",
+      "Iberian site"
+     ],
+     [
+      "zone",
+      "Tartessos"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          35.2,
+          33.27
+         ],
+         [
+          33.6,
+          34.6
+         ],
+         [
+          28.0,
+          35.5
+         ],
+         [
+          22.0,
+          36.0
+         ],
+         [
+          15.5,
+          36.6
+         ],
+         [
+          11.0,
+          37.2
+         ],
+         [
+          5.0,
+          37.6
+         ],
+         [
+          -1.0,
+          36.8
+         ],
+         [
+          -5.6,
+          36.0
+         ],
+         [
+          -6.3,
+          36.5
+         ]
+        ],
+        "label": "to Spain",
+        "lab": [
+         5.0,
+         37.6
+        ],
+        "ldy": -10
+       }
+      ]
+     },
+     {
+      "type": "zone",
+      "items": [
+       {
+        "ll": [
+         -6.3,
+         37.6
+        ],
+        "r": 1.4,
+        "label": "TARTESSOS",
+        "lab": [
+         -6.3,
+         39.6
+        ]
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         35.2,
+         33.27
+        ],
+        "label": "Tyre",
+        "date": "mother city",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 14,
+        "plate": {
+         "kicker": "7.5 · Phoenicians",
+         "title": "Tyre",
+         "sub": "the leading Phoenician city",
+         "text": "[[c-tyre]] [[c-silver]] [[c-phoen-posts]]",
+         "sources": [
+          "met-phoen7",
+          "bmcr-aubet"
+         ]
+        }
+       },
+       {
+        "ll": [
+         33.63,
+         34.92
+        ],
+        "label": "Kition",
+        "acc": true,
+        "dy": -8
+       },
+       {
+        "ll": [
+         10.323,
+         36.853
+        ],
+        "label": "Carthage",
+        "date": "trad. 814 BCE",
+        "acc": true,
+        "big": true,
+        "dy": 14,
+        "plate": {
+         "kicker": "7.5 · Phoenicians",
+         "title": "Carthage",
+         "sub": "traditionally founded 814 BCE",
+         "text": "[[c-carthage-trad]] [[c-carthage-c14]] [[c-tophet]] [[c-tophet-debate]] [[c-punic-dna]]",
+         "sources": [
+          "brit-carthage",
+          "maraoui-schon",
+          "xella2013",
+          "schwartz2010",
+          "ringbauer2025"
+         ]
+        }
+       },
+       {
+        "ll": [
+         12.47,
+         37.87
+        ],
+        "label": "Motya",
+        "acc": true,
+        "dy": -8
+       },
+       {
+        "ll": [
+         9.02,
+         38.98
+        ],
+        "label": "Nora",
+        "acc": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         -6.29,
+         36.53
+        ],
+        "label": "Gadir (Cádiz)",
+        "acc": true,
+        "big": true,
+        "dy": 14,
+        "plate": {
+         "kicker": "7.5 · Phoenicians",
+         "title": "Gadir and Huelva",
+         "sub": "Phoenicians in Spain",
+         "text": "[[c-gadir-trad]] [[c-huelva]] [[c-huelva-mixed]]",
+         "sources": [
+          "brit-cadiz",
+          "suarez2021"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -6.95,
+         37.26
+        ],
+        "label": "Huelva",
+        "acc": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         -6.07,
+         38.86
+        ],
+        "label": "Casas del Turuñuelo",
+        "date": "5th century BCE",
+        "plate": {
+         "kicker": "7.5 · Tartessos",
+         "title": "Casas del Turuñuelo",
+         "sub": "Extremadura, 5th century BCE",
+         "text": "[[c-turunuelo]] [[c-turunuelo-faces]] [[c-canchoroano]]",
+         "sources": [
+          "ls-busts2023",
+          "ls-slate2024",
+          "archmag-turunuelo",
+          "ct-canchoroano"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Gadir was traditionally dated to about 1100 BCE, but archaeology points to about 800. What best explains the gap?",
+     "choices": [
+      "Earthquakes destroyed the earliest Phoenician layers at Cádiz",
+      "The early date comes from later writers, not from the ground",
+      "Gadir was first founded by Greeks, not by Tyre, about 1100",
+      "Archaeologists have yet to excavate any site at Cádiz"
+     ],
+     "answer": 1,
+     "why": "The 1100 BCE date comes from Greek and Roman writers. Radiocarbon places the Phoenician quarter at Huelva in the late 9th century, with Gadir just after.",
+     "wrong": {
+      "0": "The gap lies between a later written tradition and radiocarbon dates, not in lost layers.",
+      "2": "The tradition itself dates Gadir's founding from Tyre.",
+      "3": "Radiocarbon dates place Gadir at the very end of the 9th century."
+     }
+    },
+    {
+     "q": "Which evidence most directly challenges the 'cemetery' reading of the Carthage tophet?",
+     "choices": [
+      "Some urns hold remains of babies who died before birth",
+      "Inscribed stones record vows fulfilled to the gods",
+      "Infant deaths were very common in ancient cities like Carthage",
+      "DNA shows the children had almost no ancestry from the Levant"
+     ],
+     "answer": 1,
+     "why": "Xella, Quinn and colleagues point to inscriptions recording vows to the gods, which fit an offering better than a natural death.",
+     "wrong": {
+      "0": "Schwartz and colleagues use the ages of the children, many before birth, to argue for natural deaths.",
+      "2": "That supports the cemetery side, which reads the remains as natural deaths.",
+      "3": "The 2025 DNA study concerns ancestry, not how the children died."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Archaic Greece",
+   "sub": "the polis, colonies and the alphabet",
+   "lede": "After the palaces fell, Greece became a land of small, independent communities. Between about 800 and 500 BCE they invented the polis, sent colonies across the Mediterranean and the Black Sea, adopted the alphabet, and in Athens began to experiment with rule by citizens.",
+   "body": [
+    "The centuries after the collapse were long called a 'Dark Age', but finds at Lefkandi, including a great building of about 950 BCE, show wealth and contact abroad. [[c-lefkandi]] By the 8th century Greeks lived in hundreds of poleis, self-governing communities of citizens. [[c-poleis]] They borrowed the Phoenician alphabet and added vowels; [[c-greek-alphabet]] the earliest inscriptions date from about 740-700 BCE, [[c-dipylon]] though when the borrowing happened is debated. [[c-alphabet-date]]",
+    "Greeks founded colonies from Spain to the Black Sea: Pithekoussai in the bay of Naples, [[c-pithekoussai]] Syracuse and Naxos in Sicily, Massalia in France, and dozens of cities round the Black Sea. [[c-colonies]] [[c-berezan]]",
+    "At home, citizens fought as hoplites in close formation, which may or may not have shifted power toward ordinary farmers. [[c-hoplites]] Ambitious men seized power as 'tyrants'. [[c-tyrants]] At Athens, Solon cancelled debts and based rights on wealth rather than birth, [[c-solon]] and Cleisthenes created the institutions of democracy in 508/507 BCE. [[c-cleisthenes]] The poet Hesiod praised honest work and justice. [[c-hesiod]] The Olympic Games, by tradition, began in 776 BCE. [[c-olympics]]",
+    {
+     "table": {
+      "head": [
+       "Date (BCE)",
+       "Event"
+      ],
+      "rows": [
+       [
+        "c. 950",
+        "great building at Lefkandi"
+       ],
+       [
+        "776",
+        "first Olympic Games (traditional)"
+       ],
+       [
+        "c. 770-750",
+        "Pithekoussai founded"
+       ],
+       [
+        "c. 733",
+        "Syracuse founded (traditional)"
+       ],
+       [
+        "c. 594 (trad.)",
+        "Solon's reforms in Athens"
+       ],
+       [
+        "508/507",
+        "Cleisthenes' reforms"
+       ]
+      ],
+      "note": "[[c-lefkandi]] [[c-olympics]] [[c-pithekoussai]] [[c-colonies]] [[c-solon]] [[c-cleisthenes]]"
+     }
+    },
+    {
+     "compare": "Compare the Phoenician colonies (7.5), founded at the same time and often in the same places: Greeks and Phoenicians competed, and traded, across the whole Mediterranean."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 18.5,
+     "lat": 39.6,
+     "zoom": 12
+    },
+    "caption": "The Greek world, c. 750-500 BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "Greek city in the homeland"
+     ],
+     [
+      "pt",
+      "colony"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         23.718,
+         37.978
+        ],
+        "label": "Athens",
+        "date": "Solon, Cleisthenes",
+        "acc": true,
+        "big": true,
+        "dy": 14,
+        "plate": {
+         "kicker": "7.6 · Archaic Greece",
+         "title": "Athens",
+         "sub": "from aristocracy to democracy",
+         "text": "[[c-solon]] [[c-cleisthenes]] [[c-dipylon]]",
+         "sources": [
+          "brit-solon",
+          "brit-cleisthenes",
+          "gr-dipylon"
+         ]
+        }
+       },
+       {
+        "ll": [
+         22.88,
+         37.91
+        ],
+        "label": "Corinth",
+        "acc": true,
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         23.68,
+         38.41
+        ],
+        "label": "Lefkandi",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "7.6 · Archaic Greece",
+         "title": "Lefkandi",
+         "sub": "c. 1050 to 825 BCE",
+         "text": "[[c-lefkandi]]",
+         "sources": [
+          "ox-lefkandi",
+          "pakkanen2000"
+         ]
+        }
+       },
+       {
+        "ll": [
+         27.28,
+         37.53
+        ],
+        "label": "Miletus",
+        "acc": true
+       },
+       {
+        "ll": [
+         13.89,
+         40.75
+        ],
+        "label": "Pithekoussai",
+        "date": "c. 770-750",
+        "anchor": "end",
+        "plate": {
+         "kicker": "7.6 · colonies",
+         "title": "Pithekoussai",
+         "sub": "Ischia, c. 770 to 750 BCE",
+         "text": "[[c-pithekoussai]] [[c-dipylon]]",
+         "sources": [
+          "pithecusae",
+          "brown-nestor"
+         ]
+        }
+       },
+       {
+        "ll": [
+         15.29,
+         37.06
+        ],
+        "label": "Syracuse",
+        "date": "c. 733",
+        "dy": 14
+       },
+       {
+        "ll": [
+         5.37,
+         43.3
+        ],
+        "label": "Massalia",
+        "date": "c. 600"
+       },
+       {
+        "ll": [
+         28.98,
+         41.01
+        ],
+        "label": "Byzantium",
+        "dy": 14
+       },
+       {
+        "ll": [
+         31.41,
+         46.6
+        ],
+        "label": "Berezan",
+        "date": "late 7th century",
+        "plate": {
+         "kicker": "7.6 · colonies",
+         "title": "The Black Sea colonies",
+         "sub": "from the 7th century BCE",
+         "text": "[[c-colonies]] [[c-berezan]]",
+         "sources": [
+          "ebsco-colonies",
+          "bmcr-berezan"
+         ]
+        }
+       },
+       {
+        "ll": [
+         21.86,
+         32.82
+        ],
+        "label": "Cyrene",
+        "dy": 14
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why does Lefkandi matter for the Greek 'Dark Age'?",
+     "choices": [
+      "It has the earliest known Greek alphabetic inscription",
+      "Its great building and rich burials show wealth and contacts",
+      "It was the first Greek colony in the western Mediterranean",
+      "It confirms that the Dark Age was just as poor as once believed"
+     ],
+     "answer": 1,
+     "why": "A large building of about 950 BCE with rich burials showed the period was less poor and isolated than once thought. Whether the building was a ruler's house, a hero's shrine or a funeral building is debated.",
+     "wrong": {
+      "0": "The earliest Greek inscriptions come from Athens and Pithekoussai, about 740-700 BCE.",
+      "2": "That was Pithekoussai on Ischia; Lefkandi is on Euboea.",
+      "3": "It showed the opposite: the period was less poor and isolated than once thought."
+     }
+    },
+    {
+     "q": "What do 'revisionist' historians argue about hoplite warfare?",
+     "choices": [
+      "Hoplites were a later legend with no basis in fact",
+      "The phalanx grew gradually, and a mass one came late",
+      "Hanson sees gradual change; van Wees, a sudden revolution",
+      "Solon invented the phalanx to empower poorer farmers"
+     ],
+     "answer": 1,
+     "why": "Hans van Wees and Peter Krentz see a gradual development, with a mass phalanx only late in the 6th century; Victor Davis Hanson and others see a 'hoplite revolution'.",
+     "wrong": {
+      "0": "Both sides accept that hoplites fought in close formation; the dispute is over how fast this changed politics.",
+      "2": "It is the other way round: Hanson sees a 'hoplite revolution', and van Wees a gradual development.",
+      "3": "Solon's reforms concerned debts and political rights based on wealth."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The 'Axial Age'",
+   "sub": "a big idea and its critics",
+   "lede": "Between about 800 and 200 BCE, from China to Greece, thinkers taught ideas that still shape billions of lives. Was this one great turning point in human thought, or a coincidence that a big theory has made too much of?",
+   "body": [
+    "In 1949 the philosopher Karl Jaspers named the centuries from about 800 to 200 BCE the 'Axial Age', [[c-jaspers]] grouping Confucius, the Buddha, the Hebrew prophets, Zoroaster and the Greek philosophers. [[c-axial-figures]] In his view they all turned from myth and ritual toward reflection, ethics and a transcendent order. The idea was revived by sociologists and popular writers. [[c-axial-revival]]",
+    "Critics raise strong objections. The figures were not truly contemporary, other civilizations are left out, and coincidence is treated as a cause. [[c-axial-critics]] Researchers have also tested the idea with data. One study linked new moral teachings to rising prosperity; [[c-baumard]] another, using a large historical database, found 'axial' features in many places long before 800 BCE. [[c-seshat]]",
+    "What survives? Several literate traditions across Eurasia did, in the 1st millennium BCE, produce texts and ideas that became the core of later religions and philosophies. Pages 7.8 to 7.11 look at four of them in turn. Whether they belong to one 'age' with a single cause is far less certain.",
+    {
+     "table": {
+      "head": [
+       "Tradition",
+       "Figures",
+       "Dates (BCE)"
+      ],
+      "rows": [
+       [
+        "Israel",
+        "Amos, Isaiah, Jeremiah, Second Isaiah",
+        "8th-6th century (7.11)"
+       ],
+       [
+        "Persia",
+        "Zoroaster",
+        "uncertain; scholars suggest c. 1000, tradition the 6th century (7.8)"
+       ],
+       [
+        "India",
+        "the Upanishads, the Buddha, Mahavira",
+        "c. 600-400 (7.9)"
+       ],
+       [
+        "China",
+        "Confucius, Laozi",
+        "6th-5th century (7.10)"
+       ],
+       [
+        "Greece",
+        "Socrates, Plato",
+        "5th-4th century (8.3)"
+       ]
+      ]
+     }
+    },
+    {
+     "compare": "For a student of politics, the question matters: if these traditions arose independently, ideas of justice and human dignity have many roots, not one."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "How long was the 'Axial Age'?",
+    "title": "Proposed spans, and Zoroaster's probable date, BCE",
+    "max": 1200,
+    "min": 100,
+    "unit": "ka",
+    "ticks": [
+     1200,
+     1000,
+     800,
+     600,
+     400,
+     200
+    ],
+    "tickLabels": [
+     "1200 BCE",
+     "1000",
+     "800",
+     "600",
+     "400",
+     "200"
+    ],
+    "axis": "years BCE",
+    "hint": "Hover or click a row",
+    "rows": [
+     {
+      "t": "Jaspers (1949)",
+      "from": 800,
+      "to": 200,
+      "lab": "800-200",
+      "acc": true,
+      "plate": {
+       "kicker": "7.7 · the Axial Age",
+       "title": "Karl Jaspers",
+       "sub": "the Axial Age, 1949",
+       "text": "[[c-jaspers]] [[c-axial-figures]] [[c-axial-critics]]",
+       "sources": [
+        "sage-axial",
+        "bowersock2013"
+       ]
+      }
+     },
+     {
+      "t": "Armstrong (2006)",
+      "from": 900,
+      "to": 200,
+      "lab": "c. 900-200",
+      "acc": true
+     },
+     {
+      "t": "Baumard et al. (2015)",
+      "sub": "moralising teachings",
+      "from": 500,
+      "to": 300,
+      "lab": "c. 500-300",
+      "acc": true,
+      "plate": {
+       "kicker": "7.7 · the Axial Age",
+       "title": "Prosperity and morality",
+       "sub": "Baumard et al., 2015",
+       "text": "[[c-baumard]]",
+       "sources": [
+        "eurekalert-baumard"
+       ]
+      }
+     },
+     {
+      "t": "Zoroaster",
+      "sub": "probable date",
+      "from": 1100,
+      "to": 900,
+      "lab": "c. 1000?",
+      "open": true,
+      "plate": {
+       "kicker": "7.8 · Zoroaster",
+       "title": "Zoroaster's date",
+       "sub": "perhaps c. 1000 BCE",
+       "text": "[[c-zoroaster-date]]",
+       "sources": [
+        "iranica-zoroaster"
+       ]
+      }
+     }
+    ],
+    "notes": [
+     "A 2018 study (Mullins et al.) found 'axial' features in many societies well before 800 BCE."
+    ]
+   },
+   "practice": [
+    {
+     "q": "What is the core finding of the 2018 study by Mullins, Turchin and colleagues?",
+     "choices": [
+      "An Axial Age happened, but in Greece and nowhere else",
+      "'Axial' features show up widely, frequently well before 800 BCE",
+      "Rising prosperity explains the new moralising teachings",
+      "New religions, more than warfare, drove the rise of large societies"
+     ],
+     "answer": 1,
+     "why": "Using a large historical database, it found 'axial' features in many places, often centuries or millennia before 800 BCE. That undermines the idea of a single, distinct age.",
+     "wrong": {
+      "0": "The study found 'axial' features in many places, not in one.",
+      "2": "That is the argument of a 2015 study.",
+      "3": "Its authors argue that warfare and resources, not new religions, drove the growth of large societies."
+     }
+    },
+    {
+     "q": "Which criticism of the Axial Age idea does G. W. Bowersock raise?",
+     "choices": [
+      "Jaspers's list leaves out Confucius and the Chinese",
+      "The figures it groups were not truly contemporary",
+      "Zoroaster lived too late, after 200 BCE, to belong",
+      "The idea is a 'convenient myth', useless for comparison"
+     ],
+     "answer": 1,
+     "why": "Bowersock notes that Zoroaster is now dated well before 800 BCE, so the figures grouped together were not truly contemporary.",
+     "wrong": {
+      "0": "Confucius is one of the figures usually grouped together.",
+      "2": "Bowersock notes Zoroaster is now dated well before 800 BCE.",
+      "3": "'Convenient myth' is Iain Provan's phrase, and Jan Assmann finds the idea useful for comparison."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Persia and Zoroaster",
+   "sub": "the first world empire and an ancient prophet",
+   "lede": "In little more than a decade Cyrus of Persia conquered the Medes, Lydia and Babylon, creating the largest empire the world had yet seen. Its kings worshipped Ahura Mazda, the Wise Lord, the god of a prophet named Zoroaster, whose ideas some scholars think shaped Judaism and, through it, Christianity and Islam.",
+   "body": [
+    "The Medes of north-western Iran helped destroy Assyria in 612 BCE. [[c-medes]] Their Persian neighbour Cyrus II overthrew the Median king about 550, took Lydia about 547/546, and Babylon in 539 (7.4). [[c-cyrus-conquests]] His son Cambyses conquered Egypt in 525. [[c-cambyses]] Darius I, after seizing the throne, carved his story on a cliff at Bisotun in three languages. [[c-bisotun]]",
+    "Zoroaster, or Zarathustra, is far harder to place: many specialists now date him to about 1000 BCE, but proposals range across a thousand years. [[c-zoroaster-date]] His hymns, the Gathas, praise Ahura Mazda and call each person to choose between two spirits, good and evil. [[c-gathas]] The Persian kings worshipped Ahuramazda, but whether they were Zoroastrians is debated. [[c-achaemenid-religion]]",
+    "Did Persian religion influence Judaism? Some scholars argue that ideas of angels, demons, the end of the world and the resurrection of the dead came partly from Persia. [[c-persian-influence]] Others point out that the clearest biblical text on resurrection, Daniel 12:2, is late, and the Zoroastrian texts were written down later still. [[c-influence-caution]] What is certain is that the Bible praises Cyrus as the Lord's 'anointed' (Isaiah 45:1).",
+    {
+     "table": {
+      "head": [
+       "Proposed date for Zoroaster",
+       "Basis"
+      ],
+      "rows": [
+       [
+        "c. 1750-1500 BCE",
+        "language of the Gathas, close to the Rigveda"
+       ],
+       [
+        "c. 1000 BCE",
+        "closest to a consensus"
+       ],
+       [
+        "6th century BCE",
+        "later Zoroastrian tradition; generally doubted"
+       ]
+      ],
+      "note": "[[c-zoroaster-date]]"
+     }
+    },
+    {
+     "compare": "Compare the debate over Ugarit and the Bible (6.7): sharing ideas with neighbours is not the same as borrowing them, and the direction of influence is often hard to prove."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 46.5,
+     "lat": 33.6,
+     "zoom": 8.5
+    },
+    "caption": "The rise of Persia, c. 550-520 BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc",
+      "conquests of Cyrus and Cambyses"
+     ],
+     [
+      "dot",
+      "royal centre"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          53.18,
+          30.2
+         ],
+         [
+          51.0,
+          32.6
+         ],
+         [
+          48.6,
+          34.6
+         ]
+        ],
+        "label": "c. 550",
+        "lab": [
+         51.0,
+         32.6
+        ],
+        "ldx": 8,
+        "anchor": "start"
+       },
+       {
+        "path": [
+         [
+          48.4,
+          34.9
+         ],
+         [
+          42.0,
+          37.5
+         ],
+         [
+          35.0,
+          38.9
+         ],
+         [
+          28.2,
+          38.5
+         ]
+        ],
+        "label": "Lydia, c. 547",
+        "lab": [
+         35.0,
+         38.9
+        ],
+        "ldy": -10,
+        "delay": 0.3
+       },
+       {
+        "path": [
+         [
+          48.3,
+          34.5
+         ],
+         [
+          46.5,
+          33.6
+         ],
+         [
+          44.6,
+          32.6
+         ]
+        ],
+        "delay": 0.6
+       },
+       {
+        "path": [
+         [
+          44.2,
+          32.4
+         ],
+         [
+          40.0,
+          35.3
+         ],
+         [
+          36.6,
+          34.6
+         ],
+         [
+          35.2,
+          32.2
+         ],
+         [
+          34.4,
+          31.4
+         ],
+         [
+          32.7,
+          31.05
+         ]
+        ],
+        "label": "Egypt, 525",
+        "lab": [
+         36.6,
+         34.6
+        ],
+        "ldy": 16,
+        "delay": 0.9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         53.18,
+         30.2
+        ],
+        "label": "Pasargadae",
+        "date": "Cyrus",
+        "acc": true,
+        "big": true,
+        "dy": 14,
+        "plate": {
+         "kicker": "7.8 · Persia",
+         "title": "Cyrus the Great",
+         "sub": "king 559-530 BCE; empire from c. 550",
+         "text": "[[c-cyrus-conquests]] [[c-cambyses]]",
+         "sources": [
+          "ox-nabonidus",
+          "brit-cyrus",
+          "nce-cyrus",
+          "brit-cambyses"
+         ]
+        }
+       },
+       {
+        "ll": [
+         52.89,
+         29.93
+        ],
+        "label": "Persepolis",
+        "acc": true,
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         48.52,
+         34.8
+        ],
+        "label": "Ecbatana",
+        "date": "Median centre",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "7.8 · Persia",
+         "title": "The Medes",
+         "sub": "Ecbatana (Hamadan)",
+         "text": "[[c-medes]]",
+         "sources": [
+          "livius-medes",
+          "henkelman2017"
+         ]
+        }
+       },
+       {
+        "ll": [
+         47.44,
+         34.39
+        ],
+        "label": "Bisotun",
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "7.8 · Persia",
+         "title": "Bisotun",
+         "sub": "Darius I, 521 to 520 BCE",
+         "text": "[[c-bisotun]] [[c-achaemenid-religion]]",
+         "sources": [
+          "unesco-bisotun",
+          "iranica-achaemenid-rel"
+         ]
+        }
+       },
+       {
+        "ll": [
+         48.26,
+         32.19
+        ],
+        "label": "Susa",
+        "acc": true
+       },
+       {
+        "ll": [
+         44.42,
+         32.54
+        ],
+        "label": "Babylon",
+        "date": "539",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         28.04,
+         38.49
+        ],
+        "label": "Sardis",
+        "date": "Lydia",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         32.55,
+         31.04
+        ],
+        "label": "Pelusium",
+        "date": "525",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         66.9,
+         36.76
+        ],
+        "label": "Balkh",
+        "date": "Zoroaster's homeland? (debated)",
+        "anchor": "end",
+        "plate": {
+         "kicker": "7.8 · Zoroaster",
+         "title": "Zoroaster",
+         "sub": "date and homeland uncertain",
+         "text": "[[c-zoroaster-date]] [[c-gathas]] [[c-persian-influence]]",
+         "sources": [
+          "iranica-zoroaster",
+          "brit-zoroastrianism",
+          "kirkus-cohn"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do most specialists reject the traditional 6th-century BCE date for Zoroaster?",
+     "choices": [
+      "It is far too early for the language of the Gathas",
+      "It is late tradition; the Gathas' language looks far older",
+      "Darius names Zoroaster and dates him to a much earlier age",
+      "Zoroastrian tradition itself places him about 1000 BCE"
+     ],
+     "answer": 1,
+     "why": "The 6th-century date comes from later Zoroastrian tradition and is generally doubted. The language of the Gathas is close to that of the Rigveda.",
+     "wrong": {
+      "0": "It is the latest of the proposed dates, not the earliest.",
+      "2": "Darius worshipped Ahuramazda but never names Zoroaster.",
+      "3": "The 6th-century date is the traditional one; about 1000 BCE is the scholars' nearest thing to a consensus."
+     }
+    },
+    {
+     "q": "Which statement best represents Jon Levenson's position on resurrection?",
+     "choices": [
+      "Resurrection was borrowed directly from Persian religion",
+      "It grew from Israel's own traditions, not chiefly Persia",
+      "It already appears clearly in Genesis, the Bible's first book",
+      "He once accepted Persian influence but now doubts it"
+     ],
+     "answer": 1,
+     "why": "Levenson traces resurrection to Israel's own traditions. The clearest biblical text, Daniel 12:2, was written long after the Persian empire fell.",
+     "wrong": {
+      "0": "That is closer to Norman Cohn's view.",
+      "2": "Bodily resurrection appears clearly in the Hebrew Bible only in Daniel 12:2.",
+      "3": "That describes Bart Ehrman."
+     }
+    }
+   ]
+  },
+  {
+   "title": "India: from the Vedas to the Buddha",
+   "sub": "rebirth, renunciation and the middle way",
+   "lede": "In the Ganges valley, as new cities and kingdoms rose, teachers asked what the self is and how to escape an endless cycle of rebirth. Their answers became Hinduism's Upanishads, Jainism and Buddhism.",
+   "body": [
+    "The Vedas, hymns and rituals composed in Sanskrit from about 1500 BCE, [[c-vedas-date]] were followed by prose ritual texts, the Brahmanas. [[c-brahmanas]] One tells of the sacred fire being carried east into the Ganges plain, [[c-videgha]] where iron, [[c-iron-india]] cities and coins appeared: India's 'second urbanisation'. [[c-second-urban]] Sixteen 'great states' competed for power, Magadha and Kosala chief among them. [[c-mahajanapadas]] Vedic texts divided society into four classes, though the model was more ideal than real. [[c-varna]]",
+    "The Upanishads taught that the self (atman) is one with brahman, the reality behind all things, [[c-upanishads]] and that deeds shape rebirth. Wandering ascetics rejected the priests' authority. [[c-shramanas]] One was Mahavira, who taught strict non-violence and gave Jainism its classic form. [[c-mahavira]] Another was Siddhartha Gautama, the Buddha, 'the awakened one'.",
+    "The Buddha's dates are uncertain by a century. [[c-buddha-dates]] Tradition places his life in a few sites of the middle Ganges, [[c-buddha-places]] and excavations at Lumbini in 2013 found an early shrine whose date and meaning are debated. [[c-lumbini2013]] His teaching starts from the Four Noble Truths: suffering, its cause in craving, its end, and the path to that end. [[c-four-truths]]",
+    {
+     "table": {
+      "head": [
+       "Chronology",
+       "Buddha's life (BCE)",
+       "Basis"
+      ],
+      "rows": [
+       [
+        "long chronology",
+        "c. 566-486",
+        "Pali texts of Sri Lanka"
+       ],
+       [
+        "Richard Gombrich",
+        "c. 484-404",
+        "re-analysis of the long chronology"
+       ],
+       [
+        "short chronology",
+        "death c. 370",
+        "Sanskrit texts preserved in East Asia"
+       ]
+      ],
+      "note": "[[c-buddha-dates]]"
+     }
+    },
+    {
+     "compare": "Compare the debate over the Rigveda and steppe ancestry (5.3), and the Mitanni treaty's Vedic gods (6.3)."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 84.0,
+     "lat": 25.95,
+     "zoom": 80
+    },
+    "caption": "The middle Ganges in the Buddha's time",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "capital"
+     ],
+     [
+      "pt",
+      "site in the Buddha's life"
+     ],
+     [
+      "dash",
+      "Ganges (schematic)"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          81.85,
+          25.43
+         ],
+         [
+          82.6,
+          25.2
+         ],
+         [
+          83.0,
+          25.3
+         ],
+         [
+          83.6,
+          25.55
+         ],
+         [
+          84.3,
+          25.7
+         ],
+         [
+          85.1,
+          25.62
+         ],
+         [
+          85.9,
+          25.4
+         ]
+        ],
+        "label": "Ganges",
+        "lab": [
+         84.3,
+         25.7
+        ],
+        "ldy": 16
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         82.4,
+         26.9
+        ],
+        "label": "KOSALA",
+        "size": 11
+       },
+       {
+        "ll": [
+         86.1,
+         25.15
+        ],
+        "label": "MAGADHA",
+        "size": 11
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         83.2759,
+         27.4696
+        ],
+        "label": "Lumbini",
+        "date": "birth (tradition)",
+        "plate": {
+         "kicker": "7.9 · the Buddha",
+         "title": "Lumbini",
+         "sub": "traditional birthplace",
+         "text": "[[c-buddha-places]] [[c-lumbini2013]]",
+         "sources": [
+          "unesco-lumbini",
+          "coningham2013",
+          "natgeo-lumbini"
+         ]
+        }
+       },
+       {
+        "ll": [
+         84.9913,
+         24.696
+        ],
+        "label": "Bodh Gaya",
+        "date": "enlightenment",
+        "anchor": "end",
+        "plate": {
+         "kicker": "7.9 · the Buddha",
+         "title": "Bodh Gaya",
+         "sub": "enlightenment (tradition)",
+         "text": "[[c-buddha-places]] [[c-four-truths]]",
+         "sources": [
+          "brit-buddha",
+          "brit-fourtruths"
+         ]
+        }
+       },
+       {
+        "ll": [
+         83.0251,
+         25.378
+        ],
+        "label": "Sarnath",
+        "date": "first sermon",
+        "anchor": "end",
+        "dy": -8
+       },
+       {
+        "ll": [
+         83.888,
+         26.741
+        ],
+        "label": "Kushinagar",
+        "date": "death"
+       },
+       {
+        "ll": [
+         85.42,
+         25.03
+        ],
+        "label": "Rajgir",
+        "date": "Magadha",
+        "acc": true,
+        "big": true,
+        "dy": 14,
+        "plate": {
+         "kicker": "7.9 · India",
+         "title": "Magadha",
+         "sub": "capital at Rajagriha (Rajgir)",
+         "text": "[[c-mahajanapadas]] [[c-second-urban]]",
+         "sources": [
+          "brit-india-500"
+         ]
+        }
+       },
+       {
+        "ll": [
+         85.1283,
+         25.6125
+        ],
+        "label": "Pataliputra",
+        "acc": true,
+        "anchor": "end",
+        "dy": -8
+       },
+       {
+        "ll": [
+         82.051,
+         27.517
+        ],
+        "label": "Shravasti",
+        "date": "Kosala",
+        "acc": true,
+        "big": true,
+        "dy": -8
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do historians give dates for the Buddha's death a century apart?",
+     "choices": [
+      "Ashoka's own inscriptions give two different years for the death",
+      "Pali and Sanskrit traditions count back from Ashoka differently",
+      "Radiocarbon dates from Lumbini and Kushinagar conflict",
+      "Jain texts place Mahavira a century after the Buddha"
+     ],
+     "answer": 1,
+     "why": "Both chronologies count back from the emperor Ashoka, but use different intervals: the long one from the Pali texts of Sri Lanka, the short one from Sanskrit texts preserved in East Asia.",
+     "wrong": {
+      "0": "The chronologies count back from Ashoka using intervals from different traditions.",
+      "2": "The radiocarbon evidence comes from Lumbini, and critics say its shrine could predate the Buddha.",
+      "3": "Mahavira was a contemporary of the Buddha."
+     }
+    },
+    {
+     "q": "The four-varna system was more an ideal than a description of society. Which observation best supports this?",
+     "choices": [
+      "In practice people formed numerous hereditary groups",
+      "The four varnas are missing from the hymns of the Rigveda",
+      "The four classes were first invented much later, under Ashoka",
+      "Vedic texts themselves divided society into sixteen classes"
+     ],
+     "answer": 0,
+     "why": "A Rigvedic hymn gives four classes, but society was divided into many hereditary groups. The gap between ideal and reality is the point.",
+     "wrong": {
+      "1": "A hymn of the Rigveda describes the four varnas.",
+      "2": "A hymn of the Rigveda, centuries older, already describes them.",
+      "3": "Vedic texts describe four classes; sixteen is the number of 'great states' named in Buddhist texts."
+     }
+    }
+   ]
+  },
+  {
+   "title": "China: Confucius and Laozi",
+   "sub": "the Spring and Autumn period, 770-476 BCE",
+   "lede": "After 770 BCE the Zhou kings (5.9) reigned but no longer ruled. Rival states fought for supremacy, and in that disorder Confucius taught that society could be restored through virtue, ritual and right relationships.",
+   "body": [
+    "The Spring and Autumn period, 770 to about 476 BCE, [[c-chunqiu-period]] takes its name from the annals of the small state of Lu. [[c-chunqiu]] Powerful lords, the 'hegemons', kept a fragile order in the king's name. [[c-hegemons]] By the end, the great states of Jin, Qi, Chu, Qin, Wu and Yue were fighting for survival.",
+    "Confucius, a teacher from Lu, by tradition lived 551-479 BCE. [[c-confucius]] He held that rulers should govern by moral example, that ritual expresses and shapes respect, and that names should match reality: 'let the ruler be a ruler'. His key ideas are ren, humaneness, and li, ritual propriety, embodied in the junzi, the exemplary person. [[c-ren-li]] His sayings, the Analects, were gathered after his death; how early the collection took shape is debated. [[c-analects]]",
+    "Daoism traces itself to Laozi, a shadowy figure whom tradition makes an older contemporary of Confucius. [[c-laozi]] Many scholars think the Daodejing, with its teaching of the Way (dao) and effortless action, grew out of sayings circulating in the 4th century BCE and settled into roughly its final form in the 3rd. [[c-daodejing]] The Art of War, attributed to Sunzi, belongs to the same world of states at war. [[c-sunzi]]",
+    {
+     "table": {
+      "head": [
+       "Teacher",
+       "Traditional dates (BCE)",
+       "Key text",
+       "Key idea"
+      ],
+      "rows": [
+       [
+        "Confucius",
+        "551-479",
+        "Analects",
+        "virtue, ritual, right relationships"
+       ],
+       [
+        "Laozi",
+        "6th century (legendary)",
+        "Daodejing",
+        "the Way; non-action"
+       ],
+       [
+        "Sunzi",
+        "6th-5th century (legendary)",
+        "Art of War",
+        "winning without fighting"
+       ]
+      ],
+      "note": "[[c-confucius]] [[c-laozi]] [[c-sunzi]]"
+     }
+    },
+    {
+     "compare": "Compare the Mandate of Heaven (5.9): Confucius looked back to the early Zhou as a golden age of virtuous rule."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 114.2,
+     "lat": 33.4,
+     "zoom": 27
+    },
+    "caption": "The great states, c. 500 BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "state capital"
+     ],
+     [
+      "pt",
+      "other site"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         111.0,
+         36.4
+        ],
+        "label": "JIN",
+        "size": 11
+       },
+       {
+        "ll": [
+         118.6,
+         37.3
+        ],
+        "label": "QI",
+        "size": 11
+       },
+       {
+        "ll": [
+         117.6,
+         35.0
+        ],
+        "label": "LU",
+        "size": 10
+       },
+       {
+        "ll": [
+         112.8,
+         31.0
+        ],
+        "label": "CHU",
+        "size": 12
+       },
+       {
+        "ll": [
+         107.2,
+         33.9
+        ],
+        "label": "QIN",
+        "size": 11
+       },
+       {
+        "ll": [
+         119.6,
+         31.9
+        ],
+        "label": "WU",
+        "size": 10
+       },
+       {
+        "ll": [
+         119.2,
+         29.6
+        ],
+        "label": "YUE",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         116.986,
+         35.582
+        ],
+        "label": "Qufu",
+        "date": "Lu; home of Confucius",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "7.10 · Confucius",
+         "title": "Confucius",
+         "sub": "Lu, by tradition 551 to 479 BCE",
+         "text": "[[c-confucius]] [[c-ren-li]] [[c-analects]] [[c-chunqiu]]",
+         "sources": [
+          "brit-confucius",
+          "sep-confucius",
+          "poli-li2024",
+          "brit-chunqiu"
+         ]
+        }
+       },
+       {
+        "ll": [
+         112.45,
+         34.62
+        ],
+        "label": "Luoyi",
+        "date": "Zhou king",
+        "dy": 14
+       },
+       {
+        "ll": [
+         111.36,
+         35.62
+        ],
+        "label": "Xintian",
+        "date": "Jin",
+        "acc": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         118.33,
+         36.85
+        ],
+        "label": "Linzi",
+        "date": "Qi",
+        "acc": true,
+        "plate": {
+         "kicker": "7.10 · the hegemons",
+         "title": "Qi",
+         "sub": "the first hegemon, 680 BCE",
+         "text": "[[c-hegemons]] [[c-chunqiu-period]]",
+         "sources": [
+          "iu-sa-dates",
+          "brit-zuozhuan"
+         ]
+        }
+       },
+       {
+        "ll": [
+         112.17,
+         30.43
+        ],
+        "label": "Ying",
+        "date": "Chu",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "7.10 · Laozi",
+         "title": "Chu and the Guodian slips",
+         "sub": "tomb of c. 300 BCE",
+         "text": "[[c-laozi]] [[c-daodejing]]",
+         "sources": [
+          "sep-laozi"
+         ]
+        }
+       },
+       {
+        "ll": [
+         107.39,
+         34.52
+        ],
+        "label": "Yong",
+        "date": "Qin",
+        "acc": true,
+        "dy": 14
+       },
+       {
+        "ll": [
+         120.62,
+         31.3
+        ],
+        "label": "Gusu",
+        "date": "Wu",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "7.10 · Sunzi",
+         "title": "Wu",
+         "sub": "Sunzi, by tradition",
+         "text": "[[c-sunzi]]",
+         "sources": [
+          "brit-sunzi",
+          "chinadaily-yinqueshan"
+         ]
+        }
+       },
+       {
+        "ll": [
+         120.58,
+         30.0
+        ],
+        "label": "Kuaiji",
+        "date": "Yue",
+        "acc": true,
+        "anchor": "end",
+        "dy": 14
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What do the Guodian bamboo slips most directly show about the Daodejing?",
+     "choices": [
+      "That Laozi wrote it in the 6th century BCE, as Sima Qian says",
+      "That much of it existed by c. 300 BCE, in a different order",
+      "That it was first composed under the later Han dynasty",
+      "That its text had already reached its final, fixed form by then"
+     ],
+     "answer": 1,
+     "why": "The tomb dates to about 300 BCE. Its slips contain about two-fifths of the text, differing in order and wording from the later standard version.",
+     "wrong": {
+      "0": "Most scholars doubt the traditional story, and think the Daodejing grew over time.",
+      "2": "The Guodian tomb dates to about 300 BCE, so much of the text already existed.",
+      "3": "The Guodian version differs in order and wording, and holds only part of the text."
+     }
+    },
+    {
+     "q": "Which claim about the Analects do recent scholars most dispute?",
+     "choices": [
+      "That Confucius came from the small state of Lu",
+      "That it took its final shape soon after Confucius died",
+      "That sayings of Confucius circulated by about 300 BCE",
+      "That it discusses ren, li and the 'rectification of names'"
+     ],
+     "answer": 1,
+     "why": "The Analects were compiled after his death over a long period, and how early the text took shape is debated. Some scholars argue the book became important only in the Han dynasty.",
+     "wrong": {
+      "0": "His home state of Lu is not in dispute.",
+      "2": "A 2024 study of two manuscripts of about 300 BCE shows collections of his sayings already circulating.",
+      "3": "These are central Confucian ideas, and their place in his teaching is not in dispute."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The prophets and one God",
+   "sub": "from Amos to Second Isaiah",
+   "lede": "Between the 8th and 6th centuries BCE, Israel's prophets denounced injustice in the name of their God, and by the end of the exile one of them proclaimed that there is no other god at all. How and when Israel's religion became monotheism is one of the great questions of religious history.",
+   "body": [
+    "Amos, a shepherd from Judah, preached in the northern kingdom in the 8th century. [[c-amos]] He and his successors put justice above ritual: Amos has God reject the festivals of those who 'sell the righteous for silver', and Micah sums up what God requires: 'to do justice and to love kindness and to walk humbly with your God'. [[c-social-critique]] The book of Isaiah probably holds the words of more than one prophet. [[c-isaiah-books]]",
+    "Popular religion was more varied than the prophets wished. Inscriptions from about 800 BCE bless 'by Yahweh of Samaria and by his asherah'. [[c-ajrud]] About 621, King Josiah, according to 2 Kings, purged the temple of objects made for Baal and Asherah after a 'book of the law' was found, [[c-josiah]] often identified with Deuteronomy. [[c-deuteronomy]] Many scholars think the history from Deuteronomy to Kings was edited in this period and during the exile. [[c-dtr-history]]",
+    "In the exile, Second Isaiah declared: 'I am the Lord, and there is no other; besides me there is no god'. [[c-isa45]] Many critical scholars see full monotheism emerging only then, out of earlier religion that knew other gods. [[c-monotheism-late]] Others find the denial of other gods much earlier, or question whether the modern word fits. [[c-monotheism-early]]",
+    "Evidence from Elephantine in Egypt shows Judean soldiers keeping their own temple of YHW in the 5th century, [[c-elephantine]] with no clear sign of a written Torah. [[c-elephantine-torah]] Many scholars think the Torah took final shape in the Persian period, [[c-torah-persian]] and one argues that ordinary Judeans observed it widely only centuries later. [[c-adler]]",
+    {
+     "table": {
+      "head": [
+       "Evidence",
+       "Kind",
+       "What it shows"
+      ],
+      "rows": [
+       [
+        "Amos, Micah, Isaiah",
+        "biblical text",
+        "justice above ritual"
+       ],
+       [
+        "Kuntillet 'Ajrud, c. 800",
+        "inscription",
+        "'Yahweh ... and his asherah'"
+       ],
+       [
+        "2 Kings 22-23",
+        "biblical text",
+        "Josiah's reform"
+       ],
+       [
+        "Isaiah 45:5",
+        "biblical text",
+        "'besides me there is no god'"
+       ],
+       [
+        "Elephantine papyri, 5th century",
+        "documents",
+        "a Judean temple in Egypt"
+       ]
+      ],
+      "note": "[[c-social-critique]] [[c-ajrud]] [[c-josiah]] [[c-isa45]] [[c-elephantine]]"
+     }
+    },
+    {
+     "compare": "Compare Akhenaten's Aten (4.8) and the Ugaritic gods El and Baal (6.7). Israel's monotheism grew in a world full of gods, and in argument with it."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "Prophets, reforms and evidence",
+    "title": "Approximate dates, BCE",
+    "max": 850,
+    "min": 380,
+    "unit": "ka",
+    "ticks": [
+     800,
+     700,
+     600,
+     500,
+     400
+    ],
+    "tickLabels": [
+     "800 BCE",
+     "700",
+     "600",
+     "500",
+     "400"
+    ],
+    "axis": "years BCE; all dates approximate",
+    "hint": "Hover or click a row",
+    "rows": [
+     {
+      "t": "Kuntillet 'Ajrud",
+      "sub": "inscriptions",
+      "from": 810,
+      "to": 790,
+      "lab": "c. 800",
+      "open": true,
+      "plate": {
+       "kicker": "7.11 · evidence",
+       "title": "Kuntillet 'Ajrud",
+       "sub": "c. 800 BCE",
+       "text": "[[c-ajrud]]",
+       "sources": [
+        "bas-ajrud"
+       ]
+      }
+     },
+     {
+      "t": "Amos, Hosea",
+      "sub": "northern kingdom",
+      "from": 770,
+      "to": 740,
+      "lab": "mid-8th century",
+      "acc": true,
+      "plate": {
+       "kicker": "7.11 · the prophets",
+       "title": "Amos",
+       "sub": "8th century BCE",
+       "text": "[[c-amos]] [[c-social-critique]]",
+       "sources": [
+        "bg-amos1",
+        "bg-prophets"
+       ]
+      }
+     },
+     {
+      "t": "Isaiah of Jerusalem",
+      "from": 742,
+      "to": 701,
+      "lab": "c. 742-701",
+      "acc": true
+     },
+     {
+      "t": "Josiah's reform",
+      "from": 625,
+      "to": 617,
+      "lab": "c. 621",
+      "acc": true,
+      "plate": {
+       "kicker": "7.11 · reform",
+       "title": "Josiah's reform",
+       "sub": "c. 621 BCE",
+       "text": "[[c-josiah]] [[c-deuteronomy]] [[c-dtr-history]]",
+       "sources": [
+        "bg-isa45",
+        "brit-deuteronomy",
+        "romer-dtr"
+       ]
+      }
+     },
+     {
+      "t": "Second Isaiah",
+      "sub": "Isaiah 40-55",
+      "from": 550,
+      "to": 535,
+      "lab": "exile",
+      "acc": true,
+      "plate": {
+       "kicker": "7.11 · monotheism",
+       "title": "Second Isaiah",
+       "sub": "during the exile",
+       "text": "[[c-isa45]] [[c-monotheism-late]] [[c-monotheism-early]]",
+       "sources": [
+        "bg-isa45",
+        "jhs-smith-origins",
+        "bas-stern2025"
+       ]
+      }
+     },
+     {
+      "t": "Elephantine temple of YHW",
+      "from": 525,
+      "to": 400,
+      "lab": "before 525 to c. 400",
+      "open": true,
+      "plate": {
+       "kicker": "7.11 · evidence",
+       "title": "Elephantine",
+       "sub": "5th century BCE",
+       "text": "[[c-elephantine]] [[c-elephantine-torah]]",
+       "sources": [
+        "bas-elephantine",
+        "torah-passover",
+        "jhs-pentateuch"
+       ]
+      }
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do many scholars treat Isaiah 45:5 as a turning point?",
+     "choices": [
+      "It forbids the worship of any god other than Yahweh",
+      "It denies that any other god exists at all",
+      "It is the oldest passage in the Hebrew Bible",
+      "It was found written on a wall at Kuntillet 'Ajrud"
+     ],
+     "answer": 1,
+     "why": "Its words 'besides me there is no god' deny that other gods exist, which goes beyond demanding exclusive loyalty.",
+     "wrong": {
+      "0": "Demanding exclusive loyalty does not deny that other gods exist; this passage goes further.",
+      "2": "Second Isaiah was a prophet of the exile, long after Amos in the 8th century.",
+      "3": "The 'Ajrud inscriptions bless 'by Yahweh of Samaria and by his asherah'."
+     }
+    },
+    {
+     "q": "What do the Elephantine papyri suggest about Judean religion in the 5th century BCE?",
+     "choices": [
+      "That Judeans everywhere kept to a single sanctuary in Jerusalem",
+      "That a garrison had its own temple, with no clear written Torah",
+      "That they contain a full copy of the book of Leviticus",
+      "That a festival letter of 419 BCE ignores the Passover dates"
+     ],
+     "answer": 1,
+     "why": "A Judean garrison kept a temple of YHW and asked the governor of Judah for help to rebuild it, yet the papyri show no clear knowledge of the Torah as a written authority.",
+     "wrong": {
+      "0": "The garrison kept its own temple of YHW in Egypt.",
+      "2": "They show no clear knowledge of the Torah as a written authority.",
+      "3": "Its festival dates match those of Passover."
+     }
+    }
+   ]
+  }
+ ]
+}

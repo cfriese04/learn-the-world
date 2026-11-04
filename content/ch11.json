@@ -1,0 +1,4631 @@
+{
+ "id": "ch11",
+ "no": "11",
+ "title": "Regional webs",
+ "sub": "c. 750 to 1250",
+ "sources": {
+  "cudl-genizah": {
+   "citation": "Cambridge Digital Library, \"The Genizah collection\"",
+   "url": "https://cudl.lib.cam.ac.uk/collections/genizah/1"
+  },
+  "cam-genizah-unit": {
+   "citation": "Cambridge University Library, Taylor-Schechter Genizah Research Unit",
+   "url": "https://www.lib.cam.ac.uk/collections/departments/taylor-schechter-genizah-research-unit"
+  },
+  "brit-idrisi": {
+   "citation": "Encyclopaedia Britannica, \"al-Idrisi\"",
+   "url": "https://www.britannica.com/print/article/282089"
+  },
+  "brit-bakri": {
+   "citation": "Encyclopaedia Britannica, \"Abu Ubayd al-Bakri\"",
+   "url": "https://www.britannica.com/biography/Abu-Ubayd-al-Bakri"
+  },
+  "cu-printing": {
+   "citation": "Columbia University, Asia for Educators, \"Printing\" (Song dynasty module)",
+   "url": "https://afe.easia.columbia.edu/songdynasty-module/tech-printing.html"
+  },
+  "unesco-lanse2": {
+   "citation": "UNESCO World Heritage Centre, \"L'Anse aux Meadows National Historic Site\"",
+   "url": "https://whc.unesco.org/en/list/4/"
+  },
+  "brit-baghdad": {
+   "citation": "Encyclopaedia Britannica, \"Baghdad: history\"",
+   "url": "https://www.britannica.com/place/Baghdad/History"
+  },
+  "acm-belitung": {
+   "citation": "Asian Civilisations Museum, Singapore, \"The Tang shipwreck\"",
+   "url": "https://www.acm.nhb.gov.sg/galleries/maritime-trade/tang-shipwreck"
+  },
+  "met-dinar780": {
+   "citation": "The Met, gold dinar of al-Mahdi, 780 (A.H. 164)",
+   "url": "https://www.metmuseum.org/art/collection/search/457626"
+  },
+  "met-dirham-sas": {
+   "citation": "The Met, early Islamic silver dirham modelled on the Sasanian drachm",
+   "url": "https://www.metmuseum.org/art/collection/search/479441"
+  },
+  "bloom1999": {
+   "citation": "Jonathan Bloom, \"Revolution by the ream: a history of paper\", Aramco World (1999)",
+   "url": "https://archive.aramcoworld.com/issue/199903/revolution.by.the.ream-a.history.of.paper.htm"
+  },
+  "hoi-samarkand": {
+   "citation": "History of Information, on paper in Samarkand before 751",
+   "url": "https://www.historyofinformation.com/detail.php?id=5028"
+  },
+  "sep-greek-arabic": {
+   "citation": "Cristina D'Ancona, \"Greek sources in Arabic and Islamic philosophy\", Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/arabic-islamic-greek/"
+  },
+  "hoi-gutas": {
+   "citation": "History of Information, quoting Dimitri Gutas, Greek Thought, Arabic Culture (1998), on the bayt al-hikma",
+   "url": "https://historyofinformation.com/detail.php?id=1583"
+  },
+  "brit-bayt": {
+   "citation": "Encyclopaedia Britannica, \"Bayt al-Hikmah\"",
+   "url": "https://www.britannica.com/place/Bayt-al-Hikmah"
+  },
+  "brit-khwarizmi": {
+   "citation": "Encyclopaedia Britannica, \"al-Khwarizmi\"",
+   "url": "https://www.britannica.com/biography/al-Khwarizmi"
+  },
+  "brit-fatimid": {
+   "citation": "Encyclopaedia Britannica, \"Fatimid dynasty\"",
+   "url": "https://www.britannica.com/topic/Fatimid-dynasty"
+  },
+  "brit-seljuk": {
+   "citation": "Encyclopaedia Britannica, \"Seljuq\"",
+   "url": "https://www.britannica.com/print/article/598045"
+  },
+  "brit-abdalrahman3": {
+   "citation": "Encyclopaedia Britannica, \"Abd al-Rahman III\"",
+   "url": "https://www.britannica.com/biography/Abd-al-Rahman-III"
+  },
+  "brit-muslim-spain": {
+   "citation": "Encyclopaedia Britannica, \"Spain: Muslim Spain\"",
+   "url": "https://www.britannica.com/place/Spain/Muslim-Spain"
+  },
+  "brit-cordoba": {
+   "citation": "Encyclopaedia Britannica, \"Córdoba\" (Spain)",
+   "url": "https://www.britannica.com/place/Cordoba-Spain"
+  },
+  "unesco-cordoba": {
+   "citation": "UNESCO World Heritage Centre, \"Historic Centre of Cordoba\"",
+   "url": "https://whc.unesco.org/en/list/313/"
+  },
+  "unesco-zahra": {
+   "citation": "UNESCO World Heritage Centre, \"Caliphate City of Medina Azahara\"",
+   "url": "https://whc.unesco.org/en/list/1560/"
+  },
+  "brit-hasdai": {
+   "citation": "Encyclopaedia Britannica, \"Hisdai ibn Shaprut\"",
+   "url": "https://www.britannica.com/biography/Hisdai-ibn-Shaprut"
+  },
+  "brit-nagid": {
+   "citation": "Encyclopaedia Britannica, \"Samuel ha-Nagid\"",
+   "url": "https://www.britannica.com/biography/Samuel-ha-Nagid"
+  },
+  "jvl-granada": {
+   "citation": "Jewish Virtual Library, \"Granada\"",
+   "url": "https://www.jewishvirtuallibrary.org/granada"
+  },
+  "brit-taifa": {
+   "citation": "Encyclopaedia Britannica, \"Taifa\"",
+   "url": "https://www.britannica.com/topic/taifa"
+  },
+  "brit-almoravids": {
+   "citation": "Encyclopaedia Britannica, \"Almoravids\"",
+   "url": "https://www.britannica.com/topic/Almoravids"
+  },
+  "brit-almohads": {
+   "citation": "Encyclopaedia Britannica, \"Almohads\"",
+   "url": "https://www.britannica.com/topic/Almohads"
+  },
+  "brit-maimonides": {
+   "citation": "Encyclopaedia Britannica, \"Moses Maimonides\"",
+   "url": "https://www.britannica.com/biography/Moses-Maimonides"
+  },
+  "brit-averroes": {
+   "citation": "Encyclopaedia Britannica, \"Averroes\"",
+   "url": "https://www.britannica.com/biography/Averroes"
+  },
+  "nybr-irwin": {
+   "citation": "Robert Irwin, \"The contested legacy of Muslim Spain\", New York Review of Books (2019)",
+   "url": "https://www.nybooks.com/articles/2019/03/21/contested-legacy-muslim-spain/"
+  },
+  "oteo2025": {
+   "citation": "Oteo-Garcia et al., ancient genomes from eastern Iberia, Genome Biology 26 (2025)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12036142"
+  },
+  "brit-alfonso3": {
+   "citation": "Encyclopaedia Britannica, \"Alfonso III\" (king of Asturias)",
+   "url": "https://www.britannica.com/print/article/14656"
+  },
+  "brit-sancho3": {
+   "citation": "Encyclopaedia Britannica, \"Sancho III Garcés\"",
+   "url": "https://www.britannica.com/biography/Sancho-III-Garces"
+  },
+  "brit-castile": {
+   "citation": "Encyclopaedia Britannica, \"Castile\"",
+   "url": "https://www.britannica.com/place/Castile-region-Spain"
+  },
+  "brit-aragon": {
+   "citation": "Encyclopaedia Britannica, \"Kingdom of Aragon\"",
+   "url": "https://www.britannica.com/place/Kingdom-of-Aragon"
+  },
+  "brit-afonso1": {
+   "citation": "Encyclopaedia Britannica, \"Afonso I\" (king of Portugal)",
+   "url": "https://www.britannica.com/biography/Afonso-I-king-of-Portugal"
+  },
+  "brit-toledo1085": {
+   "citation": "Encyclopaedia Britannica, \"Siege of Toledo\"",
+   "url": "https://www.britannica.com/event/Siege-of-Toledo"
+  },
+  "brit-gerard": {
+   "citation": "Encyclopaedia Britannica, \"Gerard of Cremona\"",
+   "url": "https://www.britannica.com/biography/Gerard-of-Cremona"
+  },
+  "brit-cid": {
+   "citation": "Encyclopaedia Britannica, \"El Cid: conquest of Valencia\"",
+   "url": "https://www.britannica.com/biography/El-Cid-Castilian-military-leader/Conquest-of-Valencia"
+  },
+  "bne-cantar": {
+   "citation": "Enrique Jerez, \"Un códice único para un poema único\", Biblioteca Nacional de España",
+   "url": "https://www.bne.es/sites/default/files/repositorio-archivos/ENRIQUE_JEREZ._Un_cxdice_xnico_para_un_poema_xnico.pdf"
+  },
+  "unesco-santiago": {
+   "citation": "UNESCO World Heritage Centre, \"Routes of Santiago de Compostela\"",
+   "url": "https://whc.unesco.org/en/list/669/"
+  },
+  "brit-navas": {
+   "citation": "Encyclopaedia Britannica, \"Battle of Las Navas de Tolosa\"",
+   "url": "https://www.britannica.com/event/Battle-of-Las-Navas-de-Tolosa"
+  },
+  "brit-castile-aragon": {
+   "citation": "Encyclopaedia Britannica, \"Spain: the rise of Castile and Aragon\"",
+   "url": "https://www.britannica.com/place/Spain/The-rise-of-Castile-and-Aragon"
+  },
+  "jmis-garcia": {
+   "citation": "Alejandro García-Sanjuán, on the concept of Reconquista, Journal of Medieval Iberian Studies (2016), abstract",
+   "url": "https://informahealthcare.com/doi/abs/10.1080/17546559.2016.1268263"
+  },
+  "medievalismo-2025": {
+   "citation": "J. M. Monsalvo Antón, review of D. Porrinas (ed.), ¡Reconquista! ¿Reconquista? (2024), Medievalismo 35 (2025)",
+   "url": "https://revistas.um.es/medievalismo/article/download/694131/393741/2752601"
+  },
+  "brit-anlushan": {
+   "citation": "Encyclopaedia Britannica, \"An Lushan\"",
+   "url": "https://www.britannica.com/biography/An-Lushan"
+  },
+  "carter-anlushan": {
+   "citation": "James Carter, \"The end of China's golden age\", The China Project (2021)",
+   "url": "https://thechinaproject.com/2021/02/03/the-end-of-chinas-golden-age/"
+  },
+  "brit-song-sum": {
+   "citation": "Encyclopaedia Britannica, \"Song dynasty\" summary",
+   "url": "https://www.britannica.com/summary/Song-dynasty"
+  },
+  "brit-song-culture": {
+   "citation": "Encyclopaedia Britannica, \"China: Song culture\"",
+   "url": "https://www.Britannica.Com/place/China/Song-culture"
+  },
+  "standard-jiaozi": {
+   "citation": "The Standard (Hong Kong), \"China celebrates paper currency anniversary\" (2024)",
+   "url": "https://www.thestandard.com.hk/news/article/59501/China-celebrates-paper-currency-anniversary"
+  },
+  "ox-diamond": {
+   "citation": "History of Science Museum, Oxford, \"World's earliest dated printed book: the Diamond Sutra, 868 CE\"",
+   "url": "https://www.cabinet.ox.ac.uk/worlds-earliest-dated-printed-book-diamond-sutra-868-ce"
+  },
+  "hartwell1962": {
+   "citation": "Robert Hartwell, \"A revolution in the Chinese iron and coal industries during the Northern Sung\", Journal of Asian Studies 21 (1962)",
+   "url": "https://www.cambridge.org/core/journals/journal-of-asian-studies/article/revolution-in-the-chinese-iron-and-coal-industries-during-the-northern-sung-9601126-ad/C4ED428E19B0A04C7225BB57822C89DF"
+  },
+  "wagner2001": {
+   "citation": "Donald B. Wagner, \"Blast furnaces in Song-Yuan China\", East Asian Science, Technology and Medicine 18 (2001)",
+   "url": "https://core.ac.uk/download/228877749.pdf"
+  },
+  "brit-sishu": {
+   "citation": "Encyclopaedia Britannica, \"Sishu\" (the Four Books)",
+   "url": "https://britannica.com/topic/Sishu"
+  },
+  "brit-charlemagne800": {
+   "citation": "Encyclopaedia Britannica, \"Charlemagne: Emperor of the Romans\"",
+   "url": "https://www.britannica.com/biography/Charlemagne/Emperor-of-the-Romans"
+  },
+  "lancaster-minuscule": {
+   "citation": "Meg Twycross, Lancaster University palaeography course, Carolingian minuscule",
+   "url": "https://www.lancaster.ac.uk/users/yorkdoom/palweb/week10/palwk10.htm"
+  },
+  "medievalists-hodges": {
+   "citation": "Medievalists.net, on Richard Hodges, \"Charlemagne minus Mohammed\" (lecture, 2013)",
+   "url": "https://www.medievalists.net/2014/01/charlemagne-minus-mohammed/"
+  },
+  "cup-mccormick": {
+   "citation": "Michael McCormick, Origins of the European Economy (Cambridge, 2001), introduction",
+   "url": "https://www.cambridge.org/core/books/origins-of-the-european-economy/at-the-origins-of-the-european-economy/AF2FC5D16AF96CB00BEDDC0798416461"
+  },
+  "medievalists-brown": {
+   "citation": "Medievalists.net, excerpt of Elizabeth A. R. Brown, \"The tyranny of a construct\" (1974)",
+   "url": "https://www.medievalists.net/2013/12/the-tyranny-of-a-construct-feudalism-and-historians-of-medieval-europe/"
+  },
+  "oup-reynolds": {
+   "citation": "Oxford Academic, Susan Reynolds, Fiefs and Vassals (1994)",
+   "url": "https://academic.oup.com/book/47420"
+  },
+  "brit-cluny": {
+   "citation": "Encyclopaedia Britannica, \"Cluny\"",
+   "url": "https://www.Britannica.Com/place/Cluny-France"
+  },
+  "brit-investiture": {
+   "citation": "Encyclopaedia Britannica, \"Investiture Controversy\"",
+   "url": "https://www.britannica.com/event/Investiture-Controversy"
+  },
+  "eh-lindisfarne": {
+   "citation": "English Heritage, on the Viking raid on Lindisfarne",
+   "url": "https://www.english-heritage.org.uk/administration/z-archive/04-learn-archive/old-viking-raid"
+  },
+  "shm-spillings": {
+   "citation": "Swedish History Museum, \"The world's largest Viking treasure\" (the Spillings hoard)",
+   "url": "https://historiska.se/en/explore-history/history-hub/the-worlds-largest-viking-treasure/"
+  },
+  "brit-rurik": {
+   "citation": "Encyclopaedia Britannica, \"Rurik\"",
+   "url": "https://britannica.com/topic/Rurik"
+  },
+  "eu-normanist": {
+   "citation": "Encyclopedia of Ukraine, \"Normanist theory\"",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CN%5CO%5CNormanisttheory.htm"
+  },
+  "unesco-thingvellir": {
+   "citation": "UNESCO World Heritage Centre, \"Þingvellir National Park\"",
+   "url": "https://whc.unesco.org/en/list/1152"
+  },
+  "unesco-lanse": {
+   "citation": "UNESCO World Heritage Centre, \"L'Anse aux Meadows National Historic Site\"",
+   "url": "https://whc.unesco.org/en/list/4"
+  },
+  "kuitems2021": {
+   "citation": "Kuitems et al., \"Evidence for European presence in the Americas in AD 1021\", Nature 601 (2022; online 2021), PMC",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8770119"
+  },
+  "margaryan2020": {
+   "citation": "Margaryan et al., \"Population genomics of the Viking world\", Nature 585 (2020), Royal Danish Library record",
+   "url": "https://pure.kb.dk/en/publications/population-genomics-of-the-viking-world-3/"
+  },
+  "medievalists-speidel": {
+   "citation": "Medievalists.net, on Speidel et al., Nature (2025)",
+   "url": "https://www.medievalists.net/2025/01/new-genetic-study-maps-early-medieval-migrations-across-europe/"
+  },
+  "ajpa-birka": {
+   "citation": "Hedenstierna-Jonson et al., \"A female Viking warrior confirmed by genomics\", American Journal of Physical Anthropology (2017), abstract",
+   "url": "https://zendy.io/title/10.1002/ajpa.23308"
+  },
+  "price2019": {
+   "citation": "Price et al., \"Viking warrior women? Reassessing Birka chamber grave Bj.581\", Antiquity 93 (2019)",
+   "url": "https://core-prod.cambridgecore.org/core/services/aop-cambridge-core/content/view/7CC691F69FAE51DDE905D27E049FADCD/S0003598X18002582a.pdf/viking_warrior_women_reassessing_birka_chamber_grave_bj581.pdf"
+  },
+  "jesch-birka": {
+   "citation": "Judith Jesch, on the Birka 'warrior woman' (oldnorse.org)",
+   "url": "https://oldnorse.org/portfolio/viking-warrior-women-judith-jesch-an-expert-in-viking-studies-examines-the-latest-evidence/"
+  },
+  "brit-iconoclasm": {
+   "citation": "Encyclopaedia Britannica, \"Iconoclastic Controversy\"",
+   "url": "https://britannica.com/event/Iconoclastic-Controversy"
+  },
+  "brit-byz867": {
+   "citation": "Encyclopaedia Britannica, \"Byzantine Empire: from 867 to the Ottoman conquest\"",
+   "url": "https://www.britannica.com/place/Byzantine-Empire/From-867-to-the-Ottoman-conquest"
+  },
+  "brit-cyril": {
+   "citation": "Encyclopaedia Britannica, \"Saints Cyril and Methodius\"",
+   "url": "https://britannica.com/biography/Saints-Cyril-and-Methodius"
+  },
+  "brit-vladimir": {
+   "citation": "Encyclopaedia Britannica, \"Vladimir I\"",
+   "url": "https://www.britannica.com/biography/Vladimir-I"
+  },
+  "medievalists-basil": {
+   "citation": "Georgios Theotokis, \"Did Basil II blind 15,000 Bulgarian prisoners?\", Medievalists.net (2022)",
+   "url": "https://www.medievalists.net/2022/08/basil-ii-bulgar-slayer-blind-15000-prisoners/"
+  },
+  "drm-stephenson": {
+   "citation": "Timothy May, review of Paul Stephenson, The Legend of Basil the Bulgar-Slayer, De Re Militari",
+   "url": "https://deremilitari.org/REVIEWS/Stephenson_basil.htm"
+  },
+  "brit-schism": {
+   "citation": "Encyclopaedia Britannica, \"Christianity: the Photian schism and the great East-West schism\"",
+   "url": "https://www.britannica.com/topic/Christianity/The-Photian-schism-and-the-great-East-West-schism"
+  },
+  "vatican-2025": {
+   "citation": "Joint Declaration of Pope Leo XIV and Ecumenical Patriarch Bartholomew (29 November 2025)",
+   "url": "https://www.vatican.va/content/leo-xiv/en/travels/2025/documents/20251129-dichiarazione-congiunta.html"
+  },
+  "bg-exodus20": {
+   "citation": "Exodus 20:4, New Revised Standard Version Updated Edition, BibleGateway",
+   "url": "https://www.biblegateway.com/passage/?search=Exodus%2020%3A4&version=NRSVUE"
+  },
+  "brit-manzikert": {
+   "citation": "Encyclopaedia Britannica, \"Battle of Manzikert\"",
+   "url": "https://britannica.com/event/Battle-of-Manzikert"
+  },
+  "brit-crusades": {
+   "citation": "Encyclopaedia Britannica, \"Crusades\"",
+   "url": "https://www.britannica.com/event/Crusades"
+  },
+  "fordham-urban": {
+   "citation": "Fordham Medieval Sourcebook, \"Urban II: speech at Clermont, five versions\"",
+   "url": "https://sourcebooks.web.fordham.edu/source/urban2-5vers.asp"
+  },
+  "nyrb-tyerman": {
+   "citation": "New York Review of Books, \"The holy terror\" (2006), review of Christopher Tyerman, God's War",
+   "url": "https://www.nybooks.com/articles/2006/10/19/the-holy-terror/"
+  },
+  "brit-hattin": {
+   "citation": "Encyclopaedia Britannica, \"Battle of Hattin\"",
+   "url": "https://www.britannica.com/event/Battle-of-Hattin"
+  },
+  "brit-crusade4": {
+   "citation": "Encyclopaedia Britannica, \"Fourth Crusade\"",
+   "url": "https://www.britannica.com/event/Fourth-Crusade"
+  },
+  "brit-latin-empire": {
+   "citation": "Encyclopaedia Britannica, \"Latin Empire of Constantinople\"",
+   "url": "https://www.britannica.com/place/Latin-Empire-of-Constantinople"
+  },
+  "throop2018": {
+   "citation": "Susanna Throop, \"'Not cruelty but piety'\" (2018), on definitions of crusading",
+   "url": "https://core.ac.uk/download/214259421.pdf"
+  },
+  "ihr-ocallaghan": {
+   "citation": "Institute of Historical Research, Reviews in History 344: Joseph O'Callaghan, Reconquest and Crusade in Medieval Spain",
+   "url": "https://reviews.history.ac.uk/review/344"
+  },
+  "routledge-hillenbrand": {
+   "citation": "Routledge, Carole Hillenbrand, The Crusades: Islamic Perspectives",
+   "url": "https://www.routledge.com/The-Crusades-Islamic-Perspectives/Hillenbrand/p/book/9781579582104"
+  },
+  "medslavery-bakri": {
+   "citation": "Medieval Slavery project, \"Source: al-Bakri, The Book of Highways and Kingdoms\"",
+   "url": "https://medievalslavery.org/?p=2822"
+  },
+  "jjay-bakri": {
+   "citation": "Al-Bakri on Ghana, tr. J. F. P. Hopkins in Levtzion and Hopkins, Corpus of Early Arabic Sources (1981), excerpt at John Jay College",
+   "url": "https://jjcweb.jjay.cuny.edu/history/worldspring09/paperdemo/albakri.html"
+  },
+  "bu-ghana": {
+   "citation": "Boston University African Studies Center, \"Kingdom of Ghana\" (with al-Bakri's text)",
+   "url": "https://www.bu.edu/africa/outreach/teachingresources/history/ancient-to-medieval-history/k_o_ghana"
+  },
+  "met-transsaharan": {
+   "citation": "The Met, \"The trans-Saharan gold trade (7th-14th century)\"",
+   "url": "https://www.metmuseum.org/essays/the-trans-saharan-gold-trade-7th-14th-century"
+  },
+  "brit-kanem": {
+   "citation": "Encyclopaedia Britannica (student edition), \"Kanem-Bornu\"",
+   "url": "https://kids.britannica.com/students/article/Kanem-Bornu/327929"
+  },
+  "unesco-kilwa": {
+   "citation": "UNESCO World Heritage Centre, \"Ruins of Kilwa Kisiwani and Ruins of Songo Mnara\"",
+   "url": "https://whc.unesco.org/en/list/144/"
+  },
+  "harvard-swahili": {
+   "citation": "Harvard University release on Brielle et al., ancient DNA of the Swahili coast, Nature (2023), via Newswise",
+   "url": "https://www.newswise.com/articles/ancient-dna-reveals-asian-ancestry-introduced-to-east-africa-in-early-modern-times"
+  },
+  "unesco-mapungubwe": {
+   "citation": "UNESCO World Heritage Centre, \"Mapungubwe Cultural Landscape\"",
+   "url": "https://whc.unesco.org/en/list/1099/"
+  },
+  "unesco-zimbabwe": {
+   "citation": "UNESCO World Heritage Centre, \"Great Zimbabwe National Monument\"",
+   "url": "https://whc.unesco.org/en/list/364/"
+  },
+  "unesco-lalibela": {
+   "citation": "UNESCO World Heritage Centre, \"Rock-Hewn Churches, Lalibela\"",
+   "url": "https://whc.unesco.org/en/list/18/"
+  },
+  "cam-genizah-news": {
+   "citation": "University of Cambridge, on the Ben Ezra Synagogue genizah fragments",
+   "url": "https://cam.ac.uk/node/25881"
+  },
+  "ucp-goitein": {
+   "citation": "University of California Press, S. D. Goitein, A Mediterranean Society",
+   "url": "https://www.ucpress.edu/books/a-mediterranean-society-volume-iii/paper"
+  },
+  "unesco-chola": {
+   "citation": "UNESCO World Heritage Centre, \"Great Living Chola Temples\"",
+   "url": "https://whc.unesco.org/en/list/250/"
+  },
+  "kulke-chola": {
+   "citation": "Hermann Kulke, \"The naval expeditions of the Cholas in the context of Asian history\", in Nagapattinam to Suvarnadwipa (ISEAS), abstract",
+   "url": "https://www.cambridge.org/core/product/identifier/CBO9789812309389A012/type/BOOK_PART"
+  },
+  "brit-srivijaya": {
+   "citation": "Encyclopaedia Britannica, \"Srivijaya empire\"",
+   "url": "https://www.britannica.com/place/Srivijaya-empire"
+  },
+  "unesco-borobudur": {
+   "citation": "UNESCO World Heritage Centre, \"Borobudur Temple Compounds\"",
+   "url": "https://whc.unesco.org/en/list/592/"
+  },
+  "brit-angkorwat": {
+   "citation": "Encyclopaedia Britannica, \"Angkor Wat\"",
+   "url": "https://www.britannica.com/topic/Angkor-Wat"
+  },
+  "evans2015": {
+   "citation": "Evans and Fletcher, \"The landscape of Angkor Wat redefined\", Antiquity 89 (2015)",
+   "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0003598X1500157X"
+  },
+  "klassen2021": {
+   "citation": "Klassen et al., \"Diachronic modeling of the population within the medieval Greater Angkor Region\", Science Advances (2021)",
+   "url": "https://angkordatabase.asia/publications/diachronic-modeling-of-the-population-within-the-medieval-greater-angkor-region-settlement-complex"
+  },
+  "brit-mahmud": {
+   "citation": "Encyclopaedia Britannica (student edition), \"Mahmud of Ghazna\"",
+   "url": "https://kids.britannica.com/students/article/Mahmud-of-Ghazna/275618"
+  },
+  "eaton-temples": {
+   "citation": "Richard M. Eaton, \"Temple desecration and Indo-Muslim states\"",
+   "url": "https://mail.franpritchett.com/00islamlinks/txt_eaton_temples1.pdf"
+  },
+  "diplomat-eaton": {
+   "citation": "The Diplomat, \"Richard Eaton on the desecration of Hindu temples in India\" (January 2024)",
+   "url": "https://thediplomat.com/2024/01/richard-eaton-on-the-desecration-of-hindu-temples-in-india"
+  },
+  "verso-thapar": {
+   "citation": "Romila Thapar, Somanatha: The Many Voices of a History (Verso), publisher's description",
+   "url": "https://bookwire.bowker.com/book/USA/Somanatha-9781784780654-Romila-Thapar-51419953"
+  },
+  "pmindia-somnath": {
+   "citation": "Prime Minister of India, address at the Somnath Swabhiman Parv (11 January 2026)",
+   "url": "https://www.pmindia.gov.in/?p=16769307"
+  },
+  "brit-delhi-sultanate": {
+   "citation": "Encyclopaedia Britannica, \"Delhi sultanate\"",
+   "url": "https://www.britannica.com/place/Delhi-sultanate"
+  },
+  "unesco-cahokia": {
+   "citation": "UNESCO World Heritage Centre, \"Cahokia Mounds State Historic Site\"",
+   "url": "https://whc.unesco.org/en/list/198/"
+  },
+  "white2019": {
+   "citation": "White et al., \"Fecal stanols show simultaneous flooding and seasonal precipitation change correlate with Cahokia's population decline\", PNAS (2019), record",
+   "url": "https://experts.umn.edu/en/publications/fecal-stanols-show-simultaneous-flooding-and-seasonal-precipitati/"
+  },
+  "hd-cahokia2024": {
+   "citation": "HeritageDaily, on Rankin and Mueller, The Holocene (2024): no drought signal at Cahokia",
+   "url": "https://www.heritagedaily.com/2024/07/study-challenges-the-narrative-of-cahokias-abandonment/152521"
+  },
+  "unesco-chaco": {
+   "citation": "UNESCO World Heritage Centre, \"Chaco Culture\"",
+   "url": "https://whc.unesco.org/en/list/353/"
+  },
+  "evans2018": {
+   "citation": "Evans et al., \"Quantification of drought during the collapse of the classic Maya civilization\", Science 361 (2018), St Andrews repository",
+   "url": "https://research-repository.st-andrews.ac.uk/handle/10023/16993"
+  },
+  "cam-maya2025": {
+   "citation": "University of Cambridge, \"Mexico cave reveals Maya droughts\" (2025)",
+   "url": "https://www.cam.ac.uk/stories/mexico-cave-maya-drought"
+  },
+  "unesco-chichen": {
+   "citation": "UNESCO World Heritage Centre, \"Pre-Hispanic City of Chichen-Itza\"",
+   "url": "https://whc.unesco.org/en/list/483/"
+  },
+  "brit-postclassic": {
+   "citation": "Encyclopaedia Britannica, \"Pre-Columbian civilizations: archaeological remains of Postclassic civilization\"",
+   "url": "https://www.britannica.com/topic/pre-Columbian-civilizations/Archaeological-remains-of-Postclassic-civilization"
+  },
+  "wilmshurst2011": {
+   "citation": "Wilmshurst, Hunt, Lipo and Anderson, \"High-precision radiocarbon dating shows recent and rapid initial human colonization of East Polynesia\", PNAS 108 (2011), record",
+   "url": "https://experts.arizona.edu/en/publications/high-precision-radiocarbon-dating-shows-recent-and-rapid-initial-/"
+  },
+  "landcare-nz": {
+   "citation": "Manaaki Whenua Landcare Research, \"Human arrival\" in New Zealand",
+   "url": "https://oldwww.landcareresearch.co.nz/science/plants-animals-fungi/ecosystems/prehistoric-settlement/human-arrival"
+  },
+  "sciam-rapanui": {
+   "citation": "Scientific American, \"Rethinking Easter Island's historic 'collapse'\"",
+   "url": "https://www.scientificamerican.com/article/rethinking-easter-islands-historic-collapse/"
+  },
+  "davis2024": {
+   "citation": "Davis et al., on Rapa Nui's rock gardens, Science Advances (2024), record",
+   "url": "https://experts.arizona.edu/en/publications/island-wide-characterization-of-agricultural-production-challenge/"
+  },
+  "ku-rapanui2024": {
+   "citation": "University of Copenhagen, \"Easter Island population collapse never happened\" (2024), on Moreno-Mayar et al., Nature",
+   "url": "https://archaeology.ku.dk/news/easter-island-population-collapse-never-happened/"
+  }
+ },
+ "claims": {
+  "c-genizah": {
+   "text": "Jews of medieval Cairo placed worn-out writings in a storeroom, a genizah, of the Ben Ezra Synagogue rather than destroy them; in 1896-97 Solomon Schechter brought some 193,000 manuscript fragments to Cambridge, including business letters, accounts and marriage and divorce deeds from the 11th century onward.",
+   "label": "consensus",
+   "sources": [
+    "cudl-genizah",
+    "cam-genizah-unit"
+   ],
+   "show": false
+  },
+  "c-idrisi": {
+   "text": "The geographer al-Idrisi, born in Ceuta, completed a geography of the known world for the Norman king Roger II of Sicily in 1154, combining Arabic and Greek works with eyewitness reports; for Roger he also made a silver planisphere showing a map of the world.",
+   "label": "consensus",
+   "sources": [
+    "brit-idrisi"
+   ],
+   "show": false
+  },
+  "c-bakri": {
+   "text": "The Córdoban geographer al-Bakri (died 1094) described the capital of Ghana as two towns, a stone-built one for Muslim traders and a mud-built one for the local Mande.",
+   "label": "consensus",
+   "sources": [
+    "brit-bakri"
+   ],
+   "show": false
+  },
+  "c-printing-cost": {
+   "text": "Printing dramatically lowered the price of books in Song China, aiding the spread of literacy; movable type was first made by Bi Sheng (990-1051), but carved woodblocks remained the usual method.",
+   "label": "consensus",
+   "sources": [
+    "cu-printing"
+   ],
+   "show": false
+  },
+  "c-sagas-test": {
+   "text": "Archaeology can test medieval sagas: the 11th-century Norse site at L'Anse aux Meadows matches the Icelandic Vinland sagas' accounts of voyages to North America.",
+   "label": "consensus",
+   "sources": [
+    "unesco-lanse2"
+   ],
+   "show": false
+  },
+  "c-baghdad": {
+   "text": "The caliph al-Mansur founded Baghdad in 762 as Madinat al-Salam, the 'Round City', about 2,700 m across inside three concentric walls; its wharves received ships from China, India and East Africa.",
+   "label": "consensus",
+   "sources": [
+    "brit-baghdad"
+   ],
+   "show": false
+  },
+  "c-belitung": {
+   "text": "A ship wrecked off Belitung in Indonesia in about the 830s, sewn from planks in the style of the Persian Gulf, carried more than 50,000 painted bowls made in China.",
+   "label": "approx",
+   "sources": [
+    "acm-belitung"
+   ],
+   "show": true,
+   "note": "Dated from objects in the cargo."
+  },
+  "c-abbasid-coins": {
+   "text": "Abbasid gold dinars carried only inscriptions, no images, like the Umayyad reform coins (10.9); the silver dirham had begun as a copy of the Sasanian drachm.",
+   "label": "consensus",
+   "sources": [
+    "met-dinar780",
+    "met-dirham-sas"
+   ],
+   "show": false
+  },
+  "c-paper-talas": {
+   "text": "A later story credits Chinese prisoners captured at the battle of Talas in 751 with bringing paper-making to the Islamic world.",
+   "label": "debated",
+   "sources": [
+    "bloom1999",
+    "hoi-samarkand"
+   ],
+   "show": true,
+   "note": "Jonathan Bloom treats the story cautiously; paper was already known in Samarkand decades before 751."
+  },
+  "c-paper-baghdad": {
+   "text": "Abbasid officials promoted paper for government records, partly because documents on paper were harder to alter undetected than those on parchment.",
+   "label": "tradition",
+   "sources": [
+    "bloom1999"
+   ],
+   "show": true,
+   "note": "The story of al-Fadl ibn Yahya comes from Ibn Khaldun; the point about forgery is Bloom's reasoning."
+  },
+  "c-translation": {
+   "text": "Translation of Greek philosophy and science into Arabic, often by way of Syriac, flourished under the Abbasids, above all under al-Ma'mun (813-833); the Nestorian Christian physician Hunayn ibn Ishaq led one of the great translation circles.",
+   "label": "consensus",
+   "sources": [
+    "sep-greek-arabic"
+   ],
+   "show": false
+  },
+  "c-house-wisdom": {
+   "text": "How much of an institution the Abbasid 'House of Wisdom' (bayt al-hikma) was is debated.",
+   "label": "debated",
+   "sources": [
+    "hoi-gutas",
+    "sep-greek-arabic",
+    "brit-bayt"
+   ],
+   "show": true,
+   "note": "Dimitri Gutas sees a library and bureau modelled on Sasanian administration, 'certainly not a center for the translation of Greek works into Arabic'; Cristina D'Ancona agrees that it 'cannot be viewed as an institutional center' for such translations. Older accounts, which Britannica mentions, call it an academy."
+  },
+  "c-khwarizmi": {
+   "text": "Al-Khwarizmi (about 780-850) wrote the book whose title gave us the word 'algebra'; his own name, in Latin 'Algoritmi', gave us 'algorithm', and his work introduced Hindu-Arabic numerals to the West.",
+   "label": "consensus",
+   "sources": [
+    "brit-khwarizmi"
+   ],
+   "show": false
+  },
+  "c-abbasid-fragment": {
+   "text": "Abbasid power fragmented: the caliphs lived at Samarra from 836 to 892, a Persian dynasty, the Buyids, controlled Baghdad from 945 to 1055, and the Seljuk Turks entered it in 1055.",
+   "label": "consensus",
+   "sources": [
+    "brit-baghdad",
+    "brit-seljuk"
+   ],
+   "show": false
+  },
+  "c-fatimids": {
+   "text": "The Fatimids, an Ismaili Shia dynasty claiming the caliphate, took Egypt in 969 and built Cairo as their capital.",
+   "label": "consensus",
+   "sources": [
+    "brit-fatimid"
+   ],
+   "show": false
+  },
+  "c-caliphate929": {
+   "text": "Abd al-Rahman III, emir of Córdoba from 912, took the title of caliph in 929, partly to answer the Fatimids' claim to it; the caliphate of Córdoba lasted until 1031.",
+   "label": "consensus",
+   "sources": [
+    "brit-abdalrahman3",
+    "brit-muslim-spain"
+   ],
+   "show": false
+  },
+  "c-cordoba-pop": {
+   "text": "Córdoba around the year 1000 was probably the largest city in Europe, with some 100,000 people.",
+   "label": "approx",
+   "sources": [
+    "brit-cordoba",
+    "brit-abdalrahman3"
+   ],
+   "show": true,
+   "note": "A modern estimate; the medieval boast that the city had 3,000 mosques and more than 100,000 shops and houses is not a census figure."
+  },
+  "c-mezquita": {
+   "text": "The Great Mosque of Córdoba was begun in the 8th century over the remains of a Visigothic church, extended over three centuries, and made a cathedral in 1236.",
+   "label": "consensus",
+   "sources": [
+    "unesco-cordoba"
+   ],
+   "show": false
+  },
+  "c-zahra": {
+   "text": "Madinat al-Zahra, the palace city of the caliphs built in the mid-10th century, was laid waste in the civil war of 1009-1010 and rediscovered in the early 20th century.",
+   "label": "consensus",
+   "sources": [
+    "unesco-zahra"
+   ],
+   "show": false
+  },
+  "c-hasdai": {
+   "text": "Hasdai ibn Shaprut (about 915-975), a Jewish physician, served Abd al-Rahman III as court doctor and, in effect, minister, and was a patron of Hebrew learning.",
+   "label": "consensus",
+   "sources": [
+    "brit-hasdai"
+   ],
+   "show": false
+  },
+  "c-nagid": {
+   "text": "Samuel ha-Nagid (993-1055/56), scholar, poet and soldier, became vizier of the taifa kingdom of Granada; his son Joseph, who succeeded him, was killed in a revolt in 1066 in which much of Granada's Jewish community died.",
+   "label": "approx",
+   "sources": [
+    "brit-nagid",
+    "jvl-granada"
+   ],
+   "show": true,
+   "note": "The death toll of 1066 is uncertain."
+  },
+  "c-taifas": {
+   "text": "After 1009 the caliphate collapsed into at least 23 'party kingdoms' (taifas), several of which paid tribute to Alfonso VI of Castile.",
+   "label": "consensus",
+   "sources": [
+    "brit-taifa",
+    "brit-muslim-spain"
+   ],
+   "show": false
+  },
+  "c-almoravids": {
+   "text": "After Toledo fell in 1085 the taifa kings called in the Almoravids, a Berber confederation from the Sahara, who defeated Castile at al-Zallaqa in 1086 and then absorbed the taifas in 1090-91.",
+   "label": "consensus",
+   "sources": [
+    "brit-almoravids",
+    "brit-taifa",
+    "brit-muslim-spain"
+   ],
+   "show": false
+  },
+  "c-almohads": {
+   "text": "The Almohads, a Berber movement preaching a strict doctrine of God's unity, took Marrakesh in 1147 and Seville in 1172, and were crushed at Las Navas de Tolosa in 1212.",
+   "label": "consensus",
+   "sources": [
+    "brit-almohads"
+   ],
+   "show": false
+  },
+  "c-maimonides": {
+   "text": "When the Almohads took Córdoba in 1148, its Jews had to convert or leave; the family of Moses Maimonides left, eventually settling in Egypt, where he wrote the Mishneh Torah in Hebrew and the Guide for the Perplexed in Arabic.",
+   "label": "consensus",
+   "sources": [
+    "brit-maimonides"
+   ],
+   "show": false
+  },
+  "c-averroes": {
+   "text": "Ibn Rushd (Averroes, 1126-1198), chief judge of Córdoba, wrote commentaries on Aristotle that made him 'the Commentator' to Latin scholars, and defended philosophy against al-Ghazali's attack.",
+   "label": "consensus",
+   "sources": [
+    "brit-averroes"
+   ],
+   "show": false
+  },
+  "c-convivencia": {
+   "text": "Whether al-Andalus was a land of 'convivencia', peaceful coexistence of Muslims, Christians and Jews, is contested; Robert Irwin calls the field 'an academic battleground'.",
+   "label": "debated",
+   "sources": [
+    "nybr-irwin"
+   ],
+   "show": true,
+   "note": "Américo Castro coined the term (1948); María Rosa Menocal praised an enlightened culture; Darío Fernández-Morera describes pervasive religious repression; Brian Catlos argues tolerance was real but grew from economic and political necessity."
+  },
+  "c-iberia-dna": {
+   "text": "Ancient genomes from eastern Iberia show North African ancestry becoming established during the Islamic period and persisting after the Christian conquest, until the expulsion of the Moriscos in 1609.",
+   "label": "approx",
+   "sources": [
+    "oteo2025"
+   ],
+   "show": true,
+   "note": "New (2025); a single regional study."
+  },
+  "c-asturias": {
+   "text": "Alfonso III of Asturias (866-910) moved his capital forward from Oviedo to León.",
+   "label": "approx",
+   "sources": [
+    "brit-alfonso3"
+   ],
+   "show": true,
+   "note": "Some accounts date the move to his sons, about 910-914."
+  },
+  "c-sancho3": {
+   "text": "Sancho III of Navarre (died 1035) dominated the Christian states of Spain and divided his lands into four kingdoms among his sons.",
+   "label": "consensus",
+   "sources": [
+    "brit-sancho3"
+   ],
+   "show": false
+  },
+  "c-castile-leon": {
+   "text": "Ferdinand I (1037-65) was the first king of Castile; Castile and León were finally united in 1230.",
+   "label": "consensus",
+   "sources": [
+    "brit-castile"
+   ],
+   "show": false
+  },
+  "c-aragon": {
+   "text": "Aragon took Zaragoza from its Muslim rulers in 1118 and united with Catalonia in 1137, forming the Crown of Aragon.",
+   "label": "consensus",
+   "sources": [
+    "brit-aragon"
+   ],
+   "show": false
+  },
+  "c-portugal": {
+   "text": "Afonso Henriques took the title king of Portugal in 1139 and in 1147, with the help of passing crusaders, captured Lisbon.",
+   "label": "consensus",
+   "sources": [
+    "brit-afonso1"
+   ],
+   "show": false
+  },
+  "c-toledo1085": {
+   "text": "Alfonso VI of Castile took Toledo in May 1085; its Muslims were allowed to keep their property and practise their religion.",
+   "label": "consensus",
+   "sources": [
+    "brit-toledo1085"
+   ],
+   "show": false
+  },
+  "c-gerard": {
+   "text": "In Toledo, Gerard of Cremona (about 1114-1187) and others translated works of science and philosophy from Arabic into Latin; about 80 translations, including Ptolemy's Almagest and Avicenna's Canon of Medicine, are attributed to him.",
+   "label": "consensus",
+   "sources": [
+    "brit-gerard"
+   ],
+   "show": false
+  },
+  "c-cid": {
+   "text": "Rodrigo Díaz, El Cid, a Castilian lord who fought for both Christian and Muslim rulers, took Valencia in 1094 and held it until his death in 1099.",
+   "label": "consensus",
+   "sources": [
+    "brit-cid"
+   ],
+   "show": false
+  },
+  "c-cantar": {
+   "text": "The epic Cantar de mio Cid survives in a single manuscript in the National Library of Spain, copied from an exemplar made by one Per Abad in 1207.",
+   "label": "debated",
+   "sources": [
+    "bne-cantar"
+   ],
+   "show": true,
+   "note": "Some scholars date the poem's composition to the mid-12th century, others to the early 13th."
+  },
+  "c-santiago": {
+   "text": "A tomb believed to be that of the apostle James was discovered in Galicia in the 9th century, and Santiago de Compostela became a pilgrimage centre comparable to Jerusalem and Rome.",
+   "label": "tradition",
+   "sources": [
+    "unesco-santiago"
+   ],
+   "show": true,
+   "note": "The pilgrimage is historical; the identification of the tomb is a matter of faith and tradition."
+  },
+  "c-navas": {
+   "text": "On 16 July 1212, at Las Navas de Tolosa, the combined armies of Castile, Aragon, Navarre and Portugal, under a crusade proclaimed by Pope Innocent III, defeated the Almohad caliph.",
+   "label": "consensus",
+   "sources": [
+    "brit-navas"
+   ],
+   "show": false
+  },
+  "c-1236-1248": {
+   "text": "Ferdinand III of Castile took Córdoba in 1236 and Seville in 1248; James I of Aragon took Valencia in 1238. The Muslims retained only the kingdom of Granada.",
+   "label": "consensus",
+   "sources": [
+    "brit-castile-aragon",
+    "brit-aragon"
+   ],
+   "show": false
+  },
+  "c-reconquista-term": {
+   "text": "Whether to call these wars the 'Reconquista' is debated among Spanish historians.",
+   "label": "debated",
+   "sources": [
+    "jmis-garcia",
+    "medievalismo-2025"
+   ],
+   "show": true,
+   "note": "Critics such as Alejandro García-Sanjuán and Martín Ríos Saloma call it a 19th-century nationalist construction that peaked under Franco; defenders such as Carlos de Ayala and Francisco García Fitz note that the idea of recovering lost lands appears in 9th-century Asturian sources."
+  },
+  "c-anlushan": {
+   "text": "Late in 755 the general An Lushan rebelled, and within a month took Luoyang; the revolt was finally put down in 763, but warlords held much of China until the Song reunified it in 960.",
+   "label": "consensus",
+   "sources": [
+    "brit-anlushan"
+   ],
+   "show": false
+  },
+  "c-anlushan-toll": {
+   "text": "Some writers, among them Steven Pinker, say the rebellion killed 36 million people.",
+   "label": "debated",
+   "sources": [
+    "carter-anlushan"
+   ],
+   "show": true,
+   "note": "The figure comes from the fall in registered population, which historians say reflects migration and the collapse of record-keeping as well as deaths; it is generally considered too high."
+  },
+  "c-song": {
+   "text": "The Song dynasty ruled all China from 960 until 1127 and the south until 1279; it sent ever more candidates through the civil-service examinations, and paper money came into growing use.",
+   "label": "consensus",
+   "sources": [
+    "brit-song-sum"
+   ],
+   "show": false
+  },
+  "c-champa-rice": {
+   "text": "Early-ripening rice from Champa (in today's Vietnam), introduced in the 11th century, allowed two crops a year in the south and helped feed a population of more than 100 million.",
+   "label": "approx",
+   "sources": [
+    "brit-song-culture"
+   ],
+   "show": true,
+   "note": "The population is a round estimate from the registers."
+  },
+  "c-jiaozi": {
+   "text": "Merchants in Sichuan issued paper notes called jiaozi; in 1024 the Song government took over their issue, the first government paper money.",
+   "label": "approx",
+   "sources": [
+    "standard-jiaozi"
+   ],
+   "show": true,
+   "note": "China marked the millennium in 2024."
+  },
+  "c-diamond": {
+   "text": "The Diamond Sutra found at Dunhuang, printed from woodblocks and dated 11 May 868, is the world's earliest dated printed book.",
+   "label": "consensus",
+   "sources": [
+    "ox-diamond"
+   ],
+   "show": false
+  },
+  "c-hartwell": {
+   "text": "In 1962 Robert Hartwell argued that the Northern Song had an iron and coal 'revolution', estimating iron output in 1078 at about 75,000 tons, later raised to about 125,000.",
+   "label": "debated",
+   "sources": [
+    "hartwell1962",
+    "wagner2001"
+   ],
+   "show": true,
+   "note": "Donald Wagner finds the size of the figure 'quite credible' but Hartwell's method 'seriously flawed', following Yoshida Mitsukuni; the idea of a Song 'industrial revolution' remains contested."
+  },
+  "c-zhuxi": {
+   "text": "Zhu Xi published the 'Four Books' of Confucianism with his commentaries in 1190; they were the syllabus of the civil-service examinations from 1313 to 1905.",
+   "label": "consensus",
+   "sources": [
+    "brit-sishu"
+   ],
+   "show": false
+  },
+  "c-coronation800": {
+   "text": "On Christmas Day 800 Pope Leo III crowned Charlemagne emperor in St Peter's in Rome.",
+   "label": "consensus",
+   "sources": [
+    "brit-charlemagne800"
+   ],
+   "show": false
+  },
+  "c-coronation-intent": {
+   "text": "Charlemagne's biographer Einhard says he would not have entered St Peter's had he known what was planned.",
+   "label": "debated",
+   "sources": [
+    "brit-charlemagne800"
+   ],
+   "show": true,
+   "note": "Britannica judges that 'the evidence leaves little doubt that king and pope collaborated in planning the coronation'."
+  },
+  "c-minuscule": {
+   "text": "Carolingian minuscule, a clear script, was created partly under Charlemagne's patronage, and most of our knowledge of classical literature comes from copies made at his court.",
+   "label": "consensus",
+   "sources": [
+    "lancaster-minuscule"
+   ],
+   "show": false
+  },
+  "c-pirenne": {
+   "text": "Henri Pirenne argued that the Islamic conquests closed the Mediterranean and so forced the West inland: 'without Mohammed Charlemagne would have been inconceivable'.",
+   "label": "debated",
+   "sources": [
+    "medievalists-hodges"
+   ],
+   "show": true,
+   "note": "Archaeologists Richard Hodges and David Whitehouse reply that the collapse of the Roman Mediterranean 'clearly predated Mohammed'."
+  },
+  "c-mccormick": {
+   "text": "Michael McCormick's study of travellers and trade found that by 800 'multiple circuits were connecting again', carried now mostly by western traders, with slaves a major export from Europe.",
+   "label": "debated",
+   "sources": [
+    "cup-mccormick",
+    "medievalists-hodges"
+   ],
+   "show": true,
+   "note": "A revision of Pirenne; the scale of the slave trade is still debated."
+  },
+  "c-feudalism": {
+   "text": "Some historians reject the word 'feudalism'.",
+   "label": "debated",
+   "sources": [
+    "medievalists-brown",
+    "oup-reynolds"
+   ],
+   "show": true,
+   "note": "Elizabeth A. R. Brown (1974) called it a 'tyranny of a construct' that makes historians dismiss inconvenient documents; Susan Reynolds (1994) challenged the standard model of fiefs and vassals. Others still find the term useful as shorthand."
+  },
+  "c-cluny": {
+   "text": "The monastery of Cluny in Burgundy, founded in 910, answered to no authority but the pope's and led a wide movement of monastic reform.",
+   "label": "consensus",
+   "sources": [
+    "brit-cluny"
+   ],
+   "show": false
+  },
+  "c-investiture": {
+   "text": "Pope Gregory VII banned lay rulers, kings included, from investing bishops; the German king Henry IV was excommunicated and in 1077 did penance before the pope at Canossa. The Concordat of Worms (1122) ended the dispute with a compromise.",
+   "label": "consensus",
+   "sources": [
+    "brit-investiture"
+   ],
+   "show": false
+  },
+  "c-lindisfarne": {
+   "text": "On 8 June 793 'heathen men' sacked the monastery of Lindisfarne off the Northumbrian coast. It was not the first Viking raid on England, but it sent a shockwave through Europe.",
+   "label": "consensus",
+   "sources": [
+    "eh-lindisfarne"
+   ],
+   "show": false
+  },
+  "c-spillings": {
+   "text": "The Spillings hoard, found on Gotland in 1999, holds about 76 kg of silver and bronze, mostly Arabic coins (dirhams); the youngest dates to 870.",
+   "label": "consensus",
+   "sources": [
+    "shm-spillings"
+   ],
+   "show": false
+  },
+  "c-rurik": {
+   "text": "The Rus' chronicle says the Scandinavian Rurik was invited to rule Novgorod in 862.",
+   "label": "tradition",
+   "sources": [
+    "brit-rurik"
+   ],
+   "show": true,
+   "note": "Britannica calls him 'semilegendary'; the story is not accepted at face value."
+  },
+  "c-normanist": {
+   "text": "Whether Scandinavians founded the state of the Rus' has been argued for three centuries.",
+   "label": "debated",
+   "sources": [
+    "eu-normanist"
+   ],
+   "show": true,
+   "note": "'Normanists' credit Scandinavians; 'anti-Normanists', from Lomonosov to Mykhailo Hrushevsky, stress local Slavic origins. Most Western scholars accept a substantial Scandinavian role; in the Soviet Union, anti-Normanist views were officially sanctioned from the 1930s."
+  },
+  "c-althing": {
+   "text": "Iceland's assembly, the Althing, met in the open air at Þingvellir from about 930 until 1798.",
+   "label": "approx",
+   "sources": [
+    "unesco-thingvellir"
+   ],
+   "show": true,
+   "note": "The founding date comes from Icelandic tradition."
+  },
+  "c-lanse": {
+   "text": "L'Anse aux Meadows in Newfoundland is an 11th-century Norse settlement, the earliest evidence of Europeans in the Americas; wood cut there with metal tools was felled in 1021.",
+   "label": "consensus",
+   "sources": [
+    "unesco-lanse",
+    "kuitems2021"
+   ],
+   "show": false
+  },
+  "c-1021-method": {
+   "text": "The exact year comes from a spike in atmospheric radiocarbon caused by a cosmic-ray event in 993, which marks a single tree ring; counting rings outward gives the year of felling.",
+   "label": "consensus",
+   "sources": [
+    "kuitems2021"
+   ],
+   "show": false
+  },
+  "c-margaryan": {
+   "text": "A 2020 study of 442 ancient genomes found that Vikings in England were mostly of Danish descent, in the eastern Baltic mostly Swedish, and in Ireland, Iceland and Greenland mostly Norwegian.",
+   "label": "consensus",
+   "sources": [
+    "margaryan2020"
+   ],
+   "show": false
+  },
+  "c-speidel-viking": {
+   "text": "A 2025 study of over 1,500 genomes found that ancestry from central Europe had become prominent in southern Scandinavia by the Viking Age.",
+   "label": "approx",
+   "sources": [
+    "medievalists-speidel"
+   ],
+   "show": true,
+   "note": "New; known here through a report of the Nature paper."
+  },
+  "c-birka": {
+   "text": "A richly armed 10th-century grave at Birka in Sweden (Bj 581) was shown by DNA in 2017 to belong to a woman.",
+   "label": "debated",
+   "sources": [
+    "ajpa-birka",
+    "price2019",
+    "jesch-birka"
+   ],
+   "show": true,
+   "note": "Neil Price and colleagues read her as 'a woman who lived as a professional warrior', and allow a symbolic reading; Judith Jesch thinks they 'make too much of rather slim evidence'."
+  },
+  "c-iconoclasm": {
+   "text": "From the 720s Byzantine emperors banned religious images (icons), citing the commandment against images; a council at Nicaea restored them in 787, a second ban followed in 814, and icons were restored for good in 843.",
+   "label": "consensus",
+   "sources": [
+    "brit-iconoclasm"
+   ],
+   "show": false
+  },
+  "c-macedonian": {
+   "text": "The Macedonian dynasty, from 867, brought a renaissance in Byzantine learning; under Basil II the empire covered more of Europe than at any time since Justinian.",
+   "label": "consensus",
+   "sources": [
+    "brit-byz867"
+   ],
+   "show": false
+  },
+  "c-cyril": {
+   "text": "In 863 the brothers Cyril and Methodius went to Great Moravia, invented the Glagolitic alphabet for Slavic, and translated scripture into the language later called Old Church Slavonic.",
+   "label": "consensus",
+   "sources": [
+    "brit-cyril"
+   ],
+   "show": false
+  },
+  "c-vladimir": {
+   "text": "Vladimir of Kyiv agreed to become Christian in about 987-988 as part of a pact to marry the emperor Basil II's sister Anne, after seizing the Byzantine city of Chersonesus.",
+   "label": "approx",
+   "sources": [
+    "brit-vladimir"
+   ],
+   "show": true,
+   "note": "The chronicle story of Vladimir weighing Islam, Judaism and Christianity before choosing is, in Britannica's words, 'apparently mythically symbolic'."
+  },
+  "c-basil-blind": {
+   "text": "A chronicle says Basil II blinded about 15,000 Bulgarian prisoners in 1014, and he is remembered as 'Bulgar-slayer'.",
+   "label": "debated",
+   "sources": [
+    "medievalists-basil",
+    "drm-stephenson"
+   ],
+   "show": true,
+   "note": "Historians think the number exaggerated; Georgios Theotokis notes that the name 'Bulgar-slayer' is not attested until some three centuries later, and Paul Stephenson argues that in his lifetime Basil had no wish to be seen as the 'Bulgar-slayer' and that the name owes much to twelfth-century attitudes to the Bulgars."
+  },
+  "c-1054": {
+   "text": "On 16 July 1054 papal legates led by Cardinal Humbert laid a bull excommunicating Patriarch Michael Cerularius on the altar of Hagia Sophia; among its charges was the Greek use of leavened bread in the Eucharist.",
+   "label": "consensus",
+   "sources": [
+    "brit-schism"
+   ],
+   "show": false
+  },
+  "c-1054-meaning": {
+   "text": "At the time 1054 looked like 'a minor storm in which both sides had behaved with some arrogance'; only later was it seen as the final break between East and West.",
+   "label": "debated",
+   "sources": [
+    "brit-schism"
+   ],
+   "show": true,
+   "note": "Britannica describes the break as growing as 'Greeks and Latins became more estranged'; only in hindsight was 1054 seen as 'the moment of the final breach'."
+  },
+  "c-1965-2025": {
+   "text": "The excommunications were lifted in 1965, and in a joint declaration on 29 November 2025 Pope Leo XIV and Patriarch Bartholomew renewed their hope for 'full communion'.",
+   "label": "consensus",
+   "sources": [
+    "vatican-2025"
+   ],
+   "show": false
+  },
+  "c-exodus-20-4": {
+   "text": "'You shall not make for yourself an idol, whether in the form of anything that is in heaven above or that is on the earth beneath or that is in the water under the earth' (Exodus 20:4, NRSVUE).",
+   "label": "tradition",
+   "sources": [
+    "bg-exodus20",
+    "brit-iconoclasm"
+   ],
+   "show": true,
+   "note": "Britannica notes the iconoclasts cited this Old Testament prohibition; Jewish and Christian traditions have read the verse in different ways."
+  },
+  "c-manzikert": {
+   "text": "At Manzikert in eastern Anatolia on 26 August 1071 the Seljuk Turks under Alp Arslan defeated and captured the emperor Romanus IV; overthrown at home, Romanus was blinded and killed, and most of Anatolia passed to the Turks.",
+   "label": "consensus",
+   "sources": [
+    "brit-manzikert"
+   ],
+   "show": false
+  },
+  "c-clermont": {
+   "text": "Pope Urban II called a council at Clermont in November 1095 and summoned western knights to help the Christians of the East; those who went were promised remission of their sins.",
+   "label": "consensus",
+   "sources": [
+    "brit-crusades",
+    "fordham-urban"
+   ],
+   "show": false
+  },
+  "c-urban-sources": {
+   "text": "The council's official record is lost; Urban's speech survives in several differing accounts, most by men who said they were present.",
+   "label": "consensus",
+   "sources": [
+    "fordham-urban"
+   ],
+   "show": false
+  },
+  "c-rhineland": {
+   "text": "In 1096 crusading bands attacked the Jewish communities of the Rhineland, at Speyer, Worms, Mainz and Cologne; forced to convert or die, many Jews chose death.",
+   "label": "consensus",
+   "sources": [
+    "brit-crusades"
+   ],
+   "show": false
+  },
+  "c-jerusalem1099": {
+   "text": "The crusaders took Jerusalem in July 1099, and Muslims and Jews were killed in the slaughter that followed.",
+   "label": "debated",
+   "sources": [
+    "brit-crusades",
+    "nyrb-tyerman"
+   ],
+   "show": true,
+   "note": "That a massacre happened is agreed; Christopher Tyerman argues contemporary chroniclers exaggerated its scale."
+  },
+  "c-crusader-states": {
+   "text": "The crusaders founded four states: the county of Edessa, the principality of Antioch, the county of Tripoli and the kingdom of Jerusalem; Edessa fell in 1144.",
+   "label": "consensus",
+   "sources": [
+    "brit-crusades"
+   ],
+   "show": false
+  },
+  "c-hattin": {
+   "text": "Saladin destroyed the army of the kingdom of Jerusalem at Hattin on 4 July 1187 and took Jerusalem that October.",
+   "label": "consensus",
+   "sources": [
+    "brit-hattin"
+   ],
+   "show": false
+  },
+  "c-saladin": {
+   "text": "Saladin was long admired in Europe for his valour and generosity.",
+   "label": "debated",
+   "sources": [
+    "nyrb-tyerman"
+   ],
+   "show": true,
+   "note": "Tyerman sees a 'shrewd politician whose generosity, like his occasional savagery, was carefully calculated'."
+  },
+  "c-1204": {
+   "text": "The Fourth Crusade, unable to pay Venice for its ships, was diverted to Zara and then to Constantinople, which it captured and sacked in 1204; the Latin empire it founded lasted until the Byzantines retook the city in 1261.",
+   "label": "consensus",
+   "sources": [
+    "brit-crusade4",
+    "brit-latin-empire"
+   ],
+   "show": false
+  },
+  "c-1204-judgement": {
+   "text": "How to judge the sack of 1204 divides historians.",
+   "label": "debated",
+   "sources": [
+    "nyrb-tyerman"
+   ],
+   "show": true,
+   "note": "Steven Runciman wrote that there was never 'a greater crime against humanity than the Fourth Crusade'; Christopher Tyerman calls it, by the standards of the time, 'an atrocity, but not a war-crime'."
+  },
+  "c-pluralist": {
+   "text": "Most historians now follow Jonathan Riley-Smith's 'pluralist' definition: crusades were marked by papal authorisation, vows and the remission of sins, and included campaigns in Spain, the Baltic and against heretics, not only those to Jerusalem.",
+   "label": "debated",
+   "sources": [
+    "throop2018"
+   ],
+   "show": true,
+   "note": "Throop lists papal authorisation alongside vows and the remission of sins as marks of a crusade, and notes that 'even the pluralist position is admittedly imperfect'."
+  },
+  "c-crusade-view": {
+   "text": "Historians' overall judgement has shifted.",
+   "label": "debated",
+   "sources": [
+    "nyrb-tyerman"
+   ],
+   "show": true,
+   "note": "Steven Runciman (1950s) concluded that the Holy War was 'a long act of intolerance in the name of God'; Riley-Smith's generation challenged stereotypes of crusaders as uniformly brutal and greedy, stressing religious motives."
+  },
+  "c-spain-crusade": {
+   "text": "Joseph O'Callaghan argues that the papacy turned the Iberian wars into crusades, with the same spiritual rewards as the expeditions to Jerusalem.",
+   "label": "debated",
+   "sources": [
+    "ihr-ocallaghan"
+   ],
+   "show": true,
+   "note": "His reviewer wanted more of the papal documents quoted; see 11.3 on the debate over 'Reconquista'."
+  },
+  "c-hillenbrand": {
+   "text": "Carole Hillenbrand's The Crusades: Islamic Perspectives studies how Muslims experienced and answered the invaders, and how jihad was revived against them.",
+   "label": "consensus",
+   "sources": [
+    "routledge-hillenbrand"
+   ],
+   "show": false
+  },
+  "c-bakri-method": {
+   "text": "Al-Bakri wrote his account of West Africa in 1068 in al-Andalus, from other people's reports; he never travelled there.",
+   "label": "consensus",
+   "sources": [
+    "medslavery-bakri",
+    "brit-bakri"
+   ],
+   "show": false
+  },
+  "c-ghana-towns": {
+   "text": "He describes the city of Ghana as two towns on a plain, a merchants' town with twelve mosques and the king's town six miles away.",
+   "label": "tradition",
+   "sources": [
+    "jjay-bakri"
+   ],
+   "show": true,
+   "note": "This is what his text says, in J. F. P. Hopkins's translation."
+  },
+  "c-ghana-gold": {
+   "text": "According to al-Bakri, the king levied 'one golden dinar' on every donkey-load of salt brought into the country and kept all gold nuggets for himself, leaving only gold dust to the people.",
+   "label": "tradition",
+   "sources": [
+    "bu-ghana",
+    "jjay-bakri"
+   ],
+   "show": true,
+   "note": "The text's description; no Ghanaian record survives to check it."
+  },
+  "c-gold-trade": {
+   "text": "Gold from the western and central Sudan was the main commodity of the trans-Saharan trade, and the trade encouraged further conversion of the Berbers to Islam.",
+   "label": "consensus",
+   "sources": [
+    "met-transsaharan"
+   ],
+   "show": false
+  },
+  "c-kanem": {
+   "text": "Around the 9th century the kingdom of Kanem formed north-east of Lake Chad; its ruler became a Muslim in the late 11th century.",
+   "label": "approx",
+   "sources": [
+    "brit-kanem"
+   ],
+   "show": true,
+   "note": "Dates are approximate."
+  },
+  "c-kilwa": {
+   "text": "From the 13th century the merchants of Kilwa, on the coast of today's Tanzania, traded in gold, silver, pearls and perfumes, and controlled Indian Ocean trade with Arabia, India and China; its Great Mosque is the oldest standing mosque on the East African coast.",
+   "label": "consensus",
+   "sources": [
+    "unesco-kilwa"
+   ],
+   "show": false
+  },
+  "c-swahili-dna": {
+   "text": "Ancient DNA published in 2023 shows that from about 1000 CE, migrants from Southwest Asia contributed close to half of the ancestry of the people studied on the Swahili coast, at first mostly Persian men who had children with African women, while the language and culture stayed African and Bantu.",
+   "label": "debated",
+   "sources": [
+    "harvard-swahili"
+   ],
+   "show": true,
+   "note": "The genetics are new; how they relate to the Swahili 'Shirazi' traditions of Persian ancestry is debated. Known here through Harvard's summary of the Nature paper."
+  },
+  "c-mapungubwe": {
+   "text": "Mapungubwe, in today's South Africa, controlled trade in gold and ivory to the Indian Ocean between about 900 and 1300; its power then shifted north to Great Zimbabwe.",
+   "label": "approx",
+   "sources": [
+    "unesco-mapungubwe"
+   ],
+   "show": true,
+   "note": "UNESCO gives both the end of the 13th and the 14th century for its abandonment."
+  },
+  "c-great-zimbabwe": {
+   "text": "Great Zimbabwe, built by ancestors of the Shona between the 11th and 15th centuries, has yielded glass beads and porcelain from China and Persia and coins from Kilwa.",
+   "label": "approx",
+   "sources": [
+    "unesco-zimbabwe"
+   ],
+   "show": true,
+   "note": "On its later growth, see 12.8."
+  },
+  "c-lalibela": {
+   "text": "At Lalibela in Ethiopia, eleven churches were carved out of solid rock in the 12th and 13th centuries; tradition says King Lalibela meant them as a 'New Jerusalem'.",
+   "label": "tradition",
+   "sources": [
+    "unesco-lalibela"
+   ],
+   "show": true,
+   "note": "The churches are real; the king's purpose comes from tradition."
+  },
+  "c-genizah2": {
+   "text": "The Ben Ezra Synagogue's genizah preserved butchers' bills, marriage contracts, private letters and IOUs, because writings that might contain the name of God could not be thrown away; S. D. Goitein rebuilt from them the Jewish trading world of the 10th to 13th centuries.",
+   "label": "consensus",
+   "sources": [
+    "cam-genizah-news",
+    "ucp-goitein"
+   ],
+   "show": false
+  },
+  "c-chola-temples": {
+   "text": "The Chola king Rajaraja I consecrated the great Brihadisvara temple at Thanjavur in 1009-1010; his son Rajendra I completed another at Gangaikondacholapuram in 1035. Both are still places of worship.",
+   "label": "consensus",
+   "sources": [
+    "unesco-chola"
+   ],
+   "show": false
+  },
+  "c-chola-raid": {
+   "text": "In 1025 a Chola fleet raided the ports of Srivijaya across the Bay of Bengal and captured its king.",
+   "label": "consensus",
+   "sources": [
+    "kulke-chola",
+    "brit-srivijaya"
+   ],
+   "show": false
+  },
+  "c-chola-why": {
+   "text": "Why the Cholas launched the raid is, in Hermann Kulke's words, 'still a moot point'.",
+   "label": "debated",
+   "sources": [
+    "kulke-chola"
+   ],
+   "show": true,
+   "note": "K. A. Nilakanta Sastri thought Srivijaya obstructed Chola trade with China; George Spencer saw a 'politics of plunder'; Tansen Sen does not rule out a 'trade war'."
+  },
+  "c-srivijaya": {
+   "text": "Srivijaya, based at Palembang on Sumatra, controlled the Strait of Malacca from the 7th to the 13th century and was a centre of Mahayana Buddhism.",
+   "label": "consensus",
+   "sources": [
+    "brit-srivijaya"
+   ],
+   "show": false
+  },
+  "c-borobudur": {
+   "text": "Borobudur in Java, one of the greatest Buddhist monuments in the world, was built under the Sailendra (Syailendra) dynasty in the 8th and 9th centuries and rediscovered in the 19th.",
+   "label": "consensus",
+   "sources": [
+    "unesco-borobudur"
+   ],
+   "show": false
+  },
+  "c-angkorwat": {
+   "text": "Angkor Wat was built in the 12th century by King Suryavarman II and dedicated to Vishnu; it later became a Buddhist shrine.",
+   "label": "consensus",
+   "sources": [
+    "brit-angkorwat"
+   ],
+   "show": false
+  },
+  "c-angkor-pop": {
+   "text": "Airborne laser scanning (lidar) has revealed Angkor as a vast, low-density urban landscape; one model puts the population of Greater Angkor at 700,000 to 900,000 in the 13th century.",
+   "label": "approx",
+   "sources": [
+    "evans2015",
+    "klassen2021"
+   ],
+   "show": true,
+   "note": "A model-based estimate from mapped settlement."
+  },
+  "c-mahmud": {
+   "text": "Mahmud of Ghazni (971-1030) led some 17 raids into India; his raid on the temple of Somnath in 1026 brought, by one count, twenty million dinars in plunder.",
+   "label": "approx",
+   "sources": [
+    "brit-mahmud",
+    "eaton-temples"
+   ],
+   "show": true,
+   "note": "The plunder figure is Eaton's, following C. E. Bosworth."
+  },
+  "c-mahmud-why": {
+   "text": "Why Mahmud raided temples is debated.",
+   "label": "debated",
+   "sources": [
+    "eaton-temples",
+    "diplomat-eaton",
+    "verso-thapar"
+   ],
+   "show": true,
+   "note": "Medieval Persian chronicles celebrated the raids as victories for Islam; Richard Eaton argues that temple desecration in India was mainly political and economic, aimed at royal temples as symbols of enemy kings."
+  },
+  "c-somnath-memory": {
+   "text": "How Somnath has been remembered is itself history: Romila Thapar argues the raid was first presented as a lasting Hindu trauma in Britain's House of Commons, and in January 2026 India's government marked its thousandth anniversary.",
+   "label": "debated",
+   "sources": [
+    "verso-thapar",
+    "pmindia-somnath"
+   ],
+   "show": true,
+   "note": "The publisher describes her findings as contesting 'Hindu religious nationalism'; the 2026 commemoration presented the temple's survival over a thousand years as a national symbol."
+  },
+  "c-delhi": {
+   "text": "The Delhi Sultanate grew out of Ghurid campaigns into north India between 1175 and 1206; Sultan Iltutmish (1211-36) made Delhi his permanent capital.",
+   "label": "consensus",
+   "sources": [
+    "brit-delhi-sultanate"
+   ],
+   "show": false
+  },
+  "c-cahokia": {
+   "text": "Cahokia, near today's St Louis, was the largest settlement north of Mexico before Columbus, with perhaps 10,000-20,000 people at its height around 1050-1150.",
+   "label": "approx",
+   "sources": [
+    "unesco-cahokia"
+   ],
+   "show": true,
+   "note": "Population estimates vary."
+  },
+  "c-cahokia-decline": {
+   "text": "Why Cahokia declined after about 1150 is debated.",
+   "label": "debated",
+   "sources": [
+    "white2019",
+    "hd-cahokia2024"
+   ],
+   "show": true,
+   "note": "A 2019 study links its decline to flooding and summer droughts; a 2024 study by Caitlin Rankin and Natalie Mueller found no drought signal in the soils and suggests people dispersed gradually."
+  },
+  "c-chaco": {
+   "text": "Chaco Canyon in New Mexico was a major centre of Ancestral Pueblo culture between 850 and 1250, linked to outlying 'great houses' by engineered roads.",
+   "label": "consensus",
+   "sources": [
+    "unesco-chaco"
+   ],
+   "show": false
+  },
+  "c-maya-drought": {
+   "text": "Lake sediments show that during the Classic Maya collapse, annual rainfall in the northern lowlands fell by 41-54 percent, at times by up to 70 percent.",
+   "label": "debated",
+   "sources": [
+    "evans2018"
+   ],
+   "show": true,
+   "note": "The drought is measured; how far it caused the collapse, alongside war and political change, is debated."
+  },
+  "c-maya-2025": {
+   "text": "A 2025 study of a Yucatán stalagmite found eight droughts lasting three years or more between 871 and 1021, the longest 13 years.",
+   "label": "approx",
+   "sources": [
+    "cam-maya2025"
+   ],
+   "show": true,
+   "note": "New. The authors caution that this 'doesn't necessarily mean' Chichen Itza was abandoned during them."
+  },
+  "c-chichen": {
+   "text": "Chichen Itza is the most important archaeological site of the Maya-Toltec civilisation in Yucatán (10th-15th centuries).",
+   "label": "consensus",
+   "sources": [
+    "unesco-chichen"
+   ],
+   "show": false
+  },
+  "c-tula": {
+   "text": "Tula in central Mexico, the Toltec capital, grew rapidly between about 900 and 1200; Britannica calls the resemblance between it and Chichen Itza 'extraordinarily close'.",
+   "label": "debated",
+   "sources": [
+    "brit-postclassic"
+   ],
+   "show": true,
+   "note": "Which city influenced which is debated."
+  },
+  "c-polynesia": {
+   "text": "High-precision radiocarbon dating shows East Polynesia was settled late and fast: the Society Islands about 1025-1120, and the remaining islands, including Rapa Nui and Aotearoa New Zealand, in one pulse about 1190-1290.",
+   "label": "approx",
+   "sources": [
+    "wilmshurst2011"
+   ],
+   "show": true,
+   "note": "Based on 1,434 radiocarbon dates; earlier chronologies were up to several centuries older."
+  },
+  "c-nz": {
+   "text": "The earliest evidence of people in Aotearoa New Zealand dates to about 1280-1300, from rat-gnawed seeds and re-dated rat bones.",
+   "label": "approx",
+   "sources": [
+    "landcare-nz"
+   ],
+   "show": true,
+   "note": "Calibrated radiocarbon dates."
+  },
+  "c-rapanui": {
+   "text": "The story that Rapa Nui's people destroyed their own environment and society has been strongly challenged.",
+   "label": "debated",
+   "sources": [
+    "sciam-rapanui",
+    "davis2024",
+    "ku-rapanui2024"
+   ],
+   "show": true,
+   "note": "Jared Diamond popularised the 'collapse'; 2024 studies found far less farmland than once claimed and ancient genomes showing a population that grew steadily until European contact. Not all specialists accept the revision: Jo Anne Van Tilburg calls the collapse narrative the revisionists attack 'a straw man'."
+  }
+ },
+ "pages": [
+  {
+   "title": "Regional webs",
+   "sub": "c. 750 to 1250",
+   "lede": "Between the Abbasid revolution and the Mongol invasions there was no single centre of the world. Instead several large, connected regions, the Islamic world, China, Latin and Greek Christendom, India and Southeast Asia, Africa's trading states and the Americas, each grew rich in its own way, linked by trade, pilgrimage and the movement of books.",
+   "body": [
+    "The Islamic world had a new capital at Baghdad, whose wharves received ships from China, India and East Africa. [[c-baghdad]] Song China printed books [[c-printing-cost]] (11.4). Latin Europe revived under Charlemagne (11.5), Byzantium converted the Slavs (11.7), Scandinavians crossed the Atlantic (11.6), and around 1100 crusaders and Iberian kings turned Christendom's energies against Islam (11.3, 11.8).",
+    "This chapter can draw on new kinds of evidence. In Cairo, Jews kept their used papers rather than destroy them, and one synagogue's storeroom preserved centuries of business letters and contracts. [[c-genizah]] Arab geographers described distant lands: al-Bakri, from Córdoba, wrote about the African kingdom of Ghana, [[c-bakri]] and al-Idrisi drew a map of the world for a Christian king of Sicily. [[c-idrisi]] And archaeology can test legend: Norse sagas told of voyages to North America, and the ruins have been found. [[c-sagas-test]]",
+    {
+     "table": {
+      "head": [
+       "Source",
+       "Where",
+       "What it shows"
+      ],
+      "rows": [
+       [
+        "Cairo Genizah",
+        "Fustat (Old Cairo)",
+        "Jewish merchants' letters, contracts and accounts"
+       ],
+       [
+        "Arab geographers",
+        "Córdoba, Sicily",
+        "descriptions of Africa, Europe and Asia"
+       ],
+       [
+        "Printed books",
+        "Song China",
+        "cheap books and wider literacy"
+       ],
+       [
+        "Archaeology and sagas",
+        "Newfoundland",
+        "Norse voyages to America"
+       ],
+       [
+        "Ancient DNA",
+        "across Europe",
+        "who moved where (11.6)"
+       ]
+      ],
+      "note": "[[c-genizah]] [[c-bakri]] [[c-idrisi]] [[c-printing-cost]] [[c-sagas-test]] [[c-margaryan]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 29.0,
+     "lat": 35.0,
+     "zoom": 2.2
+    },
+    "caption": "Regional webs, c. 750-1250",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         45.0,
+         27.0
+        ],
+        "label": "ISLAMIC WORLD",
+        "size": 10
+       },
+       {
+        "ll": [
+         110.0,
+         30.0
+        ],
+        "label": "SONG CHINA",
+        "size": 10
+       },
+       {
+        "ll": [
+         8.0,
+         50.0
+        ],
+        "label": "LATIN CHRISTENDOM",
+        "size": 9
+       },
+       {
+        "ll": [
+         78.0,
+         20.0
+        ],
+        "label": "INDIA",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         44.4008,
+         33.3406
+        ],
+        "label": "Baghdad",
+        "date": "founded 762",
+        "acc": true,
+        "big": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.1 · Baghdad",
+         "title": "The Round City",
+         "sub": "762",
+         "text": "[[c-baghdad]]",
+         "sources": [
+          "brit-baghdad"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.2386,
+         30.0053
+        ],
+        "label": "Fustat",
+        "date": "the Genizah",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "11.0 · how we know",
+         "title": "The Cairo Genizah",
+         "sub": "11th century onward",
+         "text": "[[c-genizah]]",
+         "sources": [
+          "cudl-genizah",
+          "cam-genizah-unit"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -4.7725,
+         37.8914
+        ],
+        "label": "Córdoba",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "11.0 · geographers",
+         "title": "Al-Bakri",
+         "sub": "died 1094",
+         "text": "[[c-bakri]]",
+         "sources": [
+          "brit-bakri"
+         ]
+        }
+       },
+       {
+        "ll": [
+         13.3633,
+         38.1164
+        ],
+        "label": "Palermo",
+        "date": "al-Idrisi's map, 1154",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.0 · geographers",
+         "title": "Al-Idrisi",
+         "sub": "1154",
+         "text": "[[c-idrisi]]",
+         "sources": [
+          "brit-idrisi"
+         ]
+        }
+       },
+       {
+        "ll": [
+         114.3072,
+         34.7986
+        ],
+        "label": "Kaifeng",
+        "date": "Song capital",
+        "acc": true,
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "11.0 · printing",
+         "title": "Printing",
+         "sub": "Song China",
+         "text": "[[c-printing-cost]]",
+         "sources": [
+          "cu-printing"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -55.5319,
+         51.5953
+        ],
+        "label": "L'Anse aux Meadows",
+        "date": "Norse, 11th century",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "11.0 · sagas",
+         "title": "Sagas and archaeology",
+         "sub": "L'Anse aux Meadows",
+         "text": "[[c-sagas-test]]",
+         "sources": [
+          "unesco-lanse2"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why is the Cairo Genizah so valuable for economic history?",
+     "choices": [
+      "Worn-out business papers were stored, not destroyed",
+      "It was the Fatimid treasury's own archive of tax records",
+      "Solomon Schechter assembled it from purchases across Europe",
+      "Its sacred texts were kept, and its letters destroyed"
+     ],
+     "answer": 0,
+     "why": "Rather than destroy worn-out writings, Cairo's Jews stored them, so business letters, accounts and marriage and divorce deeds survived alongside religious texts.",
+     "wrong": {
+      "1": "It was a storeroom of the Ben Ezra Synagogue.",
+      "2": "He brought the material from Cairo to Cambridge in 1896-97.",
+      "3": "Writings of every kind were kept, including business letters, accounts and deeds."
+     }
+    },
+    {
+     "q": "Al-Idrisi's geography of 1154, made for Roger II of Sicily, best illustrates which theme of this chapter?",
+     "choices": [
+      "Knowledge crossed religious and political borders",
+      "Abbasid rule over Norman Sicily in the 12th century",
+      "Chinese printing reaching Sicily's royal court",
+      "The end of Arabic scholarship after the crusades"
+     ],
+     "answer": 0,
+     "why": "A Muslim scholar wrote for a Christian king, combining Arabic and Greek works with eyewitness reports.",
+     "wrong": {
+      "1": "Sicily was ruled by a Norman king, Roger II.",
+      "2": "His sources were Arabic and Greek works and eyewitness reports.",
+      "3": "He completed a major Arabic geography in 1154, after the crusades had begun around 1100."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Abbasids and Baghdad",
+   "sub": "750 to 1055",
+   "lede": "The Abbasid caliphs built a new capital at Baghdad. It became famous for paper, books and the translation of Greek science, before their empire broke into pieces ruled by other dynasties in their name.",
+   "body": [
+    "In 762 the caliph al-Mansur founded a new capital on the Tigris, a round city whose wharves received ships from China, India and East Africa. [[c-baghdad]] One such ship, wrecked off Indonesia in the 830s, still held over 50,000 Chinese bowls. [[c-belitung]] The caliphs struck gold dinars that carried only inscriptions, and silver dirhams that had begun as copies of Sasanian coins. [[c-abbasid-coins]]",
+    "Paper came from China by way of Central Asia, though not necessarily as the famous story tells it. [[c-paper-talas]] Officials in Baghdad adopted it for records, [[c-paper-baghdad]] and books multiplied. Scholars, many of them Christians, translated Greek philosophy, medicine and mathematics into Arabic, [[c-translation]] though historians now doubt that the 'House of Wisdom' was the great academy of legend. [[c-house-wisdom]] Al-Khwarizmi's work gave the world the words 'algebra' and 'algorithm'. [[c-khwarizmi]]",
+    "The empire did not hold together. Rival caliphs ruled in Córdoba (11.2) and, from 969, in Cairo, [[c-fatimids]] and in Baghdad itself real power passed to Persian and then Turkish military dynasties. [[c-abbasid-fragment]]",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "Event"
+      ],
+      "rows": [
+       [
+        "762",
+        "Baghdad founded"
+       ],
+       [
+        "813-833",
+        "al-Ma'mun: translation at its height"
+       ],
+       [
+        "836-892",
+        "caliphs at Samarra"
+       ],
+       [
+        "945-1055",
+        "the Buyids control Baghdad"
+       ],
+       [
+        "969",
+        "Fatimids take Egypt and build Cairo"
+       ],
+       [
+        "1055",
+        "Seljuk Turks enter Baghdad"
+       ]
+      ],
+      "note": "[[c-baghdad]] [[c-translation]] [[c-abbasid-fragment]] [[c-fatimids]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 66.0,
+     "lat": 22.0,
+     "zoom": 4.2
+    },
+    "caption": "The Abbasid world and its trade, c. 750-1055",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         45.0,
+         30.0
+        ],
+        "label": "IRAQ",
+        "size": 10
+       },
+       {
+        "ll": [
+         100.0,
+         32.0
+        ],
+        "label": "CHINA",
+        "size": 10
+       },
+       {
+        "ll": [
+         78.0,
+         20.0
+        ],
+        "label": "INDIA",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         44.4008,
+         33.3406
+        ],
+        "label": "Baghdad",
+        "date": "founded 762",
+        "acc": true,
+        "big": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "11.1 · Baghdad",
+         "title": "Baghdad",
+         "sub": "the Round City",
+         "text": "[[c-baghdad]] [[c-translation]] [[c-house-wisdom]] [[c-khwarizmi]]",
+         "sources": [
+          "brit-baghdad",
+          "sep-greek-arabic",
+          "hoi-gutas",
+          "brit-khwarizmi"
+         ]
+        }
+       },
+       {
+        "ll": [
+         43.8856,
+         34.1958
+        ],
+        "label": "Samarra",
+        "date": "capital 836-892",
+        "anchor": "end",
+        "dy": -8
+       },
+       {
+        "ll": [
+         66.9644,
+         39.6544
+        ],
+        "label": "Samarkand",
+        "date": "paper",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.1 · paper",
+         "title": "Paper",
+         "sub": "8th century",
+         "text": "[[c-paper-talas]] [[c-paper-baghdad]]",
+         "sources": [
+          "bloom1999",
+          "hoi-samarkand"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.2386,
+         30.0053
+        ],
+        "label": "Cairo",
+        "date": "Fatimids, 969",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "11.1 · rivals",
+         "title": "The Fatimids",
+         "sub": "from 969",
+         "text": "[[c-fatimids]] [[c-abbasid-fragment]]",
+         "sources": [
+          "brit-fatimid",
+          "brit-baghdad"
+         ]
+        }
+       },
+       {
+        "ll": [
+         107.63,
+         -2.73
+        ],
+        "label": "Belitung wreck",
+        "date": "c. 830s",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "11.1 · trade",
+         "title": "The Belitung wreck",
+         "sub": "c. 830s",
+         "text": "[[c-belitung]] [[c-abbasid-coins]]",
+         "sources": [
+          "acm-belitung",
+          "met-dinar780"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Which statement best matches Dimitri Gutas's view of the Abbasid 'House of Wisdom'?",
+     "choices": [
+      "A Sasanian-style library and bureau, not a translation centre",
+      "An academy for the ancient sciences, as older accounts say",
+      "An institution founded after the Seljuks entered Baghdad",
+      "A translation centre, as Cristina D'Ancona also holds"
+     ],
+     "answer": 0,
+     "why": "Gutas sees a library and bureau modelled on Sasanian administration, 'certainly not a center for the translation of Greek works into Arabic'.",
+     "wrong": {
+      "1": "That is the older view Gutas rejects.",
+      "2": "Translation flourished above all under al-Ma'mun (813-833), long before the Seljuks entered Baghdad in 1055.",
+      "3": "D'Ancona agrees with Gutas that it 'cannot be viewed as an institutional center' for translation."
+     }
+    },
+    {
+     "q": "Why did paper matter to the Abbasid state?",
+     "choices": [
+      "Records on paper were harder to alter undetected",
+      "It was invented in Baghdad's government offices",
+      "Paper notes replaced the caliphs' dinars as money",
+      "Prisoners from Talas brought it straight to Baghdad"
+     ],
+     "answer": 0,
+     "why": "Officials promoted paper for government records, partly because documents on paper were harder to alter undetected than those on parchment; the point about forgery is Jonathan Bloom's reasoning.",
+     "wrong": {
+      "1": "It came from China by way of Central Asia.",
+      "2": "The caliphs went on striking gold dinars and silver dirhams.",
+      "3": "Bloom treats the Talas story cautiously; paper was known in Samarkand decades before 751."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Al-Andalus at its height",
+   "sub": "929 to 1212",
+   "lede": "Around the year 1000 Córdoba was probably the largest city in Europe and the capital of a caliphate. Its Muslims, Christians and Jews produced major works of philosophy, poetry and architecture, and how they lived together is still argued over, in Spain and beyond.",
+   "body": [
+    "Abd al-Rahman III declared himself caliph in 929. [[c-caliphate929]] His capital may have held 100,000 people, [[c-cordoba-pop]] with its Great Mosque, later a cathedral, [[c-mezquita]] and the palace city of Madinat al-Zahra outside it. [[c-zahra]] Jews rose high in government: Hasdai ibn Shaprut served the caliph, [[c-hasdai]] and in the 11th century Samuel ha-Nagid became vizier of Granada, though the community suffered a massacre a generation later. [[c-nagid]]",
+    "After 1009 the caliphate split into rival 'taifa' kingdoms, several of which paid tribute to the king of Castile. [[c-taifas]] When Castile took Toledo in 1085 they called in the Almoravids from North Africa, who swallowed them, [[c-almoravids]] to be followed by the stricter Almohads. [[c-almohads]] Under the Almohads Córdoba's Jews were forced to convert or leave; Maimonides grew up in exile. [[c-maimonides]] His Muslim contemporary Ibn Rushd became the West's great interpreter of Aristotle. [[c-averroes]]",
+    "Was this a golden age of tolerance? Historians are sharply divided, [[c-convivencia]] and the debate carries political weight in modern Spain. Ancient DNA adds that North African ancestry became established under Islamic rule and outlasted it. [[c-iberia-dna]]",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "Event"
+      ],
+      "rows": [
+       [
+        "929",
+        "Abd al-Rahman III declares the caliphate"
+       ],
+       [
+        "1009-1031",
+        "civil war; the caliphate breaks into taifas"
+       ],
+       [
+        "1066",
+        "massacre of Granada's Jews"
+       ],
+       [
+        "1086",
+        "Almoravids defeat Castile at al-Zallaqa"
+       ],
+       [
+        "1148",
+        "Almohads take Córdoba"
+       ],
+       [
+        "1212",
+        "Almohads defeated at Las Navas de Tolosa"
+       ]
+      ],
+      "note": "[[c-caliphate929]] [[c-taifas]] [[c-nagid]] [[c-almoravids]] [[c-maimonides]] [[c-almohads]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ledger",
+    "signs": false,
+    "caption": "Convivencia?",
+    "title": "How historians have described relations among Muslims, Christians and Jews in al-Andalus",
+    "left": {
+     "h": "Coexistence",
+     "items": [
+      {
+       "t": "'Convivencia': peaceful coexistence",
+       "s": "Américo Castro (1948)"
+      },
+      {
+       "t": "'The most advanced culture in Europe'",
+       "s": "María Rosa Menocal"
+      },
+      {
+       "t": "Jews served as physicians and viziers",
+       "s": "Hasdai ibn Shaprut; Samuel ha-Nagid"
+      },
+      {
+       "t": "Tolerance grew from economic and political necessity",
+       "s": "Brian Catlos (a middle view)"
+      }
+     ]
+    },
+    "right": {
+     "h": "Repression",
+     "items": [
+      {
+       "t": "'Religious and therefore cultural repression'",
+       "s": "Darío Fernández-Morera (book jacket)"
+      },
+      {
+       "t": "Massacre of Granada's Jews",
+       "s": "1066"
+      },
+      {
+       "t": "Convert or leave",
+       "s": "Almohad Córdoba, 1148"
+      },
+      {
+       "t": "Non-Muslims paid special taxes as dhimmis",
+       "s": "see 10.8"
+      }
+     ]
+    },
+    "notes": [
+     "Each side quotes real evidence; they disagree about what was typical."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Which view does Brian Catlos hold, according to Robert Irwin's review?",
+     "choices": [
+      "Tolerance was real, but it grew out of necessity",
+      "Coexistence was real, and it grew out of shared ideals",
+      "Religious repression was pervasive in al-Andalus",
+      "Al-Andalus was an enlightened, tolerant culture"
+     ],
+     "answer": 0,
+     "why": "Catlos argues tolerance was real but grew from economic and political necessity.",
+     "wrong": {
+      "1": "Catlos sees tolerance growing from economic and political necessity, not shared ideals.",
+      "2": "That is Darío Fernández-Morera's argument.",
+      "3": "That is closer to María Rosa Menocal's praise of an enlightened culture."
+     }
+    },
+    {
+     "q": "How did the taifa period end?",
+     "choices": [
+      "They called in the Almoravids, who absorbed them in 1090-91",
+      "They called in the Almohads, who absorbed them in 1031",
+      "Abd al-Rahman III reunited them under his Córdoba caliphate",
+      "Castile conquered them after its victory at al-Zallaqa"
+     ],
+     "answer": 0,
+     "why": "After Toledo fell in 1085 the taifa kings called in the Almoravids, who defeated Castile in 1086 and then absorbed the taifas: the rescuers became the new rulers.",
+     "wrong": {
+      "1": "The taifas emerged after 1009; the Almohads came later, taking Marrakesh in 1147.",
+      "2": "He became caliph in 929; the taifas appeared after the caliphate collapsed in 1009.",
+      "3": "The Almoravids defeated Castile at al-Zallaqa in 1086."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Christian kingdoms of Iberia",
+   "sub": "c. 850 to 1248",
+   "lede": "From the mountains of the north, small Christian kingdoms pushed south over four centuries until, by 1248, only Granada remained under Muslim rule. Spain's national story was later built around this advance, and the name of that story is now itself a subject of debate.",
+   "body": [
+    "The kingdom that began at Covadonga (10.9) moved its capital south to León. [[c-asturias]] Navarre briefly dominated the Christian north and its king divided his realms among his sons, [[c-sancho3]] creating kingdoms of Castile and Aragon. [[c-castile-leon]] Portugal became a kingdom in 1139 and took Lisbon with crusaders' help. [[c-portugal]]",
+    "The decisive gains came after the caliphate's collapse. Castile took Toledo in 1085, guaranteeing its Muslims their property and faith. [[c-toledo1085]] There, scholars translated Arabic science and philosophy into Latin, passing Greek learning preserved in Arabic to the rest of Europe. [[c-gerard]] Aragon took Zaragoza; [[c-aragon]] a Castilian lord, El Cid, carved out a principality at Valencia, [[c-cid]] and later became the hero of Spain's great epic. [[c-cantar]] Pilgrims came from all over Europe to the shrine of St James at Santiago. [[c-santiago]]",
+    "In 1212 a crusading coalition of Christian kings broke the Almohads at Las Navas de Tolosa, [[c-navas]] and within a generation Córdoba, Valencia and Seville had fallen. [[c-1236-1248]] Historians now argue whether 'Reconquista', 'reconquest', is the right word for all this. [[c-reconquista-term]]",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "Christian conquest"
+      ],
+      "rows": [
+       [
+        "1085",
+        "Toledo (Castile)"
+       ],
+       [
+        "1118",
+        "Zaragoza (Aragon)"
+       ],
+       [
+        "1147",
+        "Lisbon (Portugal)"
+       ],
+       [
+        "1212",
+        "Las Navas de Tolosa"
+       ],
+       [
+        "1236",
+        "Córdoba (Castile)"
+       ],
+       [
+        "1238",
+        "Valencia (Aragon)"
+       ],
+       [
+        "1248",
+        "Seville (Castile)"
+       ]
+      ],
+      "note": "[[c-toledo1085]] [[c-aragon]] [[c-portugal]] [[c-navas]] [[c-1236-1248]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": -4.2,
+     "lat": 40.0,
+     "zoom": 30
+    },
+    "caption": "The Christian advance in Iberia, 850-1248",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "conquest or key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         -4.3,
+         41.9
+        ],
+        "label": "CASTILE AND LEÓN",
+        "size": 10
+       },
+       {
+        "ll": [
+         -0.6,
+         42.3
+        ],
+        "label": "ARAGON",
+        "size": 9
+       },
+       {
+        "ll": [
+         -8.3,
+         40.2
+        ],
+        "label": "PORTUGAL",
+        "size": 9
+       },
+       {
+        "ll": [
+         -3.8,
+         37.0
+        ],
+        "label": "GRANADA",
+        "size": 8
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         -5.8447,
+         43.3603
+        ],
+        "label": "Oviedo",
+        "anchor": "end",
+        "dy": -6
+       },
+       {
+        "ll": [
+         -5.5703,
+         42.6
+        ],
+        "label": "León",
+        "date": "capital c. 910",
+        "dy": -8,
+        "plate": {
+         "kicker": "11.3 · the north",
+         "title": "Asturias and León",
+         "sub": "9th-10th centuries",
+         "text": "[[c-asturias]] [[c-castile-leon]]",
+         "sources": [
+          "brit-alfonso3",
+          "brit-castile"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -8.5456,
+         42.8803
+        ],
+        "label": "Santiago",
+        "date": "pilgrimage",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "11.3 · pilgrimage",
+         "title": "Santiago de Compostela",
+         "sub": "9th century onward",
+         "text": "[[c-santiago]]",
+         "sources": [
+          "unesco-santiago"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -1.6431,
+         42.8167
+        ],
+        "label": "Pamplona",
+        "date": "Navarre",
+        "dy": -8,
+        "plate": {
+         "kicker": "11.3 · Navarre",
+         "title": "Sancho III",
+         "sub": "died 1035",
+         "text": "[[c-sancho3]]",
+         "sources": [
+          "brit-sancho3"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -0.8772,
+         41.6558
+        ],
+        "label": "Zaragoza",
+        "date": "1118",
+        "acc": true,
+        "dy": 16
+       },
+       {
+        "ll": [
+         -4.0225,
+         39.8581
+        ],
+        "label": "Toledo",
+        "date": "1085",
+        "acc": true,
+        "big": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.3 · Toledo",
+         "title": "Toledo",
+         "sub": "1085",
+         "text": "[[c-toledo1085]] [[c-gerard]]",
+         "sources": [
+          "brit-toledo1085",
+          "brit-gerard"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -9.1497,
+         38.725
+        ],
+        "label": "Lisbon",
+        "date": "1147",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "11.3 · Portugal",
+         "title": "Lisbon",
+         "sub": "1147",
+         "text": "[[c-portugal]]",
+         "sources": [
+          "brit-afonso1"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -0.3794,
+         39.4739
+        ],
+        "label": "Valencia",
+        "date": "Cid 1094; Aragon 1238",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "11.3 · El Cid",
+         "title": "El Cid",
+         "sub": "Valencia, 1094-1099",
+         "text": "[[c-cid]] [[c-cantar]]",
+         "sources": [
+          "brit-cid",
+          "bne-cantar"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -3.606,
+         38.278
+        ],
+        "label": "Las Navas de Tolosa",
+        "date": "1212",
+        "acc": true,
+        "big": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.3 · 1212",
+         "title": "Las Navas de Tolosa",
+         "sub": "16 July 1212",
+         "text": "[[c-navas]] [[c-reconquista-term]]",
+         "sources": [
+          "brit-navas",
+          "jmis-garcia",
+          "medievalismo-2025"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -4.7725,
+         37.8914
+        ],
+        "label": "Córdoba",
+        "date": "1236",
+        "acc": true,
+        "anchor": "end",
+        "dy": 4
+       },
+       {
+        "ll": [
+         -5.9731,
+         37.3828
+        ],
+        "label": "Seville",
+        "date": "1248",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What is the core argument of critics of the term 'Reconquista', such as Martín Ríos Saloma?",
+     "choices": [
+      "That it is a 19th-century nationalist construction",
+      "That Christian kings seldom fought Muslim rulers",
+      "That the idea goes back to 9th-century Asturian texts",
+      "That Franco's historians coined it in the 1930s"
+     ],
+     "answer": 0,
+     "why": "Critics such as Alejandro García-Sanjuán and Martín Ríos Saloma call it a 19th-century nationalist construction that peaked under Franco.",
+     "wrong": {
+      "1": "A Christian coalition broke the Almohads at Las Navas de Tolosa in 1212; the dispute is about the label.",
+      "2": "That is the defenders' point, made by Carlos de Ayala and Francisco García Fitz.",
+      "3": "Critics call it a 19th-century construction; it peaked under Franco, but did not begin with him."
+     }
+    },
+    {
+     "q": "How does the historical Cid relate to the Cantar de mio Cid?",
+     "choices": [
+      "A real lord took Valencia; his epic was written later",
+      "He was invented by the poet Per Abad in 1207",
+      "A companion wrote the poem just after his death in 1099",
+      "He was a real lord who held Valencia for the Almoravids"
+     ],
+     "answer": 0,
+     "why": "Rodrigo Díaz took Valencia in 1094 and held it until his death in 1099; the poem survives in one manuscript copied from an exemplar of 1207, and scholars date its composition to the mid-12th or early 13th century.",
+     "wrong": {
+      "1": "Rodrigo Díaz was a real Castilian lord; Per Abad made the exemplar from which the surviving copy was made.",
+      "2": "Scholars date the poem to the mid-12th or early 13th century.",
+      "3": "He took Valencia in 1094 and held it himself, carving out a principality, until his death."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Tang and Song China",
+   "sub": "rebellion, rice, print and paper money, 755-1279",
+   "lede": "Between the 8th and the 13th centuries China was transformed. Its government came to run on written examinations, its printers produced books in large numbers, and its merchants and officials began to use paper money.",
+   "body": [
+    "The Tang dynasty (see 10.11) nearly died in 755, when its general An Lushan rebelled. The revolt was crushed after eight years, but regional warlords held power until the Song reunified the country in 960. [[c-anlushan]] One famous death toll is generally considered too high. [[c-anlushan-toll]]",
+    "Under the Song the empire was run by scholar-officials chosen by examination, [[c-song]] and from 1313 those examinations followed the Confucian 'Four Books' as edited by Zhu Xi, a syllabus that lasted until 1905. [[c-zhuxi]] Fast-ripening rice from Southeast Asia let farmers in the south grow two crops a year, and the population passed 100 million. [[c-champa-rice]]",
+    "China also pioneered two technologies. Printing from carved wooden blocks produced the oldest dated printed book, a Buddhist sutra of 868. [[c-diamond]] And the Song state took over merchants' paper notes to issue the world's first government paper money. [[c-jiaozi]] Some historians speak of a Song 'industrial revolution' in iron and coal; others doubt the numbers behind it. [[c-hartwell]]",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "Event"
+      ],
+      "rows": [
+       [
+        "755-763",
+        "An Lushan rebellion"
+       ],
+       [
+        "868",
+        "the Diamond Sutra, earliest dated printed book"
+       ],
+       [
+        "960",
+        "Song dynasty reunifies China"
+       ],
+       [
+        "1024",
+        "state paper money (jiaozi) in Sichuan"
+       ],
+       [
+        "1127",
+        "the north lost; Song continues in the south"
+       ],
+       [
+        "1190",
+        "Zhu Xi's edition of the Four Books"
+       ]
+      ],
+      "note": "[[c-anlushan]] [[c-diamond]] [[c-song]] [[c-jiaozi]] [[c-zhuxi]]"
+     }
+    },
+    {
+     "compare": "Movable type was invented in China by Bi Sheng (990-1051), yet carved woodblocks remained the usual way to print there. [[c-printing-cost]]"
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 108.0,
+     "lat": 33.0,
+     "zoom": 9
+    },
+    "caption": "Tang and Song China, 755-1279",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         114.5,
+         27.0
+        ],
+        "label": "RICE SOUTH",
+        "size": 10
+       },
+       {
+        "ll": [
+         112.0,
+         37.5
+        ],
+        "label": "NORTH CHINA PLAIN",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         108.9286,
+         34.2583
+        ],
+        "label": "Chang'an",
+        "date": "Tang capital",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "11.4 · Tang",
+         "title": "The An Lushan rebellion",
+         "sub": "755-763",
+         "text": "[[c-anlushan]] [[c-anlushan-toll]]",
+         "sources": [
+          "brit-anlushan",
+          "carter-anlushan"
+         ]
+        }
+       },
+       {
+        "ll": [
+         114.3072,
+         34.7986
+        ],
+        "label": "Kaifeng",
+        "date": "Song capital, 960-1127",
+        "acc": true,
+        "big": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.4 · Song",
+         "title": "The Northern Song",
+         "sub": "960-1127",
+         "text": "[[c-song]] [[c-hartwell]] [[c-zhuxi]]",
+         "sources": [
+          "brit-song-sum",
+          "hartwell1962",
+          "wagner2001"
+         ]
+        }
+       },
+       {
+        "ll": [
+         120.1614,
+         30.2936
+        ],
+        "label": "Hangzhou",
+        "date": "Southern Song capital",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "11.4 · Song",
+         "title": "The Southern Song",
+         "sub": "1127-1279",
+         "text": "[[c-champa-rice]] [[c-song]]",
+         "sources": [
+          "brit-song-culture",
+          "brit-song-sum"
+         ]
+        }
+       },
+       {
+        "ll": [
+         94.9192,
+         40.0333
+        ],
+        "label": "Dunhuang",
+        "date": "Diamond Sutra, 868",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "11.4 · printing",
+         "title": "The Diamond Sutra",
+         "sub": "868",
+         "text": "[[c-diamond]]",
+         "sources": [
+          "ox-diamond"
+         ]
+        }
+       },
+       {
+        "ll": [
+         104.0667,
+         30.6667
+        ],
+        "label": "Chengdu",
+        "date": "paper money, 1024",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "11.4 · money",
+         "title": "Jiaozi",
+         "sub": "1024",
+         "text": "[[c-jiaozi]]",
+         "sources": [
+          "standard-jiaozi"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do many historians doubt that the An Lushan rebellion killed 36 million people?",
+     "choices": [
+      "It counts a fall in registrations, not deaths",
+      "The revolt was crushed within a few months of 755",
+      "No Tang registers survive to support the figure",
+      "Steven Pinker rejects the figure as far too high"
+     ],
+     "answer": 0,
+     "why": "The figure comes from the fall in registered population, which reflects migration and the collapse of record-keeping as well as deaths: registers measure who was counted, not only who died.",
+     "wrong": {
+      "1": "It lasted from late 755 until 763.",
+      "2": "The figure is itself derived from the fall in registered population.",
+      "3": "Pinker is among the writers who give the 36 million figure."
+     }
+    },
+    {
+     "q": "What is Donald Wagner's main objection to Robert Hartwell's Song iron figures?",
+     "choices": [
+      "The total is credible, but the method is flawed",
+      "The method is sound, but the total is far too high",
+      "Wagner shows that output was under 10,000 tons",
+      "He accepts both Hartwell's total and his method"
+     ],
+     "answer": 0,
+     "why": "Wagner finds the size of the figure 'quite credible' but Hartwell's method 'seriously flawed': a credible total can still rest on a flawed calculation.",
+     "wrong": {
+      "1": "The reverse: Wagner finds the total 'quite credible' and the method 'seriously flawed'.",
+      "2": "Wagner finds the size of Hartwell's figure, about 75,000 tons and later 125,000, 'quite credible'.",
+      "3": "He calls the method 'seriously flawed'."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Charlemagne and Latin Christendom",
+   "sub": "800 to 1122",
+   "lede": "On Christmas Day 800 a Frankish king was crowned Roman emperor in Rome. His reign shaped the script, the books and the Church of western Europe.",
+   "body": [
+    "Charlemagne ruled the Franks and greatly enlarged their kingdom; on Christmas Day 800 the pope crowned him emperor. [[c-coronation800]] His biographer insisted he had not wanted it, but Britannica judges that king and pope planned the coronation together. [[c-coronation-intent]] A new, clearer handwriting developed partly under his patronage, and most of our knowledge of classical literature comes from copies made at his court. [[c-minuscule]]",
+    "Why did the centre of Europe move north, from the Mediterranean to the Rhineland? Henri Pirenne famously blamed the Arab conquests; archaeologists answer that Roman trade had collapsed before Islam began. [[c-pirenne]] Michael McCormick showed that by 800 trade with the eastern Mediterranean was reviving, much of it in enslaved people. [[c-mccormick]] Historians also argue whether 'feudalism' describes this society at all. [[c-feudalism]]",
+    "The Church reformed itself from within. Monasteries such as Cluny answered only to the pope, [[c-cluny]] and reforming popes then demanded that kings stop appointing bishops. The clash came to a head when the excommunicated German king Henry IV stood as a penitent at Canossa in 1077, and was settled by compromise in 1122. [[c-investiture]]",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "Event"
+      ],
+      "rows": [
+       [
+        "800",
+        "Charlemagne crowned emperor in Rome"
+       ],
+       [
+        "910",
+        "Cluny founded"
+       ],
+       [
+        "1076-1077",
+        "Henry IV excommunicated; penance at Canossa"
+       ],
+       [
+        "1122",
+        "Concordat of Worms"
+       ]
+      ],
+      "note": "[[c-coronation800]] [[c-cluny]] [[c-investiture]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 8.0,
+     "lat": 47.0,
+     "zoom": 16
+    },
+    "caption": "Emperors and popes, 800-1122",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         2.5,
+         48.5
+        ],
+        "label": "FRANCIA",
+        "size": 10
+       },
+       {
+        "ll": [
+         11.0,
+         50.5
+        ],
+        "label": "GERMANY",
+        "size": 10
+       },
+       {
+        "ll": [
+         12.0,
+         43.6
+        ],
+        "label": "ITALY",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         6.0833,
+         50.7764
+        ],
+        "label": "Aachen",
+        "date": "Charlemagne's court",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "11.5 · the court",
+         "title": "Aachen",
+         "sub": "Charlemagne died here, 814",
+         "text": "[[c-minuscule]] [[c-pirenne]] [[c-mccormick]]",
+         "sources": [
+          "lancaster-minuscule",
+          "medievalists-hodges",
+          "cup-mccormick"
+         ]
+        }
+       },
+       {
+        "ll": [
+         12.4531,
+         41.9022
+        ],
+        "label": "Rome",
+        "date": "coronation, 800",
+        "acc": true,
+        "big": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "11.5 · the coronation",
+         "title": "Christmas Day 800",
+         "sub": "St Peter's, Rome",
+         "text": "[[c-coronation800]] [[c-coronation-intent]]",
+         "sources": [
+          "brit-charlemagne800"
+         ]
+        }
+       },
+       {
+        "ll": [
+         4.6583,
+         46.4331
+        ],
+        "label": "Cluny",
+        "date": "founded 910",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "11.5 · reform",
+         "title": "Cluny",
+         "sub": "910",
+         "text": "[[c-cluny]]",
+         "sources": [
+          "brit-cluny"
+         ]
+        }
+       },
+       {
+        "ll": [
+         10.41,
+         44.5972
+        ],
+        "label": "Canossa",
+        "date": "1077",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.5 · investiture",
+         "title": "Canossa",
+         "sub": "January 1077",
+         "text": "[[c-investiture]]",
+         "sources": [
+          "brit-investiture"
+         ]
+        }
+       },
+       {
+        "ll": [
+         8.3592,
+         49.6328
+        ],
+        "label": "Worms",
+        "date": "concordat, 1122",
+        "acc": true,
+        "dy": 16
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "How did Michael McCormick's evidence revise Pirenne's thesis?",
+     "choices": [
+      "By 800 long-distance trade circuits were connecting again",
+      "The Roman Mediterranean collapsed after Muhammad, not before",
+      "Eastern merchants carried most of the trade around 800",
+      "By 800 Europe had stopped exporting enslaved people"
+     ],
+     "answer": 0,
+     "why": "By 800, in McCormick's words, 'multiple circuits were connecting again', carried mostly by western traders, so Islam's rise did not simply cut the West off.",
+     "wrong": {
+      "1": "Hodges and Whitehouse argue the collapse 'clearly predated Mohammed'; McCormick's work concerns the revival by 800.",
+      "2": "By then, McCormick says, the traders were mostly western.",
+      "3": "McCormick found slaves were a major export from Europe."
+     }
+    },
+    {
+     "q": "What did the Concordat of Worms (1122) settle?",
+     "choices": [
+      "It ended the investiture dispute with a compromise",
+      "It ended a dispute that Canossa had settled in 1077",
+      "It gave kings full control over appointing bishops",
+      "It placed Cluny's monasteries under the German king"
+     ],
+     "answer": 0,
+     "why": "Gregory VII had banned lay rulers, kings included, from investing bishops; after Canossa the conflict continued until the Concordat ended it with a compromise.",
+     "wrong": {
+      "1": "Henry IV's penance at Canossa in 1077 did not end the dispute; the Concordat of 1122 did.",
+      "2": "It was a compromise, after Gregory VII had banned lay rulers, kings included, from investing bishops.",
+      "3": "Cluny answered to no authority but the pope's; the Concordat settled the investiture dispute."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Vikings",
+   "sub": "raiders, traders and settlers, 793 to c. 1050",
+   "lede": "For two and a half centuries Scandinavians sailed from Newfoundland to the rivers of eastern Europe. They raided monasteries, traded slaves and silver, founded towns and states, and settled islands in the North Atlantic. New dating methods and ancient DNA have transformed what we know about them.",
+   "body": [
+    "The sack of Lindisfarne in 793 sent a shockwave through Europe, though it was not the first Viking raid on England. [[c-lindisfarne]] But the Vikings were traders as much as raiders. On Gotland, one hoard alone holds about 76 kg of silver and bronze, mostly Arabic coins (dirhams). [[c-spillings]] In the east, Scandinavians known as the Rus' ruled river towns; a chronicle has them invited to Novgorod in 862, [[c-rurik]] and whether they founded the state of the Rus' has been argued for three centuries; in the Soviet Union, anti-Normanist views were officially sanctioned. [[c-normanist]]",
+    "In the North Atlantic they settled Iceland, where an open-air assembly met from about 930, [[c-althing]] and briefly reached North America. At L'Anse aux Meadows in Newfoundland, wood cut with metal tools has been dated to the exact year 1021, [[c-lanse]] using the trace of a cosmic-ray burst in 993 preserved in the tree rings. [[c-1021-method]]",
+    "Ancient DNA has added detail. Vikings in England came mostly from Denmark, those in Iceland mostly from Norway, [[c-margaryan]] and Scandinavia itself had absorbed people from central Europe. [[c-speidel-viking]] A famous warrior's grave at Birka turned out to hold a woman, and scholars still disagree about what that means. [[c-birka]]",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "Event"
+      ],
+      "rows": [
+       [
+        "793",
+        "Lindisfarne sacked"
+       ],
+       [
+        "862",
+        "Rurik at Novgorod (tradition)"
+       ],
+       [
+        "c. 870",
+        "youngest coin in the Spillings hoard"
+       ],
+       [
+        "c. 930",
+        "Althing founded in Iceland"
+       ],
+       [
+        "1021",
+        "trees felled at L'Anse aux Meadows"
+       ]
+      ],
+      "note": "[[c-lindisfarne]] [[c-rurik]] [[c-spillings]] [[c-althing]] [[c-lanse]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": -6.0,
+     "lat": 57.0,
+     "zoom": 3.6
+    },
+    "caption": "The Viking world, 793-c. 1050",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         12.0,
+         62.0
+        ],
+        "label": "SCANDINAVIA",
+        "size": 11
+       },
+       {
+        "ll": [
+         -42.0,
+         72.0
+        ],
+        "label": "GREENLAND",
+        "size": 10
+       },
+       {
+        "ll": [
+         -18.5,
+         65.3
+        ],
+        "label": "ICELAND",
+        "size": 9
+       },
+       {
+        "ll": [
+         37.0,
+         52.0
+        ],
+        "label": "RUS'",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         -1.7994,
+         55.6781
+        ],
+        "label": "Lindisfarne",
+        "date": "raid, 793",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 4,
+        "plate": {
+         "kicker": "11.6 · raids",
+         "title": "Lindisfarne",
+         "sub": "8 June 793",
+         "text": "[[c-lindisfarne]] [[c-margaryan]]",
+         "sources": [
+          "eh-lindisfarne",
+          "margaryan2020"
+         ]
+        }
+       },
+       {
+        "ll": [
+         17.5461,
+         59.3364
+        ],
+        "label": "Birka",
+        "date": "grave Bj 581",
+        "acc": true,
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "11.6 · DNA",
+         "title": "The Birka grave",
+         "sub": "10th century",
+         "text": "[[c-birka]] [[c-speidel-viking]]",
+         "sources": [
+          "ajpa-birka",
+          "price2019",
+          "jesch-birka"
+         ]
+        }
+       },
+       {
+        "ll": [
+         18.5,
+         57.5
+        ],
+        "label": "Gotland",
+        "date": "Spillings hoard",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "11.6 · silver",
+         "title": "The Spillings hoard",
+         "sub": "found 1999",
+         "text": "[[c-spillings]]",
+         "sources": [
+          "shm-spillings"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.2708,
+         58.5211
+        ],
+        "label": "Novgorod",
+        "date": "Rurik, 862 (tradition)",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.6 · the Rus'",
+         "title": "The Rus'",
+         "sub": "9th century",
+         "text": "[[c-rurik]] [[c-normanist]]",
+         "sources": [
+          "brit-rurik",
+          "eu-normanist"
+         ]
+        }
+       },
+       {
+        "ll": [
+         30.5236,
+         50.4544
+        ],
+        "label": "Kyiv",
+        "anchor": "end",
+        "dy": 16
+       },
+       {
+        "ll": [
+         -21.125,
+         64.2581
+        ],
+        "label": "Þingvellir",
+        "date": "Althing, c. 930",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "11.6 · Iceland",
+         "title": "The Althing",
+         "sub": "c. 930-1798",
+         "text": "[[c-althing]]",
+         "sources": [
+          "unesco-thingvellir"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -55.5319,
+         51.5953
+        ],
+        "label": "L'Anse aux Meadows",
+        "date": "1021",
+        "acc": true,
+        "big": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "11.6 · America",
+         "title": "L'Anse aux Meadows",
+         "sub": "1021",
+         "text": "[[c-lanse]] [[c-1021-method]]",
+         "sources": [
+          "unesco-lanse",
+          "kuitems2021"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What makes the 1021 date at L'Anse aux Meadows so precise?",
+     "choices": [
+      "One ring marks 993; counting on gives the felling year",
+      "The trees were felled in 993, the very year of the spike",
+      "It was the first proof the Norse reached America",
+      "Saga accounts give the year of the Vinland voyage"
+     ],
+     "answer": 0,
+     "why": "A radiocarbon spike from a cosmic-ray event in 993 marks a single tree ring; counting rings outward to the bark gives the year of felling.",
+     "wrong": {
+      "1": "993 is the marker ring; the felling it dates is 1021.",
+      "2": "The site was already recognised as an 11th-century Norse settlement; the precision comes from the marker ring.",
+      "3": "The date comes from the wood itself: a radiocarbon spike in one ring and a ring count."
+     }
+    },
+    {
+     "q": "What is still debated about the Birka grave Bj 581?",
+     "choices": [
+      "Whether she was a real fighter or a symbolic one",
+      "Whether DNA shows the skeleton is a woman's",
+      "Whether Jesch sees her as a professional warrior",
+      "Whether the grave dates from the Viking Age"
+     ],
+     "answer": 0,
+     "why": "The DNA settled her sex; it could not settle her role. Neil Price and colleagues read her as 'a woman who lived as a professional warrior' but allow a symbolic reading; Judith Jesch thinks they 'make too much of rather slim evidence'.",
+     "wrong": {
+      "1": "DNA showed in 2017 that it belonged to a woman.",
+      "2": "That is Price's reading; Jesch thinks it makes 'too much of rather slim evidence'.",
+      "3": "It is a 10th-century grave."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Byzantium and the Great Schism",
+   "sub": "726 to 1071",
+   "lede": "The eastern Roman empire survived the Arab conquests and fought a bitter internal war over religious images. Then it revived, converted the Slavs, and reached its medieval height, before a quarrel with Rome in 1054 and a defeat by the Turks in 1071, which cost it most of Anatolia.",
+   "body": [
+    "For over a century Byzantium argued about icons. Emperors banned them as idolatry; a council restored them in 787; the images were restored for good in 843. [[c-iconoclasm]] Under the Macedonian emperors from 867 learning revived and the empire expanded, [[c-macedonian]] though one famous story of Basil II's cruelty is probably exaggerated. [[c-basil-blind]]",
+    "Byzantium also sent missions to the Slavs. Two brothers, Cyril and Methodius, created an alphabet for the Slavs and translated scripture into their language. [[c-cyril]] In about 988 Prince Vladimir of Kyiv was baptised as part of a marriage alliance. [[c-vladimir]]",
+    "Relations with Rome soured over authority and ritual. In 1054 papal legates excommunicated the patriarch of Constantinople at the altar of Hagia Sophia, [[c-1054]] though contemporaries saw it as a minor quarrel. [[c-1054-meaning]] The excommunications were lifted in 1965, and in 2025 pope and patriarch renewed their hope of reunion. [[c-1965-2025]] Seventeen years after 1054, at Manzikert, the Seljuk Turks captured the emperor, and most of Anatolia passed to the Turks. [[c-manzikert]]",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "Event"
+      ],
+      "rows": [
+       [
+        "730",
+        "religious images banned"
+       ],
+       [
+        "787",
+        "Second Council of Nicaea restores icons"
+       ],
+       [
+        "843",
+        "icons restored for good"
+       ],
+       [
+        "863",
+        "Cyril and Methodius go to Moravia"
+       ],
+       [
+        "c. 988",
+        "Vladimir of Kyiv baptised"
+       ],
+       [
+        "1054",
+        "mutual excommunications"
+       ],
+       [
+        "1071",
+        "Manzikert"
+       ],
+       [
+        "1965",
+        "excommunications lifted"
+       ]
+      ],
+      "note": "[[c-iconoclasm]] [[c-cyril]] [[c-vladimir]] [[c-1054]] [[c-manzikert]] [[c-1965-2025]]"
+     }
+    },
+    {
+     "compare": "The commandment the iconoclasts cited: [[c-exodus-20-4]]"
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 30.0,
+     "lat": 43.0,
+     "zoom": 9
+    },
+    "caption": "Byzantium and its neighbours, 726-1071",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         32.0,
+         39.0
+        ],
+        "label": "ANATOLIA",
+        "size": 10
+       },
+       {
+        "ll": [
+         25.0,
+         42.6
+        ],
+        "label": "BULGARIA",
+        "size": 9
+       },
+       {
+        "ll": [
+         17.8,
+         49.5
+        ],
+        "label": "GREAT MORAVIA",
+        "size": 8
+       },
+       {
+        "ll": [
+         33.0,
+         52.5
+        ],
+        "label": "KYIVAN RUS'",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         28.9494,
+         41.0136
+        ],
+        "label": "Constantinople",
+        "date": "Hagia Sophia, 1054",
+        "acc": true,
+        "big": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "11.7 · the schism",
+         "title": "1054",
+         "sub": "16 July",
+         "text": "[[c-1054]] [[c-1054-meaning]] [[c-1965-2025]]",
+         "sources": [
+          "brit-schism",
+          "vatican-2025"
+         ]
+        }
+       },
+       {
+        "ll": [
+         17.0508,
+         48.8164
+        ],
+        "label": "Mikulčice",
+        "date": "Great Moravia",
+        "acc": true,
+        "anchor": "end",
+        "dy": 4,
+        "plate": {
+         "kicker": "11.7 · missions",
+         "title": "Cyril and Methodius",
+         "sub": "863",
+         "text": "[[c-cyril]]",
+         "sources": [
+          "brit-cyril"
+         ]
+        }
+       },
+       {
+        "ll": [
+         33.4956,
+         44.6133
+        ],
+        "label": "Chersonesus",
+        "date": "taken by Vladimir",
+        "dy": 16
+       },
+       {
+        "ll": [
+         30.5236,
+         50.4544
+        ],
+        "label": "Kyiv",
+        "date": "baptism, c. 988",
+        "acc": true,
+        "big": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.7 · the Rus'",
+         "title": "Vladimir",
+         "sub": "c. 988",
+         "text": "[[c-vladimir]]",
+         "sources": [
+          "brit-vladimir"
+         ]
+        }
+       },
+       {
+        "ll": [
+         42.5353,
+         39.1464
+        ],
+        "label": "Manzikert",
+        "date": "1071",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "11.7 · the Turks",
+         "title": "Manzikert",
+         "sub": "26 August 1071",
+         "text": "[[c-manzikert]]",
+         "sources": [
+          "brit-manzikert"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Which statement best describes the events of 1054?",
+     "choices": [
+      "A quarrel then, seen as the final break only later",
+      "A final break at the time, and still in force today",
+      "A bull attacking the Greeks' unleavened bread",
+      "A break set off by the crusaders' sack of Constantinople"
+     ],
+     "answer": 0,
+     "why": "At the time it looked like 'a minor storm in which both sides had behaved with some arrogance'; only in hindsight was it seen as 'the moment of the final breach'.",
+     "wrong": {
+      "1": "Contemporaries saw a minor storm, and the excommunications were lifted in 1965.",
+      "2": "Among its charges was the Greek use of leavened bread.",
+      "3": "The sack of Constantinople came in 1204, 150 years later."
+     }
+    },
+    {
+     "q": "Why do historians handle Basil II's reputation as 'Bulgar-slayer' with care?",
+     "choices": [
+      "The 15,000 is doubted; the name came centuries later",
+      "Basil lost his war, so the name was meant as mockery",
+      "The 15,000 is well attested, and the name came later",
+      "His contemporaries already called him 'Bulgar-slayer'"
+     ],
+     "answer": 0,
+     "why": "Historians think the 15,000 exaggerated, and the name 'Bulgar-slayer' is not attested until some three centuries later; Paul Stephenson argues it owes much to 12th-century attitudes.",
+     "wrong": {
+      "1": "Under Basil II the empire covered more of Europe than at any time since Justinian.",
+      "2": "Historians think the number exaggerated; it comes from a chronicle.",
+      "3": "The name is not attested until some three centuries later."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Crusades",
+   "sub": "1095 to 1204",
+   "lede": "In 1095 a pope called on western knights to march to the East. Over the next two centuries crusading armies took and lost Jerusalem, massacred Jews and Muslims, built states in Syria and Palestine, and sacked Constantinople, the Byzantine capital. Few subjects in medieval history are judged so differently.",
+   "body": [
+    "At Clermont in 1095 Urban II summoned knights to help the Christians of the East, promising them remission of their sins; [[c-clermont]] what exactly he said is uncertain, since only differing accounts survive. [[c-urban-sources]] The first victims were Jews in the Rhineland. [[c-rhineland]] In 1099 the crusaders took Jerusalem amid great killing, [[c-jerusalem1099]] and founded four states along the eastern Mediterranean. [[c-crusader-states]]",
+    "Muslim leaders revived the idea of jihad against the invaders. [[c-hillenbrand]] In 1187 Saladin destroyed the kingdom's army at Hattin and retook Jerusalem; [[c-hattin]] his reputation for generosity is now judged more coolly. [[c-saladin]] In 1204 the Fourth Crusade, deep in debt to Venice, turned on Constantinople instead and sacked it, [[c-1204]] an act still judged harshly. [[c-1204-judgement]]",
+    "What counts as a crusade? Most historians now include papally authorised wars in Spain and the Baltic as well as in the East, [[c-pluralist]] [[c-spain-crusade]] and the overall verdict has moved from Steven Runciman's condemnation to a closer study of crusaders' own religious motives. [[c-crusade-view]]",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "Event"
+      ],
+      "rows": [
+       [
+        "1095",
+        "Council of Clermont"
+       ],
+       [
+        "1096",
+        "massacres of Rhineland Jews"
+       ],
+       [
+        "1099",
+        "Jerusalem taken"
+       ],
+       [
+        "1144",
+        "Edessa falls"
+       ],
+       [
+        "1187",
+        "Hattin; Saladin retakes Jerusalem"
+       ],
+       [
+        "1204",
+        "Fourth Crusade sacks Constantinople"
+       ],
+       [
+        "1261",
+        "Byzantines retake Constantinople"
+       ]
+      ],
+      "note": "[[c-clermont]] [[c-rhineland]] [[c-jerusalem1099]] [[c-crusader-states]] [[c-hattin]] [[c-1204]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 21.0,
+     "lat": 40.0,
+     "zoom": 7.5
+    },
+    "caption": "The Crusades, 1095-1204",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         40.3,
+         35.3
+        ],
+        "label": "CRUSADER STATES",
+        "size": 8
+       },
+       {
+        "ll": [
+         31.0,
+         39.5
+        ],
+        "label": "SELJUK ANATOLIA",
+        "size": 9
+       },
+       {
+        "ll": [
+         8.0,
+         47.5
+        ],
+        "label": "LATIN CHRISTENDOM",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         3.0867,
+         45.7794
+        ],
+        "label": "Clermont",
+        "date": "1095",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "11.8 · the call",
+         "title": "Clermont",
+         "sub": "November 1095",
+         "text": "[[c-clermont]] [[c-urban-sources]]",
+         "sources": [
+          "brit-crusades",
+          "fordham-urban"
+         ]
+        }
+       },
+       {
+        "ll": [
+         8.28,
+         49.9817
+        ],
+        "label": "Mainz",
+        "date": "Jews massacred, 1096",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.8 · 1096",
+         "title": "The Rhineland massacres",
+         "sub": "1096",
+         "text": "[[c-rhineland]]",
+         "sources": [
+          "brit-crusades"
+         ]
+        }
+       },
+       {
+        "ll": [
+         28.9494,
+         41.0136
+        ],
+        "label": "Constantinople",
+        "date": "sacked 1204",
+        "acc": true,
+        "big": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "11.8 · 1204",
+         "title": "The Fourth Crusade",
+         "sub": "1204",
+         "text": "[[c-1204]] [[c-1204-judgement]]",
+         "sources": [
+          "brit-crusade4",
+          "brit-latin-empire",
+          "nyrb-tyerman"
+         ]
+        }
+       },
+       {
+        "ll": [
+         36.1572,
+         36.2064
+        ],
+        "label": "Antioch",
+        "anchor": "end",
+        "dy": -6
+       },
+       {
+        "ll": [
+         38.7939,
+         37.1669
+        ],
+        "label": "Edessa",
+        "date": "falls 1144",
+        "dy": -8
+       },
+       {
+        "ll": [
+         35.8439,
+         34.4333
+        ],
+        "label": "Tripoli",
+        "anchor": "end",
+        "dy": 4
+       },
+       {
+        "ll": [
+         35.4586,
+         32.7975
+        ],
+        "label": "Hattin",
+        "date": "1187",
+        "acc": true,
+        "dy": 4,
+        "plate": {
+         "kicker": "11.8 · Saladin",
+         "title": "Hattin",
+         "sub": "4 July 1187",
+         "text": "[[c-hattin]] [[c-saladin]] [[c-hillenbrand]]",
+         "sources": [
+          "brit-hattin",
+          "nyrb-tyerman",
+          "routledge-hillenbrand"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.2167,
+         31.7833
+        ],
+        "label": "Jerusalem",
+        "date": "1099; 1187",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "11.8 · Jerusalem",
+         "title": "Jerusalem",
+         "sub": "1099 and 1187",
+         "text": "[[c-jerusalem1099]] [[c-crusader-states]]",
+         "sources": [
+          "brit-crusades",
+          "nyrb-tyerman"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do historians treat any single text of Urban II's speech at Clermont with caution?",
+     "choices": [
+      "The official record is lost, and the accounts differ",
+      "The official record survives but contradicts itself",
+      "Its accounts come from writers who were not present",
+      "It survives in one late copy, made after the crusade"
+     ],
+     "answer": 0,
+     "why": "The council's official record is lost; the speech survives in several differing accounts, most by men who said they were present.",
+     "wrong": {
+      "1": "The official record has not survived.",
+      "2": "Most of the accounts are by men who said they were present.",
+      "3": "It survives in several differing accounts, not a single copy."
+     }
+    },
+    {
+     "q": "What does Jonathan Riley-Smith's 'pluralist' definition of crusading include that a Jerusalem-only definition does not?",
+     "choices": [
+      "Papally authorised wars in Spain, the Baltic and on heretics",
+      "Any war fought by Christian kings against non-Christians",
+      "The armed pilgrimages to Jerusalem from 1095 onward",
+      "Wars that won their goal, whoever authorised them"
+     ],
+     "answer": 0,
+     "why": "Papal authorisation, vows and the remission of sins mark a crusade, wherever it went, so campaigns in Spain, the Baltic and against heretics count.",
+     "wrong": {
+      "1": "Papal authorisation is one of the marks of a crusade; a war without it does not qualify.",
+      "2": "Expeditions to Jerusalem count under both definitions.",
+      "3": "The marks are papal authorisation, vows and the remission of sins, not success."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Africa's trade webs",
+   "sub": "c. 800 to 1250",
+   "lede": "Gold from West Africa crossed the Sahara to Mediterranean markets, ivory and gold from the south flowed to Indian Ocean ports, and Ethiopian Christians carved churches out of rock. Arabic writers, archaeology and now ancient DNA let us see these African worlds in more detail than ever.",
+   "body": [
+    "Gold from south of the Sahara was the main cargo of the camel caravans across the desert, and the trade encouraged the Berbers' conversion to Islam. [[c-gold-trade]] A detailed early description of the kingdom of Ghana comes from al-Bakri, who never went there, [[c-bakri-method]] and who describes a capital of two towns, one for Muslim merchants and one for the king, [[c-ghana-towns]] and a king who taxed salt in gold. [[c-ghana-gold]] Further east, the kingdom of Kanem took shape by Lake Chad. [[c-kanem]]",
+    "On the east coast, Swahili towns such as Kilwa traded with Arabia, India and China. [[c-kilwa]] Ancient DNA from burials on this coast shows that close to half the ancestry of the people studied came from Asian migrants, at first mostly Persian men who had children with African women, while their language stayed African. [[c-swahili-dna]] Inland, Mapungubwe controlled the gold and ivory trade, [[c-mapungubwe]] before power moved north to Great Zimbabwe. [[c-great-zimbabwe]] In the Ethiopian highlands, Christian kings carved churches from the living rock at Lalibela. [[c-lalibela]]",
+    "In Fatimid Cairo, a synagogue storeroom preserved the everyday papers of a Jewish community, from which S. D. Goitein rebuilt the Mediterranean world of the 10th to 13th centuries. [[c-genizah2]]",
+    {
+     "table": {
+      "head": [
+       "Place",
+       "Region",
+       "Known for"
+      ],
+      "rows": [
+       [
+        "Ghana",
+        "West African Sahel",
+        "gold, salt taxes; al-Bakri's account (1068)"
+       ],
+       [
+        "Kanem",
+        "Lake Chad",
+        "Muslim ruler from the late 11th century"
+       ],
+       [
+        "Kilwa",
+        "Swahili coast",
+        "Indian Ocean trade; oldest standing mosque on the coast"
+       ],
+       [
+        "Mapungubwe",
+        "Limpopo valley",
+        "gold and ivory trade, c. 900-1300"
+       ],
+       [
+        "Lalibela",
+        "Ethiopian highlands",
+        "eleven rock-cut churches"
+       ],
+       [
+        "Fustat (Cairo)",
+        "Egypt",
+        "the Genizah: merchants' letters"
+       ]
+      ],
+      "note": "[[c-bakri-method]] [[c-kanem]] [[c-kilwa]] [[c-mapungubwe]] [[c-lalibela]] [[c-genizah2]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 15.0,
+     "lat": 6.0,
+     "zoom": 3.8
+    },
+    "caption": "Africa's trade webs, c. 800-1250",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         2.0,
+         23.0
+        ],
+        "label": "SAHARA",
+        "size": 11
+       },
+       {
+        "ll": [
+         28.0,
+         -12.0
+        ],
+        "label": "BANTU AFRICA",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         -4.28,
+         31.28
+        ],
+        "label": "Sijilmasa",
+        "date": "caravan terminus",
+        "anchor": "end",
+        "dy": -6
+       },
+       {
+        "ll": [
+         -10.4058,
+         17.4233
+        ],
+        "label": "Awdaghust",
+        "anchor": "end",
+        "dy": -6
+       },
+       {
+        "ll": [
+         -7.9767,
+         15.7667
+        ],
+        "label": "Ghana",
+        "date": "capital; site approximate",
+        "acc": true,
+        "big": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "11.9 · Ghana",
+         "title": "Ghana",
+         "sub": "al-Bakri, 1068",
+         "text": "[[c-bakri-method]] [[c-ghana-towns]] [[c-ghana-gold]] [[c-gold-trade]]",
+         "sources": [
+          "medslavery-bakri",
+          "jjay-bakri",
+          "bu-ghana",
+          "met-transsaharan"
+         ]
+        }
+       },
+       {
+        "ll": [
+         14.4539,
+         13.1242
+        ],
+        "label": "Lake Chad",
+        "date": "Kanem",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "11.9 · Kanem",
+         "title": "Kanem",
+         "sub": "from c. 9th century",
+         "text": "[[c-kanem]]",
+         "sources": [
+          "brit-kanem"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.2308,
+         30.0056
+        ],
+        "label": "Fustat",
+        "date": "the Genizah",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.9 · Cairo",
+         "title": "The Genizah",
+         "sub": "10th-13th centuries",
+         "text": "[[c-genizah2]]",
+         "sources": [
+          "cam-genizah-news",
+          "ucp-goitein"
+         ]
+        }
+       },
+       {
+        "ll": [
+         39.0475,
+         12.0319
+        ],
+        "label": "Lalibela",
+        "date": "rock churches",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.9 · Ethiopia",
+         "title": "Lalibela",
+         "sub": "12th-13th centuries",
+         "text": "[[c-lalibela]]",
+         "sources": [
+          "unesco-lalibela"
+         ]
+        }
+       },
+       {
+        "ll": [
+         39.4981,
+         -8.9589
+        ],
+        "label": "Kilwa",
+        "date": "Swahili port",
+        "acc": true,
+        "big": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "11.9 · Swahili coast",
+         "title": "Kilwa",
+         "sub": "13th century onward",
+         "text": "[[c-kilwa]] [[c-swahili-dna]]",
+         "sources": [
+          "unesco-kilwa",
+          "harvard-swahili"
+         ]
+        }
+       },
+       {
+        "ll": [
+         30.9344,
+         -20.2731
+        ],
+        "label": "Great Zimbabwe",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.9 · the south",
+         "title": "Mapungubwe and Great Zimbabwe",
+         "sub": "c. 900-1450",
+         "text": "[[c-mapungubwe]] [[c-great-zimbabwe]]",
+         "sources": [
+          "unesco-mapungubwe",
+          "unesco-zimbabwe"
+         ]
+        }
+       },
+       {
+        "ll": [
+         29.3725,
+         -22.2069
+        ],
+        "label": "Mapungubwe",
+        "date": "c. 900-1300",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Al-Bakri's account of Ghana is valuable but must be used with care. Why?",
+     "choices": [
+      "He wrote in al-Andalus from reports, never visiting Ghana",
+      "He was a court official writing propaganda for Ghana's king",
+      "He saw Ghana on one brief visit, years after its fall",
+      "It describes a Ghana that had already vanished by 1068"
+     ],
+     "answer": 0,
+     "why": "He wrote in 1068 in al-Andalus, from other people's reports: a second-hand account is still precious, but second-hand.",
+     "wrong": {
+      "1": "He wrote in al-Andalus, far from Ghana's court.",
+      "2": "He never travelled to West Africa.",
+      "3": "He describes a working kingdom whose king taxed every load of salt."
+     }
+    },
+    {
+     "q": "What did the 2023 ancient-DNA study of the Swahili coast show?",
+     "choices": [
+      "Ancestry was mixed, but the culture stayed African",
+      "Arab colonists replaced the local people of the coast",
+      "Asian ancestry came with the Portuguese, not before",
+      "The first migrants were mostly Indian women, not Persian men"
+     ],
+     "answer": 0,
+     "why": "From about 1000 CE migrants from Southwest Asia, at first mostly Persian men who had children with African women, contributed close to half the ancestry of the people studied, while the language and culture stayed African and Bantu.",
+     "wrong": {
+      "1": "The ancestry was mixed, and the language and culture stayed African.",
+      "2": "Asian ancestry arrived from about 1000 CE.",
+      "3": "The early migrants were mostly Persian men who had children with African women."
+     }
+    }
+   ]
+  },
+  {
+   "title": "India and Southeast Asia",
+   "sub": "temples, fleets and raiders, c. 800-1250",
+   "lede": "South India's Chola kings built great temples and sent a fleet across the Bay of Bengal. In Southeast Asia, Indian religions inspired the monuments of Borobudur and Angkor Wat. In the north-west, raids from Afghanistan were followed by Ghurid conquests that created the Delhi Sultanate, and how one of the raids is remembered is still a live political issue.",
+   "body": [
+    "The Cholas of Tamil Nadu built great temples at Thanjavur and Gangaikondacholapuram, still in worship today, [[c-chola-temples]] and in 1025 their navy struck Srivijaya, [[c-chola-raid]] the Buddhist trading power that controlled the Strait of Malacca. [[c-srivijaya]] Why they did it is unclear. [[c-chola-why]]",
+    "In Java, the Sailendra kings built Borobudur, a Buddhist monument on a vast scale. [[c-borobudur]] In Cambodia, the Khmer king Suryavarman II built Angkor Wat for Vishnu, [[c-angkorwat]] at the heart of a sprawling, low-density city mapped by laser surveys; one model puts Greater Angkor's population at 700,000 to 900,000. [[c-angkor-pop]]",
+    "From Afghanistan, Mahmud of Ghazni raided India repeatedly and in 1026 plundered the temple of Somnath. [[c-mahmud]] Historians disagree about his motives, [[c-mahmud-why]] and the memory of Somnath has become a national symbol, commemorated by India's government in 2026 and analysed by historians as a story built over centuries. [[c-somnath-memory]] By 1206 the Ghurid conquests had produced the Delhi Sultanate. [[c-delhi]]",
+    {
+     "table": {
+      "head": [
+       "Monument or event",
+       "Where",
+       "When"
+      ],
+      "rows": [
+       [
+        "Borobudur",
+        "Java",
+        "8th-9th centuries"
+       ],
+       [
+        "Brihadisvara temple",
+        "Thanjavur",
+        "1009-1010"
+       ],
+       [
+        "Chola raid on Srivijaya",
+        "Sumatra and Malaya",
+        "1025"
+       ],
+       [
+        "Somnath raided",
+        "Gujarat",
+        "1026"
+       ],
+       [
+        "Angkor Wat",
+        "Cambodia",
+        "12th century"
+       ],
+       [
+        "Delhi Sultanate founded",
+        "north India",
+        "c. 1206"
+       ]
+      ],
+      "note": "[[c-borobudur]] [[c-chola-temples]] [[c-chola-raid]] [[c-mahmud]] [[c-angkorwat]] [[c-delhi]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 88.0,
+     "lat": 14.0,
+     "zoom": 5.0
+    },
+    "caption": "India and Southeast Asia, c. 800-1250",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          79.85,
+          10.8
+         ],
+         [
+          85.0,
+          8.0
+         ],
+         [
+          92.0,
+          6.5
+         ],
+         [
+          98.0,
+          4.5
+         ],
+         [
+          102.0,
+          1.0
+         ],
+         [
+          104.75,
+          -2.92
+         ]
+        ],
+        "label": "Chola fleet, 1025",
+        "lab": [
+         92.0,
+         6.5
+        ],
+        "ldy": 18
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         78.0,
+         22.0
+        ],
+        "label": "INDIA",
+        "size": 11
+       },
+       {
+        "ll": [
+         104.0,
+         15.5
+        ],
+        "label": "KHMER",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         68.4208,
+         33.5539
+        ],
+        "label": "Ghazni",
+        "date": "Mahmud's capital",
+        "anchor": "end",
+        "dy": -6
+       },
+       {
+        "ll": [
+         70.4011,
+         20.8881
+        ],
+        "label": "Somnath",
+        "date": "1026",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 4,
+        "plate": {
+         "kicker": "11.10 · Somnath",
+         "title": "Somnath",
+         "sub": "1026 and its memory",
+         "text": "[[c-mahmud]] [[c-mahmud-why]] [[c-somnath-memory]]",
+         "sources": [
+          "brit-mahmud",
+          "eaton-temples",
+          "verso-thapar",
+          "pmindia-somnath"
+         ]
+        }
+       },
+       {
+        "ll": [
+         77.2,
+         28.5167
+        ],
+        "label": "Delhi",
+        "date": "sultanate from c. 1206",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.10 · Delhi",
+         "title": "The Delhi Sultanate",
+         "sub": "1206 onward",
+         "text": "[[c-delhi]]",
+         "sources": [
+          "brit-delhi-sultanate"
+         ]
+        }
+       },
+       {
+        "ll": [
+         79.1319,
+         10.7829
+        ],
+        "label": "Thanjavur",
+        "date": "temple 1010",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "11.10 · the Cholas",
+         "title": "The Chola temples",
+         "sub": "1010 and 1035",
+         "text": "[[c-chola-temples]] [[c-chola-raid]] [[c-chola-why]]",
+         "sources": [
+          "unesco-chola",
+          "kulke-chola"
+         ]
+        }
+       },
+       {
+        "ll": [
+         104.7456,
+         -2.9167
+        ],
+        "label": "Palembang",
+        "date": "Srivijaya",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "11.10 · Srivijaya",
+         "title": "Srivijaya",
+         "sub": "7th-13th centuries",
+         "text": "[[c-srivijaya]] [[c-chola-raid]]",
+         "sources": [
+          "brit-srivijaya"
+         ]
+        }
+       },
+       {
+        "ll": [
+         110.2039,
+         -7.6078
+        ],
+        "label": "Borobudur",
+        "date": "8th-9th c.",
+        "acc": true,
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "11.10 · Java",
+         "title": "Borobudur",
+         "sub": "8th-9th centuries",
+         "text": "[[c-borobudur]]",
+         "sources": [
+          "unesco-borobudur"
+         ]
+        }
+       },
+       {
+        "ll": [
+         103.8664,
+         13.4122
+        ],
+        "label": "Angkor",
+        "date": "Angkor Wat, 12th c.",
+        "acc": true,
+        "big": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "11.10 · Angkor",
+         "title": "Angkor",
+         "sub": "12th-13th centuries",
+         "text": "[[c-angkorwat]] [[c-angkor-pop]]",
+         "sources": [
+          "brit-angkorwat",
+          "evans2015",
+          "klassen2021"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does the evidence say about why the Chola fleet raided Srivijaya in 1025?",
+     "choices": [
+      "Its motive is unclear; trade and plunder are both proposed",
+      "Sastri proved Srivijaya was blocking Chola trade with China",
+      "Chinese records show the Song court ordered the raid",
+      "George Spencer showed it was a trade war, not plunder"
+     ],
+     "answer": 0,
+     "why": "Hermann Kulke calls the motive 'still a moot point': Sastri thought Srivijaya obstructed Chola trade, Spencer saw a 'politics of plunder', and Tansen Sen does not rule out a 'trade war'.",
+     "wrong": {
+      "1": "Sastri suggested it; Kulke calls the question 'still a moot point'.",
+      "2": "The explanations proposed are trade obstruction, plunder or a trade war, not a Chinese order.",
+      "3": "Spencer saw a 'politics of plunder'; it is Tansen Sen who does not rule out a 'trade war'."
+     }
+    },
+    {
+     "q": "Why does Romila Thapar's book on Somnath matter to debates about the 1026 raid?",
+     "choices": [
+      "It traces the 'trauma' story to Britain's House of Commons",
+      "It argues the raid of 1026 is a later invention",
+      "It shows Somnath was remembered as a trauma from 1026 on",
+      "It is the official history used for the 2026 commemoration"
+     ],
+     "answer": 0,
+     "why": "Thapar argues the raid was first presented as a lasting Hindu trauma in Britain's House of Commons: she studies how the event was remembered as well as the event itself.",
+     "wrong": {
+      "1": "Her argument concerns how the raid was remembered; the raid and its plunder are recorded.",
+      "2": "She argues the 'trauma' framing first appeared much later, in Britain's House of Commons.",
+      "3": "It is an independent study whose publisher describes it as contesting 'Hindu religious nationalism'."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Americas and the Pacific",
+   "sub": "c. 850 to 1300",
+   "lede": "Beyond the reach of Eurasia's webs, the Americas had their own: great towns on the Mississippi and in the deserts of New Mexico, and Maya and Toltec cities in Mexico. In the Pacific, Polynesian navigators settled the remaining islands of East Polynesia, reaching Rapa Nui and New Zealand.",
+   "body": [
+    "Cahokia, on the Mississippi, was the largest town north of Mexico, [[c-cahokia]] and its decline after about 1150 is now debated. [[c-cahokia-decline]] In the deserts of New Mexico, Chaco Canyon was the centre of a network of 'great houses' linked by roads. [[c-chaco]]",
+    "As the great Classic Maya cities declined, the lowlands suffered severe, repeated droughts, [[c-maya-drought]] some of which can now be dated year by year, though how far drought caused the collapse is debated. [[c-maya-2025]] In the north, Chichen Itza flourished, [[c-chichen]] its buildings closely resembling those of Tula in central Mexico. [[c-tula]]",
+    "After the Society Islands, Polynesians settled all the remaining islands of East Polynesia in a single pulse of about a century, [[c-polynesia]] reaching Aotearoa New Zealand around 1280. [[c-nz]] Rapa Nui (Easter Island) was once held up as a warning of ecological self-destruction; new evidence suggests that story is wrong. [[c-rapanui]]",
+    {
+     "table": {
+      "head": [
+       "Place",
+       "Region",
+       "When"
+      ],
+      "rows": [
+       [
+        "Chaco Canyon",
+        "New Mexico",
+        "850-1250"
+       ],
+       [
+        "Tula",
+        "central Mexico",
+        "grew c. 900-1200"
+       ],
+       [
+        "Chichen Itza",
+        "Yucatán",
+        "10th-15th centuries"
+       ],
+       [
+        "Cahokia",
+        "Mississippi valley",
+        "peak c. 1050-1150"
+       ],
+       [
+        "Society Islands settled",
+        "East Polynesia",
+        "c. 1025-1120"
+       ],
+       [
+        "Rapa Nui and New Zealand settled",
+        "East Polynesia",
+        "c. 1190-1300"
+       ]
+      ],
+      "note": "[[c-chaco]] [[c-tula]] [[c-chichen]] [[c-cahokia]] [[c-polynesia]] [[c-nz]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "The Americas and the Pacific, 850-1300",
+    "title": "Selected centres and settlements, CE",
+    "max": -840,
+    "min": -1310,
+    "unit": "ka",
+    "ticks": [
+     -850,
+     -950,
+     -1050,
+     -1150,
+     -1250
+    ],
+    "tickLabels": [
+     "850",
+     "950",
+     "1050",
+     "1150",
+     "1250 CE"
+    ],
+    "axis": "years CE; all dates approximate",
+    "hint": "Hover or click a row",
+    "rows": [
+     {
+      "t": "Chaco Canyon",
+      "sub": "New Mexico",
+      "from": -850,
+      "to": -1250,
+      "lab": "850-1250",
+      "acc": true,
+      "plate": {
+       "kicker": "11.11 · Chaco",
+       "title": "Chaco Canyon",
+       "sub": "850-1250",
+       "text": "[[c-chaco]]",
+       "sources": [
+        "unesco-chaco"
+       ]
+      }
+     },
+     {
+      "t": "Maya droughts",
+      "sub": "Yucatán stalagmite",
+      "from": -871,
+      "to": -1021,
+      "lab": "871-1021",
+      "open": true,
+      "plate": {
+       "kicker": "11.11 · the Maya",
+       "title": "Maya droughts",
+       "sub": "9th-11th centuries",
+       "text": "[[c-maya-drought]] [[c-maya-2025]]",
+       "sources": [
+        "evans2018",
+        "cam-maya2025"
+       ]
+      }
+     },
+     {
+      "t": "Tula grows",
+      "sub": "Toltec capital",
+      "from": -900,
+      "to": -1200,
+      "lab": "c. 900-1200",
+      "acc": true,
+      "plate": {
+       "kicker": "11.11 · Mexico",
+       "title": "Tula and Chichen Itza",
+       "sub": "10th-12th centuries",
+       "text": "[[c-tula]] [[c-chichen]]",
+       "sources": [
+        "brit-postclassic",
+        "unesco-chichen"
+       ]
+      }
+     },
+     {
+      "t": "Cahokia at its peak",
+      "sub": "Mississippi valley",
+      "from": -1050,
+      "to": -1150,
+      "lab": "c. 1050-1150",
+      "acc": true,
+      "plate": {
+       "kicker": "11.11 · Cahokia",
+       "title": "Cahokia",
+       "sub": "c. 1050-1150",
+       "text": "[[c-cahokia]] [[c-cahokia-decline]]",
+       "sources": [
+        "unesco-cahokia",
+        "white2019",
+        "hd-cahokia2024"
+       ]
+      }
+     },
+     {
+      "t": "Society Islands settled",
+      "from": -1025,
+      "to": -1120,
+      "lab": "c. 1025-1120",
+      "acc": true,
+      "plate": {
+       "kicker": "11.11 · Polynesia",
+       "title": "Settling East Polynesia",
+       "sub": "c. 1025-1290",
+       "text": "[[c-polynesia]] [[c-rapanui]]",
+       "sources": [
+        "wilmshurst2011",
+        "ku-rapanui2024"
+       ]
+      }
+     },
+     {
+      "t": "Rest of East Polynesia",
+      "sub": "incl. Rapa Nui, New Zealand",
+      "from": -1190,
+      "to": -1290,
+      "lab": "c. 1190-1290",
+      "acc": true
+     },
+     {
+      "t": "New Zealand: first evidence",
+      "from": -1280,
+      "to": -1300,
+      "lab": "c. 1280-1300",
+      "acc": true,
+      "plate": {
+       "kicker": "11.11 · Aotearoa",
+       "title": "Aotearoa New Zealand",
+       "sub": "c. 1280",
+       "text": "[[c-nz]]",
+       "sources": [
+        "landcare-nz"
+       ]
+      }
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does the 2025 Yucatán stalagmite study add to the debate over the Maya collapse?",
+     "choices": [
+      "It dates eight long droughts but does not show abandonment",
+      "It proves drought caused Chichen Itza to be abandoned",
+      "It shows rainfall rose in Yucatán during the collapse",
+      "It shows warfare, not climate, drove the Maya decline"
+     ],
+     "answer": 0,
+     "why": "It found eight droughts of three years or more between 871 and 1021, the longest 13 years; the authors caution that this 'doesn't necessarily mean' Chichen Itza was abandoned during them.",
+     "wrong": {
+      "1": "The authors caution that their finding 'doesn't necessarily mean' Chichen Itza was abandoned during the droughts.",
+      "2": "Lake sediments show rainfall fell by 41-54 percent.",
+      "3": "The study is about climate; it does not test warfare."
+     }
+    },
+    {
+     "q": "What did Wilmshurst and colleagues (2011) change about the settlement of East Polynesia?",
+     "choices": [
+      "Settlement was later and faster than once thought",
+      "They pushed first settlement back to about 500 BCE",
+      "They showed New Zealand was settled centuries before Rapa Nui",
+      "They showed settlement was earlier and slower than thought"
+     ],
+     "answer": 0,
+     "why": "High-precision radiocarbon dating put the Society Islands at about 1025-1120 and the remaining islands in one pulse about 1190-1290; earlier chronologies were up to several centuries older.",
+     "wrong": {
+      "1": "Their dates are much later; the older chronologies were the earlier ones.",
+      "2": "Both lie in the same pulse of settlement, about 1190-1290.",
+      "3": "The reverse: their dates are later, and the spread faster, than earlier chronologies."
+     }
+    }
+   ]
+  }
+ ]
+}

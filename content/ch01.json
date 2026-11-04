@@ -1,0 +1,4929 @@
+{
+ "id": "ch01",
+ "no": "01",
+ "title": "The shape of human history",
+ "sub": "three hundred thousand years, from far away",
+ "sources": {
+  "brit-cyrus": {
+   "citation": "Encyclopaedia Britannica, \"Cyrus II\"",
+   "url": "https://www.britannica.com/biography/Cyrus-II"
+  },
+  "brit-achaemenid": {
+   "citation": "Encyclopaedia Britannica, \"Achaemenian dynasty\"",
+   "url": "https://www.britannica.com/topic/Achaemenian-dynasty"
+  },
+  "brit-maurya": {
+   "citation": "Encyclopaedia Britannica, \"Mauryan Empire\"",
+   "url": "https://www.britannica.com/place/Mauryan-Empire"
+  },
+  "brit-ashoka": {
+   "citation": "Encyclopaedia Britannica, \"Ashoka\"",
+   "url": "https://www.britannica.com/biography/Ashoka"
+  },
+  "brit-qin": {
+   "citation": "Encyclopaedia Britannica, \"Qin dynasty\"",
+   "url": "https://www.britannica.com/topic/Qin-dynasty"
+  },
+  "mcconnell2018": {
+   "citation": "EurekAlert, on McConnell et al., \"Lead pollution recorded in Greenland ice indicates European emissions tracked plagues, wars, and imperial expansion during antiquity\", PNAS (2018)",
+   "url": "https://www.eurekalert.org/news-releases/866148"
+  },
+  "brit-han": {
+   "citation": "Encyclopaedia Britannica, \"Han dynasty\"",
+   "url": "https://www.britannica.com/topic/Han-dynasty"
+  },
+  "met-rome": {
+   "citation": "The Met, \"The Roman Empire (27 B.C.–393 A.D.)\"",
+   "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm"
+  },
+  "scheidel": {
+   "citation": "Walter Scheidel, ed., Rome and China (Oxford, 2009), introduction",
+   "url": "https://web.stanford.edu/~scheidel/Rome%26China.pdf"
+  },
+  "owid-pop": {
+   "citation": "Our World in Data, \"Population\" (HYDE 3.3, Gapminder, UN WPP 2024)",
+   "url": "https://ourworldindata.org/grapher/population"
+  },
+  "nyrb-axial": {
+   "citation": "G. W. Bowersock, \"A Different Turning Point for Mankind?\", New York Review of Books, 2013",
+   "url": "https://www.nybooks.com/articles/2013/05/09/different-turning-point-mankind/"
+  },
+  "brit-confucius": {
+   "citation": "Encyclopaedia Britannica, \"Confucius\"",
+   "url": "https://www.britannica.com/biography/Confucius"
+  },
+  "brit-buddha": {
+   "citation": "Encyclopaedia Britannica, \"Buddha\"",
+   "url": "https://www.britannica.com/biography/Buddha-founder-of-Buddhism"
+  },
+  "brit-socrates": {
+   "citation": "Encyclopaedia Britannica, \"Socrates\"",
+   "url": "https://www.britannica.com/biography/Socrates"
+  },
+  "brit-plato": {
+   "citation": "Encyclopaedia Britannica, \"Plato\"",
+   "url": "https://www.britannica.com/biography/Plato"
+  },
+  "brit-isaiah": {
+   "citation": "Encyclopaedia Britannica, \"Isaiah\"",
+   "url": "https://www.britannica.com/biography/Isaiah"
+  },
+  "brit-zoroaster": {
+   "citation": "Encyclopaedia Britannica, \"Zarathustra\"",
+   "url": "https://www.britannica.com/biography/Zarathustra"
+  },
+  "columbia-buddhism": {
+   "citation": "Columbia University, Asia for Educators, \"Buddhism in China\"",
+   "url": "https://afe.easia.columbia.edu/cosmos/ort/buddhism.htm"
+  },
+  "brit-theodosius": {
+   "citation": "Encyclopaedia Britannica, \"Theodosius I\"",
+   "url": "https://www.britannica.com/biography/Theodosius-I"
+  },
+  "brit-muhammad": {
+   "citation": "Encyclopaedia Britannica, \"Muhammad\"",
+   "url": "https://www.britannica.com/biography/Muhammad"
+  },
+  "brit-umayyad": {
+   "citation": "Encyclopaedia Britannica, \"Umayyad dynasty\"",
+   "url": "https://www.britannica.com/topic/Umayyad-dynasty-Islamic-history"
+  },
+  "brit-silk": {
+   "citation": "Encyclopaedia Britannica, \"Silk Road\"",
+   "url": "https://www.britannica.com/topic/Silk-Road-trade-route"
+  },
+  "mertens": {
+   "citation": "Matthias Mertens, \"Did Richthofen Really Coin 'the Silk Road'?\", The Silk Road 17 (2019)",
+   "url": "https://edspace.american.edu/silkroadjournal/wp-content/uploads/sites/984/2020/02/2-Mertens-Did-Richthofen-Really-Coin-the-Silk-Road.pdf"
+  },
+  "brit-monsoon": {
+   "citation": "Encyclopaedia Britannica, \"Monsoon\"",
+   "url": "https://www.britannica.com/science/monsoon"
+  },
+  "qdl-monsoon": {
+   "citation": "Qatar Digital Library, \"Muscat and the Monsoon\"",
+   "url": "https://www.qdl.qa/en/muscat-and-monsoon"
+  },
+  "brit-musa": {
+   "citation": "Encyclopaedia Britannica, \"Musa I of Mali\"",
+   "url": "https://www.britannica.com/biography/Musa-I-of-Mali"
+  },
+  "brit-mali": {
+   "citation": "Encyclopaedia Britannica, \"Mali (historical empire)\"",
+   "url": "https://www.britannica.com/place/Mali-historical-empire-Africa"
+  },
+  "columbia-print": {
+   "citation": "Columbia University, \"Printing in the Song dynasty\"",
+   "url": "https://afe.easia.columbia.edu/songdynasty-module/tech-printing.html"
+  },
+  "columbia-money": {
+   "citation": "Columbia University, \"Paper money in the Song dynasty\"",
+   "url": "https://afe.easia.columbia.edu/songdynasty-module/econ-rev-money.html"
+  },
+  "columbia-gunpowder": {
+   "citation": "Columbia University, \"Gunpowder in the Song dynasty\"",
+   "url": "https://afe.easia.columbia.edu/songdynasty-module/tech-gunpowder.html"
+  },
+  "brit-mongol": {
+   "citation": "Encyclopaedia Britannica, \"Mongol empire\"",
+   "url": "https://www.britannica.com/place/Mongol-empire"
+  },
+  "brit-blackdeath": {
+   "citation": "Encyclopaedia Britannica, \"Black Death\"",
+   "url": "https://www.britannica.com/event/Black-Death"
+  },
+  "ht-blackdeath": {
+   "citation": "Ole Benedictow, \"The Black Death: The Greatest Catastrophe Ever\", History Today",
+   "url": "https://www.historytoday.com/archive/black-death-greatest-catastrophe-ever"
+  },
+  "reading-bd": {
+   "citation": "University of Reading on Izdebski et al., Nature Ecology & Evolution (2022)",
+   "url": "https://www.reading.ac.uk/news/2022/Research-News/Black-Death-mortality"
+  },
+  "brit-columbus": {
+   "citation": "Encyclopaedia Britannica, \"Christopher Columbus: the first voyage\"",
+   "url": "https://www.britannica.com/biography/Christopher-Columbus/The-first-voyage"
+  },
+  "brit-gama": {
+   "citation": "Encyclopaedia Britannica, \"Vasco da Gama\"",
+   "url": "https://www.britannica.com/biography/Vasco-da-Gama"
+  },
+  "brit-magellan": {
+   "citation": "Encyclopaedia Britannica, \"Ferdinand Magellan\"",
+   "url": "https://www.britannica.com/biography/Ferdinand-Magellan"
+  },
+  "brit-exchange": {
+   "citation": "Encyclopaedia Britannica, \"Columbian exchange\"",
+   "url": "https://www.britannica.com/event/Columbian-exchange"
+  },
+  "nunn-qian": {
+   "citation": "Nathan Nunn and Nancy Qian, \"The Columbian Exchange\", Journal of Economic Perspectives (2010)",
+   "url": "https://www.kellogg.northwestern.edu/faculty/qian/resources/NunnQianJEP.pdf"
+  },
+  "ucl-dying": {
+   "citation": "UCL on Koch et al., Quaternary Science Reviews (2019)",
+   "url": "https://www.ucl.ac.uk/news/2019/feb/great-dying-americas-disturbed-earths-climate"
+  },
+  "pbs-slave": {
+   "citation": "Henry Louis Gates Jr., PBS, citing the Trans-Atlantic Slave Trade Database",
+   "url": "https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/how-many-slaves-landed-in-the-us/"
+  },
+  "oer-gunpowder": {
+   "citation": "OER Project, \"Gunpowder Empires\"",
+   "url": "https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/Origins/Unit6/Gunpowder-Empires"
+  },
+  "brit-ottoman": {
+   "citation": "Encyclopaedia Britannica, \"Ottoman Empire\"",
+   "url": "https://www.britannica.com/place/Ottoman-Empire"
+  },
+  "nara-decl": {
+   "citation": "US National Archives, \"Declaration of Independence: A History\"",
+   "url": "https://www.archives.gov/founding-docs/declaration-history"
+  },
+  "brit-french": {
+   "citation": "Encyclopaedia Britannica, \"French Revolution\"",
+   "url": "https://www.britannica.com/event/French-Revolution"
+  },
+  "brit-ayacucho": {
+   "citation": "Encyclopaedia Britannica, \"Battle of Ayacucho\"",
+   "url": "https://www.britannica.com/event/Battle-of-Ayacucho"
+  },
+  "brit-haiti": {
+   "citation": "Encyclopaedia Britannica, \"Haitian Revolution\"",
+   "url": "https://www.britannica.com/topic/Haitian-Revolution"
+  },
+  "jcb-juntas": {
+   "citation": "John Carter Brown Library, Brown University, \"The juntas\"",
+   "url": "https://www.brown.edu/Facilities/John_Carter_Brown_Library/exhibitions/spanishage/pages/juntas.html"
+  },
+  "brit-industrial": {
+   "citation": "Encyclopaedia Britannica, \"Industrial Revolution\"",
+   "url": "https://www.britannica.com/event/Industrial-Revolution"
+  },
+  "brit-watt": {
+   "citation": "Encyclopaedia Britannica, \"James Watt\"",
+   "url": "https://www.britannica.com/biography/James-Watt"
+  },
+  "usc-pomeranz": {
+   "citation": "USC US-China Institute, on Kenneth Pomeranz, The Great Divergence (2000)",
+   "url": "https://china.usc.edu/node/2295"
+  },
+  "broadberry": {
+   "citation": "Broadberry, Guan and Li, Journal of Economic History (2018)",
+   "url": "https://econpapers.repec.org/RePEc:cup:jechis:v:78:y:2018:i:04:p:955-1000_00"
+  },
+  "owid-gdp": {
+   "citation": "Our World in Data, \"Global average GDP per capita over the long run\" (Maddison)",
+   "url": "https://ourworldindata.org/grapher/global-average-gdp-per-capita-over-the-long-run"
+  },
+  "brit-ww1": {
+   "citation": "Encyclopaedia Britannica, \"World War I: killed, wounded and missing\"",
+   "url": "https://www.britannica.com/event/World-War-I/Killed-wounded-and-missing"
+  },
+  "brit-ww1q": {
+   "citation": "Encyclopaedia Britannica, \"How many people died during World War I?\"",
+   "url": "https://www.britannica.com/question/How-many-people-died-during-World-War-I"
+  },
+  "brit-ww2q": {
+   "citation": "Encyclopaedia Britannica, \"How many people died during World War II?\"",
+   "url": "https://www.britannica.com/question/How-many-people-died-during-World-War-II"
+  },
+  "nww2m": {
+   "citation": "The National WWII Museum, \"Worldwide Deaths\"",
+   "url": "https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/research-starters-worldwide-deaths-world-war"
+  },
+  "ushmm": {
+   "citation": "US Holocaust Memorial Museum, \"Documenting Numbers of Victims\"",
+   "url": "https://encyclopedia.ushmm.org/content/en/article/documenting-numbers-of-victims-of-the-holocaust-and-nazi-persecution"
+  },
+  "brit-russia": {
+   "citation": "Encyclopaedia Britannica, \"Russian Revolution\"",
+   "url": "https://www.britannica.com/event/Russian-Revolution"
+  },
+  "osti-1945": {
+   "citation": "US Department of Energy, OSTI, \"1945\" (Manhattan Project history)",
+   "url": "https://www.osti.gov/opennet/manhattan-project-history/Events/1945/1945.htm"
+  },
+  "un-growth": {
+   "citation": "United Nations, \"Growth in UN membership\"",
+   "url": "https://www.un.org/en/about-us/growth-in-un-membership"
+  },
+  "un-decol": {
+   "citation": "United Nations, \"Decolonization\"",
+   "url": "https://www.un.org/en/global-issues/decolonization"
+  },
+  "state-india": {
+   "citation": "US Office of the Historian, \"India\"",
+   "url": "https://history.state.gov/countries/india"
+  },
+  "state-ghana": {
+   "citation": "US Office of the Historian, \"Ghana\"",
+   "url": "https://history.state.gov/countries/ghana"
+  },
+  "state-angola": {
+   "citation": "US Office of the Historian, \"Angola\"",
+   "url": "https://history.state.gov/countries/angola"
+  },
+  "brit-coldwar": {
+   "citation": "Encyclopaedia Britannica, \"Cold War\"",
+   "url": "https://www.britannica.com/event/Cold-War"
+  },
+  "state-ussr": {
+   "citation": "US Office of the Historian, \"The Collapse of the Soviet Union\"",
+   "url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union"
+  },
+  "un-6bn": {
+   "citation": "UN Population Division, The World at Six Billion (1999)",
+   "url": "https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/files/documents/2020/Jan/un_1999_6billion.pdf"
+  },
+  "un-8bn": {
+   "citation": "United Nations, \"Day of Eight Billion\"",
+   "url": "https://www.un.org/en/dayof8billion"
+  },
+  "owid-life": {
+   "citation": "Our World in Data, \"Life expectancy\" (Riley 2005; UN WPP 2024)",
+   "url": "https://ourworldindata.org/grapher/life-expectancy"
+  },
+  "owid-poverty": {
+   "citation": "Our World in Data, \"Share living in extreme poverty, cost of basic needs\" (Moatsos 2021)",
+   "url": "https://ourworldindata.org/grapher/share-of-population-living-in-extreme-poverty-cost-of-basic-needs"
+  },
+  "owid-energy": {
+   "citation": "Our World in Data, \"Global primary energy consumption by source\" (Smil; Energy Institute)",
+   "url": "https://ourworldindata.org/grapher/global-energy-substitution"
+  },
+  "met-writing": {
+   "citation": "The Met, \"The Origins of Writing\"",
+   "url": "https://www.metmuseum.org/en/essays/the-origins-of-writing"
+  },
+  "friedrich": {
+   "citation": "Friedrich et al., \"The 12,460-year Hohenheim oak and pine tree-ring chronology\", Radiocarbon (2004)",
+   "url": "https://www.cambridge.org/core/product/41104F23F7389472787A965C7AD6D702"
+  },
+  "intcal20": {
+   "citation": "Reimer et al., \"IntCal20\", Radiocarbon (2020)",
+   "url": "https://www.cambridge.org/core/journals/radiocarbon/article/intcal20-northern-hemisphere-radiocarbon-age-calibration-curve-055-cal-kbp/83257B63DC3AF9CFA6243F59D7503EFF"
+  },
+  "nobel-libby": {
+   "citation": "Nobel Prize, \"Willard F. Libby: facts\"",
+   "url": "https://www.nobelprize.org/prizes/chemistry/1960/libby/facts/"
+  },
+  "scitable": {
+   "citation": "Nature Education Scitable, \"Dating Rocks and Fossils Using Geologic Methods\"",
+   "url": "https://www.nature.com/scitable/knowledge/library/dating-rocks-and-fossils-using-geologic-methods-107924044/"
+  },
+  "meyer2016": {
+   "citation": "Meyer et al., \"Nuclear DNA sequences from the Middle Pleistocene Sima de los Huesos hominins\", Nature (2016)",
+   "url": "https://www.nature.com/articles/nature17405"
+  },
+  "nobel-paabo": {
+   "citation": "Nobel Prize in Physiology or Medicine 2022, summary",
+   "url": "https://www.nobelprize.org/prizes/medicine/2022/summary/"
+  },
+  "epica": {
+   "citation": "NOAA World Data Service, EPICA Dome C 800,000-year CO2 record",
+   "url": "https://catalog-beta.data.gov/dataset/noaa-wds-paleoclimatology-epica-dome-c-800kyr-co2-data"
+  },
+  "cordis-beyond": {
+   "citation": "European Commission CORDIS, Beyond EPICA reaches bedrock (2025)",
+   "url": "https://cordis.europa.eu/article/id/458246"
+  },
+  "heggarty": {
+   "citation": "EurekAlert on Heggarty et al., Science (2023)",
+   "url": "https://www.eurekalert.org/news-releases/996768"
+  },
+  "ucla-standards": {
+   "citation": "UCLA National Center for History in the Schools, World History Content Standards",
+   "url": "https://phi.history.ucla.edu/nchs/world-history-content-standards/"
+  },
+  "oer-outline": {
+   "citation": "OER Project, World History Project course outline",
+   "url": "https://www.oerproject.com/OER-Materials/OER-Media/PDFs/Origins/Teacher-Resources/Origins-Course-Outline"
+  },
+  "ap-world": {
+   "citation": "College Board, AP World History: Modern",
+   "url": "https://apcentral.collegeboard.org/courses/ap-world-history/course"
+  },
+  "hublin2017": {
+   "citation": "Hublin et al., \"New fossils from Jebel Irhoud, Morocco\", Nature (2017), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28593953/"
+  },
+  "nature-irhoud": {
+   "citation": "Nature news, \"Oldest Homo sapiens fossil claim rewrites our species' history\" (2017)",
+   "url": "https://www.nature.com/articles/nature.2017.22114"
+  },
+  "vidal2022": {
+   "citation": "Vidal et al., \"Age of the oldest known Homo sapiens from eastern Africa\", Nature (2022), abstract",
+   "url": "https://www.tara.tcd.ie/items/4db88dc7-633b-44ed-83fc-7f84f618c392"
+  },
+  "si-sapiens": {
+   "citation": "Smithsonian Human Origins Program, \"Homo sapiens\"",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens"
+  },
+  "antiquity-writing": {
+   "citation": "Antiquity, \"Rolling back the origins of writing\" (2024)",
+   "url": "https://www.antiquity.ac.uk/index.php/news/2024/rolling-back-origins-writing"
+  },
+  "heun1997": {
+   "citation": "Heun et al., \"Site of einkorn wheat domestication identified by DNA fingerprinting\", Science (1997)",
+   "url": "https://www.science.org/doi/10.1126/science.278.5341.1312"
+  },
+  "zeder2011": {
+   "citation": "Melinda Zeder, \"The Origins of Agriculture in the Near East\", Current Anthropology 52 (2011)",
+   "url": "https://humangeography.commons.gc.cuny.edu/wp-content/blogs.dir/3585/files/2018/01/AgOrigins.pdf"
+  },
+  "larson2014": {
+   "citation": "Larson et al., \"Current perspectives and the future of domestication studies\", PNAS (2014)",
+   "url": "https://escholarship.org/content/qt6sd6f5bc/qt6sd6f5bc.pdf"
+  },
+  "bergstrom2021": {
+   "citation": "Bergström et al., \"Origins of modern human ancestry\", Nature (2021)",
+   "url": "https://si.biostat.washington.edu/sites/default/files/modules/Bergstr%C3%B6m%20et%20al%202021%20Origins%20of%20modern%20human%20ancestry.pdf"
+  },
+  "hershkovitz2018": {
+   "citation": "Hershkovitz et al., \"The earliest modern humans outside Africa\", Science (2018)",
+   "url": "https://cir.cenieh.es/handle/20.500.12136/157"
+  },
+  "iasi2024": {
+   "citation": "ScienceDaily on Iasi et al., Science (2024)",
+   "url": "https://sciencedaily.com/releases/2024/12/241212145726.htm"
+  },
+  "clarkson2017": {
+   "citation": "Clarkson et al., \"Human occupation of northern Australia by 65,000 years ago\", Nature (2017)",
+   "url": "https://researchportalplus.anu.edu.au/en/publications/human-occupation-of-northern-australia-by-65000-years-ago/"
+  },
+  "oconnell2018": {
+   "citation": "O'Connell et al., \"When did Homo sapiens first reach Southeast Asia and Sahul?\", PNAS (2018)",
+   "url": "https://uuac.utah.edu/publications/oconnell_8-2018.php"
+  },
+  "livesci-sahul": {
+   "citation": "Live Science on Allen and O'Connell, Archaeology in Oceania (2025)",
+   "url": "https://www.livescience.com/archaeology/human-evolution/neanderthal-dna-may-refute-65-000-year-old-date-for-human-occupation-in-australia-but-not-all-experts-are-convinced"
+  },
+  "gandini2025": {
+   "citation": "ScienceDaily on Gandini et al., Science Advances (2025)",
+   "url": "https://www.sciencedaily.com/releases/2026/04/260408225938.htm"
+  },
+  "bachokiro": {
+   "citation": "Max Planck Institute for Evolutionary Anthropology, Bacho Kiro Cave (2020)",
+   "url": "https://www.eva.mpg.de/press/news/2020-04-24-091055-oldest-upper-palaeolithic-homo-sapiens"
+  },
+  "davis2019": {
+   "citation": "Science News on Davis et al., Cooper's Ferry, Science (2019)",
+   "url": "https://www.sciencenews.org/?p=955757"
+  },
+  "surovell2026": {
+   "citation": "Science News on Surovell et al., Monte Verde, Science (2026)",
+   "url": "https://www.sciencenews.org/?p=3168224"
+  },
+  "pigati2023": {
+   "citation": "US Geological Survey on Pigati et al., Science (2023)",
+   "url": "https://www.usgs.gov/publications/independent-age-estimates-resolve-controversy-ancient-human-footprints-white-sands"
+  },
+  "oviatt2022": {
+   "citation": "Desert Research Institute on Oviatt et al., Quaternary Research (2022)",
+   "url": "https://dri.edu/footprints-claimed-as-evidence-of-ice-age-humans-in-north-america-need-better-dating-new-research-shows"
+  },
+  "wilmshurst2011": {
+   "citation": "University of Hawaiʻi on Wilmshurst et al., PNAS (2011)",
+   "url": "https://www.hawaii.edu/news/article.php?aId=4097"
+  },
+  "landcare-nz": {
+   "citation": "Landcare Research (New Zealand), \"Human arrival\"",
+   "url": "https://oldwww.landcareresearch.co.nz/science/plants-animals-fungi/ecosystems/prehistoric-settlement/human-arrival"
+  },
+  "fuller2014": {
+   "citation": "Fuller et al., \"Convergent evolution and parallelism in plant domestication\", PNAS (2014)",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/29405/2/01_Fuller_Convergent_evolution_and_2014.pdf"
+  },
+  "lu2009": {
+   "citation": "Lu et al., \"Earliest domestication of common millet in East Asia\", PNAS (2009)",
+   "url": "https://www.omicsdi.org/dataset/biostudies-literature/S-EPMC2678631"
+  },
+  "zuo2017": {
+   "citation": "Zuo et al., \"Dating rice remains through phytolith carbon-14 study\", PNAS (2017)",
+   "url": "https://pesquisa.bvsalud.org/sms/resource/pt/mdl-28559349"
+  },
+  "denham2003": {
+   "citation": "Denham et al., \"Origins of agriculture at Kuk Swamp\", Science (2003)",
+   "url": "https://agris.fao.org/search/en/records/65def4734c5aef494fdea6ec"
+  },
+  "smith1997": {
+   "citation": "Bruce Smith, \"The initial domestication of Cucurbita pepo\", Science (1997)",
+   "url": "https://agris.fao.org/search/en/records/65dfb8564c5aef494fe4a475"
+  },
+  "piperno2009": {
+   "citation": "Piperno et al., maize at Xihuatoxtla, PNAS (2009)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19307573/"
+  },
+  "spooner2005": {
+   "citation": "ScienceDaily on Spooner et al., potato domestication, PNAS (2005)",
+   "url": "https://sciencedaily.com/releases/2005/10/051004085552.htm"
+  },
+  "smith-yarnell2009": {
+   "citation": "Smith and Yarnell, \"Initial formation of an indigenous crop complex in eastern North America\", PNAS (2009)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2666091"
+  },
+  "winchell2017": {
+   "citation": "ScienceDaily on Winchell et al., sorghum in Sudan, Current Anthropology (2017)",
+   "url": "https://www.sciencedaily.com/releases/2017/09/170927162011.htm"
+  },
+  "fuller2021": {
+   "citation": "Fuller et al., pearl millet, African Archaeological Review (2021)",
+   "url": "https://discovery.ucl.ac.uk/10124802/1/Fuller_s10437-021-09428-8.pdf"
+  },
+  "met-uruk": {
+   "citation": "The Met, \"Uruk: The First City\"",
+   "url": "https://www.metmuseum.org/essays/uruk-the-first-city"
+  },
+  "egy-early": {
+   "citation": "Egyptian Ministry of Tourism and Antiquities, \"Early Dynastic Period\"",
+   "url": "https://egymonuments.gov.eg/en/historical-periods/early-dynastic-period"
+  },
+  "dee2013": {
+   "citation": "Royal Society on Dee et al., radiocarbon chronology of early Egypt (2013)",
+   "url": "https://royalsociety.org/news/2013/early-egyptian-timeline"
+  },
+  "brit-indus": {
+   "citation": "Encyclopaedia Britannica, \"Indus civilization\"",
+   "url": "https://www.britannica.com/topic/Indus-civilization"
+  },
+  "harappa": {
+   "citation": "Harappa.com, \"The Indus Saraswati civilization\"",
+   "url": "https://www.harappa.com/har/indus-saraswati.html"
+  },
+  "lawler2009": {
+   "citation": "Andrew Lawler, \"Beyond the Yellow River\", Science 325 (2009)",
+   "url": "https://www.andrewlawler.com/?p=1193"
+  },
+  "brit-erlitou": {
+   "citation": "Encyclopaedia Britannica, \"Erlitou culture\"",
+   "url": "https://www.britannica.com/topic/Erlitou-culture"
+  },
+  "brit-shang": {
+   "citation": "Encyclopaedia Britannica, \"China: the Shang dynasty\"",
+   "url": "https://www.britannica.com/place/China/The-Shang-dynasty"
+  },
+  "brit-oracle": {
+   "citation": "Encyclopaedia Britannica, \"Oracle bone\"",
+   "url": "https://www.britannica.com/topic/oracle-bone"
+  },
+  "unesco-caral": {
+   "citation": "UNESCO World Heritage, \"Sacred City of Caral-Supe\"",
+   "url": "https://whc.unesco.org/en/list/1269/"
+  },
+  "brit-olmec": {
+   "citation": "Encyclopaedia Britannica, \"Olmec\"",
+   "url": "https://www.britannica.com/topic/Olmec"
+  },
+  "isac-writing": {
+   "citation": "University of Chicago ISAC, \"Visible Language: Inventions of Writing\"",
+   "url": "https://isac.uchicago.edu/node/2954"
+  },
+  "brit-hieroglyph": {
+   "citation": "Encyclopaedia Britannica, \"Hieroglyph\"",
+   "url": "https://www.britannica.com/topic/hieroglyph"
+  },
+  "brit-quipu": {
+   "citation": "Encyclopaedia Britannica, \"Quipu\"",
+   "url": "https://www.britannica.com/technology/quipu"
+  }
+ },
+ "claims": {
+  "c-achaemenid": {
+   "text": "Cyrus II founded the Achaemenid Persian empire around 550 BCE; at its height under Darius I and Xerxes it reached from Macedonia and Libya to the Beas River in the Indus borderlands. Alexander ended it in 330 BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-cyrus",
+    "brit-achaemenid"
+   ],
+   "show": false,
+   "note": "Cyrus's reign is dated from 559 BCE; his rise against the Median king Astyages came around 550 BCE."
+  },
+  "c-maurya": {
+   "text": "Chandragupta founded the Maurya empire around 321 BCE; it lasted to about 185 BCE. Ashoka turned from conquest after the Kalinga war and promoted dharma through rock and pillar edicts.",
+   "label": "consensus",
+   "sources": [
+    "brit-maurya",
+    "brit-ashoka"
+   ],
+   "show": false,
+   "note": "Dates for Ashoka's reign vary: c. 265–238 BCE or c. 273–232."
+  },
+  "c-qin-han": {
+   "text": "Qin unified China in 221 BCE; the Han ruled from 206 BCE to 220 CE, with a break (9–25 CE) that included Wang Mang's Xin dynasty (9–23).",
+   "label": "consensus",
+   "sources": [
+    "brit-qin",
+    "brit-han"
+   ],
+   "show": false
+  },
+  "c-rome": {
+   "text": "The Roman Empire is dated from 27 BCE, when Octavian received the title Augustus.",
+   "label": "consensus",
+   "sources": [
+    "met-rome"
+   ],
+   "show": false
+  },
+  "c-han-rome-pop": {
+   "text": "At their height, in the 1st and 2nd centuries CE, Han China and the Roman empire may each have held about 60 million people.",
+   "label": "approx",
+   "sources": [
+    "scheidel",
+    "owid-pop"
+   ],
+   "show": true,
+   "note": "Walter Scheidel estimates 60 million or more for each and suggests the two together held up to half of humanity. Our World in Data puts world population around 1 CE at about 232 million, so the share is perhaps a third to a half."
+  },
+  "c-axial": {
+   "text": "Karl Jaspers coined the term Axial Age in 1949 for roughly 800–200 BCE, when major traditions arose in China, India, Iran, Judea and Greece.",
+   "label": "debated",
+   "sources": [
+    "nyrb-axial"
+   ],
+   "show": true,
+   "note": "That Jaspers coined the term is not in doubt. Whether the period was one connected 'breakthrough' is: sociologists such as Eisenstadt and Bellah find the comparison useful, while critics say it is Eurocentric, leans on texts rather than archaeology, and turns coincidence into connection."
+  },
+  "c-confucius": {
+   "text": "Confucius lived 551–479 BCE and was born in the state of Lu (Qufu).",
+   "label": "tradition",
+   "sources": [
+    "brit-confucius"
+   ],
+   "show": true,
+   "note": "The dates are traditional and widely accepted."
+  },
+  "c-buddha": {
+   "text": "The Buddha was born at Lumbini and taught in the Ganges plain; scholars place his death either around 480 BCE or about a century later.",
+   "label": "debated",
+   "sources": [
+    "brit-buddha"
+   ],
+   "show": true,
+   "note": "Older scholarship favours a death around 480 BCE (one 'long chronology' gives 486); many scholars now prefer a date roughly a century later. See 7.9."
+  },
+  "c-socrates": {
+   "text": "Socrates lived c. 470–399 BCE in Athens; Plato lived 428/427–348/347 BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-socrates",
+    "brit-plato"
+   ],
+   "show": false
+  },
+  "c-isaiah": {
+   "text": "The prophet Isaiah was active in Jerusalem in the 8th century BCE; tradition dates his call to around 742 BCE.",
+   "label": "tradition",
+   "sources": [
+    "brit-isaiah"
+   ],
+   "show": true,
+   "note": "The dates come from the biblical book that bears his name; scholars agree that later chapters of that book were written by other hands."
+  },
+  "c-zoroaster": {
+   "text": "Zoroaster's dates are uncertain: tradition gives c. 628–551 BCE, while some modern scholars place him around 1200 BCE or earlier.",
+   "label": "debated",
+   "sources": [
+    "brit-zoroaster"
+   ],
+   "show": true,
+   "note": "The traditional dates come from later Zoroastrian sources; the language of the oldest hymns suggests to some scholars a much earlier date. For the range of modern proposals, centred on about 1000 BCE, see 7.8."
+  },
+  "c-buddhism-china": {
+   "text": "Buddhism reached China by the 1st century CE, carried along the Silk Roads.",
+   "label": "approx",
+   "sources": [
+    "columbia-buddhism"
+   ],
+   "show": false
+  },
+  "c-theodosius": {
+   "text": "In 380 CE Theodosius I's edict made Nicene Christianity the official faith of the Roman empire.",
+   "label": "debated",
+   "sources": [
+    "brit-theodosius"
+   ],
+   "show": true,
+   "note": "Which measure counts as making Christianity the 'state religion' is a matter of definition (see 10.2)."
+  },
+  "c-hijra": {
+   "text": "By tradition, Muhammad emigrated from Mecca to Medina in 622, the hijra; he died in 632.",
+   "label": "tradition",
+   "sources": [
+    "brit-muhammad"
+   ],
+   "show": true,
+   "note": "The dates are accepted by most historians, but the detailed chronology of Muhammad's life comes from biographies written down more than a century later."
+  },
+  "c-umayyad": {
+   "text": "By about 750, Umayyad rule ran from Iberia, invaded in 711, to Central Asia and the Indus region; the Abbasids overthrew the Umayyads in 749–750.",
+   "label": "consensus",
+   "sources": [
+    "brit-umayyad"
+   ],
+   "show": false
+  },
+  "c-silk": {
+   "text": "The classic Silk Road ran about 6,400 km from Chang'an (Xi'an) to the eastern Mediterranean; silk went west, while wool, gold and silver went east.",
+   "label": "approx",
+   "sources": [
+    "brit-silk"
+   ],
+   "show": false
+  },
+  "c-richthofen": {
+   "text": "The geographer Ferdinand von Richthofen popularised the name 'Silk Road' in 1877; earlier uses go back to Carl Ritter in 1838.",
+   "label": "consensus",
+   "sources": [
+    "mertens"
+   ],
+   "show": true,
+   "note": "Richthofen is often said to have coined the term. Matthias Mertens shows earlier German uses, so 'popularised' is the accurate word."
+  },
+  "c-monsoon": {
+   "text": "Indian Ocean monsoon winds blow from the southwest in summer and from the northeast in winter, so ships sailed out on one monsoon and returned on the next.",
+   "label": "consensus",
+   "sources": [
+    "brit-monsoon",
+    "qdl-monsoon"
+   ],
+   "show": false
+  },
+  "c-mali": {
+   "text": "Mali controlled West African gold fields and Saharan salt; its ruler Mansa Musa made the pilgrimage to Mecca in 1324, and his spending lowered the value of gold in Cairo for years.",
+   "label": "consensus",
+   "sources": [
+    "brit-musa",
+    "brit-mali"
+   ],
+   "show": false
+  },
+  "c-song": {
+   "text": "In Tang and Song China, woodblock printing was producing books by the 9th century; the Song issued government paper money in the 1020s; the oldest known gunpowder formula dates from 1044.",
+   "label": "consensus",
+   "sources": [
+    "columbia-print",
+    "columbia-money",
+    "columbia-gunpowder"
+   ],
+   "show": false
+  },
+  "c-mongol": {
+   "text": "Temüjin was proclaimed Chinggis Khan in 1206; at its height the Mongol empire covered about 23 million square kilometres, the largest contiguous land empire in history.",
+   "label": "consensus",
+   "sources": [
+    "brit-mongol"
+   ],
+   "show": false
+  },
+  "c-blackdeath": {
+   "text": "The Black Death struck Europe in 1347–51 and killed perhaps a third to over half of its people, with large differences between regions.",
+   "label": "debated",
+   "sources": [
+    "brit-blackdeath",
+    "ht-blackdeath",
+    "reading-bd"
+   ],
+   "show": true,
+   "note": "Ole Benedictow estimates about 60 percent, some 50 of 80 million people. Pollen records studied by Izdebski and colleagues (2022) show severe losses in some regions and continuity or even growth in others."
+  },
+  "c-columbus": {
+   "text": "Columbus left Palos on 3 August 1492 and made landfall in the Bahamas on 12 October.",
+   "label": "consensus",
+   "sources": [
+    "brit-columbus"
+   ],
+   "show": false,
+   "note": "Which island he first reached, called Guanahani by its people, is still disputed; San Salvador is the usual choice."
+  },
+  "c-dagama": {
+   "text": "Vasco da Gama left Lisbon in July 1497, rounded the Cape of Good Hope in November and reached Calicut on 20 May 1498.",
+   "label": "consensus",
+   "sources": [
+    "brit-gama"
+   ],
+   "show": false
+  },
+  "c-magellan": {
+   "text": "The fleet led by Magellan left Spain in 1519; Magellan was killed in the Philippines in 1521, and the Victoria returned under Elcano in September 1522, completing the first circumnavigation.",
+   "label": "consensus",
+   "sources": [
+    "brit-magellan"
+   ],
+   "show": false
+  },
+  "c-crosby": {
+   "text": "The term Columbian Exchange comes from Alfred Crosby's book of 1972.",
+   "label": "consensus",
+   "sources": [
+    "brit-exchange"
+   ],
+   "show": false
+  },
+  "c-exchange": {
+   "text": "Maize, potatoes and cassava crossed from the Americas to Afro-Eurasia; wheat, sugar, horses and cattle went the other way, along with smallpox, measles and influenza.",
+   "label": "consensus",
+   "sources": [
+    "brit-exchange",
+    "nunn-qian"
+   ],
+   "show": false
+  },
+  "c-collapse": {
+   "text": "Within 100 to 150 years of 1492, the Indigenous population of the Americas fell by roughly 80 to 95 percent.",
+   "label": "approx",
+   "sources": [
+    "nunn-qian",
+    "ucl-dying"
+   ],
+   "show": true,
+   "note": "That the collapse happened is not in doubt. A 2019 study estimates a fall from about 60 million to about 6 million by 1600."
+  },
+  "c-1492pop": {
+   "text": "Estimates of the population of the Americas in 1492 range from about 8 million to over 110 million.",
+   "label": "debated",
+   "sources": [
+    "nunn-qian"
+   ],
+   "show": true,
+   "note": "Low estimates trust early eyewitness counts; high estimates argue that epidemics ran ahead of Europeans, so the first counts were already of shrunken populations."
+  },
+  "c-slavetrade": {
+   "text": "Between about 1525 and 1866, some 12.5 million Africans were embarked in the transatlantic slave trade; about 10.7 million survived the crossing, and about 388,000 landed directly in North America.",
+   "label": "approx",
+   "sources": [
+    "pbs-slave"
+   ],
+   "show": true,
+   "note": "These are estimates from the Trans-Atlantic Slave Trade Database (Eltis and Richardson). Most of those who survived were taken to Brazil and the Caribbean."
+  },
+  "c-gunpowder": {
+   "text": "The Ottoman, Safavid and Mughal empires are sometimes called 'gunpowder empires'.",
+   "label": "debated",
+   "sources": [
+    "oer-gunpowder",
+    "brit-ottoman"
+   ],
+   "show": true,
+   "note": "The label comes from Marshall Hodgson and William McNeill. Critics note that armies still relied heavily on cavalry and bows, and that institutions mattered as much as guns."
+  },
+  "c-us": {
+   "text": "The Continental Congress adopted the Declaration of Independence on 4 July 1776.",
+   "label": "consensus",
+   "sources": [
+    "nara-decl"
+   ],
+   "show": false
+  },
+  "c-france": {
+   "text": "The French Revolution began in 1789; the Bastille was stormed on 14 July.",
+   "label": "consensus",
+   "sources": [
+    "brit-french"
+   ],
+   "show": false
+  },
+  "c-haiti": {
+   "text": "The Haitian Revolution (1791–1804) ended with independence on 1 January 1804, creating the first country founded by former slaves.",
+   "label": "consensus",
+   "sources": [
+    "brit-haiti"
+   ],
+   "show": false
+  },
+  "c-latam": {
+   "text": "Napoleon's seizure of the Spanish crown in 1808 opened the way to Spanish American independence; Venezuela declared independence in 1811, and Ayacucho (1824) decided the war in South America.",
+   "label": "consensus",
+   "sources": [
+    "jcb-juntas",
+    "brit-ayacucho"
+   ],
+   "show": false
+  },
+  "c-industrial": {
+   "text": "The Industrial Revolution began in 18th-century Britain; the classic dates are 1760 to 1840, and coal and steam were central to it.",
+   "label": "approx",
+   "sources": [
+    "brit-industrial"
+   ],
+   "show": false
+  },
+  "c-watt": {
+   "text": "James Watt patented his separate condenser in 1769.",
+   "label": "consensus",
+   "sources": [
+    "brit-watt"
+   ],
+   "show": false
+  },
+  "c-gdp": {
+   "text": "Average income per person in the world barely changed for 1,800 years and then rose steeply after about 1820.",
+   "label": "approx",
+   "sources": [
+    "owid-gdp"
+   ],
+   "show": true,
+   "note": "Figures before 1820 come from the Maddison Project's long-run estimates and are rough; the shape of the curve is not in dispute."
+  },
+  "c-divergence": {
+   "text": "Kenneth Pomeranz argued (2000) that the richest regions of China and Europe were broadly comparable until about 1800, and that coal and New World resources tipped the balance toward Britain.",
+   "label": "debated",
+   "sources": [
+    "usc-pomeranz",
+    "broadberry"
+   ],
+   "show": true,
+   "note": "Broadberry, Guan and Li (2018) use national accounts to argue the gap opened earlier than Pomeranz says, though later than older Eurocentric accounts claimed."
+  },
+  "c-ww1": {
+   "text": "About 8.5 million soldiers died in the First World War.",
+   "label": "approx",
+   "sources": [
+    "brit-ww1"
+   ],
+   "show": false,
+   "note": "Britannica's table totals 8,528,831 killed and died; it notes that a completely accurate count may never be made."
+  },
+  "c-ww1civ": {
+   "text": "Perhaps as many as 13 million civilians also died in the First World War.",
+   "label": "approx",
+   "sources": [
+    "brit-ww1q"
+   ],
+   "show": true,
+   "note": "This is an upper estimate; civilian deaths from famine and disease are especially hard to count."
+  },
+  "c-russia": {
+   "text": "Russia had two revolutions in 1917: in February the monarchy fell, and in October the Bolsheviks took power.",
+   "label": "consensus",
+   "sources": [
+    "brit-russia"
+   ],
+   "show": false
+  },
+  "c-ww2": {
+   "text": "Estimates of deaths in the Second World War range from about 35 million to 60 million or more, most of them civilians.",
+   "label": "debated",
+   "sources": [
+    "brit-ww2q",
+    "nww2m"
+   ],
+   "show": true,
+   "note": "Britannica cites estimates from 35 to 60 million; counts that include deaths from war-caused famine and disease run higher still, above 70 million; the National WWII Museum gives about 15 million battle deaths and 45 million civilian deaths."
+  },
+  "c-holocaust": {
+   "text": "About six million Jews were murdered in the Holocaust.",
+   "label": "consensus",
+   "sources": [
+    "ushmm"
+   ],
+   "show": false
+  },
+  "c-atomic": {
+   "text": "The United States dropped atomic bombs on Hiroshima on 6 August and Nagasaki on 9 August 1945.",
+   "label": "consensus",
+   "sources": [
+    "osti-1945"
+   ],
+   "show": false
+  },
+  "c-colonies": {
+   "text": "In 1945 about 750 million people, nearly a third of the world's population, lived in territories that depended on colonial powers.",
+   "label": "consensus",
+   "sources": [
+    "un-decol"
+   ],
+   "show": false
+  },
+  "c-decol": {
+   "text": "India and Pakistan became independent in 1947, Ghana in 1957 and Angola in 1975.",
+   "label": "consensus",
+   "sources": [
+    "state-india",
+    "state-ghana",
+    "state-angola"
+   ],
+   "show": false
+  },
+  "c-un": {
+   "text": "The UN had 51 members in 1945, 99 in 1960, 127 in 1970, 154 in 1980, 159 in 1990, 189 in 2000 and 193 from 2011.",
+   "label": "consensus",
+   "sources": [
+    "un-growth"
+   ],
+   "show": false
+  },
+  "c-coldwar": {
+   "text": "The Cold War hardened by 1947–48 and ended when the Soviet Union dissolved in December 1991.",
+   "label": "consensus",
+   "sources": [
+    "brit-coldwar",
+    "state-ussr"
+   ],
+   "show": false
+  },
+  "c-pop-series": {
+   "text": "World population rose from about 4.5 million in 10,000 BCE to about 8.09 billion in 2023.",
+   "label": "approx",
+   "sources": [
+    "owid-pop"
+   ],
+   "show": true,
+   "note": "Figures before 1800 come from the HYDE reconstruction and are estimates; Our World in Data warns that the series can jump where its sources change."
+  },
+  "c-1bn": {
+   "text": "The world reached one billion people around 1804, two billion in 1927 and six billion in 1999.",
+   "label": "approx",
+   "sources": [
+    "un-6bn"
+   ],
+   "show": false
+  },
+  "c-8bn": {
+   "text": "The UN marked the world's eight-billionth person on 15 November 2022.",
+   "label": "approx",
+   "sources": [
+    "un-8bn"
+   ],
+   "show": true,
+   "note": "The date is a projection, not a count."
+  },
+  "c-life": {
+   "text": "Average life expectancy at birth was about 28.5 years in 1800 and 73.2 years in 2023.",
+   "label": "approx",
+   "sources": [
+    "owid-life"
+   ],
+   "show": true,
+   "note": "Before 1950 these are estimates. The low averages of the past mostly reflect how many children died; many who survived childhood lived into their fifties and beyond."
+  },
+  "c-poverty": {
+   "text": "By a cost-of-basic-needs measure, about 76 percent of people lived in extreme poverty in 1820 and about 10 percent in 2018.",
+   "label": "approx",
+   "sources": [
+    "owid-poverty"
+   ],
+   "show": true,
+   "note": "Long-run poverty estimates depend heavily on method; the direction of change is clear."
+  },
+  "c-energy": {
+   "text": "World primary energy use rose from about 5,650 terawatt-hours in 1800, almost all of it wood and other biomass, to about 176,000 in 2024.",
+   "label": "approx",
+   "sources": [
+    "owid-energy"
+   ],
+   "show": true,
+   "note": "Sums of Our World in Data's series by source (Vaclav Smil and the Energy Institute)."
+  },
+  "c-writing-reach": {
+   "text": "The earliest writing comes from Uruk in Mesopotamia, at the end of the 4th millennium BCE.",
+   "label": "approx",
+   "sources": [
+    "met-writing"
+   ],
+   "show": false
+  },
+  "c-treerings": {
+   "text": "Tree-ring chronologies give an exact, year-by-year calendar reaching back about 12,400 years.",
+   "label": "consensus",
+   "sources": [
+    "friedrich",
+    "intcal20"
+   ],
+   "show": false
+  },
+  "c-libby": {
+   "text": "Willard Libby developed radiocarbon dating in 1949 and won the Nobel Prize in Chemistry for it in 1960.",
+   "label": "consensus",
+   "sources": [
+    "nobel-libby"
+   ],
+   "show": false
+  },
+  "c-c14": {
+   "text": "Radiocarbon dating works back to about 50,000 years.",
+   "label": "approx",
+   "sources": [
+    "intcal20",
+    "scitable"
+   ],
+   "show": true,
+   "note": "The calibration curve reaches 55,000 years; sources put the practical limit between about 50,000 and 70,000 years."
+  },
+  "c-other-dating": {
+   "text": "Luminescence, uranium-series and potassium-argon methods date sediments, cave deposits and volcanic layers far older than radiocarbon can reach.",
+   "label": "approx",
+   "sources": [
+    "scitable"
+   ],
+   "show": false
+  },
+  "c-adna": {
+   "text": "The oldest human-lineage DNA sequenced so far is about 430,000 years old, from Sima de los Huesos in Spain.",
+   "label": "consensus",
+   "sources": [
+    "meyer2016"
+   ],
+   "show": false
+  },
+  "c-neanderthal": {
+   "text": "The Neanderthal genome was published in 2010, and Svante Pääbo received the 2022 Nobel Prize for this work.",
+   "label": "consensus",
+   "sources": [
+    "nobel-paabo"
+   ],
+   "show": false
+  },
+  "c-ice": {
+   "text": "Antarctic ice cores so far give a continuous climate record of about 800,000 years; Greenland ice also records European lead pollution, from mining among other sources, from 1100 BCE to 800 CE.",
+   "label": "consensus",
+   "sources": [
+    "epica",
+    "cordis-beyond",
+    "mcconnell2018"
+   ],
+   "show": false
+  },
+  "c-linguistics": {
+   "text": "Historical linguistics reconstructs ancestral languages, but its dates are model-dependent: estimates for the Indo-European family range from about 6,000 to about 8,100 years.",
+   "label": "debated",
+   "sources": [
+    "heggarty"
+   ],
+   "show": true,
+   "note": "A 2023 study by Heggarty and colleagues gives about 8,100 years; the steppe hypothesis favours about 6,000. Critics dispute the newer date."
+  },
+  "c-periods": {
+   "text": "Era boundaries are conventions: course frameworks such as the UCLA World History Standards, the OER Project and AP World History place them differently, though breaks near 1450/1500, 1750 and 1900/1914 recur in most; later breaks vary (1945 or 1991).",
+   "label": "consensus",
+   "sources": [
+    "ucla-standards",
+    "oer-outline",
+    "ap-world"
+   ],
+   "show": false
+  },
+  "c-sapiens": {
+   "text": "Our species, Homo sapiens, is about 300,000 years old and evolved in Africa.",
+   "label": "approx",
+   "sources": [
+    "si-sapiens",
+    "hublin2017"
+   ],
+   "show": true,
+   "note": "A round figure. The oldest fossils some experts assign to our lineage, from Jebel Irhoud in Morocco, are dated to about 315,000 years ago; the oldest generally accepted Homo sapiens fossil, Omo I in Ethiopia, is at least 233,000 years old."
+  },
+  "c-irhoud": {
+   "text": "The Jebel Irhoud fossils are about 315,000 years old and may be the earliest known members of our species.",
+   "label": "debated",
+   "sources": [
+    "hublin2017",
+    "nature-irhoud"
+   ],
+   "show": true,
+   "note": "The date, from two methods, is fairly secure. Whether the fossils count as Homo sapiens is not: they have a modern face but an older-looking braincase. Chris Stringer accepts them; others call them an archaic relative."
+  },
+  "c-omo": {
+   "text": "Omo I, from Ethiopia, is at least 233,000 years old.",
+   "label": "consensus",
+   "sources": [
+    "vidal2022"
+   ],
+   "show": false
+  },
+  "c-farm-start": {
+   "text": "People in Southwest Asia began cultivating wild cereals about 11,500 years ago; fully domestic wheat appears about a thousand years later.",
+   "label": "approx",
+   "sources": [
+    "zeder2011",
+    "larson2014"
+   ],
+   "show": true,
+   "note": "Domestication was a slow process lasting millennia, so 'when farming began' depends on which step you count."
+  },
+  "c-writing-start": {
+   "text": "Writing first appears at Uruk in Mesopotamia between about 3350 and 3000 BCE; the earliest tablets are usually dated about 3200 BCE.",
+   "label": "approx",
+   "sources": [
+    "met-writing",
+    "antiquity-writing",
+    "isac-writing"
+   ],
+   "show": true,
+   "note": "Sources differ by a century or two; this book uses c. 3200 BCE, about 5,200 years ago."
+  },
+  "c-share": {
+   "text": "About 98 percent of our species' history came before writing, and about 96 percent before farming.",
+   "label": "approx",
+   "sources": [
+    "si-sapiens",
+    "met-writing",
+    "zeder2011"
+   ],
+   "show": true,
+   "note": "Arithmetic: 5,200 ÷ 300,000 ≈ 1.7 percent; 11,500 ÷ 300,000 ≈ 3.8 percent. Starting from 233,000 years instead gives about 2.2 percent, so 'about 98 percent' holds either way."
+  },
+  "c-ooa": {
+   "text": "Most ancestry of people outside Africa today comes from an expansion out of Africa about 60,000 to 50,000 years ago.",
+   "label": "approx",
+   "sources": [
+    "bergstrom2021"
+   ],
+   "show": true,
+   "note": "Earlier groups left Africa too but left no detectable ancestry in people living today."
+  },
+  "c-forays": {
+   "text": "Earlier groups of Homo sapiens reached the Levant: a jaw from Misliya Cave is dated 194,000–177,000 years ago, and remains at Skhul and Qafzeh about 120,000–90,000.",
+   "label": "consensus",
+   "sources": [
+    "hershkovitz2018"
+   ],
+   "show": false
+  },
+  "c-neanderthal-mix": {
+   "text": "Modern humans interbred with Neanderthals roughly 50,500 to 43,500 years ago; people outside Africa today carry about 2 percent Neanderthal DNA.",
+   "label": "consensus",
+   "sources": [
+    "iasi2024",
+    "bergstrom2021"
+   ],
+   "show": false
+  },
+  "c-denisovan": {
+   "text": "Some Oceanian populations carry up to about 3.5 percent Denisovan ancestry.",
+   "label": "consensus",
+   "sources": [
+    "bergstrom2021"
+   ],
+   "show": false
+  },
+  "c-sahul": {
+   "text": "People reached Australia either about 65,000 years ago or about 50,000; the question is unsettled.",
+   "label": "debated",
+   "sources": [
+    "clarkson2017",
+    "oconnell2018",
+    "livesci-sahul",
+    "gandini2025"
+   ],
+   "show": true,
+   "note": "Excavators at Madjedbebe date its lowest artefacts to about 65,000 years. Critics argue that dates above about 50,000 are unlikely, partly because Aboriginal Australians carry Neanderthal ancestry acquired around 50,500–43,500 years ago. A 2025 genetic study argues for about 60,000."
+  },
+  "c-europe": {
+   "text": "Homo sapiens was in Europe by about 45,000 years ago, at Bacho Kiro Cave in Bulgaria.",
+   "label": "consensus",
+   "sources": [
+    "bachokiro"
+   ],
+   "show": false
+  },
+  "c-americas": {
+   "text": "People were in the Americas before about 15,000 years ago, at sites such as Cooper's Ferry in Idaho.",
+   "label": "approx",
+   "sources": [
+    "davis2019",
+    "surovell2026"
+   ],
+   "show": true,
+   "note": "Cooper's Ferry is dated about 16,500–15,300 years ago. The long-accepted date of about 14,500 for Monte Verde in Chile was challenged in 2026; its excavators reject the challenge."
+  },
+  "c-whitesands": {
+   "text": "Human footprints at White Sands, New Mexico, have been dated to about 23,000–21,000 years ago.",
+   "label": "debated",
+   "sources": [
+    "pigati2023",
+    "oviatt2022"
+   ],
+   "show": true,
+   "note": "A 2023 study confirmed the early dates by two further methods. Critics argue that the seeds first dated may have absorbed old carbon from water, which would make the footprints about 15,000–13,000 years old."
+  },
+  "c-polynesia": {
+   "text": "Remote East Polynesia was settled last: the Society Islands about 1025–1120 CE, then Hawaiʻi, Rapa Nui and New Zealand about 1190–1290 CE.",
+   "label": "consensus",
+   "sources": [
+    "wilmshurst2011",
+    "landcare-nz"
+   ],
+   "show": false
+  },
+  "c-centres": {
+   "text": "Farming began independently in at least 11 regions of the world; some scholars count more than 20.",
+   "label": "debated",
+   "sources": [
+    "larson2014",
+    "fuller2014"
+   ],
+   "show": true,
+   "note": "The number depends on what counts as an independent centre, and the evidence is uneven, especially for root crops that leave few remains."
+  },
+  "c-swasia": {
+   "text": "In Southwest Asia, wheat, barley, lentils and other pulses were domesticated, along with sheep, goats, cattle and pigs.",
+   "label": "consensus",
+   "sources": [
+    "zeder2011"
+   ],
+   "show": false
+  },
+  "c-china-farm": {
+   "text": "In China, millet was cultivated in the Yellow River basin by about 10,000 years ago, and rice was being used in the lower Yangzi by about 9,400 years ago.",
+   "label": "approx",
+   "sources": [
+    "lu2009",
+    "zuo2017",
+    "larson2014"
+   ],
+   "show": true,
+   "note": "Fully domesticated rice, with grains that no longer fall off the plant, took a further 2,000–4,000 years to become fixed."
+  },
+  "c-png": {
+   "text": "At Kuk Swamp in New Guinea, people were cultivating plants about 10,000 years ago; bananas were intensively grown by about 7,000 years ago.",
+   "label": "approx",
+   "sources": [
+    "denham2003"
+   ],
+   "show": false
+  },
+  "c-meso": {
+   "text": "In Mexico, squash was domesticated by about 10,000 years ago and maize, from the wild grass teosinte, by at least 8,700 years ago.",
+   "label": "approx",
+   "sources": [
+    "smith1997",
+    "piperno2009"
+   ],
+   "show": false
+  },
+  "c-andes": {
+   "text": "In the Andes, the potato was domesticated in southern Peru more than 7,000 years ago; llamas and alpacas were herded later.",
+   "label": "approx",
+   "sources": [
+    "spooner2005",
+    "larson2014"
+   ],
+   "show": false
+  },
+  "c-ena": {
+   "text": "In eastern North America, squash, sunflower, marshelder and goosefoot were domesticated between about 5,000 and 3,800 years ago.",
+   "label": "consensus",
+   "sources": [
+    "smith-yarnell2009"
+   ],
+   "show": false
+  },
+  "c-africa-farm": {
+   "text": "In Africa, sorghum was domesticated in eastern Sudan by 3500–3000 BCE, and pearl millet in the western Sahel by the 3rd millennium BCE.",
+   "label": "approx",
+   "sources": [
+    "winchell2017",
+    "fuller2021"
+   ],
+   "show": false
+  },
+  "c-pop-farm": {
+   "text": "World population rose about tenfold between 10,000 and 3000 BCE, from about 4.5 million to about 45 million.",
+   "label": "approx",
+   "sources": [
+    "owid-pop"
+   ],
+   "show": true,
+   "note": "Population estimates this early are reconstructions with wide uncertainty."
+  },
+  "c-uruk": {
+   "text": "Around 3200 BCE Uruk was the largest settlement in southern Mesopotamia, perhaps in the world, and its earliest tablets record rations and goods.",
+   "label": "approx",
+   "sources": [
+    "met-uruk",
+    "met-writing"
+   ],
+   "show": false
+  },
+  "c-egypt": {
+   "text": "Egypt was unified under one king around 3100 BCE, with its capital at Memphis and royal tombs at Abydos.",
+   "label": "approx",
+   "sources": [
+    "egy-early",
+    "dee2013"
+   ],
+   "show": true,
+   "note": "Radiocarbon dates place the accession of King Aha between about 3111 and 3045 BCE. Some reference works still use an older chronology of about 2900 BCE. The story of a single unifier named Menes is a later tradition."
+  },
+  "c-indus": {
+   "text": "The cities of the Indus civilization flourished from about 2600 BCE; their script is still undeciphered.",
+   "label": "approx",
+   "sources": [
+    "brit-indus",
+    "harappa"
+   ],
+   "show": true,
+   "note": "Sources give the end of the mature phase anywhere from about 1900 to about 1700 BCE."
+  },
+  "c-erlitou": {
+   "text": "Erlitou, in the middle Yellow River valley, was a large early centre from about 1750 BCE; whether it was the capital of the Xia dynasty of Chinese tradition is debated.",
+   "label": "debated",
+   "sources": [
+    "lawler2009",
+    "brit-erlitou"
+   ],
+   "show": true,
+   "note": "Chinese scholarship often identifies Erlitou with the Xia; many archaeologists prefer the neutral name 'Erlitou culture' because no writing from the site names it."
+  },
+  "c-shang": {
+   "text": "The Shang dynasty's late capital at Anyang dates from about 1250 to 1046 BCE; its oracle-bone inscriptions are the earliest known Chinese writing.",
+   "label": "approx",
+   "sources": [
+    "brit-shang",
+    "brit-oracle"
+   ],
+   "show": true,
+   "note": "The end date of 1046 BCE comes from a Chinese chronology project; other scholars give 1045 or 1027 BCE."
+  },
+  "c-caral": {
+   "text": "Caral, in Peru's Supe valley, was a large planned centre with platform mounds from about 3000 to 1800 BCE, one of the oldest large centres in the Americas; it had no writing.",
+   "label": "approx",
+   "sources": [
+    "unesco-caral"
+   ],
+   "show": false,
+   "note": "UNESCO calls Caral the oldest centre of civilization in the Americas; other sites in the Norte Chico and Casma valleys have dates nearly as early or earlier."
+  },
+  "c-olmec": {
+   "text": "Olmec civilization flourished on Mexico's Gulf coast from about 1200 to 400 BCE; the Cascajal block, about 900 BCE, may carry the oldest writing in the Americas.",
+   "label": "approx",
+   "sources": [
+    "brit-olmec"
+   ],
+   "show": true,
+   "note": "The Cascajal block's status as writing, and its date, are debated."
+  },
+  "c-inventions": {
+   "text": "Writing was invented independently at least three times, in Mesopotamia, China and Mesoamerica, and probably also in Egypt.",
+   "label": "debated",
+   "sources": [
+    "isac-writing",
+    "brit-hieroglyph"
+   ],
+   "show": true,
+   "note": "Egyptian writing appears at about the same time as Mesopotamian. Most specialists think the two systems are too different to be copies, though the idea of writing may have travelled."
+  },
+  "c-khipu": {
+   "text": "A khipu, a knotted-cord record, was reported at Caral. Andean khipu recorded numbers; whether some also recorded language is unknown.",
+   "label": "debated",
+   "sources": [
+    "brit-quipu",
+    "unesco-caral"
+   ],
+   "show": true,
+   "note": "UNESCO reports a single khipu at Caral, and its date is uncertain. Khipu are best known from the Inca, thousands of years later; none that may record language has been deciphered."
+  }
+ },
+ "pages": [
+  {
+   "title": "The shape of human history",
+   "sub": "three hundred thousand years in twelve plates",
+   "lede": "Before any close look, this chapter tells the whole human story once, from far away. Every later chapter is a slower walk along one stretch of it.",
+   "body": [
+    "Seen from far enough away, the story has a simple shape. For almost all of it, people lived in small bands as hunters and gatherers. [[c-share]] Then, within a few thousand years of each other, people in several parts of the world began to farm. Farming fed villages, villages grew into cities, and cities into states and empires. Each change came faster than the one before.",
+    {
+     "table": {
+      "head": [
+       "Five turning points",
+       "When",
+       "Page"
+      ],
+      "rows": [
+       [
+        "People spread out of Africa",
+        "c. 60,000–50,000 years ago",
+        "1.2"
+       ],
+       [
+        "Farming begins",
+        "from c. 11,500 years ago",
+        "1.3"
+       ],
+       [
+        "Cities and writing",
+        "cities c. 3500 BCE, writing c. 3200 BCE",
+        "1.4"
+       ],
+       [
+        "The world joined by sea",
+        "from 1492",
+        "1.7"
+       ],
+       [
+        "Machines and fossil fuel",
+        "from c. 1760",
+        "1.8"
+       ]
+      ]
+     }
+    },
+    "Three threads run through every page. <b>Connection</b>: as regions joined, goods, ideas and diseases moved along the same roads. <b>Scale</b>: more people, living in larger and more complex societies. <b>Evidence</b>: how we know any of this, and how sure we can be.",
+    "On the right is a plate. Click anything on it to learn more. The small labels after a sentence mark claims that are approximate, debated or traditional; click one to see the evidence and the sources."
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 18,
+     "lat": 22,
+     "zoom": 1.55
+    },
+    "caption": "The world, with the five turning points",
+    "hint": "Click a turning point",
+    "cartouche": [
+     "The Shape of Human History",
+     "an atlas of the whole story"
+    ],
+    "legend": [
+     [
+      "dot",
+      "turning point"
+     ]
+    ],
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         35.9,
+         5.4
+        ],
+        "label": "Out of Africa",
+        "date": "c. 60,000–50,000 years ago",
+        "acc": true,
+        "tip": "see 1.2",
+        "plate": {
+         "kicker": "1.0 · turning points",
+         "title": "Out of Africa",
+         "sub": "c. 60,000 to 50,000 years ago",
+         "text": "[[c-ooa]] Within about 50,000 years their descendants had reached every continent except Antarctica.",
+         "sources": [
+          "bergstrom2021"
+         ]
+        }
+       },
+       {
+        "ll": [
+         39.8,
+         37.7
+        ],
+        "label": "First farming",
+        "date": "c. 11,500 years ago",
+        "acc": true,
+        "anchor": "end",
+        "dy": -6,
+        "plate": {
+         "kicker": "1.0 · turning points",
+         "title": "Farming begins",
+         "sub": "from c. 11,500 years ago",
+         "text": "[[c-farm-start]] [[c-centres]]",
+         "sources": [
+          "zeder2011",
+          "larson2014"
+         ]
+        }
+       },
+       {
+        "ll": [
+         45.64,
+         31.32
+        ],
+        "label": "Cities and writing",
+        "date": "c. 3500–3200 BCE",
+        "acc": true,
+        "dy": 10,
+        "plate": {
+         "kicker": "1.0 · turning points",
+         "title": "Cities and writing",
+         "sub": "Uruk, c. 3200 BCE",
+         "text": "[[c-writing-start]]",
+         "sources": [
+          "met-writing",
+          "met-uruk"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -6.89,
+         37.23
+        ],
+        "label": "The world joined",
+        "date": "1492",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.0 · turning points",
+         "title": "The world joined",
+         "sub": "from 1492",
+         "text": "[[c-columbus]] [[c-dagama]]",
+         "sources": [
+          "brit-columbus",
+          "brit-gama"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -2.24,
+         53.48
+        ],
+        "label": "Industry",
+        "date": "from c. 1760",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.0 · turning points",
+         "title": "Machines and fossil fuel",
+         "sub": "from c. 1760",
+         "text": "[[c-industrial]] [[c-gdp]]",
+         "sources": [
+          "brit-industrial",
+          "owid-gdp"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Which sequence is in the right order?",
+     "choices": [
+      "Cities, farming, spread out of Africa, industry",
+      "Spread out of Africa, farming, writing, industry",
+      "Farming, spread out of Africa, writing, industry",
+      "Spread out of Africa, writing, farming, industry"
+     ],
+     "answer": 1,
+     "why": "People left Africa some 60,000–50,000 years ago, farmed from about 11,500 years ago, wrote by about 3200 BCE, and began to industrialise from about 1760.",
+     "wrong": {
+      "0": "Cities depended on farming, and both came long after the spread out of Africa.",
+      "2": "People reached most continents tens of thousands of years before anyone farmed.",
+      "3": "Farming began about 11,500 years ago; writing appeared only about 5,200 years ago, in cities that farming fed."
+     }
+    },
+    {
+     "q": "People reached Australia at least 50,000 years ago. Farming began about 11,500 years ago. What follows?",
+     "choices": [
+      "The first Australians must have brought farming with them",
+      "Foragers settled much of the world before anyone farmed",
+      "Farming must have begun first in Australia, then spread",
+      "These two dates cannot both be right, so one is wrong"
+     ],
+     "answer": 1,
+     "why": "The spread of our species was the work of hunter-gatherers; farming came tens of thousands of years later.",
+     "wrong": {
+      "0": "No one farmed anywhere 50,000 years ago.",
+      "2": "Farming began elsewhere first, in Southwest Asia about 11,500 years ago.",
+      "3": "Both dates are well supported; they simply describe different stages."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Deep time",
+   "sub": "three hundred thousand years, drawn to scale",
+   "lede": "Our species is about 300,000 years old. For about 98 percent of that time, no one wrote anything down.",
+   "body": [
+    "<i>Homo sapiens</i> evolved in Africa. The oldest fossils some experts assign to our lineage, from Jebel Irhoud in Morocco, are about 315,000 years old, though whether they are fully our species is debated. [[c-sapiens]] [[c-irhoud]]",
+    "Against that span, the events most people call history are recent. People began to cultivate wild cereals about 11,500 years ago, and the first writing appears at Uruk around 3200 BCE, about 5,200 years ago. [[c-farm-start]] [[c-writing-start]] So roughly 98 percent of the human story came before writing, and 96 percent before farming. [[c-share]]",
+    {
+     "table": {
+      "head": [
+       "If all 300,000 years were one day",
+       "the clock reads"
+      ],
+      "rows": [
+       [
+        "Homo sapiens appears",
+        "00:00"
+       ],
+       [
+        "farming begins",
+        "about 23:05"
+       ],
+       [
+        "writing begins",
+        "about 23:35"
+       ],
+       [
+        "1 CE",
+        "about 23:50"
+       ],
+       [
+        "1800",
+        "about 23:58:55"
+       ],
+       [
+        "today",
+        "24:00"
+       ]
+      ],
+      "note": "Each hour of this day is 12,500 years; each minute is about 208 years."
+     }
+    },
+    "The long stretch before writing is not empty. In it people crossed oceans, painted caves, buried their dead and reached every continent but Antarctica. It is known from bones, tools, ancient DNA and dated layers of earth rather than from texts; page 1.11 shows how.",
+    {
+     "compare": "Keep this scale in mind as the chapters zoom in: the whole of Volume I after Chapter 2 fits inside the last half hour of the day."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "deeptime",
+    "caption": "300,000 years, and the same squeezed into one day",
+    "span": 300000,
+    "tick": 50000,
+    "writing": 5200,
+    "title1": "All of our species' history, to scale (red: since writing)",
+    "title2": "The same story as one day: the last hour",
+    "clockMinutes": 60,
+    "clockTick": 10,
+    "marks": [
+     {
+      "t": "Homo sapiens",
+      "ya": 300000
+     },
+     {
+      "t": "out of Africa",
+      "ya": 55000,
+      "anchor": "end"
+     },
+     {
+      "t": "farming",
+      "ya": 11500,
+      "anchor": "end"
+     }
+    ],
+    "clock": [
+     {
+      "t": "farming",
+      "ya": 11500
+     },
+     {
+      "t": "writing",
+      "ya": 5200
+     },
+     {
+      "t": "1 CE",
+      "ya": 2026
+     },
+     {
+      "t": "1800",
+      "ya": 226,
+      "anchor": "end"
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why is the claim that the Jebel Irhoud fossils are the earliest Homo sapiens labelled 'debated', even though their date is fairly precise?",
+     "choices": [
+      "Its two dating methods disagree by about 100,000 years",
+      "Their modern face but older-looking braincase divide experts",
+      "Chris Stringer rejects them, though most other experts accept them",
+      "They are younger than Omo I in Ethiopia, so cannot be earliest"
+     ],
+     "answer": 1,
+     "why": "The argument is about classification, not dating: the fossils have a modern face but an older-looking braincase. Chris Stringer accepts them as Homo sapiens; others call them an archaic relative.",
+     "wrong": {
+      "0": "The date comes from two methods and is fairly secure; it is not what is disputed.",
+      "2": "Reversed: Stringer accepts them as Homo sapiens, and it is others who call them an archaic relative.",
+      "3": "Jebel Irhoud, at about 315,000 years, is older than Omo I, which is at least 233,000 years old."
+     }
+    },
+    {
+     "q": "Roughly what share of our species' history has had writing?",
+     "choices": [
+      "About 25 percent",
+      "About 10 percent",
+      "About 2 percent",
+      "About 0.2 percent"
+     ],
+     "answer": 2,
+     "why": "Writing is about 5,200 years old; 5,200 ÷ 300,000 is under 2 percent.",
+     "wrong": {
+      "0": "That would put the first writing about 75,000 years ago.",
+      "1": "That would put the first writing in the Ice Age, about 30,000 years ago.",
+      "3": "That would mean writing began only about 600 years ago."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Across the world",
+   "sub": "how one African species reached every continent",
+   "lede": "Almost everyone alive outside Africa descends mainly from people who left it about 60,000 to 50,000 years ago. Their descendants reached every habitable continent; the last large places to be settled were islands in the Pacific, less than a thousand years ago.",
+   "body": [
+    "Small groups had left Africa earlier: our species was in the Levant by about 190,000 years ago. But those early groups left no detectable trace in the ancestry of people living today. [[c-forays]] [[c-ooa]]",
+    "Outside Africa, the newcomers met other humans. Interbreeding with Neanderthals, mostly between about 50,500 and 43,500 years ago, left about 2 percent Neanderthal DNA in people outside Africa today. Some peoples of Oceania also carry up to 3.5 percent from the Denisovans, a group known mostly from their genes. [[c-neanderthal-mix]] [[c-denisovan]]",
+    {
+     "table": {
+      "head": [
+       "Region",
+       "Earliest accepted presence"
+      ],
+      "rows": [
+       [
+        "Levant (early groups)",
+        "c. 194,000–90,000 years ago"
+       ],
+       [
+        "Australia and New Guinea",
+        "c. 65,000 or c. 50,000 years ago [[c-sahul]]"
+       ],
+       [
+        "Europe",
+        "c. 45,000 years ago (Bacho Kiro, Bulgaria)"
+       ],
+       [
+        "The Americas",
+        "before c. 15,000 years ago [[c-americas]]"
+       ],
+       [
+        "Remote Pacific",
+        "c. 1025–1290 CE"
+       ]
+      ]
+     }
+    },
+    "Two arrival dates are hotly argued. In Australia, excavators date the oldest tools at Madjedbebe to about 65,000 years ago; critics, partly on genetic grounds, put arrival nearer 50,000. [[c-sahul]] In the Americas, footprints at White Sands in New Mexico have been dated to about 23,000–21,000 years ago, which would put people there during the coldest part of the last Ice Age; others think the dates are too old. [[c-whitesands]]",
+    "The last great migration was across the open Pacific. Polynesian voyagers reached the Society Islands around 1025–1120 CE and then, within two centuries, Hawaiʻi, Rapa Nui and New Zealand. [[c-polynesia]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 150,
+     "lat": 8,
+     "zoom": 1.18,
+     "dx": 0.02
+    },
+    "caption": "The spread of Homo sapiens (simplified)",
+    "seaLabels": [
+     {
+      "t": "PACIFIC OCEAN",
+      "ll": [
+       -150,
+       2
+      ]
+     },
+     {
+      "t": "INDIAN OCEAN",
+      "ll": [
+       80,
+       -25
+      ]
+     }
+    ],
+    "hint": "Click a site",
+    "legend": [
+     [
+      "acc",
+      "main dispersal"
+     ],
+     [
+      "dash",
+      "earlier forays"
+     ],
+     [
+      "pt",
+      "key site"
+     ],
+     [
+      "dot",
+      "disputed date"
+     ]
+    ],
+    "layers": [
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          35.9,
+          5.4
+         ],
+         [
+          33.8,
+          30.0
+         ],
+         [
+          34.97,
+          32.67
+         ]
+        ],
+        "label": "earlier forays",
+        "lab": [
+         34,
+         31
+        ],
+        "anchor": "start",
+        "ldx": 8,
+        "ldy": -10
+       }
+      ]
+     },
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          35.9,
+          5.4
+         ],
+         [
+          43.4,
+          12.6
+         ],
+         [
+          55,
+          20
+         ],
+         [
+          75,
+          20
+         ],
+         [
+          100,
+          14
+         ],
+         [
+          118,
+          -2
+         ],
+         [
+          132.88,
+          -12.5
+         ]
+        ],
+        "label": "c. 60,000–50,000 years ago",
+        "lab": [
+         92,
+         10
+        ],
+        "ldy": 18
+       },
+       {
+        "path": [
+         [
+          50,
+          22
+         ],
+         [
+          42,
+          32
+         ],
+         [
+          33,
+          39
+         ],
+         [
+          25.43,
+          42.95
+         ]
+        ],
+        "delay": 0.4
+       },
+       {
+        "path": [
+         [
+          100,
+          14
+         ],
+         [
+          112,
+          30
+         ],
+         [
+          125,
+          42
+         ],
+         [
+          145,
+          55
+         ],
+         [
+          175,
+          64
+         ],
+         [
+          -168.8,
+          65.8
+         ],
+         [
+          -150,
+          62
+         ],
+         [
+          -128,
+          52
+         ],
+         [
+          -112,
+          35
+         ],
+         [
+          -95,
+          18
+         ],
+         [
+          -80,
+          5
+         ],
+         [
+          -77,
+          -15
+         ],
+         [
+          -73.2,
+          -41.5
+         ]
+        ],
+        "label": "into the Americas",
+        "lab": [
+         -128,
+         50
+        ],
+        "ldy": -10,
+        "anchor": "end",
+        "delay": 0.8
+       },
+       {
+        "path": [
+         [
+          -149.8,
+          -17.5
+         ],
+         [
+          -168,
+          -30
+         ],
+         [
+          174.05,
+          -41.5
+         ]
+        ],
+        "delay": 1.4
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         -8.87,
+         31.86
+        ],
+        "label": "Jebel Irhoud",
+        "date": "c. 315,000",
+        "anchor": "start",
+        "dx": 4,
+        "dy": 16,
+        "plate": {
+         "kicker": "1.2 · Africa",
+         "title": "Jebel Irhoud",
+         "sub": "Morocco, c. 315,000 years ago",
+         "text": "[[c-irhoud]]",
+         "sources": [
+          "hublin2017",
+          "nature-irhoud"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.9,
+         5.4
+        ],
+        "label": "Omo",
+        "date": "≥ 233,000",
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.2 · Africa",
+         "title": "Omo Kibish",
+         "sub": "Ethiopia, at least 233,000 years ago",
+         "text": "[[c-omo]] [[c-sapiens]]",
+         "sources": [
+          "vidal2022",
+          "si-sapiens"
+         ]
+        }
+       },
+       {
+        "ll": [
+         25.43,
+         42.95
+        ],
+        "label": "Bacho Kiro",
+        "date": "c. 45,000",
+        "anchor": "end",
+        "dy": -4,
+        "plate": {
+         "kicker": "1.2 · Europe",
+         "title": "Bacho Kiro Cave",
+         "sub": "Bulgaria, c. 45,000 years ago",
+         "text": "[[c-europe]]",
+         "sources": [
+          "bachokiro"
+         ]
+        }
+       },
+       {
+        "ll": [
+         132.88,
+         -12.5
+        ],
+        "label": "Madjedbebe",
+        "date": "65,000 or 50,000?",
+        "acc": true,
+        "plate": {
+         "kicker": "1.2 · Sahul",
+         "title": "Madjedbebe",
+         "sub": "northern Australia",
+         "text": "[[c-sahul]]",
+         "sources": [
+          "clarkson2017",
+          "oconnell2018",
+          "livesci-sahul",
+          "gandini2025"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -106.17,
+         32.78
+        ],
+        "label": "White Sands",
+        "date": "23,000–21,000?",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.2 · Americas",
+         "title": "White Sands footprints",
+         "sub": "New Mexico",
+         "text": "[[c-whitesands]]",
+         "sources": [
+          "pigati2023",
+          "oviatt2022"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -73.2,
+         -41.5
+        ],
+        "label": "Monte Verde",
+        "date": "c. 14,500? (challenged)",
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.2 · Americas",
+         "title": "The first Americans",
+         "sub": "before c. 15,000 years ago",
+         "text": "[[c-americas]]",
+         "sources": [
+          "davis2019",
+          "surovell2026"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -149.8,
+         -17.5
+        ],
+        "label": "Society Islands",
+        "date": "c. 1025–1120 CE",
+        "plate": {
+         "kicker": "1.2 · Pacific",
+         "title": "East Polynesia",
+         "sub": "c. 1025 to 1290 CE",
+         "text": "[[c-polynesia]]",
+         "sources": [
+          "wilmshurst2011",
+          "landcare-nz"
+         ]
+        }
+       },
+       {
+        "ll": [
+         174.05,
+         -41.5
+        ],
+        "label": "New Zealand",
+        "date": "c. 1280 CE",
+        "anchor": "end"
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "How can genetics put a ceiling on when people first reached Australia?",
+     "choices": [
+      "Their DNA comes from an earlier exit from Africa, about 120,000 years ago",
+      "Their ancestors mixed with Neanderthals about 50,500–43,500 years ago",
+      "Their Neanderthal ancestry shows they arrived before 65,000 years ago",
+      "They carry no Neanderthal DNA, so they left Africa before the mixing"
+     ],
+     "answer": 1,
+     "why": "Aboriginal Australians carry Neanderthal ancestry acquired around 50,500–43,500 years ago, so their ancestors should have reached Australia after that mixing. Supporters of the 65,000-year date at Madjedbebe dispute how firm that ceiling is, and a 2025 genetic study argues for about 60,000 years.",
+     "wrong": {
+      "0": "Earlier groups, such as those in the Levant about 120,000–90,000 years ago, left no detectable ancestry in people living today.",
+      "2": "Reversed: mixing about 50,500–43,500 years ago implies arrival after it, which argues against 65,000.",
+      "3": "Aboriginal Australians do carry Neanderthal ancestry; that is the basis of the argument."
+     }
+    },
+    {
+     "q": "What is the main objection to the 23,000–21,000-year dates for the White Sands footprints?",
+     "choices": [
+      "The prints may have been left by animals, not people",
+      "The dated seeds may have taken up old carbon from water",
+      "The dates rest on radiocarbon alone, with no other method",
+      "Critics say the seeds are too young, making the prints older"
+     ],
+     "answer": 1,
+     "why": "Aquatic plants can take up carbon that is already old, so their radiocarbon ages can be too high; critics think the footprints may be only about 15,000–13,000 years old. A 2023 study confirmed the early dates by two further methods.",
+     "wrong": {
+      "0": "That they are human footprints is not the main dispute.",
+      "2": "A 2023 study confirmed the early dates by two further methods.",
+      "3": "Reversed: critics think old carbon makes the seeds look too old, so the prints may be only about 15,000–13,000 years old."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Farming, many times",
+   "sub": "at least eleven beginnings after the Ice Age",
+   "lede": "Farming was not invented once and passed around. People in many separate regions domesticated their own plants and animals, starting in several regions within a few thousand years of the end of the last Ice Age, and in others later.",
+   "body": [
+    "Domestication was slow. In Southwest Asia, people were tending wild cereals about 11,500 years ago, but it took another thousand years or more before wheat changed into a fully domestic form. [[c-farm-start]] People there domesticated wheat, barley and lentils, and sheep, goats, cattle and pigs; some animals, such as pigs, were also domesticated independently elsewhere. [[c-swasia]]",
+    {
+     "table": {
+      "head": [
+       "Centre",
+       "Crops and animals",
+       "Earliest signs"
+      ],
+      "rows": [
+       [
+        "Southwest Asia",
+        "wheat, barley, lentils; sheep, goats, cattle, pigs",
+        "c. 11,500 years ago"
+       ],
+       [
+        "China",
+        "millet (north), rice (south)",
+        "c. 10,000–9,400 years ago [[c-china-farm]]"
+       ],
+       [
+        "New Guinea",
+        "taro, bananas",
+        "c. 10,000 years ago"
+       ],
+       [
+        "Mexico",
+        "squash, then maize",
+        "c. 10,000 and 8,700 years ago"
+       ],
+       [
+        "Andes",
+        "potatoes; llamas, alpacas",
+        "over 7,000 years ago"
+       ],
+       [
+        "Eastern North America",
+        "squash, sunflower, goosefoot",
+        "c. 5,000–3,800 years ago"
+       ],
+       [
+        "Sudan and the Sahel",
+        "sorghum, pearl millet",
+        "c. 3500–2000 BCE"
+       ]
+      ],
+      "note": "Only some of the centres scholars recognise. [[c-png]] [[c-meso]] [[c-andes]] [[c-ena]] [[c-africa-farm]]"
+     }
+    },
+    "How many independent beginnings there were depends on definitions: at least 11, and perhaps more than 20. [[c-centres]] What matters is the pattern. Farming arose on its own in places that had no contact with each other, which suggests that the changed climate after the Ice Age made it possible in many places at once.",
+    "Farming fed more people from the same land. World population rose about tenfold between 10,000 and 3000 BCE. [[c-pop-farm]] Dense, settled populations with stored food are the precondition for everything on the next page.",
+    {
+     "compare": "Compare 1.2: the spread across the world was the work of hunter-gatherers. Farming spread later, mostly by farmers moving into new land and by neighbours adopting it."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 20,
+     "lat": 15,
+     "zoom": 1.2
+    },
+    "caption": "Some independent centres of domestication",
+    "seaLabels": [
+     {
+      "t": "ATLANTIC OCEAN",
+      "ll": [
+       -35,
+       0
+      ]
+     },
+     {
+      "t": "INDIAN OCEAN",
+      "ll": [
+       80,
+       -20
+      ]
+     },
+     {
+      "t": "PACIFIC OCEAN",
+      "ll": [
+       -125,
+       5
+      ]
+     }
+    ],
+    "hint": "Click a centre",
+    "legend": [
+     [
+      "zone",
+      "centre (approximate)"
+     ],
+     [
+      "pt",
+      "key site"
+     ]
+    ],
+    "layers": [
+     {
+      "type": "zone",
+      "items": [
+       {
+        "ll": [
+         40,
+         35
+        ],
+        "r": 6
+       },
+       {
+        "ll": [
+         114,
+         33
+        ],
+        "r": 7
+       },
+       {
+        "ll": [
+         144,
+         -5.5
+        ],
+        "r": 4
+       },
+       {
+        "ll": [
+         -97,
+         18
+        ],
+        "r": 5
+       },
+       {
+        "ll": [
+         -71,
+         -14
+        ],
+        "r": 6
+       },
+       {
+        "ll": [
+         -88,
+         37
+        ],
+        "r": 6
+       },
+       {
+        "ll": [
+         30,
+         14
+        ],
+        "r": 8
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         39.8,
+         37.7
+        ],
+        "label": "Southwest Asia",
+        "date": "c. 11,500 years ago",
+        "dy": -8,
+        "plate": {
+         "kicker": "1.3 · centres",
+         "title": "Southwest Asia",
+         "sub": "the Fertile Crescent",
+         "text": "[[c-farm-start]] [[c-swasia]] The dot marks the Karacadağ hills in southeastern Turkey, where genetic studies place the wild ancestor of einkorn wheat.",
+         "facts": [
+          [
+           "crops",
+           "wheat, barley, lentils, peas"
+          ],
+          [
+           "animals",
+           "sheep, goats, cattle, pigs"
+          ]
+         ],
+         "sources": [
+          "zeder2011",
+          "heun1997"
+         ]
+        }
+       },
+       {
+        "ll": [
+         114.2,
+         36.7
+        ],
+        "label": "Yellow River",
+        "date": "millet, c. 10,000",
+        "dy": -8,
+        "plate": {
+         "kicker": "1.3 · centres",
+         "title": "Northern China",
+         "sub": "Yellow River basin",
+         "text": "[[c-china-farm]]",
+         "sources": [
+          "lu2009"
+         ]
+        }
+       },
+       {
+        "ll": [
+         119.89,
+         29.46
+        ],
+        "label": "Yangzi",
+        "date": "rice, c. 9,400",
+        "dy": 16,
+        "plate": {
+         "kicker": "1.3 · centres",
+         "title": "Southern China",
+         "sub": "lower Yangzi",
+         "text": "[[c-china-farm]]",
+         "sources": [
+          "zuo2017",
+          "larson2014"
+         ]
+        }
+       },
+       {
+        "ll": [
+         144.33,
+         -5.78
+        ],
+        "label": "New Guinea",
+        "date": "c. 10,000",
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.3 · centres",
+         "title": "Kuk Swamp",
+         "sub": "New Guinea highlands",
+         "text": "[[c-png]]",
+         "sources": [
+          "denham2003"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -96.31,
+         16.98
+        ],
+        "label": "Mexico",
+        "date": "squash, c. 10,000",
+        "dy": 14,
+        "plate": {
+         "kicker": "1.3 · centres",
+         "title": "Mesoamerica",
+         "sub": "Oaxaca and Guerrero",
+         "text": "[[c-meso]]",
+         "sources": [
+          "smith1997",
+          "piperno2009"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -70.1,
+         -15.2
+        ],
+        "label": "Andes",
+        "date": "potato, > 7,000",
+        "plate": {
+         "kicker": "1.3 · centres",
+         "title": "The Andes",
+         "sub": "southern Peru",
+         "text": "[[c-andes]]",
+         "sources": [
+          "spooner2005",
+          "larson2014"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -92,
+         38
+        ],
+        "label": "Eastern N. America",
+        "date": "c. 5,000–3,800",
+        "plate": {
+         "kicker": "1.3 · centres",
+         "title": "Eastern North America",
+         "sub": "the Midwest and Southeast",
+         "text": "[[c-ena]]",
+         "sources": [
+          "smith-yarnell2009"
+         ]
+        }
+       },
+       {
+        "ll": [
+         36.4,
+         15.45
+        ],
+        "label": "Sudan, Sahel",
+        "date": "sorghum, 3500–3000 BCE",
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.3 · centres",
+         "title": "Africa",
+         "sub": "eastern Sudan and the western Sahel",
+         "text": "[[c-africa-farm]]",
+         "sources": [
+          "winchell2017",
+          "fuller2021"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do scholars' counts of independent farming centres range from about 11 to more than 20?",
+     "choices": [
+      "Farming spread from one origin, which some scholars split up",
+      "What counts as a centre varies; root crops leave few traces",
+      "The evidence is equally strong everywhere, but dates differ",
+      "Some date farming to before the last Ice Age, others after"
+     ],
+     "answer": 1,
+     "why": "The count depends on what counts as an independent centre, and the evidence is uneven, especially for root crops that leave few remains. Definitions and patchy evidence, not doubt about the overall pattern, explain the range.",
+     "wrong": {
+      "0": "Farming arose on its own in places that had no contact with each other.",
+      "2": "The evidence is uneven, especially for root crops that leave few remains.",
+      "3": "The earliest farming dates from after the Ice Age, about 11,500 years ago; the range in counts is about definitions."
+     }
+    },
+    {
+     "q": "Squash was domesticated in Mexico about 10,000 years ago, and wheat in Southwest Asia about 10,500. What does this suggest?",
+     "choices": [
+      "Mexicans learned to farm from settlers from Southwest Asia",
+      "Farming began separately in regions with no contact",
+      "Squash was the first crop to be domesticated everywhere",
+      "Maize was domesticated in Mexico before squash was"
+     ],
+     "answer": 1,
+     "why": "With no contact between the regions, near-simultaneous beginnings point to a shared cause such as the post-glacial climate.",
+     "wrong": {
+      "0": "There was no contact between the regions then.",
+      "2": "Cereals in Southwest Asia came earlier, and each region had its own crops.",
+      "3": "Maize, by at least 8,700 years ago, came after squash."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Cities, states and writing",
+   "sub": "c. 3500 to 1000 BCE",
+   "lede": "In a handful of river valleys, farming villages grew into cities ruled by kings and run by scribes. In Mesopotamia, writing began not as literature but as bookkeeping.",
+   "body": [
+    "Around 3200 BCE Uruk in southern Mesopotamia was the largest settlement in the region, perhaps in the world. Its earliest tablets record rations, grain and livestock for the temple economy. [[c-uruk]] [[c-writing-start]] At about the same time, Egypt was unified under a single king, with its capital at Memphis. [[c-egypt]]",
+    "Further east, the cities of the Indus valley, such as Harappa and Mohenjo-daro, flourished from about 2600 BCE, with planned streets and drains; their script is still undeciphered. [[c-indus]] In China, Erlitou was a major centre from about 1750 BCE, [[c-erlitou]] and the Shang kings at Anyang left the earliest Chinese writing, questions to their ancestors carved on bone and shell. [[c-shang]]",
+    "The Americas followed their own path. Caral in Peru had platform mounds and plazas by about 3000 BCE but no writing, though a khipu, a knotted-cord record, was reported there. [[c-caral]] [[c-khipu]] The Olmec of Mexico's Gulf coast flourished from about 1200 BCE. [[c-olmec]]",
+    {
+     "table": {
+      "head": [
+       "Society",
+       "Flourished",
+       "Writing"
+      ],
+      "rows": [
+       [
+        "Mesopotamia (Uruk)",
+        "from c. 3500 BCE",
+        "yes, c. 3200 BCE"
+       ],
+       [
+        "Egypt",
+        "unified c. 3100 BCE",
+        "yes, at about the same time"
+       ],
+       [
+        "Indus valley",
+        "c. 2600 BCE onward",
+        "undeciphered script"
+       ],
+       [
+        "China (Shang)",
+        "c. 1600 (traditional)–1046 BCE",
+        "yes, by c. 1250 BCE"
+       ],
+       [
+        "Peru (Caral)",
+        "c. 3000–1800 BCE",
+        "none known"
+       ],
+       [
+        "Mexico (Olmec)",
+        "c. 1200–400 BCE",
+        "perhaps, c. 900 BCE"
+       ]
+      ]
+     }
+    },
+    "Writing was invented independently at least three times, in Mesopotamia, China and Mesoamerica, and probably in Egypt as well. [[c-inventions]] Caral shows that a large, organised society did not strictly need it.",
+    {
+     "compare": "Chapters 3 to 6 slow down here: Mesopotamia and Egypt each get a chapter, the Indus and early China share Chapter 5, and Chapter 6 follows the Late Bronze Age world, from Greece to Mesopotamia, that linked Egypt with its neighbours."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 12,
+     "lat": 20,
+     "zoom": 1.5
+    },
+    "caption": "Early cities and the first writing",
+    "seaLabels": [
+     {
+      "t": "ATLANTIC OCEAN",
+      "ll": [
+       -40,
+       15
+      ]
+     },
+     {
+      "t": "INDIAN OCEAN",
+      "ll": [
+       75,
+       -10
+      ]
+     },
+     {
+      "t": "PACIFIC OCEAN",
+      "ll": [
+       -110,
+       0
+      ]
+     }
+    ],
+    "hint": "Click a city",
+    "legend": [
+     [
+      "dot",
+      "early writing"
+     ],
+     [
+      "pt",
+      "early city"
+     ]
+    ],
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         45.64,
+         31.32
+        ],
+        "label": "Uruk",
+        "date": "c. 3200 BCE",
+        "acc": true,
+        "big": true,
+        "anchor": "middle",
+        "dy": -26,
+        "plate": {
+         "kicker": "1.4 · Mesopotamia",
+         "title": "Uruk",
+         "sub": "c. 3200 BCE",
+         "text": "[[c-uruk]] [[c-writing-start]]",
+         "facts": [
+          [
+           "writing",
+           "proto-cuneiform"
+          ],
+          [
+           "first used for",
+           "accounts"
+          ]
+         ],
+         "sources": [
+          "met-uruk",
+          "met-writing",
+          "antiquity-writing"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.25,
+         29.85
+        ],
+        "label": "Memphis",
+        "date": "c. 3100 BCE",
+        "acc": true,
+        "anchor": "end",
+        "dy": 14,
+        "plate": {
+         "kicker": "1.4 · Egypt",
+         "title": "Early Egypt",
+         "sub": "unified c. 3100 BCE",
+         "text": "[[c-egypt]] [[c-inventions]]",
+         "facts": [
+          [
+           "capital",
+           "Memphis"
+          ],
+          [
+           "royal tombs",
+           "Abydos"
+          ]
+         ],
+         "sources": [
+          "egy-early",
+          "dee2013",
+          "brit-hieroglyph"
+         ]
+        }
+       },
+       {
+        "ll": [
+         68.14,
+         27.33
+        ],
+        "label": "Mohenjo-daro",
+        "date": "from c. 2600 BCE",
+        "anchor": "middle",
+        "dy": 20,
+        "plate": {
+         "kicker": "1.4 · Indus",
+         "title": "The Indus cities",
+         "sub": "from c. 2600 BCE",
+         "text": "[[c-indus]]",
+         "sources": [
+          "brit-indus",
+          "harappa"
+         ]
+        }
+       },
+       {
+        "ll": [
+         72.86,
+         30.63
+        ],
+        "label": "Harappa",
+        "anchor": "start",
+        "dy": -4
+       },
+       {
+        "ll": [
+         112.69,
+         34.69
+        ],
+        "label": "Erlitou",
+        "date": "from c. 1750 BCE",
+        "anchor": "middle",
+        "dy": 20,
+        "plate": {
+         "kicker": "1.4 · China",
+         "title": "Erlitou",
+         "sub": "from c. 1750 BCE",
+         "text": "[[c-erlitou]]",
+         "sources": [
+          "lawler2009",
+          "brit-erlitou"
+         ]
+        }
+       },
+       {
+        "ll": [
+         114.32,
+         36.12
+        ],
+        "label": "Anyang",
+        "date": "c. 1250 BCE",
+        "acc": true,
+        "anchor": "middle",
+        "dy": -26,
+        "plate": {
+         "kicker": "1.4 · China",
+         "title": "Anyang and the Shang",
+         "sub": "c. 1250 to 1046 BCE",
+         "text": "[[c-shang]]",
+         "facts": [
+          [
+           "writing",
+           "oracle-bone inscriptions"
+          ]
+         ],
+         "sources": [
+          "brit-shang",
+          "brit-oracle"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -77.52,
+         -10.89
+        ],
+        "label": "Caral",
+        "date": "c. 3000 BCE",
+        "plate": {
+         "kicker": "1.4 · Peru",
+         "title": "Caral-Supe",
+         "sub": "c. 3000 to 1800 BCE",
+         "text": "[[c-caral]] [[c-khipu]]",
+         "sources": [
+          "unesco-caral",
+          "brit-quipu"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -94.76,
+         17.75
+        ],
+        "label": "San Lorenzo",
+        "date": "Olmec, c. 1200 BCE",
+        "acc": true,
+        "plate": {
+         "kicker": "1.4 · Mexico",
+         "title": "The Olmec",
+         "sub": "c. 1200 to 400 BCE",
+         "text": "[[c-olmec]]",
+         "sources": [
+          "brit-olmec"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does Caral suggest about cities and writing?",
+     "choices": [
+      "Monumental building could not happen without writing",
+      "A large organised society could arise without writing",
+      "Caral's builders borrowed their writing from Mesopotamia",
+      "Its khipu proves that Caral recorded its language"
+     ],
+     "answer": 1,
+     "why": "Caral built platform mounds and plazas from about 3000 BCE with no known writing, though a single khipu, a knotted-cord record, was reported there.",
+     "wrong": {
+      "0": "Caral built platform mounds and plazas without it.",
+      "2": "No writing is known from Caral; the Americas followed their own path.",
+      "3": "Whether khipu recorded language is unknown, and the single khipu reported at Caral is of uncertain date."
+     }
+    },
+    {
+     "q": "The earliest tablets from Uruk record rations and goods. What does that suggest about why writing arose?",
+     "choices": [
+      "To write down poems and myths",
+      "To keep the accounts of temples",
+      "To send letters to other states",
+      "To publish the laws of kings"
+     ],
+     "answer": 1,
+     "why": "Uruk's earliest tablets record rations, grain and livestock for the temple economy: in Mesopotamia, writing began as bookkeeping.",
+     "wrong": {
+      "0": "The earliest tablets record rations, grain and livestock, not literature.",
+      "2": "The earliest tablets are internal records of rations and goods.",
+      "3": "The earliest tablets record rations, grain and livestock, not laws."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Empires and great traditions",
+   "sub": "c. 600 BCE to 600 CE, from the Mediterranean to China",
+   "lede": "In a few centuries much of Eurasia came under a handful of very large states, and several of the world's great traditions of thought took shape at about the same time.",
+   "body": [
+    "Persia came first. Cyrus II founded the Achaemenid empire around 550 BCE; at its height it ran from Macedonia and Libya to the borderlands of the Indus. Alexander of Macedon ended it in 330 BCE. [[c-achaemenid]]",
+    "In India, Chandragupta founded the Maurya empire around 321 BCE. His grandson Ashoka turned away from conquest after the bloody Kalinga war and had his principles of <i>dharma</i> carved on rocks and pillars across the subcontinent. [[c-maurya]]",
+    "In China, Qin unified the warring states in 221 BCE, and the Han ruled from 206 BCE to 220 CE. In the West, Rome became an empire under Augustus in 27 BCE. [[c-qin-han]] [[c-rome]] At their height, in the 1st and 2nd centuries CE, Han China and Rome may each have held about 60 million people: perhaps a third to a half of humanity between them. [[c-han-rome-pop]]",
+    {
+     "table": {
+      "head": [
+       "Thinker",
+       "Where",
+       "When"
+      ],
+      "rows": [
+       [
+        "Isaiah",
+        "Jerusalem",
+        "8th century BCE [[c-isaiah]]"
+       ],
+       [
+        "Zoroaster",
+        "Iran",
+        "uncertain [[c-zoroaster]]"
+       ],
+       [
+        "Confucius",
+        "Lu (Qufu), China",
+        "551–479 BCE"
+       ],
+       [
+        "The Buddha",
+        "Lumbini, Ganges plain",
+        "died c. 480 or c. 400 BCE [[c-buddha]]"
+       ],
+       [
+        "Socrates",
+        "Athens",
+        "c. 470–399 BCE"
+       ],
+       [
+        "Plato",
+        "Athens",
+        "428/427–348/347 BCE"
+       ]
+      ]
+     }
+    },
+    "In 1949 the philosopher Karl Jaspers called these centuries the Axial Age, a turning point in human thought in several places at once. Many historians are wary of the idea, which may turn a loose coincidence into a single breakthrough. [[c-axial]]",
+    "The traditions travelled with empires and traders. Buddhism reached China by the 1st century CE, and in 380 the emperor Theodosius I made Nicene Christianity the Roman empire's official faith. [[c-buddhism-china]] [[c-theodosius]]",
+    {
+     "compare": "Empires of this size kept returning in the same places: Persia, India, China and the Mediterranean each saw a long run of successor states. Chapters 8 and 9 follow them."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 59,
+     "lat": 27,
+     "zoom": 2.75
+    },
+    "seaLabels": [
+     {
+      "t": "INDIAN OCEAN",
+      "ll": [
+       72,
+       8
+      ]
+     }
+    ],
+    "caption": "Four empires and their thinkers, 8th century BCE–220 CE",
+    "hint": "Click a city or a thinker's home",
+    "legend": [
+     [
+      "zone",
+      "empire core (not borders)"
+     ],
+     [
+      "pt",
+      "capital"
+     ],
+     [
+      "dot",
+      "thinker"
+     ]
+    ],
+    "layers": [
+     {
+      "type": "zone",
+      "items": [
+       {
+        "ll": [
+         51,
+         33
+        ],
+        "r": 11
+       },
+       {
+        "ll": [
+         80,
+         24
+        ],
+        "r": 8.5
+       },
+       {
+        "ll": [
+         110,
+         33
+        ],
+        "r": 10
+       },
+       {
+        "ll": [
+         14,
+         40
+        ],
+        "r": 11
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         52.89,
+         29.93
+        ],
+        "label": "Persepolis",
+        "date": "Persia, c. 550–330 BCE",
+        "anchor": "middle",
+        "dy": 22,
+        "plate": {
+         "kicker": "1.5 · Persia",
+         "title": "Achaemenid Persia",
+         "sub": "c. 550 to 330 BCE",
+         "text": "The first empire to join the Mediterranean, Iran and the Indus borderlands under one ruler. [[c-achaemenid]]",
+         "facts": [
+          [
+           "founder",
+           "Cyrus II"
+          ],
+          [
+           "height",
+           "Darius I and Xerxes"
+          ],
+          [
+           "ended by",
+           "Alexander, 330 BCE"
+          ]
+         ],
+         "sources": [
+          "brit-achaemenid"
+         ]
+        }
+       },
+       {
+        "ll": [
+         85.14,
+         25.61
+        ],
+        "label": "Pataliputra",
+        "date": "Maurya, c. 321–185 BCE",
+        "dy": 16,
+        "plate": {
+         "kicker": "1.5 · India",
+         "title": "The Maurya empire",
+         "sub": "c. 321 to 185 BCE",
+         "text": "Ruled most of the subcontinent from Pataliputra, modern Patna. [[c-maurya]]",
+         "facts": [
+          [
+           "founder",
+           "Chandragupta"
+          ],
+          [
+           "best known ruler",
+           "Ashoka"
+          ],
+          [
+           "capital",
+           "Pataliputra"
+          ]
+         ],
+         "sources": [
+          "brit-maurya",
+          "brit-ashoka"
+         ]
+        }
+       },
+       {
+        "ll": [
+         108.88,
+         34.3
+        ],
+        "label": "Chang'an",
+        "date": "Han, 206 BCE–220 CE",
+        "anchor": "end",
+        "dy": -12,
+        "plate": {
+         "kicker": "1.5 · China",
+         "title": "Qin and Han China",
+         "sub": "221 BCE to 220 CE",
+         "text": "Qin unified China in 221 BCE; the Han kept the empire together for four centuries. [[c-qin-han]]",
+         "facts": [
+          [
+           "unification",
+           "221 BCE (Qin)"
+          ],
+          [
+           "Han",
+           "206 BCE–220 CE"
+          ],
+          [
+           "capitals",
+           "Chang'an, then Luoyang"
+          ]
+         ],
+         "sources": [
+          "brit-qin",
+          "brit-han"
+         ]
+        }
+       },
+       {
+        "ll": [
+         12.49,
+         41.89
+        ],
+        "label": "Rome",
+        "date": "empire from 27 BCE",
+        "anchor": "end",
+        "dy": -4,
+        "plate": {
+         "kicker": "1.5 · Mediterranean",
+         "title": "The Roman empire",
+         "sub": "from 27 BCE",
+         "text": "Rome became an empire under Augustus and ruled the whole Mediterranean. [[c-rome]] [[c-han-rome-pop]]",
+         "facts": [
+          [
+           "first emperor",
+           "Augustus, 27 BCE"
+          ],
+          [
+           "official faith from",
+           "380 CE (Nicene Christianity)"
+          ]
+         ],
+         "sources": [
+          "met-rome",
+          "brit-theodosius"
+         ]
+        }
+       },
+       {
+        "ll": [
+         116.99,
+         35.6
+        ],
+        "label": "Qufu",
+        "date": "Confucius",
+        "acc": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "1.5 · thinkers",
+         "title": "Confucius",
+         "sub": "551 to 479 BCE",
+         "text": "Teacher of an ethics of family duty, ritual and good government that shaped China for two thousand years. [[c-confucius]]",
+         "sources": [
+          "brit-confucius"
+         ]
+        }
+       },
+       {
+        "ll": [
+         83.28,
+         27.47
+        ],
+        "label": "Lumbini",
+        "date": "the Buddha",
+        "acc": true,
+        "anchor": "end",
+        "dy": -10,
+        "plate": {
+         "kicker": "1.5 · thinkers",
+         "title": "The Buddha",
+         "sub": "died c. 480 or c. 400 BCE",
+         "text": "Born at Lumbini, he taught in the Ganges plain a path out of suffering. [[c-buddha]]",
+         "sources": [
+          "brit-buddha"
+         ]
+        }
+       },
+       {
+        "ll": [
+         23.73,
+         37.97
+        ],
+        "label": "Athens",
+        "date": "Socrates, Plato",
+        "acc": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "1.5 · thinkers",
+         "title": "Socrates and Plato",
+         "sub": "5th and 4th centuries BCE",
+         "text": "Socrates questioned his fellow Athenians about how to live; his student Plato wrote the dialogues that founded Western philosophy. [[c-socrates]]",
+         "sources": [
+          "brit-socrates",
+          "brit-plato"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.23,
+         31.78
+        ],
+        "label": "Jerusalem",
+        "date": "Isaiah",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "1.5 · thinkers",
+         "title": "Isaiah",
+         "sub": "8th century BCE",
+         "text": "A prophet of Judah whose book became central to Judaism and Christianity. [[c-isaiah]]",
+         "sources": [
+          "brit-isaiah"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What best supports the claim that Han China and Rome held a large share of humanity about 2,000 years ago?",
+     "choices": [
+      "Both ruled for several centuries over many peoples",
+      "About 60 million each, of some 230 million people",
+      "Goods moved between them along long trade routes",
+      "Both had adopted an official faith by about 200 CE"
+     ],
+     "answer": 1,
+     "why": "Two populations of about 60 million each, out of roughly 232 million people in the world around 1 CE, is a third to a half of humanity.",
+     "wrong": {
+      "0": "Long rule over many peoples shows size and reach, not how many people lived in them.",
+      "2": "Trade shows contact between distant regions, not population.",
+      "3": "Rome made Nicene Christianity its official faith only in 380 CE, and religion says nothing about how many people lived there."
+     }
+    },
+    {
+     "q": "Why do many historians treat the idea of an 'Axial Age' with caution?",
+     "choices": [
+      "Its thinkers did not really live between 800 and 200 BCE",
+      "Critics say it is Asia-centred and relies on archaeology",
+      "It may turn a coincidence in time into one breakthrough",
+      "Most of the figures it names are probably legendary"
+     ],
+     "answer": 2,
+     "why": "The thinkers are real and roughly contemporary; the doubt is whether their overlap in time was one connected event. Critics also call the idea Eurocentric and say it leans on texts rather than archaeology.",
+     "wrong": {
+      "0": "Confucius, the Buddha and Plato all lived within that window.",
+      "1": "Reversed: critics call it Eurocentric and say it leans on texts rather than archaeology.",
+      "3": "Socrates and Plato have firm dates, and Confucius's traditional dates are widely accepted; the doubt is about linking them, not about whether they lived."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Webs of exchange",
+   "sub": "c. 600 to 1450: deserts, steppes and seas",
+   "lede": "After 600 the regions of Afro-Eurasia were tied together more tightly than ever, by trade routes across deserts, steppes and seas, and by a new faith that spread along them.",
+   "body": [
+    "Islam began in Arabia. By tradition, Muhammad left Mecca for Medina in 622, the <i>hijra</i>, and he died in 632. [[c-hijra]] Within little more than a century, Muslim rule ran from Iberia, invaded in 711, to Central Asia and the Indus. [[c-umayyad]]",
+    "Overland, the routes later called the Silk Roads linked China to the Mediterranean, some 6,400 km end to end. Silk went west; gold, silver and wool came east. The geographer Ferdinand von Richthofen popularised the name in 1877. [[c-silk]] [[c-richthofen]]",
+    "At sea, the monsoon set the calendar. Its winds blow from the southwest in summer and from the northeast in winter, so ships sailed out on one monsoon and home on the next. [[c-monsoon]] Across the Sahara, caravans carried West African gold north and salt south. Mali's ruler Mansa Musa made the pilgrimage to Mecca in 1324 and spent so much gold in Cairo that its value there fell for years. [[c-mali]]",
+    "Tang and Song China produced inventions that later travelled along these webs: printed books by the 9th century, government paper money in the 1020s and the oldest known recipe for gunpowder, from 1044. [[c-song]]",
+    "Two catastrophes closed the age. The Mongols, united under Chinggis Khan in 1206, built the largest contiguous land empire in history. [[c-mongol]] Then plague, the Black Death, crossed the same connected world. In Europe (1347–51) it killed perhaps a third to over half of the people, with large differences between regions. [[c-blackdeath]]",
+    {
+     "compare": "The connections that carried silk and ideas also carried disease. The same pattern returns after 1492, when Old World diseases devastated the Americas (1.7)."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 58,
+     "lat": 26,
+     "zoom": 1.9
+    },
+    "seaLabels": [
+     {
+      "t": "INDIAN OCEAN",
+      "ll": [
+       72,
+       -8
+      ]
+     },
+     {
+      "t": "ARABIAN SEA",
+      "ll": [
+       63,
+       15
+      ]
+     }
+    ],
+    "caption": "Routes across Afro-Eurasia, c. 600–1450",
+    "hint": "Click a city",
+    "legend": [
+     [
+      "dash",
+      "trade route (schematic)"
+     ],
+     [
+      "acc",
+      "Black Death, 1346–51"
+     ],
+     [
+      "zone",
+      "Mongol empire at its height (approx.)"
+     ]
+    ],
+    "layers": [
+     {
+      "type": "zone",
+      "items": [
+       {
+        "ll": [
+         95,
+         46
+        ],
+        "r": 17,
+        "label": "MONGOL EMPIRE",
+        "lab": [
+         98,
+         52
+        ]
+       }
+      ]
+     },
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          108.88,
+          34.3
+         ],
+         [
+          103.83,
+          36.06
+         ],
+         [
+          94.66,
+          40.14
+         ],
+         [
+          75.99,
+          39.47
+         ],
+         [
+          66.96,
+          39.65
+         ],
+         [
+          62.19,
+          37.66
+         ],
+         [
+          44.58,
+          33.09
+         ],
+         [
+          38.27,
+          34.55
+         ],
+         [
+          36.16,
+          36.2
+         ]
+        ],
+        "label": "Silk Roads",
+        "lab": [
+         86,
+         42
+        ],
+        "ldy": -8
+       },
+       {
+        "path": [
+         [
+          39.51,
+          -8.96
+         ],
+         [
+          39.67,
+          -4.04
+         ],
+         [
+          45.03,
+          12.79
+         ],
+         [
+          58.41,
+          23.59
+         ],
+         [
+          72.62,
+          22.31
+         ],
+         [
+          75.78,
+          11.25
+         ],
+         [
+          80.5,
+          5.8
+         ],
+         [
+          102.25,
+          2.19
+         ],
+         [
+          113.26,
+          23.13
+         ],
+         [
+          118.68,
+          24.87
+         ]
+        ],
+        "label": "monsoon routes",
+        "lab": [
+         88,
+         2
+        ],
+        "ldy": 18
+       },
+       {
+        "path": [
+         [
+          -8.38,
+          11.38
+         ],
+         [
+          -3.01,
+          16.77
+         ],
+         [
+          -5.0,
+          23.6
+         ],
+         [
+          -4.27,
+          31.28
+         ],
+         [
+          -5.0,
+          34.03
+         ]
+        ],
+        "label": "trans-Saharan",
+        "lab": [
+         -4,
+         23
+        ],
+        "anchor": "start",
+        "ldx": 10
+       }
+      ]
+     },
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          35.38,
+          45.03
+         ],
+         [
+          24,
+          39
+         ],
+         [
+          14,
+          41
+         ],
+         [
+          4,
+          46
+         ],
+         [
+          -2,
+          51
+         ]
+        ],
+        "label": "plague, 1347",
+        "lab": [
+         24,
+         44
+        ],
+        "ldy": -6,
+        "delay": 0.6
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         39.83,
+         21.42
+        ],
+        "label": "Mecca",
+        "date": "hijra 622",
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.6 · Arabia",
+         "title": "The rise of Islam",
+         "sub": "622 to c. 750",
+         "text": "[[c-hijra]] Within a century Muslim rule stretched from Iberia to the Indus. [[c-umayyad]]",
+         "facts": [
+          [
+           "hijra to Medina",
+           "622"
+          ],
+          [
+           "Iberia invaded",
+           "711"
+          ],
+          [
+           "Abbasid revolution",
+           "749–750"
+          ]
+         ],
+         "sources": [
+          "brit-muhammad",
+          "brit-umayyad"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.37,
+         33.31
+        ],
+        "label": "Baghdad",
+        "dy": -8
+       },
+       {
+        "ll": [
+         114.3,
+         34.8
+        ],
+        "label": "Kaifeng",
+        "date": "Song capital",
+        "anchor": "start",
+        "dy": 16,
+        "plate": {
+         "kicker": "1.6 · China",
+         "title": "Tang and Song China",
+         "sub": "618 to 1279",
+         "text": "[[c-song]]",
+         "facts": [
+          [
+           "printed books",
+           "by the 9th century"
+          ],
+          [
+           "paper money",
+           "1020s"
+          ],
+          [
+           "gunpowder formula",
+           "1044"
+          ]
+         ],
+         "sources": [
+          "columbia-print",
+          "columbia-money",
+          "columbia-gunpowder"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -3.01,
+         16.77
+        ],
+        "label": "Timbuktu",
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.6 · West Africa",
+         "title": "Mali",
+         "sub": "13th to 16th centuries",
+         "text": "[[c-mali]]",
+         "facts": [
+          [
+           "gold from",
+           "Bambuk and Bondu"
+          ],
+          [
+           "salt from",
+           "Taghaza"
+          ],
+          [
+           "hajj of Mansa Musa",
+           "1324"
+          ]
+         ],
+         "sources": [
+          "brit-musa",
+          "brit-mali"
+         ]
+        }
+       },
+       {
+        "ll": [
+         75.78,
+         11.25
+        ],
+        "label": "Calicut",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         102.25,
+         2.19
+        ],
+        "label": "Malacca"
+       },
+       {
+        "ll": [
+         102.82,
+         47.2
+        ],
+        "label": "Karakorum",
+        "plate": {
+         "kicker": "1.6 · steppe",
+         "title": "The Mongol empire",
+         "sub": "from 1206",
+         "text": "[[c-mongol]]",
+         "facts": [
+          [
+           "Chinggis Khan proclaimed",
+           "1206"
+          ],
+          [
+           "area at height",
+           "c. 23 million km²"
+          ]
+         ],
+         "sources": [
+          "brit-mongol"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.38,
+         45.03
+        ],
+        "label": "Caffa",
+        "acc": true,
+        "plate": {
+         "kicker": "1.6 · plague",
+         "title": "The Black Death",
+         "sub": "Europe, 1347 to 1351",
+         "text": "Plague reached the Black Sea port of Caffa in 1346 and spread by ship across the Mediterranean. [[c-blackdeath]]",
+         "sources": [
+          "brit-blackdeath",
+          "ht-blackdeath",
+          "reading-bd"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What made Indian Ocean trade seasonal?",
+     "choices": [
+      "Pirates shut the main sea lanes during the winter months",
+      "The monsoon winds reverse direction with the seasons",
+      "Islamic law banned sea voyages in certain months",
+      "Ice blocked the northern ports for part of the year"
+     ],
+     "answer": 1,
+     "why": "The winds blow from the southwest in summer and from the northeast in winter; ships sailed out on one and back on the other.",
+     "wrong": {
+      "0": "Piracy did not set the calendar; the monsoon winds did.",
+      "2": "No such ban shaped the sailing schedule; the winds did.",
+      "3": "These are tropical and subtropical waters; ice played no part."
+     }
+    },
+    {
+     "q": "Why is the share of Europeans killed by the Black Death labelled 'debated'?",
+     "choices": [
+      "Plague may not have reached most parts of Europe",
+      "Scholars agree on 60 percent but dispute the dates",
+      "Pollen records show losses varied greatly by region",
+      "Most estimates put the toll below 5 percent of people"
+     ],
+     "answer": 2,
+     "why": "Estimates range from about a third to about 60 percent, and pollen records show severe losses in some regions and continuity or even growth in others.",
+     "wrong": {
+      "0": "It struck Europe in 1347–51; the debate is over how many it killed, not where it reached.",
+      "1": "Estimates range from about a third to over half; Ole Benedictow's 60 percent is one of them.",
+      "3": "Estimates run from about a third to over half of Europe's people."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The world joined",
+   "sub": "after 1492, the oceans become highways",
+   "lede": "Within a single lifetime, sailors linked Europe, Africa, Asia and the Americas by sea, and the exchange that followed remade diets, populations and labour around the globe.",
+   "body": [
+    "In 1492 Columbus crossed the Atlantic to the Caribbean. In 1498 Vasco da Gama sailed around Africa to Calicut in India. In 1522 the survivors of Magellan's fleet completed the first voyage around the world. [[c-columbus]] [[c-dagama]] [[c-magellan]]",
+    "The historian Alfred Crosby named what followed the Columbian Exchange. Maize, potatoes and cassava crossed to Africa, Europe and Asia; wheat, sugar, horses and cattle came to the Americas. [[c-crosby]] [[c-exchange]]",
+    "So did smallpox, measles and influenza, against which the peoples of the Americas had no immunity. Within about a century and a half their numbers fell by perhaps 80 to 95 percent. [[c-collapse]] How many people lived in the Americas in 1492 is still argued, from about 8 million to more than 100 million. [[c-1492pop]]",
+    "Epidemics did most of the killing, but war, enslavement and forced labour made them deadlier. Europeans forced Indigenous people to work mines and estates, and to work sugar and other plantations they turned increasingly to enslaved Africans.",
+    {
+     "table": {
+      "head": [
+       "The transatlantic slave trade, c. 1525–1866",
+       ""
+      ],
+      "rows": [
+       [
+        "embarked in Africa",
+        "c. 12.5 million"
+       ],
+       [
+        "survived the crossing",
+        "c. 10.7 million"
+       ],
+       [
+        "landed directly in North America",
+        "c. 388,000"
+       ]
+      ],
+      "note": "Estimates from the Trans-Atlantic Slave Trade Database. [[c-slavetrade]]"
+     }
+    },
+    "On land, the Ottoman, Safavid and Mughal empires, and Ming and then Qing China, remained the world's great powers. Historians sometimes call the first three 'gunpowder empires', though the label is debated. [[c-gunpowder]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": -12,
+     "lat": 8,
+     "zoom": 1.6
+    },
+    "seaLabels": [
+     {
+      "t": "INDIAN OCEAN",
+      "ll": [
+       70,
+       -15
+      ]
+     },
+     {
+      "t": "ATLANTIC OCEAN",
+      "ll": [
+       -38,
+       -4
+      ]
+     }
+    ],
+    "caption": "Voyages and the Atlantic world, 1492–1866",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc",
+      "voyage"
+     ],
+     [
+      "acc dash",
+      "slave trade (simplified)"
+     ]
+    ],
+    "layers": [
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          13.23,
+          -8.84
+         ],
+         [
+          -15,
+          -12
+         ],
+         [
+          -38.5,
+          -12.97
+         ]
+        ],
+        "acc": true,
+        "head": true,
+        "label": "to Brazil",
+        "lab": [
+         -14,
+         -14
+        ],
+        "ldy": 18
+       },
+       {
+        "path": [
+         [
+          2.09,
+          6.36
+         ],
+         [
+          -30,
+          12
+         ],
+         [
+          -59.61,
+          13.1
+         ]
+        ],
+        "acc": true,
+        "head": true,
+        "label": "to the Caribbean",
+        "lab": [
+         -30,
+         12
+        ],
+        "ldy": 18
+       },
+       {
+        "path": [
+         [
+          -1.35,
+          5.08
+         ],
+         [
+          -40,
+          22
+         ],
+         [
+          -79.93,
+          32.78
+         ]
+        ],
+        "acc": true,
+        "head": true
+       }
+      ]
+     },
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          -6.89,
+          37.23
+         ],
+         [
+          -17.11,
+          28.09
+         ],
+         [
+          -40,
+          27
+         ],
+         [
+          -65,
+          25.5
+         ],
+         [
+          -74.48,
+          24.05
+         ]
+        ],
+        "label": "Columbus, 1492",
+        "lab": [
+         -45,
+         30
+        ],
+        "ldy": -8
+       },
+       {
+        "path": [
+         [
+          -9.2,
+          38.7
+         ],
+         [
+          -23.51,
+          14.92
+         ],
+         [
+          -25,
+          -20
+         ],
+         [
+          -5,
+          -30
+         ],
+         [
+          18.47,
+          -34.36
+         ],
+         [
+          22.14,
+          -34.18
+         ],
+         [
+          40.73,
+          -15.03
+         ],
+         [
+          40.12,
+          -3.22
+         ],
+         [
+          75.78,
+          11.25
+         ]
+        ],
+        "label": "da Gama, 1497–98",
+        "lab": [
+         -20,
+         -26
+        ],
+        "ldy": 16,
+        "delay": 0.5
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         -9.14,
+         38.72
+        ],
+        "label": "Lisbon",
+        "dy": -8
+       },
+       {
+        "ll": [
+         -74.48,
+         24.05
+        ],
+        "label": "San Salvador",
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.7 · 1492",
+         "title": "Columbus",
+         "sub": "landfall, 12 October 1492",
+         "text": "[[c-columbus]]",
+         "sources": [
+          "brit-columbus"
+         ]
+        }
+       },
+       {
+        "ll": [
+         75.78,
+         11.25
+        ],
+        "label": "Calicut",
+        "plate": {
+         "kicker": "1.7 · 1498",
+         "title": "Vasco da Gama",
+         "sub": "Lisbon to Calicut, 1497–98",
+         "text": "[[c-dagama]]",
+         "sources": [
+          "brit-gama"
+         ]
+        }
+       },
+       {
+        "ll": [
+         13.23,
+         -8.84
+        ],
+        "label": "Luanda",
+        "acc": true,
+        "plate": {
+         "kicker": "1.7 · Atlantic",
+         "title": "The transatlantic slave trade",
+         "sub": "c. 1525 to 1866",
+         "text": "[[c-slavetrade]] Brazil and the Caribbean received most of those who survived; the trade between Angola and Brazil ran both ways, so a 'triangle' simplifies it.",
+         "sources": [
+          "pbs-slave"
+         ]
+        }
+       },
+       {
+        "ll": [
+         28.98,
+         41.01
+        ],
+        "label": "Istanbul",
+        "date": "Ottoman",
+        "plate": {
+         "kicker": "1.7 · land empires",
+         "title": "'Gunpowder empires'",
+         "sub": "Ottoman, Safavid, Mughal",
+         "text": "[[c-gunpowder]]",
+         "facts": [
+          [
+           "Ottomans take Constantinople",
+           "1453"
+          ],
+          [
+           "Safavids",
+           "1501–1736"
+          ],
+          [
+           "Mughals",
+           "1526–1857"
+          ]
+         ],
+         "sources": [
+          "oer-gunpowder",
+          "brit-ottoman"
+         ]
+        }
+       },
+       {
+        "ll": [
+         51.67,
+         32.65
+        ],
+        "label": "Isfahan",
+        "date": "Safavid"
+       },
+       {
+        "ll": [
+         78.01,
+         27.18
+        ],
+        "label": "Agra",
+        "date": "Mughal"
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do estimates of the population of the Americas in 1492 range from about 8 million to over 110 million?",
+     "choices": [
+      "Low estimates reject the early eyewitness counts",
+      "Disease may have struck before anyone made a count",
+      "Epidemics did not reach the Americas until after 1600",
+      "Some scholars doubt that any collapse took place"
+     ],
+     "answer": 1,
+     "why": "Low estimates trust the earliest eyewitness counts; high estimates argue that epidemics ran ahead of Europeans, so the first counts were already of shrunken populations.",
+     "wrong": {
+      "0": "Reversed: low estimates trust the early counts; high estimates argue they were taken after epidemics had struck.",
+      "2": "Smallpox, measles and influenza crossed after 1492; one study finds the population had already fallen to about 6 million by 1600.",
+      "3": "That the collapse happened is not in doubt; only its starting size is."
+     }
+    },
+    {
+     "q": "Of roughly 10.7 million Africans who survived the Middle Passage, about how many were landed directly in North America?",
+     "choices": [
+      "About 5.2 million",
+      "About 388,000",
+      "About 9.6 million",
+      "About 41,000"
+     ],
+     "answer": 1,
+     "why": "North America received a small share; most people were taken to Brazil and the Caribbean.",
+     "wrong": {
+      "0": "That overstates North America's share more than tenfold.",
+      "2": "Most survivors were landed in Brazil and the Caribbean.",
+      "3": "That understates North America's share nearly tenfold."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Revolutions",
+   "sub": "political and industrial, 1750 to 1900",
+   "lede": "In about a century and a half, revolutions changed who ruled, in whose name, and how almost everything was made.",
+   "body": [
+    "The American colonies declared independence in 1776. The French Revolution began in 1789; in July crowds stormed the Bastille. In Saint-Domingue, enslaved people rose in 1791 and founded Haiti in 1804, the first country created by former slaves. [[c-us]] [[c-france]] [[c-haiti]]",
+    "Napoleon's seizure of the Spanish crown in 1808 opened the way for Spanish America: Venezuela declared independence in 1811, and by 1826 Spain had lost the mainland. [[c-latam]]",
+    "Meanwhile Britain began to industrialise. In the classic dating, 1760 to 1840, machines driven first by water and then by coal-fired steam multiplied what a worker could make. James Watt patented his separate condenser, which made steam engines far more efficient, in 1769. [[c-industrial]] [[c-watt]]",
+    {
+     "table": {
+      "head": [
+       "Average income per person, world",
+       "2021 dollars"
+      ],
+      "rows": [
+       [
+        "1 CE",
+        "c. 1,100"
+       ],
+       [
+        "1000",
+        "c. 1,100"
+       ],
+       [
+        "1500",
+        "c. 1,300"
+       ],
+       [
+        "1820",
+        "c. 1,500"
+       ],
+       [
+        "1900",
+        "c. 3,100"
+       ],
+       [
+        "1950",
+        "c. 4,600"
+       ],
+       [
+        "2025",
+        "c. 21,900"
+       ]
+      ],
+      "note": "Maddison Project estimates via Our World in Data; figures before 1820 are rough. [[c-gdp]]"
+     }
+    },
+    "Why Britain, and why then? Kenneth Pomeranz argued that the richest regions of China and Europe were comparable until about 1800, and that coal and New World resources tipped the balance. Others date the gap earlier. [[c-divergence]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": -36,
+     "lat": 32,
+     "zoom": 2.2
+    },
+    "seaLabels": [
+     {
+      "t": "ATLANTIC OCEAN",
+      "ll": [
+       -40,
+       28
+      ]
+     }
+    ],
+    "caption": "Revolutions around the Atlantic, 1776–1826",
+    "hint": "Click a city",
+    "legend": [
+     [
+      "dot",
+      "revolution"
+     ],
+     [
+      "pt",
+      "industry"
+     ]
+    ],
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         -75.15,
+         39.95
+        ],
+        "label": "Philadelphia",
+        "date": "1776",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.8 · America",
+         "title": "American independence",
+         "sub": "1776",
+         "text": "[[c-us]]",
+         "sources": [
+          "nara-decl"
+         ]
+        }
+       },
+       {
+        "ll": [
+         2.35,
+         48.86
+        ],
+        "label": "Paris",
+        "date": "1789",
+        "acc": true,
+        "plate": {
+         "kicker": "1.8 · France",
+         "title": "The French Revolution",
+         "sub": "1789 to 1799",
+         "text": "[[c-france]]",
+         "sources": [
+          "brit-french"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -72.34,
+         18.54
+        ],
+        "label": "Port-au-Prince",
+        "date": "1804",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.8 · Haiti",
+         "title": "The Haitian Revolution",
+         "sub": "1791 to 1804",
+         "text": "[[c-haiti]]",
+         "sources": [
+          "brit-haiti"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -66.9,
+         10.48
+        ],
+        "label": "Caracas",
+        "date": "1811",
+        "acc": true,
+        "plate": {
+         "kicker": "1.8 · Spanish America",
+         "title": "Spanish American independence",
+         "sub": "1808 to 1826",
+         "text": "[[c-latam]]",
+         "sources": [
+          "jcb-juntas",
+          "brit-ayacucho"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -2.24,
+         53.48
+        ],
+        "label": "Manchester",
+        "date": "cotton mills, 1780s–",
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.8 · Britain",
+         "title": "The Industrial Revolution",
+         "sub": "c. 1760 to 1840",
+         "text": "[[c-industrial]] [[c-watt]] [[c-divergence]]",
+         "sources": [
+          "brit-industrial",
+          "brit-watt",
+          "usc-pomeranz"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does Kenneth Pomeranz's 'Great Divergence' chiefly argue?",
+     "choices": [
+      "Europe was already richer than China from Roman times onward",
+      "China's and Europe's richest areas were alike until about 1800",
+      "The gap opened well before 1800, as national accounts show",
+      "Coal and New World resources mattered little before about 1900"
+     ],
+     "answer": 1,
+     "why": "Pomeranz argued that the richest regions of China and Europe were broadly comparable until about 1800, and that coal and New World resources tipped the balance toward Britain.",
+     "wrong": {
+      "0": "That is the older Eurocentric view he set out to challenge.",
+      "2": "That is the view of Broadberry, Guan and Li (2018), who argue against Pomeranz that the gap opened earlier.",
+      "3": "He argues that coal and New World resources tipped the balance toward Britain around 1800."
+     }
+    },
+    {
+     "q": "What does the long-run series of world income per person show?",
+     "choices": [
+      "Steady growth of about 1 percent a year since 1 CE",
+      "Little change until about 1820, then a steep rise",
+      "A slow rise from 1 CE, then a fall after about 1800",
+      "Precise counts of income per person back to 1 CE"
+     ],
+     "answer": 1,
+     "why": "Average income stayed about $1,100–1,500 per person until around 1820, then rose steeply with industrialisation.",
+     "wrong": {
+      "0": "The curve is nearly flat until about 1820.",
+      "2": "Income per person rose after 1800, from about $1,500 in 1820 to about $3,100 in 1900.",
+      "3": "Figures before 1820 are rough estimates, not counts."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The violent century",
+   "sub": "1914 to 1991",
+   "lede": "The twentieth century brought the deadliest wars in history, the end of most empires and a long confrontation between two superpowers.",
+   "body": [
+    "The First World War (1914–18) killed about 8.5 million soldiers and perhaps as many as 13 million civilians. [[c-ww1]] [[c-ww1civ]] In 1917, two revolutions in Russia ended the monarchy and brought the Bolsheviks to power. [[c-russia]]",
+    "The Second World War (1939–45) was far deadlier: estimates run from about 35 million to 60 million dead or more, most of them civilians. [[c-ww2]] Nazi Germany murdered about six million Jews in the Holocaust. [[c-holocaust]] Germany surrendered in May 1945. Japan surrendered in August, after the United States dropped atomic bombs on Hiroshima and Nagasaki and the Soviet Union declared war on Japan. [[c-atomic]]",
+    "In 1945 nearly a third of the world's people still lived in colonies. [[c-colonies]] Independence came in waves: India and Pakistan in 1947, Ghana in 1957, Angola in 1975. [[c-decol]]",
+    {
+     "table": {
+      "head": [
+       "Members of the United Nations",
+       ""
+      ],
+      "rows": [
+       [
+        "1945",
+        "51"
+       ],
+       [
+        "1960",
+        "99"
+       ],
+       [
+        "1970",
+        "127"
+       ],
+       [
+        "1980",
+        "154"
+       ],
+       [
+        "1990",
+        "159"
+       ],
+       [
+        "2000",
+        "189"
+       ],
+       [
+        "2011 to today",
+        "193"
+       ]
+      ],
+      "note": "[[c-un]]"
+     }
+    },
+    "From 1947–48 the United States and the Soviet Union faced each other in the Cold War, armed with nuclear weapons but never fighting each other directly. It ended when the Soviet Union dissolved in December 1991. [[c-coldwar]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 62,
+     "lat": 30,
+     "zoom": 1.6
+    },
+    "seaLabels": [
+     {
+      "t": "INDIAN OCEAN",
+      "ll": [
+       75,
+       -15
+      ]
+     },
+     {
+      "t": "ATLANTIC OCEAN",
+      "ll": [
+       -25,
+       15
+      ]
+     }
+    ],
+    "caption": "Turning points, 1914–1991",
+    "hint": "Click a city",
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         30.32,
+         59.94
+        ],
+        "label": "Petrograd",
+        "date": "1917",
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "1.9 · Russia",
+         "title": "The Russian revolutions",
+         "sub": "1917",
+         "text": "[[c-russia]]",
+         "sources": [
+          "brit-russia"
+         ]
+        }
+       },
+       {
+        "ll": [
+         132.46,
+         34.39
+        ],
+        "label": "Hiroshima",
+        "date": "August 1945",
+        "plate": {
+         "kicker": "1.9 · 1945",
+         "title": "Atomic bombs",
+         "sub": "Hiroshima and Nagasaki",
+         "text": "[[c-atomic]] [[c-ww2]]",
+         "sources": [
+          "osti-1945",
+          "brit-ww2q",
+          "nww2m"
+         ]
+        }
+       },
+       {
+        "ll": [
+         77.21,
+         28.61
+        ],
+        "label": "Delhi",
+        "date": "1947",
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.9 · decolonization",
+         "title": "India and Pakistan",
+         "sub": "14–15 August 1947",
+         "text": "[[c-decol]] [[c-colonies]]",
+         "sources": [
+          "state-india",
+          "un-decol"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -0.19,
+         5.6
+        ],
+        "label": "Accra",
+        "date": "1957",
+        "anchor": "end",
+        "plate": {
+         "kicker": "1.9 · decolonization",
+         "title": "Ghana",
+         "sub": "6 March 1957",
+         "text": "Ghana is often called the first colony in sub-Saharan Africa to win independence after the war. [[c-decol]]",
+         "sources": [
+          "state-ghana"
+         ]
+        }
+       },
+       {
+        "ll": [
+         13.23,
+         -8.84
+        ],
+        "label": "Luanda",
+        "date": "1975",
+        "plate": {
+         "kicker": "1.9 · decolonization",
+         "title": "Angola",
+         "sub": "11 November 1975",
+         "text": "[[c-decol]] [[c-un]]",
+         "sources": [
+          "state-angola",
+          "un-growth"
+         ]
+        }
+       },
+       {
+        "ll": [
+         37.62,
+         55.75
+        ],
+        "label": "Moscow",
+        "date": "December 1991",
+        "plate": {
+         "kicker": "1.9 · 1991",
+         "title": "The end of the Soviet Union",
+         "sub": "December 1991",
+         "text": "[[c-coldwar]]",
+         "sources": [
+          "brit-coldwar",
+          "state-ussr"
+         ]
+        }
+       },
+       {
+        "ll": [
+         13.4,
+         52.52
+        ],
+        "label": "Berlin",
+        "anchor": "end",
+        "dy": 10,
+        "plate": {
+         "kicker": "1.9 · Europe",
+         "title": "Two world wars",
+         "sub": "1914–18 and 1939–45",
+         "text": "[[c-ww1]] [[c-ww1civ]] [[c-ww2]] [[c-holocaust]]",
+         "sources": [
+          "brit-ww1",
+          "brit-ww2q",
+          "ushmm"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "How did deaths in the Second World War compare with the First?",
+     "choices": [
+      "Both killed about the same number of people overall",
+      "The First killed more, because of trench warfare",
+      "The Second killed far more, most of them civilians",
+      "The Second killed more soldiers but fewer civilians"
+     ],
+     "answer": 2,
+     "why": "Even the lowest estimates for the Second World War, about 35 million, are well above the First's (about 8.5 million soldiers and perhaps up to 13 million civilians), and civilians were the majority.",
+     "wrong": {
+      "0": "The Second World War's toll was far larger.",
+      "1": "The First World War killed about 8.5 million soldiers and perhaps up to 13 million civilians, far fewer than the Second.",
+      "3": "Civilian deaths, about 45 million by one estimate, far exceeded battle deaths."
+     }
+    },
+    {
+     "q": "What mainly explains the growth of the UN from 51 members to 193?",
+     "choices": [
+      "Decolonization created dozens of new states",
+      "The break-up of the Soviet Union in 1991",
+      "European states splitting into smaller countries",
+      "Population growth in the existing member states"
+     ],
+     "answer": 0,
+     "why": "Membership grew from 51 in 1945 to 154 in 1980 as colonies became independent; in 1945 nearly a third of the world's people still lived in colonies.",
+     "wrong": {
+      "1": "Membership was already 159 in 1990 and reached 189 by 2000, a small part of the growth.",
+      "2": "Most of the growth, from 51 to 154, came between 1945 and 1980, as colonies became independent.",
+      "3": "Membership counts states, not people; it grew as colonies became independent."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The great acceleration",
+   "sub": "people, energy and life itself",
+   "lede": "For nearly all of history the world's population grew so slowly that no one alive could have noticed. In the last two centuries it rose eightfold.",
+   "body": [
+    "Around 10,000 BCE there were perhaps 4.5 million people. By 1 CE there were about 230 million, and by 1800 about one billion. Since then the number has risen eightfold, to 8.09 billion in 2023. [[c-pop-series]] [[c-1bn]] [[c-8bn]]",
+    "It was not that people had more children; they stopped dying so young. Life expectancy at birth was under 30 in 1800 and is over 73 today. [[c-life]] Most of that change came from children surviving.",
+    {
+     "table": {
+      "head": [
+       "",
+       "c. 1800",
+       "today"
+      ],
+      "rows": [
+       [
+        "people",
+        "c. 1 billion",
+        "8.09 billion (2023)"
+       ],
+       [
+        "life expectancy at birth",
+        "28.5 years",
+        "73.2 years (2023)"
+       ],
+       [
+        "share in extreme poverty",
+        "c. 76% (1820)",
+        "c. 10% (2018)"
+       ],
+       [
+        "primary energy used",
+        "c. 5,650 TWh",
+        "c. 176,000 TWh (2024)"
+       ]
+      ],
+      "note": "Our World in Data; earlier figures are estimates. [[c-life]] [[c-poverty]] [[c-energy]]"
+     }
+    },
+    "Behind every line of that table is energy. In 1800 almost all of it came from wood and other biomass. Today the world uses about 31 times as much, most of it from fossil fuels, which is why the same two centuries also changed the climate.",
+    {
+     "compare": "This is why the industrial revolutions of 1.8 matter so much: they are the hinge of the whole chart."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "population",
+    "caption": "World population, 10,000 BCE to 2023",
+    "title": "People alive, in millions",
+    "ymax": 8000,
+    "x0": -10000,
+    "xticks": [
+     -10000,
+     -8000,
+     -6000,
+     -4000,
+     -2000,
+     0,
+     2000
+    ],
+    "hint": "Hover a point for its value",
+    "series": [
+     [
+      -10000,
+      4.5
+     ],
+     [
+      -5000,
+      19.16
+     ],
+     [
+      -3000,
+      44.58
+     ],
+     [
+      -2000,
+      72.69
+     ],
+     [
+      -1000,
+      110.53
+     ],
+     [
+      0,
+      232.27
+     ],
+     [
+      500,
+      253.4
+     ],
+     [
+      1000,
+      323.46
+     ],
+     [
+      1500,
+      503.05
+     ],
+     [
+      1600,
+      516.15
+     ],
+     [
+      1700,
+      595.46
+     ],
+     [
+      1800,
+      983.1
+     ],
+     [
+      1850,
+      1275.6
+     ],
+     [
+      1900,
+      1627.27
+     ],
+     [
+      1950,
+      2493.09
+     ],
+     [
+      1975,
+      4070.74
+     ],
+     [
+      2000,
+      6171.7
+     ],
+     [
+      2023,
+      8091.73
+     ]
+    ],
+    "notes": [
+     {
+      "x": 1800,
+      "y": 983.1,
+      "t": "one billion, c. 1804",
+      "dx": -70,
+      "dy": -60
+     },
+     {
+      "x": 2023,
+      "y": 8091.7,
+      "t": "8.09 billion, 2023",
+      "dx": -60,
+      "dy": 10
+     },
+     {
+      "x": 0,
+      "y": 232.3,
+      "t": "c. 230 million, 1 CE",
+      "dx": -40,
+      "dy": -70
+     }
+    ],
+    "readout": "Source: Our World in Data (HYDE, Gapminder, UN)"
+   },
+   "practice": [
+    {
+     "q": "Roughly how many times larger was the world's population in 2023 than in 1800?",
+     "choices": [
+      "About 2 times",
+      "About 8 times",
+      "About 80 times",
+      "About 800 times"
+     ],
+     "answer": 1,
+     "why": "From about 0.98 billion in 1800 to 8.09 billion in 2023 is about eightfold.",
+     "wrong": {
+      "0": "Far too low: population reached two billion in 1927, and reached 8.09 billion in 2023.",
+      "2": "Far too high: even the rise from 10,000 BCE to 1 CE was only about fiftyfold.",
+      "3": "Even the whole rise from 10,000 BCE to today is about 1,800-fold."
+     }
+    },
+    {
+     "q": "Life expectancy at birth was about 28.5 years in 1800. What does that mainly tell us?",
+     "choices": [
+      "Most adults died at around 28 or 29 years old",
+      "Many children died young, pulling the average down",
+      "The figure describes Europe, not the whole world",
+      "The data are too uncertain to tell us anything"
+     ],
+     "answer": 1,
+     "why": "An average at birth is dragged down by deaths in childhood; it is not the typical age at which adults died. Many who survived childhood lived into their fifties and beyond.",
+     "wrong": {
+      "0": "That confuses an average at birth with the age of adult death.",
+      "2": "It is a world figure, from Our World in Data.",
+      "3": "The figures before 1950 are estimates, but the picture is clear: the low averages of the past mostly reflect how many children died."
+     }
+    }
+   ]
+  },
+  {
+   "title": "How we know",
+   "sub": "texts, things, trees, atoms and genes",
+   "lede": "Every date in this book rests on evidence, and each kind of evidence reaches only so far back and answers only certain questions.",
+   "body": [
+    "<b>Written records</b> begin at Uruk at the end of the 4th millennium BCE. [[c-writing-reach]] They give names, events and beliefs, but only of the few who could write, and only about what they chose to record.",
+    "<b>Tree rings</b> give an exact, year-by-year calendar reaching back about 12,400 years, where suitable wood survives. [[c-treerings]]",
+    "<b>Radiocarbon dating</b>, developed by Willard Libby in 1949, measures the decay of carbon-14 in anything that once lived. It works back to about 50,000 years and must be calibrated against tree rings and, further back, other records such as lake sediments and corals. [[c-libby]] [[c-c14]] Beyond that, <b>luminescence</b>, <b>uranium-series</b> and <b>potassium-argon</b> methods date the sediments, cave deposits and volcanic layers around a find. [[c-other-dating]]",
+    "<b>Ancient DNA</b> shows ancestry, mixing and migration. The oldest human-lineage DNA yet read is about 430,000 years old; the Neanderthal genome, published in 2010, showed that many living people carry Neanderthal ancestry. [[c-adna]] [[c-neanderthal]] DNA rarely survives in hot climates and says little about culture.",
+    "<b>Ice cores</b> record 800,000 years of climate, and their recent layers also hold traces of human activity, such as lead from Roman mining (8.0), though they name no events. [[c-ice]] <b>Historical linguistics</b> reconstructs lost languages, and with them the things their speakers had words for, but its dates depend on its models. [[c-linguistics]]",
+    "When sources disagree, this book says so. The small labels after sentences mark claims that are approximate, debated or a traditional account; click one to see the evidence and its sources. Unlabelled statements are well established or close to it, and their sources are on the plates."
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "evidence",
+    "caption": "How far back each kind of evidence reaches",
+    "title": "Reach of each method, in years before today",
+    "max": 1000000,
+    "hint": "Hover a method",
+    "rows": [
+     {
+      "t": "Written records",
+      "reach": 5200,
+      "lab": "c. 5,200",
+      "tip": "From c. 3200 BCE. Names, events, beliefs; only for the literate few.",
+      "acc": true
+     },
+     {
+      "t": "Tree rings",
+      "reach": 12400,
+      "lab": "c. 12,400",
+      "tip": "Exact calendar years, where suitable wood survives."
+     },
+     {
+      "t": "Radiocarbon",
+      "reach": 50000,
+      "lab": "c. 50,000",
+      "tip": "Anything once alive; needs calibration."
+     },
+     {
+      "t": "Luminescence",
+      "reach": 300000,
+      "lab": "c. 300,000+",
+      "tip": "Burnt flint and buried sediment; often to several hundred thousand years."
+     },
+     {
+      "t": "Ancient DNA",
+      "reach": 430000,
+      "lab": "c. 430,000",
+      "tip": "Ancestry and migration; rarely survives in hot climates."
+     },
+     {
+      "t": "Ice cores",
+      "reach": 800000,
+      "lab": "c. 800,000",
+      "tip": "Climate and greenhouse gases; traces of pollution, but no named events."
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Burnt flint from an ancient hearth is thought to be about 200,000 years old. Which method could date it?",
+     "choices": [
+      "Luminescence dating",
+      "Radiocarbon dating",
+      "Tree-ring dating",
+      "Written records"
+     ],
+     "answer": 0,
+     "why": "Heating resets the flint's luminescence clock, and the method reaches far beyond radiocarbon's limit.",
+     "wrong": {
+      "1": "Radiocarbon works back only to about 50,000 years.",
+      "2": "The tree-ring calendar reaches only about 12,400 years.",
+      "3": "Writing begins about 5,200 years ago."
+     }
+    },
+    {
+     "q": "Which statement about ancient DNA is correct?",
+     "choices": [
+      "It dates bones directly, replacing other methods",
+      "It survives best in hot climates such as the tropics",
+      "It reveals ancestry and mixing between populations",
+      "It records which languages ancient people spoke"
+     ],
+     "answer": 2,
+     "why": "Genomes show who descended from whom and which populations mixed; the Neanderthal genome showed that many living people carry Neanderthal ancestry.",
+     "wrong": {
+      "0": "DNA shows ancestry; dates come from methods such as radiocarbon, luminescence and uranium-series.",
+      "1": "DNA rarely survives in hot climates.",
+      "3": "Genes do not record language; that is the work of historical linguistics."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The road ahead",
+   "sub": "how this atlas is arranged",
+   "lede": "The rest of Volume I travels the same road as this chapter, slowly: each era gets one or more chapters, and each chapter one subject seen from many sides.",
+   "body": [
+    "The chart on the right is the main road. Each band is an era; the numbers above it are the chapters that cover it. Era boundaries are conventions, not facts of nature: standard courses place them differently, though breaks near 1450 or 1500, 1750, and 1900 or 1914 recur in most; later breaks vary between 1945 and 1991. [[c-periods]]",
+    "The bands are drawn equal, though the eras are not: the first covers hundreds of thousands of years, the last only a few decades. Later eras get more chapters because far more evidence survives from them, not because they mattered more. The contents page shows which chapters are written so far.",
+    "How to read this book: turn pages with the arrow keys or the arrows below. Click anything on the plate to take it apart. Click a small label after a sentence to see the evidence. Practise when you want to, using the button in the corner; questions you answer come back for review on the day you are most likely to start forgetting them.",
+    "Volume II will follow the United States, from the colonies to how its government works today."
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "road",
+    "caption": "Volume I, era by era",
+    "title": "The main road",
+    "hint": "Hover an era",
+    "eras": [
+     {
+      "t": "Before history",
+      "dates": "to 3500 BCE",
+      "ch": "2"
+     },
+     {
+      "t": "First cities",
+      "dates": "3500–1200 BCE",
+      "ch": "3–6"
+     },
+     {
+      "t": "Iron and empire",
+      "dates": "1200–500 BCE",
+      "ch": "7"
+     },
+     {
+      "t": "Classical empires",
+      "dates": "500 BCE–250",
+      "ch": "8–9"
+     },
+     {
+      "t": "Faith and new empires",
+      "dates": "250–750",
+      "ch": "10"
+     },
+     {
+      "t": "Regional webs",
+      "dates": "750–1250",
+      "ch": "11"
+     },
+     {
+      "t": "Mongols and plague",
+      "dates": "1250–1450",
+      "ch": "12"
+     },
+     {
+      "t": "The world joined",
+      "dates": "1450–1750",
+      "ch": "13"
+     },
+     {
+      "t": "Revolutions",
+      "dates": "1750–1914",
+      "ch": "14"
+     },
+     {
+      "t": "World wars, Cold War",
+      "dates": "1914–1991",
+      "ch": "15"
+     },
+     {
+      "t": "The present age",
+      "dates": "1991–",
+      "ch": "16"
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do world-history courses put era boundaries in different places, such as 1450 or 1500, 1900 or 1914?",
+     "choices": [
+      "One set of dates is a factual error by its authors",
+      "Era breaks are conventions chosen by each course",
+      "The evidence for those turning points has been lost",
+      "Courses copy one standard but round it differently"
+     ],
+     "answer": 1,
+     "why": "Era boundaries are conventions, not facts of nature: the UCLA standards, the OER Project and AP World History place them differently, though breaks near 1450/1500, 1750 and 1900/1914 recur in most.",
+     "wrong": {
+      "0": "Neither choice is a factual error; both are conventions.",
+      "2": "The issue is not lost evidence but which change a course treats as the turning point.",
+      "3": "There is no single standard: the UCLA standards, the OER Project and AP World History each place the breaks differently."
+     }
+    },
+    {
+     "q": "Which of these breaks appears in most standard world-history frameworks?",
+     "choices": [
+      "250 CE",
+      "1200 BCE",
+      "1750 CE",
+      "1066 CE"
+     ],
+     "answer": 2,
+     "why": "Around 1750, when the revolutions of 1.8 begin, is a break in most frameworks, along with 1450/1500 and 1900/1914.",
+     "wrong": {
+      "0": "This atlas uses 250, but it is not among the breaks that recur across course frameworks.",
+      "1": "This atlas starts an era at 1200 BCE, but it is not among the breaks that recur across course frameworks.",
+      "3": "1066 is not among the breaks that recur in most frameworks: 1450/1500, 1750 and 1900/1914."
+     }
+    }
+   ]
+  }
+ ]
+}

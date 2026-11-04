@@ -1,0 +1,3681 @@
+{
+ "id": "ch03",
+ "no": "03",
+ "title": "Mesopotamia",
+ "sub": "the first cities, between two rivers",
+ "sources": {
+  "brit-tigris": {
+   "citation": "Encyclopaedia Britannica, \"Tigris-Euphrates river system: Climate\"",
+   "url": "https://www.britannica.com/place/Tigris-Euphrates-river-system/Climate"
+  },
+  "pittman2018": {
+   "citation": "Holly Pittman, \"Highlands and Lowlands\", Expedition 60.1 (Penn Museum, 2018)",
+   "url": "https://www.penn.museum/sites/expedition/?p=25989"
+  },
+  "unesco-ahwar": {
+   "citation": "UNESCO World Heritage, \"The Ahwar of Southern Iraq\"",
+   "url": "https://whc.unesco.org/en/list/1481"
+  },
+  "giosan2025": {
+   "citation": "Sci.News on Giosan and Goodman, \"Morphodynamic Foundations of Sumer\", PLoS ONE (2025)",
+   "url": "https://www.sci.news/archaeology/ancient-sumer-rise-14183.html"
+  },
+  "jotheri2025": {
+   "citation": "Live Science on Jotheri et al., Antiquity (2025)",
+   "url": "https://www.livescience.com/archaeology/massive-mesopotamian-canal-network-unearthed-in-iraq"
+  },
+  "altaweel-salt": {
+   "citation": "Mark Altaweel, \"Simulating the Effects of Salinization on Irrigation Agriculture in Southern Mesopotamia\" (UCL)",
+   "url": "https://core.ac.uk/download/18456728.pdf"
+  },
+  "powell1985": {
+   "citation": "Marvin Powell, \"Salt, Seed, and Yields in Sumerian Agriculture\", Zeitschrift für Assyriologie 75 (1985)",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/zava.1985.75.1.7/html?lang=de"
+  },
+  "archaeology-akkad": {
+   "citation": "Archaeology magazine, \"Capital of the World's First Empire\" (2024)",
+   "url": "https://archaeology.org/issues/may-june-2024/collection/capital-of-the-worlds-first-empire/"
+  },
+  "mcmahon2020": {
+   "citation": "Augusta McMahon, \"Early Urbanism in Northern Mesopotamia\", Journal of Archaeological Research 28 (2020)",
+   "url": "https://core.ac.uk/download/328720952.pdf"
+  },
+  "fassbinder2020": {
+   "citation": "Jörg Fassbinder, \"Beneath the Euphrates sediments\", ANE Today (2020)",
+   "url": "https://anetoday.org/beneath-euphrates-sediments/"
+  },
+  "brown-periods": {
+   "citation": "Brown University, Joukowsky Institute, Archaeologies of the Near East: Uruk period lecture",
+   "url": "https://www.brown.edu/Departments/Joukowsky_Institute/courses/archaeologiesneareast/files/3934158.pdf"
+  },
+  "englund-p183": {
+   "citation": "Robert Englund, \"The Proto-Cuneiform Texts\" (Max Planck Institute for the History of Science, Preprint 183)",
+   "url": "https://mpiwg-berlin.mpg.de/sites/default/files/migrated/p183.pdf"
+  },
+  "stein1996": {
+   "citation": "Stein et al., \"Uruk Colonies and Anatolian Communities\", American Journal of Archaeology 100 (1996)",
+   "url": "https://core.ac.uk/download/76393983.pdf"
+  },
+  "algaze1993": {
+   "citation": "Guillermo Algaze, The Uruk World System (1993), eHRAF summary",
+   "url": "https://ehrafarchaeology.yale.edu/traditions/mh60/documents/003"
+  },
+  "dog-habuba": {
+   "citation": "Deutsche Orient-Gesellschaft, Habuba Kabira",
+   "url": "https://orient-gesellschaft.de/dog3_en.html"
+  },
+  "smarthistory-warka": {
+   "citation": "Smarthistory, \"The Warka Vase\"",
+   "url": "https://smarthistory.org/?p=22417"
+  },
+  "morgan-priestking": {
+   "citation": "The Morgan Library, \"Figure of a Priest King (?)\"",
+   "url": "https://www.themorgan.org/node/60051"
+  },
+  "glatz-brb": {
+   "citation": "The Scotsman on Glatz et al., bevelled-rim bowl residues (2022)",
+   "url": "https://www.pressreader.com/uk/the-scotsman/20221119/281840057663994"
+  },
+  "met-uruk3": {
+   "citation": "The Met, \"Uruk: The First City\"",
+   "url": "https://www.metmuseum.org/essays/uruk-the-first-city"
+  },
+  "zimansky1993": {
+   "citation": "Paul Zimansky, review of Schmandt-Besserat, Journal of Field Archaeology 20 (1993)",
+   "url": "https://urkesh.org/attach/Zimansky1993.pdf"
+  },
+  "unicode-pc": {
+   "citation": "Laura Hawkins, Unicode proposal for proto-cuneiform, L2/19-284 (2019)",
+   "url": "https://www.unicode.org/L2/L2019/19284-proto-cuneiform.pdf"
+  },
+  "george-edubba": {
+   "citation": "A. R. George, \"In search of the é.dub.ba.a: the ancient Mesopotamian school\"",
+   "url": "https://core.ac.uk/download/2784969.pdf"
+  },
+  "cathcart2011": {
+   "citation": "Kevin Cathcart, \"The Earliest Contributions to the Decipherment of Sumerian and Akkadian\", CDLJ 2011:1",
+   "url": "https://cdli.earth/articles/cdlj/2011-1"
+  },
+  "ras-1857": {
+   "citation": "Royal Asiatic Society archives, letter on the 1857 translation test",
+   "url": "https://www.royalasiaticarchives.org/index.php/letter-from-edwin-norris-to-rev-edward-hincks-20-april-1857"
+  },
+  "jras-1861": {
+   "citation": "\"Comparative Translations\", Journal of the Royal Asiatic Society 18 (1861)",
+   "url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/art-iv-comparative-translations/515A3FBDA0D8603D82800835246749A2"
+  },
+  "bas-tablets": {
+   "citation": "Biblical Archaeology Society, \"Cuneiform tablets: who's got what?\"",
+   "url": "https://library.biblicalarchaeology.org/sidebar/cuneiform-tablets-whos-got-what/"
+  },
+  "gutherz2023": {
+   "citation": "Gutherz, Gordin et al., \"Translating Akkadian to English with neural machine translation\", PNAS Nexus (2023)",
+   "url": "https://academic.oup.com/pnasnexus/article/2/5/pgad096/7147349"
+  },
+  "cornell-protosnap": {
+   "citation": "Cornell University on ProtoSnap (2025)",
+   "url": "https://www.news.cornell.edu/stories/2025/03/ai-models-makes-precise-copies-cuneiform-characters"
+  },
+  "amgg-an": {
+   "citation": "Oracc, Ancient Mesopotamian Gods and Goddesses, \"An/Anu\"",
+   "url": "https://oracc.museum.upenn.edu/amgg/listofdeities/an/"
+  },
+  "amgg-enlil": {
+   "citation": "Oracc, Ancient Mesopotamian Gods and Goddesses, \"Enlil\"",
+   "url": "https://oracc.museum.upenn.edu/amgg/listofdeities/enlil/index.html"
+  },
+  "etcsl-enki-order": {
+   "citation": "ETCSL, \"Enki and the World Order\"",
+   "url": "https://etcsl.orinst.ox.ac.uk/section1/tr113.htm"
+  },
+  "amgg-inana": {
+   "citation": "Oracc, Ancient Mesopotamian Gods and Goddesses, \"Inana/Ištar\"",
+   "url": "https://oracc.museum.upenn.edu/amgg/listofdeities/inanaitar/"
+  },
+  "amgg-nanna": {
+   "citation": "Oracc, Ancient Mesopotamian Gods and Goddesses, \"Nanna/Suen\"",
+   "url": "https://oracc.museum.upenn.edu/amgg/listofdeities/nannasuen/"
+  },
+  "morgan-disk": {
+   "citation": "The Morgan Library, \"Disk of Enheduanna\"",
+   "url": "https://www.themorgan.org/exhibitions/online/she-who-wrote/disk-enheduanna"
+  },
+  "met-ziggurat": {
+   "citation": "The Met, \"Ur: The Ziggurat\"",
+   "url": "https://www.metmuseum.org/essays/ur-the-ziggurat"
+  },
+  "smarthistory-ziggurat": {
+   "citation": "Smarthistory, \"Ziggurat of Ur\"",
+   "url": "https://smarthistory.org/?p=1038"
+  },
+  "akrep2017": {
+   "citation": "Akrep, on the Sumerian temple-state model, Mavi Atlas 5 (2017)",
+   "url": "https://dergipark.org.tr/en/download/article-file/368659"
+  },
+  "etcsl-enki-ninmah": {
+   "citation": "ETCSL, \"Enki and Ninmah\"",
+   "url": "https://etcsl.orinst.ox.ac.uk/section1/tr112.htm"
+  },
+  "etcsl-netherworld": {
+   "citation": "ETCSL, \"Gilgameš, Enkidu and the Nether World\"",
+   "url": "https://etcsl.orinst.ox.ac.uk/section1/tr1814.htm"
+  },
+  "awm-vultures": {
+   "citation": "Josho Brouwers, \"The Stele of the Vultures\", Ancient World Magazine (2017)",
+   "url": "https://www.ancientworldmagazine.com/articles/stele-vultures/"
+  },
+  "fr-kish": {
+   "citation": "French Ministry of Culture, \"Kish\"",
+   "url": "https://archeologie.culture.gouv.fr/en/kish"
+  },
+  "fub-uruinimgina": {
+   "citation": "Freie Universität Berlin, study of the Uruinimgina reform texts",
+   "url": "https://refubium.fu-berlin.de/handle/fub188/47765"
+  },
+  "etcsl-skl": {
+   "citation": "ETCSL, \"The Sumerian King List\"",
+   "url": "https://etcsl.orinst.ox.ac.uk/section2/tr211.htm"
+  },
+  "espak2009": {
+   "citation": "Peeter Espak, on the ideology of the Sumerian King List, Usuteaduslik Ajakiri 59 (2009)",
+   "url": "https://ojs.utlib.ee/index.php/UA/article/view/23213"
+  },
+  "penn-ur-archive": {
+   "citation": "Penn Museum Archives, Ur Expedition finding aid",
+   "url": "https://penn.museum/collections/archives/findingaid/552803"
+  },
+  "met-royal-graves": {
+   "citation": "The Met, \"Ur: The Royal Graves\"",
+   "url": "https://www.metmuseum.org/essays/ur-the-royal-graves"
+  },
+  "penn-puabi": {
+   "citation": "Penn Museum, \"Queen Puabi\"",
+   "url": "https://www.penn.museum/collections/highlights/neareast/puabi.php"
+  },
+  "penn-almanac2009": {
+   "citation": "Penn Almanac, \"Ur's royal cemetery: new findings\" (2009)",
+   "url": "https://almanac.upenn.edu/archive/volumes/v56/n09/zettler.html"
+  },
+  "pollock1985": {
+   "citation": "Susan Pollock, \"Chronology of the Royal Cemetery of Ur\", Iraq 47 (1985)",
+   "url": "https://www.cambridge.org/core/journals/iraq/article/abs/chronology-of-the-royal-cemetery-of-ur/E5D9642577DFA1C68F0290AF589504F1"
+  },
+  "baadsgaard2011": {
+   "citation": "Baadsgaard et al., \"Human sacrifice and intentional corpse preservation in the Royal Cemetery of Ur\", Antiquity (2011)",
+   "url": "https://www.cambridge.org/core/product/E44F1731C922EF9FF43E0B5D2DF67AC1"
+  },
+  "dickson2006": {
+   "citation": "D. Bruce Dickson, \"Public transcripts expressed in theatres of cruelty\", Cambridge Archaeological Journal (2006)",
+   "url": "https://core-prod.cambridgecore.org/core/journals/cambridge-archaeological-journal/article/public-transcripts-expressed-in-theatres-of-cruelty-the-royal-graves-at-ur-in-mesopotamia/A71E9E683B7BE9FC6A575828AC1DF40E"
+  },
+  "casw-ur": {
+   "citation": "CASW Showcase, \"The ultimate sacrifice\" (2012)",
+   "url": "https://showcase.casw.org/stories/the-ultimate-sacrifice/"
+  },
+  "bm-standard": {
+   "citation": "British Museum, \"The Standard of Ur\"",
+   "url": "https://www.britishmuseum.org/collection/object/W_1928-1010-3"
+  },
+  "penn-lyre": {
+   "citation": "Penn Museum, bull's head from the Great Lyre",
+   "url": "https://penn.museum/collections/object/9347"
+  },
+  "brit-sargon": {
+   "citation": "Encyclopaedia Britannica, \"Sargon\"",
+   "url": "https://www.britannica.com/biography/Sargon"
+  },
+  "cdli-sargon": {
+   "citation": "CDLI, Sargon inscription RIME 2.01.01.01",
+   "url": "https://cdli.earth/artifacts/461926"
+  },
+  "whe-sargon-legend": {
+   "citation": "World History Encyclopedia, the Sargon birth legend tablet (British Museum)",
+   "url": "https://www.worldhistory.org/image/3128"
+  },
+  "alhatorah-sargon": {
+   "citation": "AlHaTorah, \"Moshe's Birth and the Legend of Sargon\"",
+   "url": "https://alhatorah.org/Moshe%27s_Birth_and_the_Legend_of_Sargon/Table"
+  },
+  "natgeo-enheduanna": {
+   "citation": "National Geographic, \"Enheduanna, the world's first known author\"",
+   "url": "https://www.nationalgeographic.com/history/article/enheduanna-princess-first-author"
+  },
+  "penn-disk": {
+   "citation": "Penn Museum, Disk of Enheduanna (B16665)",
+   "url": "https://www.penn.museum/collections/object/293415"
+  },
+  "brit-naramsin": {
+   "citation": "Encyclopaedia Britannica, \"Naram-Sin\"",
+   "url": "https://www.britannica.com/biography/Naram-Sin"
+  },
+  "fr-naramsin": {
+   "citation": "French Ministry of Culture, Victory Stele of Naram-Sin",
+   "url": "https://archeologie.culture.gouv.fr/jacques-morgan/en/media/view/6478"
+  },
+  "smarthistory-naramsin": {
+   "citation": "Smarthistory, \"Victory Stele of Naram-Sin\"",
+   "url": "https://smarthistory.org/victory-stele-of-naram-sin"
+  },
+  "artnews-girsu2025": {
+   "citation": "The Art Newspaper on the Girsu Project's Akkadian tablets (2025)",
+   "url": "https://www.theartnewspaper.com/2025/03/20/ancient-mesopotamian-clay-tablets-discovered-iraq-reveal-intricate-details-how-empire-governed"
+  },
+  "etcsl-agade": {
+   "citation": "ETCSL, \"The Cursing of Agade\"",
+   "url": "https://etcsl.orinst.ox.ac.uk/section2/tr215.htm"
+  },
+  "brit-guti": {
+   "citation": "Encyclopaedia Britannica, \"Guti\"",
+   "url": "https://www.britannica.com/topic/Guti"
+  },
+  "weiss1993": {
+   "citation": "Weiss et al., \"The Genesis and Collapse of Third Millennium North Mesopotamian Civilization\", Science 261 (1993)",
+   "url": "https://scilit.com/publications/9abcda0f2f150f34474022e996a20e43"
+  },
+  "carolin2019": {
+   "citation": "EurekAlert on Carolin et al., Gol-e Zard cave dust, PNAS (2019)",
+   "url": "https://www.eurekalert.org/news-releases/679087"
+  },
+  "soltysiak": {
+   "citation": "ANE Today on Sołtysiak, isotopes and the fall of Akkad",
+   "url": "https://anetoday.org/soltysiak-akkadian-fall/"
+  },
+  "brit-urnammu": {
+   "citation": "Encyclopaedia Britannica, \"Ur-Nammu\"",
+   "url": "https://www.britannica.com/biography/Ur-Nammu"
+  },
+  "bas-urnammu": {
+   "citation": "Biblical Archaeology Society, the Laws of Ur-Nammu",
+   "url": "https://library.biblicalarchaeology.org/images/bsba280503000ljpg"
+  },
+  "brit-shulgi": {
+   "citation": "Encyclopaedia Britannica, \"Shulgi\"",
+   "url": "https://www.britannica.com/biography/Shulgi"
+  },
+  "whe-shulgi": {
+   "citation": "World History Encyclopedia, \"Shulgi of Ur\"",
+   "url": "https://www.worldhistory.org/Shulgi_of_Ur/"
+  },
+  "etcsl-shulgi-a": {
+   "citation": "ETCSL, \"A praise poem of Šulgi (Šulgi A)\"",
+   "url": "https://etcsl.orinst.ox.ac.uk/section2/tr24201.htm"
+  },
+  "sallaberger2004": {
+   "citation": "Walther Sallaberger, \"Puzriš-Dagan\" (2003-04)",
+   "url": "https://www.assyriologie.uni-muenchen.de/personen/professoren/sallaberger/publ_sallaberger/wasa_2004_puzris-dagan.pdf"
+  },
+  "tsouparopoulou2013": {
+   "citation": "Christina Tsouparopoulou, \"A reconstruction of the Puzriš-Dagan central livestock agency\", CDLJ 2013:2",
+   "url": "https://cdli.earth/articles/cdlj/2013-2"
+  },
+  "neumann1994": {
+   "citation": "Hans Neumann, on the Ur III economy (1994)",
+   "url": "https://core.ac.uk/download/35121278.pdf"
+  },
+  "pottorf2025": {
+   "citation": "Pottorf, on Ur III menial labourers, Journal of Ancient Near Eastern History 12 (2025)",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/janeh-2024-0015/html"
+  },
+  "bdtns": {
+   "citation": "Database of Neo-Sumerian Texts (BDTNS), \"About\"",
+   "url": "https://bdtns.cesga.es/index.php?p=about"
+  },
+  "brit-ibbisin": {
+   "citation": "Encyclopaedia Britannica, \"Ibbi-Sin\"",
+   "url": "https://www.britannica.com/biography/Ibbi-Sin"
+  },
+  "etcsl-lament-ur": {
+   "citation": "ETCSL, \"The lament for Urim\"",
+   "url": "https://etcsl.orinst.ox.ac.uk/section2/tr222.htm"
+  },
+  "manning2016": {
+   "citation": "ScienceDaily on Manning et al., PLOS ONE (2016)",
+   "url": "https://www.sciencedaily.com/releases/2016/07/160719161657.htm"
+  },
+  "brit-hammurabi": {
+   "citation": "Encyclopaedia Britannica, \"Hammurabi\"",
+   "url": "https://www.britannica.com/biography/Hammurabi"
+  },
+  "brit-babylonia": {
+   "citation": "Encyclopaedia Britannica, \"Babylonia\"",
+   "url": "https://www.britannica.com/place/Babylonia"
+  },
+  "louvre-hammurabi": {
+   "citation": "Louvre, Law Code of Hammurabi (Sb 8)",
+   "url": "https://collections.louvre.fr/en/ark:/53355/cl010174436"
+  },
+  "brit-code": {
+   "citation": "Encyclopaedia Britannica, \"Code of Hammurabi\"",
+   "url": "https://www.britannica.com/topic/Code-of-Hammurabi"
+  },
+  "muenster-codex": {
+   "citation": "University of Münster, \"Kodex Hammurapi\"",
+   "url": "https://www.uni-muenster.de/Altoriental/institut/sammlung/foyer/Kodex_Hammurapi.html"
+  },
+  "anastopulos2006": {
+   "citation": "Anastopulos, on the Code of Hammurabi (Brown University paper)",
+   "url": "https://archaeology.brown.edu/sites/default/files/papers/Anastopulos2007.pdf"
+  },
+  "wohl1968": {
+   "citation": "Howard Wohl, \"Toward a definition of muškenum\", JANES 1 (1968)",
+   "url": "https://janes.scholasticahq.com/api/v1/articles/2231-toward-a-definition-of-muskenum.pdf"
+  },
+  "avalon-hammurabi": {
+   "citation": "The Code of Hammurabi, trans. L. W. King, Avalon Project (Yale)",
+   "url": "https://avalon.law.yale.edu/ancient/hamcode.asp"
+  },
+  "barmash2020": {
+   "citation": "Pamela Barmash, The Laws of Hammurabi (Oxford, 2020), publisher's summary",
+   "url": "https://www.publishersweekly.com/9780197525401"
+  },
+  "roth1995": {
+   "citation": "Martha Roth, \"Mesopotamian Legal Traditions and the Laws of Hammurabi\" (1995)",
+   "url": "https://core.ac.uk/download/217422932.pdf"
+  },
+  "brit-mursili": {
+   "citation": "Encyclopaedia Britannica, \"Mursili I\"",
+   "url": "https://www.britannica.com/biography/Mursilis-I"
+  },
+  "hamburg-diet": {
+   "citation": "University of Hamburg, CSMC, \"At the ancient Mesopotamians' dinner table\" (2018)",
+   "url": "https://www.csmc.uni-hamburg.de/publications/mesopotamia/2018-06-29.html"
+  },
+  "ellison1981": {
+   "citation": "Rosemary Ellison, \"Diet in Mesopotamia: the evidence of the barley ration texts\", Iraq (1981)",
+   "url": "https://core-prod.cambridgecore.org/core/journals/iraq/article/diet-in-mesopotamia-the-evidence-of-the-barley-ration-texts-c-30001400-bc/EA7C802C4A4E9640E38999D71300455C"
+  },
+  "gale-money": {
+   "citation": "\"Money, Prices, and Banking\", World Eras (Gale), via Encyclopedia.com",
+   "url": "https://encyclopedia.com/history/news-wires-white-papers-and-books/money-prices-and-banking"
+  },
+  "iranica-weights": {
+   "citation": "A. D. H. Bivar, \"Weights and Measures I\", Encyclopaedia Iranica",
+   "url": "https://iranicaonline.org/articles/weights-measures-i"
+  },
+  "gale-ammisaduqa": {
+   "citation": "\"Ammi-saduqa\", World Eras (Gale), via Encyclopedia.com",
+   "url": "https://encyclopedia.com/history/news-wires-white-papers-and-books/ammi-saduqa"
+  },
+  "larsen2015": {
+   "citation": "Mogens Trolle Larsen, Ancient Kanesh (Cambridge, 2015)",
+   "url": "https://www.cambridge.org/core/books/ancient-kanesh/EDFB8D8182CF334F6B29B865B88B10A2"
+  },
+  "brit-kultepe": {
+   "citation": "Encyclopaedia Britannica, \"Kültepe\"",
+   "url": "https://www.britannica.com/place/Kultepe"
+  },
+  "met-caravan": {
+   "citation": "The Met, cuneiform tablet: caravan account, Kültepe",
+   "url": "https://www.metmuseum.org/art/collection/search/325851"
+  },
+  "cnrs-michel": {
+   "citation": "CNRS, on Cécile Michel, Women of Assur and Kanesh (2020)",
+   "url": "https://www.mshmondes.cnrs.fr/women-assur-and-kanesh"
+  },
+  "naditu": {
+   "citation": "\"The naditu women of Sippar\", in Cameron and Kuhrt, eds., Images of Women in Antiquity",
+   "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9780203713976-31/naditu-women-sippar-averil-cameron-am%C3%A9lie-kuhrt"
+  },
+  "podany2025": {
+   "citation": "Amanda Podany, \"Beyond Slavery and Freedom in Ancient Mesopotamia: A Response\", JANEH 12 (2025)",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/janeh-2025-0011/html"
+  },
+  "met-gilgamesh": {
+   "citation": "The Met, \"Gilgamesh\" (Ira Spar)",
+   "url": "https://www.metmuseum.org/essays/gilgamesh"
+  },
+  "brit-gilgamesh": {
+   "citation": "Encyclopaedia Britannica, \"Gilgamesh\"",
+   "url": "https://www.britannica.com/topic/Gilgamesh"
+  },
+  "george-new": {
+   "citation": "Andrew George, \"What's new in the Gilgamesh Epic?\" (SOAS)",
+   "url": "https://soas-repository.worktribe.com/OutputFile/333592"
+  },
+  "brit-epic": {
+   "citation": "Encyclopaedia Britannica, \"Epic of Gilgamesh\"",
+   "url": "https://www.britannica.com/topic/Epic-of-Gilgamesh"
+  },
+  "bm-flood": {
+   "citation": "British Museum, the Flood Tablet (K.3375)",
+   "url": "https://www.britishmuseum.org/collection/object/W_K-3375"
+  },
+  "bas-smith": {
+   "citation": "Biblical Archaeology Society, \"George Smith's other find\"",
+   "url": "https://library.biblicalarchaeology.org/sidebar/george-smiths-other-find-the-babylonian-flood-tablet/"
+  },
+  "lindahall-smith": {
+   "citation": "Linda Hall Library, \"George Smith\"",
+   "url": "https://www.lindahall.org/about/news/scientist-of-the-day/george-smith/"
+  },
+  "tsumura1996": {
+   "citation": "David Tsumura, on the flood stories, Bible and Spade (1996)",
+   "url": "https://biblearchaeology.org/?p=69746"
+  },
+  "holtz-flood": {
+   "citation": "Shalom Holtz, \"The Flood Story in Its Ancient Near Eastern Context\", TheTorah.com",
+   "url": "https://www.thetorah.com/article/the-flood-story-in-its-ancient-near-eastern-context"
+  },
+  "day-flood": {
+   "citation": "John Day, \"The Mesopotamian Origin of the Biblical Flood Story\", TheTorah.com",
+   "url": "https://www.thetorah.com/article/the-mesopotamian-origin-of-the-biblical-flood-story"
+  },
+  "sefaria-gen8": {
+   "citation": "Genesis 8:20-21 (JPS), Sefaria",
+   "url": "https://www.sefaria.org/Genesis.8.20-21"
+  },
+  "brit-floodmyth": {
+   "citation": "Encyclopaedia Britannica, \"Flood myth\"",
+   "url": "https://www.britannica.com/topic/flood-myth"
+  },
+  "bas-ark": {
+   "citation": "Biblical Archaeology Society, on the Babylonian 'Ark Tablet'",
+   "url": "https://www.biblicalarchaeology.org/daily/news/the-animals-went-in-two-by-two-according-to-babylonian-ark-tablet/"
+  },
+  "streck-ark": {
+   "citation": "Michael Streck, review of Finkel, The Ark Before Noah (Leipzig)",
+   "url": "https://www.gko.uni-leipzig.de/fileadmin/Fakult%C3%A4t_GKR/Altorientalisches_Institut/Dokumente/Zeitung/Streck_17_Review_Finkel.pdf"
+  },
+  "nist-60": {
+   "citation": "Michael Lombardi (NIST), \"Why is a minute divided into 60 seconds?\", Scientific American",
+   "url": "https://tf.nist.gov/general/pdf/2209.pdf"
+  },
+  "sciam-plimpton": {
+   "citation": "Scientific American blog, \"Don't fall for Babylonian trigonometry hype\"",
+   "url": "https://www.scientificamerican.com/blog/roots-of-unity/dont-fall-for-babylonian-trigonometry-hype/"
+  },
+  "unsw-plimpton": {
+   "citation": "UNSW on Mansfield and Wildberger, Historia Mathematica (2017)",
+   "url": "https://www.unsw.edu.au/newsroom/news/2017/08/mathematical-mystery-of-ancient-clay-tablet-solved"
+  },
+  "smithsonian-plimpton": {
+   "citation": "Smithsonian Magazine on the Plimpton 322 debate (2017)",
+   "url": "https://www.smithsonianmag.com/smart-news/origins-trigonometry-may-lie-ancient-tablet-180964640/"
+  },
+  "slu-ybc7289": {
+   "citation": "St Lawrence University, Mesopotamian mathematics: YBC 7289",
+   "url": "https://myslu.stlawu.edu/~dmel/mesomath/tablets/YBC7289"
+  },
+  "bm-venus": {
+   "citation": "British Museum (via Google Arts & Culture), tablet with observations of Venus",
+   "url": "https://artsandculture.google.com/asset/cuneiform-tablet-with-observations-of-venus/uQGtUbfuWfzvLQ"
+  },
+  "jones1992": {
+   "citation": "Alexander Jones, review of Sachs and Hunger, Astronomical Diaries (1992)",
+   "url": "https://archive.nyu.edu/bitstream/2451/60930/2/Jones%201992%20rev%20Sachs%20Hunger.pdf"
+  },
+  "steele-zodiac": {
+   "citation": "John Steele, on the Babylonian zodiac (MPIWG workshop abstract, 2018)",
+   "url": "https://www.mpiwg-berlin.mpg.de/sites/default/files/2018-04/abstracts_workshop_17.pdf"
+  },
+  "sn-jupiter": {
+   "citation": "Science News on Ossendrijver, Science (2016)",
+   "url": "https://www.sciencenews.org/article/babylonians-used-geometry-track-jupiters-movements"
+  },
+  "smithsonian-eclipse": {
+   "citation": "Smithsonian Magazine on George and Taniguchi, lunar eclipse omens (2024)",
+   "url": "https://www.smithsonianmag.com/smart-news/newly-deciphered-4000-year-old-cuneiform-tablets-used-lunar-eclipses-to-predict-major-events-180984871/"
+  },
+  "met-rediscovery": {
+   "citation": "The Met, \"The Rediscovery of Assyria\"",
+   "url": "https://www.metmuseum.org/essays/the-rediscovery-of-assyria"
+  },
+  "bm-library": {
+   "citation": "British Museum blog, \"A library fit for a king\"",
+   "url": "https://www.britishmuseum.org/blog/library-fit-king"
+  },
+  "brit-rawlinson": {
+   "citation": "Encyclopaedia Britannica, \"Henry Creswicke Rawlinson\"",
+   "url": "https://www.britannica.com/biography/Henry-Creswicke-Rawlinson"
+  },
+  "unesco-bisotun": {
+   "citation": "UNESCO World Heritage, \"Bisotun\"",
+   "url": "https://whc.unesco.org/en/list/1222"
+  },
+  "nahm-roaf2025": {
+   "citation": "Wolfgang Nahm and Michael Roaf, Eclipses, Volcanoes, and Eponyms (Peeters, 2025, open access)",
+   "url": "https://www.peeters-leuven.be/download_OA.php?id=9789042957084&name=Eclipses%2C%20Volcanoes%2C%20and%20Eponyms"
+  },
+  "manning2016-doaj": {
+   "citation": "Manning et al., \"Integrated Tree-Ring-Radiocarbon High-Resolution Timeframe to Resolve Earlier Second Millennium BCE Mesopotamian Chronology\", PLOS ONE (2016)",
+   "url": "https://doaj.org/article/139fb23cdbfb429982460c37abba37b3"
+  },
+  "manning2017": {
+   "citation": "Manning, Barjamovic and Lorentzen, Journal of Ancient Egyptian Interconnections 13 (2017)",
+   "url": "https://egyptianexpedition.org/articles/the-course-of-14c-dating-does-not-run-smooth-tree-rings-radiocarbon-and-potential-impacts-of-a-calibration-curve-wiggle-on-dating-mesopotamian-chronology/"
+  },
+  "stone2008": {
+   "citation": "Elizabeth Stone, \"Patterns of looting in southern Iraq\", Antiquity (2008)",
+   "url": "https://resolve.cambridge.org/core/journals/antiquity/article/patterns-of-looting-in-southern-iraq/5B5EABA44880C5F90AB58DB994108485"
+  },
+  "unesco-nimrud": {
+   "citation": "UNESCO World Heritage Centre, on the destruction at Nimrud (2015)",
+   "url": "https://whc.unesco.org/en/news/1510"
+  }
+ },
+ "claims": {
+  "c-rain": {
+   "text": "Rain on the southern Mesopotamian plain usually does not exceed about 200 mm a year, too little for farming without irrigation; the rivers rise in spring with snowmelt from the mountains.",
+   "label": "consensus",
+   "sources": [
+    "brit-tigris"
+   ],
+   "show": false
+  },
+  "c-no-stone": {
+   "text": "The southern plain had mud, reeds, bitumen and date palms but no metal, strong timber or good stone, so its people traded with the highlands from early on.",
+   "label": "consensus",
+   "sources": [
+    "pittman2018",
+    "brit-tigris"
+   ],
+   "show": false
+  },
+  "c-marshes": {
+   "text": "Uruk, Ur and Eridu stood beside freshwater marshes, and the head of the Gulf lay much farther north in the 5th and 4th millennia BCE than today.",
+   "label": "approx",
+   "sources": [
+    "unesco-ahwar"
+   ],
+   "show": false
+  },
+  "c-tides": {
+   "text": "A 2025 study argues that the Gulf's tides once pushed fresh water up the river channels twice a day, making early irrigation easy, and that when deltas cut off the tides people had to build large canals.",
+   "label": "debated",
+   "sources": [
+    "giosan2025"
+   ],
+   "show": true,
+   "note": "A new hypothesis by Liviu Giosan and Reed Goodman; not yet widely tested."
+  },
+  "c-canals": {
+   "text": "A 2025 survey around Eridu recorded more than 200 primary and secondary canals and over 4,000 smaller ones, some up to 9 km long, left dry when the Euphrates changed course.",
+   "label": "approx",
+   "sources": [
+    "jotheri2025"
+   ],
+   "show": false,
+   "note": "The canals were probably not all in use at once."
+  },
+  "c-salt": {
+   "text": "Irrigation in a hot, dry land leaves salt in the soil; Thorkild Jacobsen and Robert Adams argued in 1958 that salt pushed farmers from wheat to barley and cut yields in the south.",
+   "label": "debated",
+   "sources": [
+    "altaweel-salt",
+    "powell1985"
+   ],
+   "show": true,
+   "note": "Texts do show barley rising from about 80 percent of grain around 2350 BCE to about 98 percent under Shulgi. Marvin Powell (1985) argued that farmers managed salt by leaching, fallow and drainage, and that the yield figures are hard to interpret."
+  },
+  "c-akkad-lost": {
+   "text": "The city of Akkad, capital of the first empire, has never been found; it probably lay on the Tigris between Baghdad and Samarra.",
+   "label": "debated",
+   "sources": [
+    "archaeology-akkad"
+   ],
+   "show": true,
+   "note": "That it is unlocated is not disputed; where it was is. Nele Ziegler favours the confluence of the Adhaim and the Tigris."
+  },
+  "c-uruk-size": {
+   "text": "In the late 4th millennium BCE Uruk covered about 250 hectares, while the next-largest town in its region covered about 15.",
+   "label": "approx",
+   "sources": [
+    "mcmahon2020"
+   ],
+   "show": false
+  },
+  "c-uruk-3000": {
+   "text": "By about 3000 BCE Uruk's wall, about 11 km long, enclosed some 5 km² and perhaps 40,000 people.",
+   "label": "approx",
+   "sources": [
+    "fassbinder2020"
+   ],
+   "show": true,
+   "note": "The population is an estimate from area multiplied by an assumed density of people per hectare; it could be well off in either direction."
+  },
+  "c-uruk-canals": {
+   "text": "Magnetic surveys of Uruk have mapped a main canal about 10 m wide running through the city, with branch canals and a harbour-like basin.",
+   "label": "consensus",
+   "sources": [
+    "fassbinder2020"
+   ],
+   "show": false
+  },
+  "c-uruk-periods": {
+   "text": "Archaeologists call c. 4000-3100 BCE the Uruk period and c. 3100-2900 BCE the Jemdet Nasr period.",
+   "label": "approx",
+   "sources": [
+    "brown-periods",
+    "englund-p183"
+   ],
+   "show": false,
+   "note": "Radiocarbon dates may push these phases about two centuries earlier."
+  },
+  "c-expansion": {
+   "text": "From about 3400 to 3100 BCE, Uruk-style settlements appeared far up the Euphrates in Syria and Turkey, such as Habuba Kabira; whether they were colonies controlled from the south or merchant communities is debated.",
+   "label": "debated",
+   "sources": [
+    "stein1996",
+    "algaze1993",
+    "dog-habuba"
+   ],
+   "show": true,
+   "note": "Guillermo Algaze reads them as an early 'world system' of colonies; Gil Stein's excavations at Hacınebi suggest trade diasporas living among local people."
+  },
+  "c-warka": {
+   "text": "The Warka Vase, about a metre tall and about 5,000 years old, shows in bands water and plants, flocks, naked men carrying produce, and the goddess Inanna receiving a ruler.",
+   "label": "consensus",
+   "sources": [
+    "smarthistory-warka",
+    "amgg-inana"
+   ],
+   "show": false,
+   "note": "It was looted from the Iraq Museum in April 2003 and returned in June."
+  },
+  "c-priestking": {
+   "text": "Some carvings of the period show a bearded man in a net skirt whom scholars call the 'priest-king'; whether he was a priest, a king or both is unknown.",
+   "label": "debated",
+   "sources": [
+    "morgan-priestking"
+   ],
+   "show": true,
+   "note": "The name is a modern label; no text of the period tells us his title."
+  },
+  "c-brb": {
+   "text": "Mass-produced bevelled-rim bowls have long been read as measures for rations; residues show some held meat stews.",
+   "label": "debated",
+   "sources": [
+    "glatz-brb"
+   ],
+   "show": true,
+   "note": "They probably had several uses."
+  },
+  "c-gilgamesh-wall": {
+   "text": "Tradition credits Gilgamesh, who may have been a real king of Uruk about 2700 BCE, with building its wall.",
+   "label": "tradition",
+   "sources": [
+    "met-uruk3"
+   ],
+   "show": true,
+   "note": "The epic says so; no inscription of Gilgamesh himself survives."
+  },
+  "c-tokens": {
+   "text": "Denise Schmandt-Besserat argued that writing grew out of clay tokens used for counting goods; critics accept that tokens were used for counting but doubt the sign-by-sign link.",
+   "label": "debated",
+   "sources": [
+    "englund-p183",
+    "zimansky1993"
+   ],
+   "show": true,
+   "note": "Paul Zimansky (1993) argued that her token types are vaguely defined and the matches with written signs subjective."
+  },
+  "c-protocuneiform": {
+   "text": "Of about 4,900 tablets of the Uruk III and Jemdet Nasr phases, about 3100-3000 BCE, about 85 percent are administrative records and about 14 percent are lists of words used to train scribes.",
+   "label": "approx",
+   "sources": [
+    "unicode-pc"
+   ],
+   "show": true,
+   "note": "The German excavations at Uruk (1928-1976) yielded nearly 5,000 proto-cuneiform tablets and fragments in all, some from below the Uruk III levels."
+  },
+  "c-signs": {
+   "text": "Proto-cuneiform used well over 1,000 different signs, but the 200 commonest made up 84 percent of all uses.",
+   "label": "approx",
+   "sources": [
+    "unicode-pc"
+   ],
+   "show": false
+  },
+  "c-schools": {
+   "text": "Later scribes trained in teachers' houses, such as 'House F' at Nippur with about 1,400 school tablets, copying Sumerian even after it had died as a spoken language.",
+   "label": "approx",
+   "sources": [
+    "george-edubba"
+   ],
+   "show": false
+  },
+  "c-decipher": {
+   "text": "Cuneiform was deciphered in the 19th century, from Old Persian (Grotefend, 1802) to Babylonian (Rawlinson, Hincks, Oppert), using the trilingual inscription at Bisotun in Iran.",
+   "label": "consensus",
+   "sources": [
+    "cathcart2011"
+   ],
+   "show": false
+  },
+  "c-1857": {
+   "text": "In 1857 four scholars translated the same newly found Assyrian text independently, in sealed copies, to show the decipherment was real.",
+   "label": "consensus",
+   "sources": [
+    "ras-1857",
+    "jras-1861"
+   ],
+   "show": false
+  },
+  "c-tablets-count": {
+   "text": "About half a million cuneiform tablets are known, most still unpublished.",
+   "label": "approx",
+   "sources": [
+    "bas-tablets",
+    "cornell-protosnap"
+   ],
+   "show": true,
+   "note": "The British Museum holds about 130,000 and Yale about 40,000."
+  },
+  "c-ai": {
+   "text": "Since 2023, machine-learning tools have been used to help read and translate cuneiform.",
+   "label": "consensus",
+   "sources": [
+    "gutherz2023",
+    "cornell-protosnap"
+   ],
+   "show": false
+  },
+  "c-gods": {
+   "text": "Each Sumerian city had its own god: An and Inanna at Uruk, Enlil at Nippur, Enki at Eridu, Nanna the moon god at Ur.",
+   "label": "consensus",
+   "sources": [
+    "amgg-an",
+    "amgg-enlil",
+    "etcsl-enki-order",
+    "amgg-inana",
+    "amgg-nanna"
+   ],
+   "show": false
+  },
+  "c-enlil": {
+   "text": "Enlil, whose temple the Ekur stood at Nippur, decreed fates and granted kingship; Nippur was the religious centre of Sumer.",
+   "label": "consensus",
+   "sources": [
+    "amgg-enlil"
+   ],
+   "show": false
+  },
+  "c-enheduanna-priestess": {
+   "text": "From the Akkadian period, a king's daughter usually served as high priestess of the moon god at Ur; the first was Enheduanna, daughter of Sargon.",
+   "label": "consensus",
+   "sources": [
+    "amgg-nanna",
+    "morgan-disk"
+   ],
+   "show": false
+  },
+  "c-ziggurat": {
+   "text": "Ur-Nammu built the ziggurat of Ur about 2100 BCE on a base about 64 by 46 metres; it was perhaps 20-30 metres high.",
+   "label": "approx",
+   "sources": [
+    "met-ziggurat",
+    "smarthistory-ziggurat"
+   ],
+   "show": true,
+   "note": "The base is measured; the original height is an estimate. Nabonidus rebuilt the upper stages in the 6th century BCE."
+  },
+  "c-temple-city": {
+   "text": "Scholars once thought temples owned nearly all the land, making each city a 'temple state'; texts now show temple estates alongside royal, elite and family land.",
+   "label": "consensus",
+   "sources": [
+    "akrep2017"
+   ],
+   "show": false,
+   "note": "The temple-state model of Anton Deimel and Adam Falkenstein was rejected by Igor Diakonoff and Ignace Gelb, among others."
+  },
+  "c-humans-made": {
+   "text": "In Sumerian myth, humans were created to take over the gods' toil: in 'Enki and Ninmah', Enki gives the new creature the work of carrying baskets.",
+   "label": "tradition",
+   "sources": [
+    "etcsl-enki-ninmah"
+   ],
+   "show": false,
+   "note": "This is what the myth says; how widely it was believed is a separate question."
+  },
+  "c-underworld": {
+   "text": "The Sumerian underworld was bleak: the dead drank muddy water, and those without descendants to make offerings fared worst.",
+   "label": "tradition",
+   "sources": [
+    "etcsl-netherworld"
+   ],
+   "show": false
+  },
+  "c-early-dynastic": {
+   "text": "Historians call c. 2900-2350 BCE the Early Dynastic period, when Sumer was divided among rival city-states.",
+   "label": "approx",
+   "sources": [
+    "met-uruk3",
+    "fr-kish"
+   ],
+   "show": false,
+   "note": "Dates before about 1500 BCE depend on which chronology is used; this book uses the conventional Middle Chronology."
+  },
+  "c-vultures": {
+   "text": "The Stele of the Vultures, set up by Eannatum of Lagash about 2450 BCE, celebrates his victory over Umma in a long war over border farmland.",
+   "label": "approx",
+   "sources": [
+    "awm-vultures"
+   ],
+   "show": false
+  },
+  "c-mesilim": {
+   "text": "Earlier, Mesilim, king of Kish, had arbitrated the border between Lagash and Umma; the title 'king of Kish' came to mean overlord of the whole land.",
+   "label": "approx",
+   "sources": [
+    "fr-kish"
+   ],
+   "show": false
+  },
+  "c-uruinimgina": {
+   "text": "Uruinimgina of Lagash proclaimed reforms against heavy taxes and abuses by officials; scholars debate whether these were real reforms or propaganda.",
+   "label": "debated",
+   "sources": [
+    "fub-uruinimgina"
+   ],
+   "show": true,
+   "note": "A recent study of the archives shows at least one measure was actually carried out."
+  },
+  "c-skl": {
+   "text": "The Sumerian King List says kingship 'descended from heaven' and lists rulers before a great flood who reigned for tens of thousands of years.",
+   "label": "tradition",
+   "sources": [
+    "etcsl-skl"
+   ],
+   "show": true,
+   "note": "It is a genuine ancient composition but schematic, not a chronology. The section before the flood appears only in later (Old Babylonian) versions; the one earlier, Ur III manuscript lacks it."
+  },
+  "c-skl-purpose": {
+   "text": "The King List presents one line of kingship passing from city to city, though many of its dynasties actually ruled at the same time; it was probably composed to support the claims of later kings of Ur or Isin.",
+   "label": "debated",
+   "sources": [
+    "espak2009",
+    "etcsl-skl"
+   ],
+   "show": true,
+   "note": "Scholars debate whether it dates from the Ur III dynasty or from Isin."
+  },
+  "c-woolley": {
+   "text": "Leonard Woolley excavated Ur from 1922 to 1934 for the British Museum and the Penn Museum.",
+   "label": "consensus",
+   "sources": [
+    "penn-ur-archive"
+   ],
+   "show": false
+  },
+  "c-cemetery": {
+   "text": "The Royal Cemetery of Ur held about 1,800-2,000 graves, of which Woolley called 16 'royal tombs'; the richest date to about 2600-2500 BCE.",
+   "label": "approx",
+   "sources": [
+    "met-royal-graves",
+    "penn-puabi",
+    "pollock1985"
+   ],
+   "show": false
+  },
+  "c-puabi": {
+   "text": "Puabi's intact tomb held her body with a headdress of gold leaves, lapis lazuli and carnelian; her seal calls her queen and names no husband.",
+   "label": "consensus",
+   "sources": [
+    "penn-puabi"
+   ],
+   "show": false,
+   "note": "Whether she ruled in her own right is debated."
+  },
+  "c-deathpit": {
+   "text": "The 'Great Death Pit' held 74 attendants, buried with the dead ruler.",
+   "label": "approx",
+   "sources": [
+    "penn-almanac2009"
+   ],
+   "show": false
+  },
+  "c-ct": {
+   "text": "CT scans in 2009 of two skulls from the royal tombs showed fatal blows to the head; further study found the bodies had been heated and treated with mercury to preserve them.",
+   "label": "debated",
+   "sources": [
+    "penn-almanac2009",
+    "baadsgaard2011"
+   ],
+   "show": true,
+   "note": "The findings are clear for the two individuals scanned; whether all the attendants died this way is unknown."
+  },
+  "c-willing": {
+   "text": "Woolley thought the attendants took poison and died willingly; others argue the deaths were public displays of violence staged by insecure rulers.",
+   "label": "debated",
+   "sources": [
+    "met-royal-graves",
+    "dickson2006",
+    "casw-ur"
+   ],
+   "show": true,
+   "note": "Bruce Dickson (2006) calls them 'theatres of cruelty'. Strontium isotopes show at least two attendants were local people, not foreign captives."
+  },
+  "c-standard": {
+   "text": "The Standard of Ur, about 2550-2400 BCE, shows war on one side and a banquet on the other; what it was for is unknown.",
+   "label": "consensus",
+   "sources": [
+    "bm-standard"
+   ],
+   "show": false
+  },
+  "c-lyre": {
+   "text": "A lyre from the royal tombs bears a bull's head of gold and lapis lazuli, about 2450 BCE.",
+   "label": "approx",
+   "sources": [
+    "penn-lyre"
+   ],
+   "show": false
+  },
+  "c-sargon": {
+   "text": "Sargon of Akkad reigned about 2334-2279 BCE and is known mostly from later legends; his capital has never been found.",
+   "label": "approx",
+   "sources": [
+    "brit-sargon"
+   ],
+   "show": true,
+   "note": "Middle Chronology dates; exact years are uncertain."
+  },
+  "c-sargon-claim": {
+   "text": "In his inscriptions Sargon says he defeated Lugalzagesi of Uruk and that Enlil gave him the land 'from the Upper Sea to the Lower Sea', the Mediterranean to the Gulf.",
+   "label": "debated",
+   "sources": [
+    "cdli-sargon"
+   ],
+   "show": true,
+   "note": "That he made the claim is certain; how far he really controlled is debated. The texts survive in later copies."
+  },
+  "c-akkadian": {
+   "text": "Akkadian, a Semitic language, became the language of government, written in the cuneiform script developed for Sumerian.",
+   "label": "consensus",
+   "sources": [
+    "brit-sargon"
+   ],
+   "show": false
+  },
+  "c-sargon-legend": {
+   "text": "A later legend says Sargon's mother set him on the river in a reed basket sealed with bitumen, and that he was drawn out and raised by a water-drawer.",
+   "label": "tradition",
+   "sources": [
+    "whe-sargon-legend",
+    "alhatorah-sargon",
+    "brit-sargon"
+   ],
+   "show": true,
+   "note": "The surviving tablet is a 7th-century BCE copy from Nineveh, written some 1,600 years after Sargon. The parallels with Moses in Exodus 2 are close in motif; they do not by themselves show which story influenced which."
+  },
+  "c-enheduanna": {
+   "text": "Sargon's daughter Enheduanna served as high priestess of the moon god at Ur and is credited with hymns to Inanna and 42 temple hymns, making her the first author known by name.",
+   "label": "debated",
+   "sources": [
+    "natgeo-enheduanna",
+    "penn-disk",
+    "amgg-nanna"
+   ],
+   "show": true,
+   "note": "Her office is documented on a disk found at Ur. Whether she wrote the poems is debated: the earliest copies are centuries later, and some scholars think later scribes shaped or attributed them."
+  },
+  "c-naramsin": {
+   "text": "Sargon's grandson Naram-Sin called himself 'god of Akkad' and 'king of the four quarters' of the world.",
+   "label": "consensus",
+   "sources": [
+    "brit-naramsin"
+   ],
+   "show": false
+  },
+  "c-naramsin-stele": {
+   "text": "The Victory Stele of Naram-Sin shows him in a horned helmet, a sign of divinity, triumphing over mountain enemies; an Elamite king carried it off to Susa in the 12th century BCE.",
+   "label": "consensus",
+   "sources": [
+    "fr-naramsin",
+    "smarthistory-naramsin"
+   ],
+   "show": false
+  },
+  "c-girsu2025": {
+   "text": "In 2024 excavators at Girsu found more than 200 Akkadian-period tablets and sealings that show how the empire governed a conquered city.",
+   "label": "approx",
+   "sources": [
+    "artnews-girsu2025"
+   ],
+   "show": false,
+   "note": "Preliminary results."
+  },
+  "c-curse": {
+   "text": "A later Sumerian poem, 'The Cursing of Agade', blames the empire's fall on Naram-Sin's sacrilege at Nippur and on the Gutians sent by Enlil.",
+   "label": "tradition",
+   "sources": [
+    "etcsl-agade",
+    "brit-naramsin"
+   ],
+   "show": true,
+   "note": "A theological explanation, not a history."
+  },
+  "c-gutians": {
+   "text": "The Gutians, from the Zagros mountains, helped bring Akkad down (its dynasty ended about 2154 BCE) and held parts of the south until about 2130.",
+   "label": "approx",
+   "sources": [
+    "brit-guti",
+    "brit-naramsin"
+   ],
+   "show": false
+  },
+  "c-drought": {
+   "text": "Some scientists argue that an abrupt drought about 2200 BCE helped bring down the Akkadian empire; others find that the evidence points to a political crisis.",
+   "label": "debated",
+   "sources": [
+    "weiss1993",
+    "carolin2019",
+    "soltysiak"
+   ],
+   "show": true,
+   "note": "Harvey Weiss and colleagues (1993) linked the abandonment of northern sites to sudden aridity, and dust in an Iranian cave supports a dry period. Arkadiusz Sołtysiak's bone isotopes show no matching change in diet."
+  },
+  "c-ur3": {
+   "text": "The Third Dynasty of Ur ruled southern Mesopotamia from about 2112 to 2004 BCE under five kings.",
+   "label": "approx",
+   "sources": [
+    "brit-urnammu"
+   ],
+   "show": false
+  },
+  "c-urnammu-laws": {
+   "text": "The Laws of Ur-Nammu are the oldest surviving law collection; they punish bodily injury with fines in silver.",
+   "label": "consensus",
+   "sources": [
+    "brit-urnammu",
+    "bas-urnammu"
+   ],
+   "show": false,
+   "note": "Whether Ur-Nammu or his son Shulgi issued them is debated."
+  },
+  "c-shulgi": {
+   "text": "Shulgi (reigned about 2094-2047 BCE) was worshipped as a god in his lifetime and is credited with standard weights and measures, a state calendar and roads with way-stations.",
+   "label": "approx",
+   "sources": [
+    "brit-shulgi",
+    "whe-shulgi"
+   ],
+   "show": true,
+   "note": "His reforms are reported mainly in later and secondary summaries."
+  },
+  "c-shulgi-run": {
+   "text": "In a hymn Shulgi boasts of running from Nippur to Ur and back in a single day to celebrate festivals in both cities.",
+   "label": "tradition",
+   "sources": [
+    "etcsl-shulgi-a"
+   ],
+   "show": true,
+   "note": "Royal self-praise, not a record."
+  },
+  "c-drehem": {
+   "text": "Shulgi founded Puzrish-Dagan (Drehem) near Nippur as a central livestock office; more than 13,500 of its tablets survive, and a 2013 study argues that most animals were recorded there rather than physically brought there.",
+   "label": "approx",
+   "sources": [
+    "sallaberger2004",
+    "tsouparopoulou2013"
+   ],
+   "show": true,
+   "note": "The bookkeeping reading is Christina Tsouparopoulou's reconstruction."
+  },
+  "c-ur3-archives": {
+   "text": "Over 100,000 Ur III administrative tablets are now catalogued, some 70,000 fully published; the state and temples may have employed over 300,000 people, paid mainly in barley.",
+   "label": "approx",
+   "sources": [
+    "bdtns",
+    "neumann1994"
+   ],
+   "show": true,
+   "note": "Tablet counts from the BDTNS database; the employment figure is an older estimate."
+  },
+  "c-unil": {
+   "text": "A 2025 study argues that some Ur III workers were a serf-like class: free in law but bound to year-round labour with few days off.",
+   "label": "debated",
+   "sources": [
+    "pottorf2025"
+   ],
+   "show": true,
+   "note": "A new proposal based mainly on records from Umma."
+  },
+  "c-ur3-fall": {
+   "text": "About 2004 BCE, after famine and revolt, Elam sacked Ur and took its last king, Ibbi-Sin, captive.",
+   "label": "approx",
+   "sources": [
+    "brit-ibbisin"
+   ],
+   "show": false
+  },
+  "c-lament": {
+   "text": "The 'Lament for Ur' mourns the city's fall as the gods abandoning it.",
+   "label": "tradition",
+   "sources": [
+    "etcsl-lament-ur"
+   ],
+   "show": false
+  },
+  "c-chronology": {
+   "text": "Dates for this period follow the Middle Chronology; tree-ring and radiocarbon evidence (2016) supports it, or a version about eight years later.",
+   "label": "debated",
+   "sources": [
+    "manning2016"
+   ],
+   "show": true,
+   "note": "The main alternative schemes differ by up to about 120 years, and an 'Ultra-Low' scheme by more; see page 3.12."
+  },
+  "c-hammurabi": {
+   "text": "Hammurabi of Babylon (reigned about 1792-1750 BCE) conquered Larsa, Mari and Eshnunna and united southern and central Mesopotamia.",
+   "label": "approx",
+   "sources": [
+    "brit-hammurabi",
+    "brit-babylonia"
+   ],
+   "show": false
+  },
+  "c-hammurabi-letters": {
+   "text": "Hammurabi's letters show him handling administration in person; his state did not long outlast him.",
+   "label": "approx",
+   "sources": [
+    "brit-hammurabi"
+   ],
+   "show": false
+  },
+  "c-stele": {
+   "text": "Hammurabi's laws survive on a stone stele 2.25 m tall, showing the sun god Shamash before the king; it was found at Susa in 1901-02, where an Elamite king had taken it as plunder.",
+   "label": "consensus",
+   "sources": [
+    "louvre-hammurabi",
+    "brit-code",
+    "muenster-codex"
+   ],
+   "show": false
+  },
+  "c-282": {
+   "text": "The stele holds about 282 laws, framed by a prologue saying the gods called Hammurabi so that 'the strong should not harm the weak', and an epilogue cursing any king who alters it.",
+   "label": "consensus",
+   "sources": [
+    "muenster-codex",
+    "brit-code",
+    "anastopulos2006"
+   ],
+   "show": false
+  },
+  "c-classes": {
+   "text": "The laws distinguish three kinds of person: the awilum (a free man), the mushkenum (a commoner, perhaps dependent on the palace) and the wardum (a slave).",
+   "label": "consensus",
+   "sources": [
+    "wohl1968",
+    "avalon-hammurabi"
+   ],
+   "show": false,
+   "note": "What exactly 'mushkenum' meant is debated."
+  },
+  "c-talion": {
+   "text": "'An eye for an eye' applied only between equals: blinding a commoner cost a fine in silver, and blinding a slave half the slave's value.",
+   "label": "consensus",
+   "sources": [
+    "avalon-hammurabi"
+   ],
+   "show": false
+  },
+  "c-law-or-not": {
+   "text": "Whether Hammurabi's laws were applied in court is debated: surviving court records almost never cite them, and many scholars see the stele as a royal monument and a work of scribal learning.",
+   "label": "debated",
+   "sources": [
+    "anastopulos2006",
+    "barmash2020",
+    "roth1995",
+    "muenster-codex"
+   ],
+   "show": true,
+   "note": "Jean Bottéro noted that no verdict cites the laws. Martha Roth sees both a royal monument and a teaching text copied for over 1,000 years; Pamela Barmash sees scribal scholarship derived from cases."
+  },
+  "c-babylon-fall": {
+   "text": "In 1595 BCE (Middle Chronology) the Hittite king Mursili I raided Babylon and ended Hammurabi's dynasty; Kassite kings then ruled for about 400 years.",
+   "label": "approx",
+   "sources": [
+    "brit-babylonia",
+    "brit-mursili"
+   ],
+   "show": false
+  },
+  "c-diet": {
+   "text": "Barley was the staple, eaten as bread and gruel and drunk as beer; people also ate dates, onions, garlic, leeks, fish and mutton.",
+   "label": "consensus",
+   "sources": [
+    "hamburg-diet"
+   ],
+   "show": false
+  },
+  "c-rations": {
+   "text": "Ration lists of the Ur III period typically give a working man about 60 sila (litres) of barley a month and a woman 30-40.",
+   "label": "approx",
+   "sources": [
+    "ellison1981"
+   ],
+   "show": false,
+   "note": "The size of the sila varied; rations varied by job, period and place."
+  },
+  "c-silver": {
+   "text": "Silver, weighed rather than coined, served as money for some two thousand years; a shekel weighed about 8 grams and 60 shekels made a mina.",
+   "label": "approx",
+   "sources": [
+    "gale-money",
+    "iranica-weights"
+   ],
+   "show": true,
+   "note": "Estimates of the shekel's weight run from about 8 to 8.4 grams. Coins appeared only around 650 BCE, in Lydia."
+  },
+  "c-eshnunna-prices": {
+   "text": "The Laws of Eshnunna price one shekel of silver at 300 sila of barley, 12 sila of oil or 40 sila of bitumen.",
+   "label": "consensus",
+   "sources": [
+    "gale-money"
+   ],
+   "show": false
+  },
+  "c-interest": {
+   "text": "Standard interest was 20 percent on loans of silver and 33⅓ percent on loans of barley.",
+   "label": "consensus",
+   "sources": [
+    "gale-money"
+   ],
+   "show": false
+  },
+  "c-misharum": {
+   "text": "Kings sometimes issued 'justice' edicts cancelling debts and freeing those sold into debt slavery, such as that of Ammi-saduqa of Babylon (about 1646-1626 BCE).",
+   "label": "consensus",
+   "sources": [
+    "gale-ammisaduqa"
+   ],
+   "show": false,
+   "note": "Why kings issued them, out of justice, for their image, or to keep the economy working, is debated."
+  },
+  "c-debt-slavery": {
+   "text": "Under Hammurabi's laws, a man who sold his wife or children to pay a debt had them back after three years.",
+   "label": "consensus",
+   "sources": [
+    "avalon-hammurabi"
+   ],
+   "show": false
+  },
+  "c-kanesh": {
+   "text": "Merchant houses at Kanesh in central Anatolia left more than 23,000 tablets recording a trade, about 2000-1750 BCE, in which Assyrians brought tin and textiles by donkey caravan and took home silver and gold.",
+   "label": "approx",
+   "sources": [
+    "larsen2015",
+    "brit-kultepe",
+    "met-caravan"
+   ],
+   "show": false
+  },
+  "c-assur-women": {
+   "text": "Letters show women of Ashur weaving the textiles for this trade, investing, lending money and running family business at home.",
+   "label": "consensus",
+   "sources": [
+    "cnrs-michel"
+   ],
+   "show": false
+  },
+  "c-naditu": {
+   "text": "At Sippar, nadītu women dedicated to the sun god lived in a cloister, did not have children, and managed land and loans in their own names.",
+   "label": "approx",
+   "sources": [
+    "naditu",
+    "avalon-hammurabi"
+   ],
+   "show": true,
+   "note": "The institution belongs to the Old Babylonian period, about 1880-1550 BCE."
+  },
+  "c-unfree": {
+   "text": "Recent scholarship argues that 'slave' and 'free' is too simple a division for Mesopotamia: war captives, dependent workers and commoners had statuses in between, which could change.",
+   "label": "debated",
+   "sources": [
+    "podany2025"
+   ],
+   "show": true,
+   "note": "A 2025 journal issue made this case; how to describe these statuses is an active debate."
+  },
+  "c-gilgamesh-real": {
+   "text": "Gilgamesh may have been a real king of Uruk around 2700 BCE, but no record from his lifetime survives.",
+   "label": "tradition",
+   "sources": [
+    "met-gilgamesh",
+    "brit-gilgamesh"
+   ],
+   "show": true,
+   "note": "The King List and later poems are the only evidence."
+  },
+  "c-epic-layers": {
+   "text": "The epic grew in stages: separate Sumerian poems, probably composed for the court of Ur about 2000 BCE; an Akkadian epic of the 18th-17th centuries BCE; and a standard version credited to the scholar Sîn-lēqi-unninni in the late 2nd millennium BCE.",
+   "label": "approx",
+   "sources": [
+    "george-new",
+    "met-gilgamesh"
+   ],
+   "show": false
+  },
+  "c-nineveh-copy": {
+   "text": "The fullest text is the twelve-tablet version from Ashurbanipal's library at Nineveh, 7th century BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-epic",
+    "bm-library"
+   ],
+   "show": false
+  },
+  "c-tablet11": {
+   "text": "In Tablet XI, the god Ea warns Utnapishtim of a flood; he builds a boat, loads his family and animals, lands on a mountain, sends out birds, and offers a sacrifice.",
+   "label": "consensus",
+   "sources": [
+    "bm-flood"
+   ],
+   "show": false
+  },
+  "c-smith1872": {
+   "text": "In 1872 George Smith of the British Museum announced that he had found a Babylonian flood story among the Nineveh tablets; it caused a public sensation.",
+   "label": "consensus",
+   "sources": [
+    "bas-smith",
+    "lindahall-smith"
+   ],
+   "show": false
+  },
+  "c-atrahasis": {
+   "text": "The older Atrahasis epic, known from a copy of about the 17th century BCE, tells of creation and a flood sent because humans were too noisy; afterwards the gods limit human numbers.",
+   "label": "approx",
+   "sources": [
+    "tsumura1996",
+    "holtz-flood"
+   ],
+   "show": true,
+   "note": "What the 'noise' means is debated: overpopulation, rebellion, or simply disturbance of the gods' rest."
+  },
+  "c-parallels": {
+   "text": "The Mesopotamian and biblical flood stories share many details: a divine warning, a boat sealed with pitch, birds sent out, and a sacrifice whose smell reaches the divine.",
+   "label": "consensus",
+   "sources": [
+    "day-flood",
+    "holtz-flood",
+    "sefaria-gen8"
+   ],
+   "show": true,
+   "note": "Even the word for pitch is shared: Hebrew kofer, Akkadian kupru."
+  },
+  "c-relationship": {
+   "text": "Most biblical scholars think the Genesis flood story depends in some way on Mesopotamian tradition; they differ over how, when and through which text, and some argue for a shared older heritage instead.",
+   "label": "debated",
+   "sources": [
+    "day-flood",
+    "holtz-flood",
+    "tsumura1996",
+    "brit-floodmyth"
+   ],
+   "show": true,
+   "note": "John Day sees dependence on Atrahasis; Shalom Holtz reads Genesis as deliberately reshaping it; David Tsumura argues for common models rather than borrowing. All agree the Mesopotamian manuscripts are older than any written Genesis; the parallels say nothing either way about whether a flood happened."
+  },
+  "c-ark-tablet": {
+   "text": "A tablet published by Irving Finkel in 2014 describes Atrahasis's boat as a giant round coracle of rope and bitumen.",
+   "label": "debated",
+   "sources": [
+    "bas-ark",
+    "streck-ark"
+   ],
+   "show": true,
+   "note": "Michael Streck disputes its date and the readings of its measurements, so the boat's size is uncertain."
+  },
+  "c-base60": {
+   "text": "The Babylonians counted in base 60, inherited from the Sumerians; why 60 was chosen is unknown, though it divides evenly in many ways.",
+   "label": "consensus",
+   "sources": [
+    "nist-60"
+   ],
+   "show": false
+  },
+  "c-minutes": {
+   "text": "Our 60 minutes and 60 seconds descend from Babylonian base-60 fractions, through Greek astronomers such as Ptolemy, who divided each degree into 60 and 60 again; they reached clocks only in the 16th century CE.",
+   "label": "consensus",
+   "sources": [
+    "nist-60"
+   ],
+   "show": false,
+   "note": "That base 60 is the source of minutes and seconds is established; why the circle has 360 degrees is debated."
+  },
+  "c-plimpton": {
+   "text": "Plimpton 322, an Old Babylonian tablet of about 1800 BCE, lists 15 rows of numbers describing right triangles.",
+   "label": "consensus",
+   "sources": [
+    "sciam-plimpton",
+    "unsw-plimpton"
+   ],
+   "show": false
+  },
+  "c-plimpton-debate": {
+   "text": "In 2017 two mathematicians called Plimpton 322 the world's oldest trigonometric table; historians of mathematics see it as a teacher's aid.",
+   "label": "debated",
+   "sources": [
+    "unsw-plimpton",
+    "smithsonian-plimpton",
+    "sciam-plimpton"
+   ],
+   "show": true,
+   "note": "Daniel Mansfield and Norman Wildberger made the claim; Eleanor Robson, Jöran Friberg and others disagree."
+  },
+  "c-ybc7289": {
+   "text": "A school tablet, YBC 7289, gives the square root of 2 as 1;24,51,10 in base 60, that is 1.41421, an error of less than one part in a million.",
+   "label": "consensus",
+   "sources": [
+    "slu-ybc7289"
+   ],
+   "show": false
+  },
+  "c-venus": {
+   "text": "Observations of Venus made under King Ammi-saduqa survive in a 7th-century copy and are a key, though ambiguous, tool for dating the period.",
+   "label": "consensus",
+   "sources": [
+    "bm-venus"
+   ],
+   "show": false
+  },
+  "c-diaries": {
+   "text": "From 652 BCE to 61 BCE, Babylonian astronomers kept monthly diaries of the moon and planets, along with weather, prices and news.",
+   "label": "consensus",
+   "sources": [
+    "jones1992"
+   ],
+   "show": false
+  },
+  "c-zodiac": {
+   "text": "The zodiac of twelve equal signs was developed in Babylonia in the late 5th century BCE.",
+   "label": "approx",
+   "sources": [
+    "steele-zodiac"
+   ],
+   "show": false
+  },
+  "c-jupiter": {
+   "text": "Tablets of about 350-50 BCE compute Jupiter's motion using the area under a graph, a technique Europeans rediscovered in the 14th century CE.",
+   "label": "consensus",
+   "sources": [
+    "sn-jupiter"
+   ],
+   "show": false
+  },
+  "c-omens": {
+   "text": "Tablets published in 2024 are the oldest known collections of lunar-eclipse omens, predicting events such as a king's death.",
+   "label": "consensus",
+   "sources": [
+    "smithsonian-eclipse"
+   ],
+   "show": false
+  },
+  "c-rediscovery": {
+   "text": "Mesopotamian cities lay buried for some two thousand years; in the 1840s Paul-Émile Botta and Austen Henry Layard excavated Assyrian palaces at Khorsabad, Nimrud and Nineveh.",
+   "label": "consensus",
+   "sources": [
+    "met-rediscovery"
+   ],
+   "show": false
+  },
+  "c-library": {
+   "text": "Ashurbanipal's library at Nineveh has yielded over 30,000 tablets and fragments, found by Layard and Rassam in 1850-52.",
+   "label": "approx",
+   "sources": [
+    "bm-library"
+   ],
+   "show": false
+  },
+  "c-bisotun": {
+   "text": "The key to reading cuneiform was the trilingual inscription of Darius I at Bisotun (Behistun) in Iran, copied by Henry Rawlinson.",
+   "label": "consensus",
+   "sources": [
+    "brit-rawlinson",
+    "unesco-bisotun"
+   ],
+   "show": false
+  },
+  "c-chronologies": {
+   "text": "Dates for Mesopotamia before about 1500 BCE depend on which chronology is used; the main schemes put Hammurabi's accession in 1848, 1792, 1784 or 1728 BCE.",
+   "label": "debated",
+   "sources": [
+    "nahm-roaf2025"
+   ],
+   "show": false
+  },
+  "c-manning": {
+   "text": "Tree rings and radiocarbon from timbers of palaces in Anatolia (2016) supported the Middle Chronology; later work leaves the choice between it and a date about eight years later.",
+   "label": "debated",
+   "sources": [
+    "manning2016-doaj",
+    "manning2017",
+    "nahm-roaf2025"
+   ],
+   "show": true,
+   "note": "A 2025 study by Wolfgang Nahm and Michael Roaf concludes that the Low Middle date (1784) is the most probable; others still favour the Middle."
+  },
+  "c-looting": {
+   "text": "After 2003, looters dug over a larger area of southern Iraq's ancient sites than archaeologists ever had.",
+   "label": "consensus",
+   "sources": [
+    "stone2008"
+   ],
+   "show": false
+  },
+  "c-nimrud": {
+   "text": "In 2015 extremists destroyed much of the Assyrian palace at Nimrud; UNESCO called the deliberate destruction of heritage a war crime.",
+   "label": "consensus",
+   "sources": [
+    "unesco-nimrud"
+   ],
+   "show": false
+  }
+ },
+ "pages": [
+  {
+   "title": "Mesopotamia",
+   "sub": "the first cities, between two rivers",
+   "lede": "Mesopotamia means 'between the rivers'. On the flat, dry plain of the Tigris and Euphrates, in what is now Iraq, people built the first cities, wrote the first texts and founded the first empire.",
+   "body": [
+    "It was an unlikely place for it. In the south it hardly rains, usually less than 200 mm a year, so nothing grows without water brought from the rivers. [[c-rain]] There was no stone worth building with, no timber and no metal: only mud, reeds, bitumen and date palms. [[c-no-stone]] Everything else had to be traded for.",
+    "But the soil was rich and the rivers rose every spring. In the 4th millennium BCE the Gulf reached far further inland than today, and the cities stood beside freshwater marshes. [[c-marshes]] A 2025 study argues that tides once pushed river water into the fields twice a day, and that when this ended people turned to great canals. [[c-tides]] Around Eridu, a 2025 survey traced more than 200 primary and secondary canals and thousands of smaller ones. [[c-canals]]",
+    {
+     "table": {
+      "head": [
+       "",
+       "Southern Mesopotamia (Sumer)"
+      ],
+      "rows": [
+       [
+        "rain",
+        "usually under 200 mm a year"
+       ],
+       [
+        "water",
+        "from the Tigris and Euphrates, by canal"
+       ],
+       [
+        "staple crops",
+        "barley, dates"
+       ],
+       [
+        "lacked",
+        "stone, timber, metal"
+       ],
+       [
+        "building material",
+        "mud brick, reeds, bitumen"
+       ]
+      ]
+     }
+    },
+    "Irrigation had a cost. Water evaporating from the fields leaves salt behind, and over centuries Sumerian farmers grew less wheat and more salt-tolerant barley; how much salt hurt their harvests is debated. [[c-salt]]",
+    "The map on the right shows the cities of this chapter. Some are famous, such as Uruk, Ur and Babylon; one, Akkad, the capital of the first empire, has never been found. [[c-akkad-lost]]",
+    {
+     "compare": "This chapter is Chapter 1.4 seen up close: from the first city (3.1) and the invention of writing (3.2) to Hammurabi's Babylon (3.8), about 3500 to 1600 BCE."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 43.6,
+     "lat": 33.3,
+     "zoom": 34
+    },
+    "caption": "The cities of Mesopotamia",
+    "hint": "Click a city",
+    "legend": [
+     [
+      "pt",
+      "city"
+     ],
+     [
+      "zone",
+      "Akkad: one proposed area for the capital"
+     ]
+    ],
+    "cartouche": [
+     "Mesopotamia",
+     "the land between the rivers"
+    ],
+    "seaLabels": [
+     {
+      "t": "PERSIAN GULF",
+      "ll": [
+       49.5,
+       28.6
+      ]
+     }
+    ],
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         46.9,
+         32.35
+        ],
+        "label": "SUMER",
+        "size": 13
+       },
+       {
+        "ll": [
+         44.4,
+         33.0
+        ],
+        "label": "AKKAD",
+        "size": 13
+       },
+       {
+        "ll": [
+         43.6,
+         35.9
+        ],
+        "label": "ASSYRIA",
+        "size": 13
+       }
+      ]
+     },
+     {
+      "type": "zone",
+      "items": [
+       {
+        "ll": [
+         44.3,
+         34.0
+        ],
+        "r": 0.55
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         45.9958,
+         30.8169
+        ],
+        "label": "Eridu",
+        "anchor": "end",
+        "dy": 12
+       },
+       {
+        "ll": [
+         46.1031,
+         30.9631
+        ],
+        "label": "Ur",
+        "dy": 4
+       },
+       {
+        "ll": [
+         45.6372,
+         31.3242
+        ],
+        "label": "Uruk",
+        "anchor": "end",
+        "big": true
+       },
+       {
+        "ll": [
+         46.4084,
+         31.4205
+        ],
+        "label": "Lagash",
+        "dy": 12
+       },
+       {
+        "ll": [
+         46.178,
+         31.562
+        ],
+        "label": "Girsu",
+        "dy": -6
+       },
+       {
+        "ll": [
+         45.95,
+         31.7167
+        ],
+        "label": "Umma",
+        "dy": -8
+       },
+       {
+        "ll": [
+         45.5363,
+         31.7785
+        ],
+        "label": "Shuruppak",
+        "anchor": "end",
+        "dy": 4
+       },
+       {
+        "ll": [
+         45.221,
+         32.1365
+        ],
+        "label": "Nippur",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         44.7,
+         32.5333
+        ],
+        "label": "Kish",
+        "dy": -6
+       },
+       {
+        "ll": [
+         44.4208,
+         32.542
+        ],
+        "label": "Babylon",
+        "anchor": "end",
+        "dy": 4
+       },
+       {
+        "ll": [
+         40.8891,
+         34.5498
+        ],
+        "label": "Mari",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         43.2611,
+         35.4567
+        ],
+        "label": "Ashur",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         43.1567,
+         36.3675
+        ],
+        "label": "Nineveh",
+        "anchor": "end"
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why did the cities of southern Mesopotamia depend on trade from early on?",
+     "choices": [
+      "Heavy rainfall on the plain made grain hard to grow",
+      "The plain lacked metal, good timber and hard stone",
+      "Its rivers flooded too rarely to water the fields",
+      "Its soil was too poor to feed its own people"
+     ],
+     "answer": 1,
+     "why": "The alluvial plain offered mud, reeds, bitumen and date palms, but metal, timber and stone had to come from the highlands.",
+     "wrong": {
+      "0": "The south usually gets less than about 200 mm of rain a year, far too little for farming without irrigation.",
+      "2": "The rivers rose every spring with snowmelt from the mountains; the lack was of materials, not water.",
+      "3": "The soil was rich; what the plain lacked was metal, timber and stone."
+     }
+    },
+    {
+     "q": "What is the main objection to the theory that salt ruined southern Mesopotamian farming?",
+     "choices": [
+      "No shift from wheat to barley appears in the texts",
+      "Farmers managed salt, and yield figures are unclear",
+      "Barley tolerates salt less well than wheat does",
+      "Jacobsen and Adams argued that salt raised yields"
+     ],
+     "answer": 1,
+     "why": "Marvin Powell (1985) argued that farmers managed salt by leaching, fallow and drainage, and that the yield figures are hard to interpret.",
+     "wrong": {
+      "0": "Texts show barley rising from about 80 percent of grain around 2350 BCE to about 98 percent under Shulgi; the dispute is over the cause.",
+      "2": "Barley is the more salt-tolerant crop.",
+      "3": "Reversed: Jacobsen and Adams argued that salt cut yields; the objection came from Marvin Powell."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Uruk, the first city",
+   "sub": "c. 4000 to 3000 BCE",
+   "lede": "Around 3200 BCE, Uruk was the largest settlement in its world, perhaps anywhere: a city of canals, temples and workshops, many times larger than any town around it.",
+   "body": [
+    "In the late 4th millennium BCE Uruk covered about 250 hectares; the next-largest town in its region covered about 15. [[c-uruk-size]] By about 3000 BCE a wall about 11 km long enclosed some 5 km², home perhaps to 40,000 people, though that number is an estimate built on assumptions. [[c-uruk-3000]] Magnetic surveys have mapped a canal about 10 metres wide running through the city, with branches and a harbour. [[c-uruk-canals]]",
+    "At its heart stood the temple precinct of Eanna, the house of Inanna, goddess of love and war, and the district of An, the sky god. The Warka Vase shows the order of this world in bands: water and plants, then flocks, then naked men carrying produce, and at the top the goddess receiving a ruler. [[c-warka]] That ruler, a bearded man in a net skirt, appears on many works of the period; scholars call him the 'priest-king', without knowing what he was called. [[c-priestking]]",
+    "Uruk ran on organised labour. Hundreds of thousands of crude, mass-produced bowls with bevelled rims have been found; they have long been read as measures for workers' rations, though some held stews. [[c-brb]] And from about 3400 BCE, Uruk-style towns appeared far up the Euphrates, in Syria and Turkey. Whether these were colonies or trading communities living among local people is debated. [[c-expansion]]",
+    {
+     "table": {
+      "head": [
+       "Period (archaeologists' names)",
+       "Dates"
+      ],
+      "rows": [
+       [
+        "Uruk period",
+        "c. 4000-3100 BCE"
+       ],
+       [
+        "Jemdet Nasr period",
+        "c. 3100-2900 BCE"
+       ],
+       [
+        "Early Dynastic period",
+        "c. 2900-2350 BCE"
+       ]
+      ],
+      "note": "[[c-uruk-periods]] [[c-early-dynastic]]"
+     }
+    },
+    "Later Mesopotamians remembered Uruk as the city of Gilgamesh, who was said to have built its wall. [[c-gilgamesh-wall]] We meet him again on page 3.10."
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "bars",
+    "caption": "How big was the first city?",
+    "title": "Settlement area, in hectares",
+    "max": 550,
+    "ticks": [
+     0,
+     100,
+     200,
+     300,
+     400,
+     500
+    ],
+    "axis": "hectares (1 ha = 100 x 100 m)",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "'Ain Ghazal",
+      "sub": "c. 9,000 years ago (2.8)",
+      "v": 12,
+      "lab": "c. 12 ha"
+     },
+     {
+      "t": "Çatalhöyük",
+      "sub": "c. 7000 BCE (2.8)",
+      "v": 13.5,
+      "lab": "13.5 ha"
+     },
+     {
+      "t": "Next-largest town",
+      "sub": "in Uruk's region, c. 3200 BCE",
+      "v": 15,
+      "lab": "c. 15 ha"
+     },
+     {
+      "t": "Uruk",
+      "sub": "c. 3200 BCE",
+      "v": 250,
+      "lab": "c. 250 ha",
+      "acc": true,
+      "tip": "about 2.5 km²"
+     },
+     {
+      "t": "Uruk, within its wall",
+      "sub": "c. 3000 BCE",
+      "v": 500,
+      "lab": "c. 500 ha (5 km²)",
+      "acc": true,
+      "tip": "perhaps 40,000 people",
+      "plate": {
+       "kicker": "3.1 · Uruk",
+       "title": "Uruk within its wall",
+       "sub": "about 3000 BCE",
+       "text": "[[c-uruk-3000]] [[c-uruk-canals]]",
+       "sources": [
+        "fassbinder2020"
+       ]
+      }
+     }
+    ],
+    "notes": [
+     "Sources: McMahon (2020); Fassbinder (2020); Chapter 2 sources."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do scholars disagree about Uruk-style towns such as Habuba Kabira in Syria?",
+     "choices": [
+      "Whether they date to the 4th or the 2nd millennium BCE",
+      "Whether they were colonies or communities of traders",
+      "Whether Stein saw colonies and Algaze trade diasporas",
+      "Whether they had any Uruk-style pottery or buildings"
+     ],
+     "answer": 1,
+     "why": "Guillermo Algaze reads them as colonies in an early 'world system'; Gil Stein's excavations at Hacınebi suggest trade diasporas living among local people.",
+     "wrong": {
+      "0": "They date to about 3400-3100 BCE.",
+      "2": "Reversed: Algaze reads them as colonies; Stein's excavations suggest trade diasporas.",
+      "3": "Their Uruk-style material culture is exactly why they are discussed."
+     }
+    },
+    {
+     "q": "How solid is a figure like '40,000 people in Uruk about 3000 BCE'?",
+     "choices": [
+      "A count recorded on a census tablet from the city",
+      "An estimate from area times an assumed density",
+      "A figure given by the Epic of Gilgamesh itself",
+      "A result of radiocarbon dating of the city's houses"
+     ],
+     "answer": 1,
+     "why": "The figure is the city's area multiplied by an assumed number of people per hectare; change the assumption and the number changes, so it could be well off in either direction.",
+     "wrong": {
+      "0": "It is an estimate from area and an assumed density, not a count.",
+      "2": "It is a modern estimate, from the city's area and an assumed density.",
+      "3": "Radiocarbon dates materials; it does not count people."
+     }
+    }
+   ]
+  },
+  {
+   "title": "How writing worked",
+   "sub": "from accounts to literature",
+   "lede": "Some of the earliest known writing comes from Uruk, where it kept track of grain, beer, animals and workers. Over a thousand years it became a full script that could record any word in two languages.",
+   "body": [
+    "Before writing, people counted goods with small clay tokens; Denise Schmandt-Besserat argued that writing grew directly out of them. Many scholars accept that tokens were used for counting but doubt the detailed link between token shapes and written signs. [[c-tokens]]",
+    "The earliest tablets, from about 3300-3000 BCE, are overwhelmingly accounts: of about 4,900 tablets of the Uruk III and Jemdet Nasr phases (about 3100-3000 BCE), some 85 percent record goods, rations and labour, and most of the rest are lists of words used to train scribes. [[c-protocuneiform]] The signs began as pictures drawn in clay, and the system used well over a thousand of them, though a couple of hundred did most of the work. [[c-signs]]",
+    "Two changes made it a true script. Scribes stopped drawing and began pressing a reed stylus into the clay, making wedge-shaped marks: cuneiform, from the Latin for 'wedge'. And they began using signs for their sounds rather than their meanings, the rebus principle: the sign for 'arrow', pronounced ti, could also write ti, 'life'. Once signs could stand for syllables, they could spell names and grammar, and later write Akkadian, a language unrelated to Sumerian.",
+    {
+     "table": {
+      "head": [
+       "",
+       "Proto-cuneiform (c. 3200 BCE)",
+       "Mature cuneiform"
+      ],
+      "rows": [
+       [
+        "used for",
+        "accounts, word lists",
+        "letters, laws, literature, science"
+       ],
+       [
+        "signs",
+        "pictures drawn in clay",
+        "wedges pressed with a reed"
+       ],
+       [
+        "reads",
+        "objects and numbers",
+        "words and syllables"
+       ],
+       [
+        "languages",
+        "Sumerian (probably)",
+        "Sumerian, Akkadian and others"
+       ]
+      ]
+     }
+    },
+    "Scribes trained for years, copying Sumerian even after it had died as a spoken language, much as Latin was copied in medieval Europe. [[c-schools]] The script was forgotten for nearly two thousand years and deciphered in the 19th century; [[c-decipher]] in 1857 four scholars translated the same text independently to prove it could really be read. [[c-1857]] About half a million tablets are known, most still unpublished, and since 2023 machine-learning tools have begun to help read them. [[c-tablets-count]] [[c-ai]]"
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "split",
+    "caption": "What the first writing was for",
+    "title": "Tablets of the Uruk III and Jemdet Nasr phases, c. 3100-3000 BCE",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "About 4,900 tablets, by kind",
+      "parts": [
+       {
+        "v": 4167,
+        "lab": "administrative records: c. 85%",
+        "name": "administrative",
+        "tip": "4,167 tablets: goods, rations, labour, animals"
+       },
+       {
+        "v": 703,
+        "lab": "word lists: c. 14%",
+        "acc": true,
+        "name": "lexical lists",
+        "tip": "703 tablets used to train scribes"
+       },
+       {
+        "v": 5,
+        "lab": "",
+        "name": "other"
+       }
+      ]
+     },
+     {
+      "t": "All uses of signs",
+      "parts": [
+       {
+        "v": 84,
+        "lab": "the 200 commonest signs: 84%",
+        "name": "200 commonest signs"
+       },
+       {
+        "v": 16,
+        "lab": "all other signs: 16%",
+        "acc": true,
+        "name": "over 1,000 other signs"
+       }
+      ]
+     }
+    ],
+    "notes": [
+     "Source: Hawkins, Unicode proposal for proto-cuneiform (2019)."
+    ]
+   },
+   "practice": [
+    {
+     "q": "What were the earliest Uruk tablets mostly about?",
+     "choices": [
+      "Myths, hymns and other literature",
+      "Accounts of goods, rations and labour",
+      "Inscriptions celebrating kings' victories",
+      "Letters between the rulers of cities"
+     ],
+     "answer": 1,
+     "why": "Of about 4,900 tablets from about 3100-3000 BCE, about 85 percent record goods, rations and labour, and about 14 percent are word lists used to train scribes.",
+     "wrong": {
+      "0": "About 85 percent record goods, rations and labour; most of the rest are word lists for training scribes.",
+      "2": "The earliest tablets are overwhelmingly accounts, not royal inscriptions.",
+      "3": "The earliest tablets are overwhelmingly accounts; most of the rest are word lists."
+     }
+    },
+    {
+     "q": "How did the rebus principle turn picture signs into a full script?",
+     "choices": [
+      "Scribes drew the signs more and more realistically",
+      "Signs came to stand for sounds, not only meanings",
+      "Scribes added colour to tell similar signs apart",
+      "Each word received its own unique picture sign"
+     ],
+     "answer": 1,
+     "why": "Using the sign for 'arrow' (ti) to write 'life' (also ti) let signs stand for sounds; once signs could stand for syllables, they could spell names and grammar.",
+     "wrong": {
+      "0": "Scribes stopped drawing and began pressing wedges into the clay, so signs became less pictorial.",
+      "2": "Cuneiform was pressed into clay with a reed stylus.",
+      "3": "That would need a separate sign for every word; sound values let a limited set spell names and grammar."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Gods and temples",
+   "sub": "every city belonged to a god",
+   "lede": "Sumerians believed each city was the household of a god, and that people had been made to do the gods' work. The temple was the god's house, and also one of the largest employers in the land.",
+   "body": [
+    "Each city had its divine owner: An, the sky, and Inanna, goddess of love and war, at Uruk; Enki, god of fresh water and wisdom, at Eridu; Nanna, the moon, at Ur. [[c-gods]] An was formally the father of the gods, but in practice the most powerful was Enlil, whose temple at Nippur made that city the religious centre of Sumer: it was Enlil who decreed fates and granted kingship. [[c-enlil]]",
+    "Temples were economic as well as religious centres. They owned fields, herds and workshops and fed hundreds of workers; scholars once thought they owned almost all the land. Texts now show temple estates alongside land held by kings, nobles and families. [[c-temple-city]]",
+    {
+     "table": {
+      "head": [
+       "God",
+       "Domain",
+       "City"
+      ],
+      "rows": [
+       [
+        "An",
+        "the sky; father of the gods",
+        "Uruk"
+       ],
+       [
+        "Enlil",
+        "air; decrees fates, grants kingship",
+        "Nippur"
+       ],
+       [
+        "Enki",
+        "fresh water, wisdom, crafts",
+        "Eridu"
+       ],
+       [
+        "Inanna",
+        "love and war; the planet Venus",
+        "Uruk"
+       ],
+       [
+        "Nanna",
+        "the moon",
+        "Ur"
+       ]
+      ]
+     }
+    },
+    "The most visible temples stood on ziggurats, stepped platforms of mud brick. The ziggurat of Ur, built by King Ur-Nammu about 2100 BCE, rose on a base about 64 by 46 metres. [[c-ziggurat]] From Sargon's time a king's daughter served as high priestess of the moon god there; the first was Enheduanna (page 3.6). [[c-enheduanna-priestess]]",
+    "The myths explain why. In 'Enki and Ninmah', the gods tire of digging canals, and Enki has a creature made from clay, shaped by his mother Namma and the birth goddesses, to carry their baskets for them. [[c-humans-made]] Death offered little comfort: the dead lived in a dim underworld, drinking muddy water, and fared best if their descendants kept bringing offerings. [[c-underworld]]",
+    {
+     "compare": "Compare Genesis 2, where God forms the first man from the earth and puts him in the garden 'to till it and keep it'. Page 3.10 compares Mesopotamian and biblical flood stories."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 45.65,
+     "lat": 31.55,
+     "zoom": 105
+    },
+    "caption": "Gods and their cities in Sumer",
+    "hint": "Click a city",
+    "legend": [
+     [
+      "pt",
+      "city"
+     ],
+     [
+      "dot",
+      "temple city of a great god"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         45.221,
+         32.1365
+        ],
+        "label": "Nippur",
+        "date": "Enlil · the Ekur",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "3.3 · gods",
+         "title": "Nippur and Enlil",
+         "sub": "the religious centre of Sumer",
+         "text": "[[c-enlil]]",
+         "sources": [
+          "amgg-enlil"
+         ]
+        }
+       },
+       {
+        "ll": [
+         45.6372,
+         31.3242
+        ],
+        "label": "Uruk",
+        "date": "An and Inanna · Eanna",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "3.3 · gods",
+         "title": "Uruk, An and Inanna",
+         "sub": "the Eanna, the house of heaven",
+         "text": "[[c-gods]]",
+         "sources": [
+          "amgg-an",
+          "amgg-inana"
+         ]
+        }
+       },
+       {
+        "ll": [
+         46.1031,
+         30.9631
+        ],
+        "label": "Ur",
+        "date": "Nanna · ziggurat",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "3.3 · gods",
+         "title": "Ur and Nanna",
+         "sub": "the moon god",
+         "text": "[[c-ziggurat]] [[c-enheduanna-priestess]]",
+         "facts": [
+          [
+           "ziggurat base",
+           "about 64 x 46 m"
+          ],
+          [
+           "builder",
+           "Ur-Nammu, c. 2100 BCE"
+          ]
+         ],
+         "sources": [
+          "amgg-nanna",
+          "met-ziggurat",
+          "morgan-disk"
+         ]
+        }
+       },
+       {
+        "ll": [
+         45.9958,
+         30.8169
+        ],
+        "label": "Eridu",
+        "date": "Enki · the Abzu",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "3.3 · gods",
+         "title": "Eridu and Enki",
+         "sub": "god of fresh water and wisdom",
+         "text": "In Sumerian tradition Eridu was the first city, where kingship first came down from heaven (3.4). [[c-gods]]",
+         "sources": [
+          "etcsl-enki-order",
+          "etcsl-skl"
+         ]
+        }
+       },
+       {
+        "ll": [
+         46.178,
+         31.562
+        ],
+        "label": "Girsu",
+        "date": "Ningirsu",
+        "dy": -6
+       },
+       {
+        "ll": [
+         44.7,
+         32.5333
+        ],
+        "label": "Kish",
+        "anchor": "end"
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why was the 'temple-state' model of Sumerian cities abandoned?",
+     "choices": [
+      "Texts show that the temples held little land",
+      "Texts show royal, noble and family land as well",
+      "The king turned out to own most of the city's land",
+      "The temple archives turned out to be forgeries"
+     ],
+     "answer": 1,
+     "why": "Scholars once thought temples owned nearly all the land; texts now show temple estates alongside land held by kings, nobles and families. Temples were great landowners, but not the only ones.",
+     "wrong": {
+      "0": "Temples owned fields, herds and workshops and fed hundreds of workers.",
+      "2": "Texts show temple estates alongside royal, noble and family land, not one great royal estate.",
+      "3": "The texts are what disproved the model: they show temple estates alongside other land."
+     }
+    },
+    {
+     "q": "In the Sumerian myth 'Enki and Ninmah', why are humans made?",
+     "choices": [
+      "To worship Enki above other gods",
+      "To take over the gods' heavy labour",
+      "To punish the gods for their pride",
+      "To fill the underworld with the dead"
+     ],
+     "answer": 1,
+     "why": "The gods tire of digging canals, and the new creature is given their baskets to carry.",
+     "wrong": {
+      "0": "The myth makes them to carry the gods' baskets, not to worship one god.",
+      "2": "The motive is relief from work, not punishment.",
+      "3": "The myth is about labour: the new creature is given the gods' baskets."
+     }
+    }
+   ]
+  },
+  {
+   "title": "City-states at war",
+   "sub": "the Early Dynastic period, c. 2900 to 2350 BCE",
+   "lede": "For five centuries Sumer was a land of rival cities, each with its own god, ruler and army, fighting over water and farmland.",
+   "body": [
+    "Historians call this the Early Dynastic period. [[c-early-dynastic]] Its best-documented quarrel ran for generations between Lagash and its neighbour Umma over a strip of fertile border land. Mesilim, king of Kish, once marked the boundary between them, and 'king of Kish' became a title meaning overlord of the whole land. [[c-mesilim]]",
+    "About 2450 BCE, Eannatum of Lagash defeated Umma and celebrated with the Stele of the Vultures, which shows his soldiers marching in a tight phalanx over the bodies of the enemy, and vultures carrying off heads. [[c-vultures]] A later ruler of Lagash, Uruinimgina, proclaimed that he had freed the people from greedy officials and heavy taxes, often called the first reform in history; whether it was reform or propaganda is debated. [[c-uruinimgina]]",
+    {
+     "table": {
+      "head": [
+       "Ruler in the Sumerian King List",
+       "City",
+       "Reign it gives"
+      ],
+      "rows": [
+       [
+        "Alulim (before the flood)",
+        "Eridu",
+        "28,800 years"
+       ],
+       [
+        "Etana",
+        "Kish",
+        "1,500 years"
+       ],
+       [
+        "Gilgamesh",
+        "Uruk",
+        "126 years"
+       ],
+       [
+        "Sargon",
+        "Akkad",
+        "56 years"
+       ]
+      ],
+      "note": "The Sumerian King List, ETCSL 2.1.1. [[c-skl]]"
+     }
+    },
+    "Later scribes told this history differently. The Sumerian King List says that kingship 'descended from heaven' to Eridu, that eight kings ruled for 241,200 years before a great flood, and that afterwards kingship passed from city to city, one at a time. [[c-skl]] In fact many of its dynasties ruled at the same time; the list was a political document, written to show that there had always been one rightful king. [[c-skl-purpose]]",
+    "Rival cities made the land rich in temples and quarrels but weak against an outsider. In the 24th century BCE, one ruler conquered them all (page 3.6)."
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "bars",
+    "caption": "Reigns in the Sumerian King List",
+    "title": "Length of reign given by the King List, in years (log scale)",
+    "scale": "log",
+    "min": 10,
+    "max": 100000,
+    "ticks": [
+     10,
+     100,
+     1000,
+     10000,
+     100000
+    ],
+    "tickLabels": [
+     "10",
+     "100",
+     "1,000",
+     "10,000",
+     "100,000"
+    ],
+    "axis": "years (each step is ten times longer)",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "Alulim",
+      "sub": "Eridu, before the flood",
+      "v": 28800,
+      "lab": "28,800",
+      "acc": true
+     },
+     {
+      "t": "Alalgar",
+      "sub": "Eridu, before the flood",
+      "v": 36000,
+      "lab": "36,000",
+      "acc": true
+     },
+     {
+      "t": "Etana",
+      "sub": "Kish, after the flood",
+      "v": 1500,
+      "lab": "1,500"
+     },
+     {
+      "t": "Gilgamesh",
+      "sub": "Uruk",
+      "v": 126,
+      "lab": "126"
+     },
+     {
+      "t": "Sargon",
+      "sub": "Akkad, c. 2300 BCE",
+      "v": 56,
+      "lab": "56",
+      "tip": "manuscripts give 54-56 years"
+     },
+     {
+      "t": "A typical real reign",
+      "sub": "for comparison",
+      "v": 20,
+      "lab": "c. 10-40",
+      "open": true
+     }
+    ],
+    "notes": [
+     "Source: the Sumerian King List (ETCSL 2.1.1). The reigns grow realistic as the list approaches its authors' own time."
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does the long border war between Lagash and Umma show about Early Dynastic Sumer?",
+     "choices": [
+      "A single empire already ruled the whole of Sumer",
+      "Rival city-states fought over farmland and water",
+      "Wars there were fought over religion, not land",
+      "Kish was a colony that Lagash had founded"
+     ],
+     "answer": 1,
+     "why": "Lagash and Umma fought for generations over a strip of fertile border land; Mesilim, king of Kish, once marked the boundary between them.",
+     "wrong": {
+      "0": "Sumer was divided among rival city-states until one ruler conquered them all in the 24th century BCE.",
+      "2": "The dispute was over a strip of fertile border land.",
+      "3": "Kish was the senior power whose king, Mesilim, marked the border between Lagash and Umma."
+     }
+    },
+    {
+     "q": "How should historians use the Sumerian King List?",
+     "choices": [
+      "As an exact chronology of the kings of Sumer",
+      "As a political text, valuable but not literal",
+      "As a forgery made by nineteenth-century scholars",
+      "As Akkadian propaganda written against Sumer"
+     ],
+     "answer": 1,
+     "why": "It presents one line of kingship passing from city to city, though many of its dynasties ruled at the same time, and gives pre-flood reigns of tens of thousands of years; it was probably composed to support the claims of later kings.",
+     "wrong": {
+      "0": "Its pre-flood reigns run to tens of thousands of years, and many of its dynasties ruled at the same time.",
+      "2": "It is a genuine ancient composition.",
+      "3": "It was probably composed to support the claims of later kings of Ur or Isin."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The royal tombs of Ur",
+   "sub": "gold, music and death, c. 2600-2400 BCE",
+   "lede": "In the 1920s, digging at Ur, Leonard Woolley found graves full of gold and lapis lazuli, and pits filled with the bodies of attendants who had died with their rulers.",
+   "body": [
+    "Woolley excavated Ur from 1922 to 1934. [[c-woolley]] Among about 1,800 graves he found 16 he called 'royal tombs', built of stone, crowded with bodies and furnished with treasure; the richest date to about 2600-2500 BCE. [[c-cemetery]] In one, never robbed, lay Puabi, wearing a headdress of gold leaves, lapis and carnelian; her seal calls her 'queen' and names no husband. [[c-puabi]]",
+    "The tombs held music and display: lyres with bulls' heads of gold and lapis lazuli, [[c-lyre]] and the Standard of Ur, a box inlaid with scenes of war on one side and a banquet on the other, whose purpose is still unknown. [[c-standard]]",
+    "And they held the dead who went with their rulers. The 'Great Death Pit' contained 74 attendants, many adorned with gold and lapis. [[c-deathpit]] Woolley imagined them drinking poison and lying down peacefully. CT scans in 2009 told a different story for the two skulls examined: each had been struck a fatal blow to the head. Further study found the bodies had then been heated and treated with mercury to preserve them during long rites. [[c-ct]]",
+    {
+     "table": {
+      "head": [
+       "",
+       "Woolley (1920s)",
+       "Since 2009"
+      ],
+      "rows": [
+       [
+        "how the attendants died",
+        "poison, willingly",
+        "blows to the head (two skulls)"
+       ],
+       [
+        "what happened next",
+        "buried at once",
+        "bodies heated and preserved"
+       ]
+      ],
+      "note": "[[c-willing]]"
+     }
+    },
+    "Why rulers took people with them to death is debated. Some see loyalty and belief; others see public violence staged by rulers trying to impose their power. [[c-willing]]"
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "split",
+    "caption": "The Royal Cemetery of Ur",
+    "title": "About 1,800 graves, and the 16 'royal tombs'",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "Graves in the cemetery",
+      "parts": [
+       {
+        "v": 1784,
+        "lab": "ordinary graves: about 1,780",
+        "name": "ordinary graves"
+       },
+       {
+        "v": 16,
+        "lab": "16 royal",
+        "acc": true,
+        "name": "royal tombs",
+        "tip": "stone tombs with many bodies and rich goods"
+       }
+      ]
+     },
+     {
+      "t": "Bodies in the 'Great Death Pit' (PG 1237)",
+      "parts": [
+       {
+        "v": 74,
+        "lab": "74 attendants",
+        "acc": true,
+        "name": "attendants",
+        "tip": "no tomb chamber was found"
+       }
+      ]
+     }
+    ],
+    "notes": [
+     "Sources: The Met; Penn Museum. Some counts give about 2,000 graves."
+    ]
+   },
+   "practice": [
+    {
+     "q": "What did the 2009 CT scans most directly challenge?",
+     "choices": [
+      "The 2600-2500 BCE date of the richest tombs",
+      "Woolley's picture of attendants taking poison",
+      "That Puabi was called queen on her own seal",
+      "That the attendants were foreign war captives"
+     ],
+     "answer": 1,
+     "why": "Woolley imagined the attendants drinking poison and lying down peacefully; the two skulls scanned showed fatal blows, and the bodies had then been heated and treated with mercury to preserve them.",
+     "wrong": {
+      "0": "The scans studied cause of death, not date.",
+      "2": "Puabi's own seal calls her queen.",
+      "3": "The scans studied cause of death; strontium isotopes show at least two attendants were local people."
+     }
+    },
+    {
+     "q": "What is known about the purpose of the Standard of Ur?",
+     "choices": [
+      "It was certainly carried into battle on a pole",
+      "Its scenes are clear, but what it was for is unknown",
+      "It recorded the treaty that ended a war with Umma",
+      "It was made under the Ur III kings, about 2100 BCE"
+     ],
+     "answer": 1,
+     "why": "The Standard of Ur, about 2550-2400 BCE, shows war on one side and a banquet on the other; what it was for is unknown.",
+     "wrong": {
+      "0": "No use is established; what it was for is unknown.",
+      "2": "It comes from the royal tombs at Ur, and what it was for is unknown.",
+      "3": "It dates to about 2550-2400 BCE."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Sargon and the first empire",
+   "sub": "Akkad, c. 2334 to 2154 BCE",
+   "lede": "About 2334 BCE a man who called himself Sargon, 'the true king', conquered the city-states of Sumer and much beyond. His dynasty ruled what is usually called the first empire, from a capital that has never been found.",
+   "body": [
+    "Sargon came from the north, from Kish. He defeated Lugalzagesi of Uruk and brought him in a neck-stock to Nippur, and claimed that Enlil had given him the land 'from the Upper Sea to the Lower Sea', from the Mediterranean to the Gulf. [[c-sargon]] [[c-sargon-claim]] He ruled in Akkadian, a Semitic language, which now became a language of government written in cuneiform. [[c-akkadian]]",
+    "Later generations told stories about him. A legend copied in the 7th century BCE says his mother set him adrift on the river in a reed basket sealed with bitumen, and that a water-drawer pulled him out and raised him. [[c-sargon-legend]] Readers of Exodus will recognise the motif.",
+    "Sargon made his daughter Enheduanna high priestess of the moon god at Ur. Hymns to Inanna and 42 temple hymns are credited to her, which would make her the first author known by name, though whether she wrote them is debated. [[c-enheduanna]]",
+    "His grandson Naram-Sin went further: he called himself 'god of Akkad' and 'king of the four quarters' of the world, and had himself carved in a god's horned helmet. [[c-naramsin]] [[c-naramsin-stele]] Tablets found at Girsu in 2024 show the empire's officials at work in a conquered city. [[c-girsu2025]]",
+    {
+     "table": {
+      "head": [
+       "King",
+       "Reign (BCE, Middle Chronology)"
+      ],
+      "rows": [
+       [
+        "Sargon",
+        "c. 2334-2279"
+       ],
+       [
+        "Naram-Sin",
+        "c. 2254-2218"
+       ],
+       [
+        "end of the dynasty",
+        "c. 2154"
+       ]
+      ]
+     }
+    },
+    "The empire collapsed within two centuries. A later poem blames Naram-Sin's sacrilege and the Gutians, mountain people 'with canine instincts'. [[c-curse]] [[c-gutians]] Some scientists blame a sudden drought about 2200 BCE; others see mostly a political crisis. [[c-drought]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 41.6,
+     "lat": 33.0,
+     "zoom": 20
+    },
+    "caption": "The Akkadian empire, c. 2300 BCE (extent approximate)",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "zone",
+      "Akkad: capital area (unlocated)"
+     ],
+     [
+      "pt",
+      "city"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         34.6,
+         34.0
+        ],
+        "label": "UPPER SEA",
+        "size": 12
+       },
+       {
+        "ll": [
+         50.3,
+         27.6
+        ],
+        "label": "LOWER SEA",
+        "size": 12
+       }
+      ]
+     },
+     {
+      "type": "zone",
+      "items": [
+       {
+        "ll": [
+         44.3,
+         34.0
+        ],
+        "r": 0.6,
+        "label": "AKKAD?",
+        "lab": [
+         44.3,
+         34.9
+        ]
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         36.7983,
+         35.799
+        ],
+        "label": "Ebla",
+        "date": "attacked by Naram-Sin",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         40.8886,
+         34.5503
+        ],
+        "label": "Mari",
+        "dy": 14
+       },
+       {
+        "ll": [
+         41.5,
+         36.96
+        ],
+        "label": "Tell Leilan",
+        "date": "abandoned c. 2200?",
+        "dy": -8,
+        "plate": {
+         "kicker": "3.6 · the fall of Akkad",
+         "title": "Tell Leilan and the drought debate",
+         "sub": "northeastern Syria",
+         "text": "[[c-drought]]",
+         "sources": [
+          "weiss1993",
+          "carolin2019",
+          "soltysiak"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.7,
+         32.5333
+        ],
+        "label": "Kish",
+        "date": "Sargon's origin",
+        "anchor": "end",
+        "dy": 4
+       },
+       {
+        "ll": [
+         45.231,
+         32.127
+        ],
+        "label": "Nippur",
+        "dy": -6
+       },
+       {
+        "ll": [
+         45.6394,
+         31.3234
+        ],
+        "label": "Uruk",
+        "date": "Lugalzagesi",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         46.103,
+         30.963
+        ],
+        "label": "Ur",
+        "date": "Enheduanna",
+        "plate": {
+         "kicker": "3.6 · Enheduanna",
+         "title": "Enheduanna",
+         "sub": "high priestess at Ur, c. 2300 BCE",
+         "text": "[[c-enheduanna]]",
+         "sources": [
+          "natgeo-enheduanna",
+          "penn-disk"
+         ]
+        }
+       },
+       {
+        "ll": [
+         48.2537,
+         32.1888
+        ],
+        "label": "Susa",
+        "date": "Elam",
+        "dy": -6
+       },
+       {
+        "ll": [
+         46.178,
+         31.562
+        ],
+        "label": "Girsu",
+        "dy": 14
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What is the most important caution in comparing the Sargon birth legend with Moses in Exodus 2?",
+     "choices": [
+      "The Sargon text is a copy made 1,600 years later",
+      "The parallels prove Exodus borrowed from Sargon",
+      "The Sargon tablet dates from his reign, about 2300 BCE",
+      "In the legend, a princess rescues the baby Sargon"
+     ],
+     "answer": 0,
+     "why": "The surviving tablet is a 7th-century BCE copy from Nineveh, written some 1,600 years after Sargon; parallels in motif do not by themselves show which story influenced which.",
+     "wrong": {
+      "1": "Parallels in motif do not by themselves show which story influenced which.",
+      "2": "The surviving tablet is a 7th-century BCE copy, written some 1,600 years after Sargon.",
+      "3": "In the legend a water-drawer pulls him out and raises him."
+     }
+    },
+    {
+     "q": "What did isotope studies of human bones suggest about the fall of Akkad?",
+     "choices": [
+      "Diets shifted sharply, confirming Weiss's drought",
+      "Diets did not shift as a long drought would predict",
+      "Cave dust proves that drought caused the collapse",
+      "Harvey Weiss blamed the Gutians rather than drought"
+     ],
+     "answer": 1,
+     "why": "Arkadiusz Sołtysiak's bone isotopes show no matching change in diet, which fits a political crisis better than a long drought; dust in an Iranian cave does support a dry period.",
+     "wrong": {
+      "0": "Reversed: Sołtysiak found no matching change in diet.",
+      "2": "The dust supports a dry period at the time, which is not proof that it caused the collapse.",
+      "3": "Weiss and colleagues linked the collapse to sudden aridity."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Ur III, the paperwork state",
+   "sub": "c. 2112 to 2004 BCE",
+   "lede": "After the Akkadians, the kings of Ur built the most bureaucratic state the ancient world had seen. They left behind more than 100,000 tablets counting sheep, barley and days of labour.",
+   "body": [
+    "The Third Dynasty of Ur ruled the south for about a century under five kings. [[c-ur3]] Its founder, Ur-Nammu, built the great ziggurat of Ur (3.3), and the oldest surviving law collection bears his name. Unlike Hammurabi's later laws, it punished injuries with fines in silver: knocking out a man's eye cost half a mina of silver. [[c-urnammu-laws]]",
+    "His son Shulgi reigned for nearly fifty years, was worshipped as a god in his lifetime, and is credited with standard weights and measures, a state calendar and roads with way-stations. [[c-shulgi]] In a hymn he boasts of running from Nippur to Ur and back in a day. [[c-shulgi-run]]",
+    "The state counted everything. At Puzrish-Dagan near Nippur, a central office recorded the animals flowing to the gods and the court; more than 13,500 of its tablets survive, and recent study suggests most of the animals they record never physically passed through it. [[c-drehem]] Workers were paid monthly in barley, with wool once a year. Over 100,000 Ur III administrative tablets are now catalogued, some 70,000 of them fully published. [[c-ur3-archives]] A 2025 study argues that some workers formed a serf-like class, free in law but bound to year-round labour. [[c-unil]]",
+    {
+     "table": {
+      "head": [
+       "Monthly barley ration, Ur III",
+       "sila (about a litre)"
+      ],
+      "rows": [
+       [
+        "man",
+        "about 60"
+       ],
+       [
+        "woman",
+        "about 30-40"
+       ],
+       [
+        "child",
+        "about 10-20"
+       ]
+      ],
+      "note": "Typical figures; rations varied by job and place. See 3.9."
+     }
+    },
+    "It ended suddenly. Famine and revolt weakened Ur, and about 2004 BCE an army from Elam sacked the city and took its last king captive. [[c-ur3-fall]] Poets wrote laments in which the gods themselves abandon their cities. [[c-lament]]"
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "Kings and dynasties, c. 2700-1500 BCE (Middle Chronology)",
+    "title": "From the royal tombs to the fall of Babylon",
+    "max": 2700,
+    "min": 1500,
+    "unit": "ka",
+    "ticks": [
+     2700,
+     2500,
+     2300,
+     2100,
+     1900,
+     1700,
+     1500
+    ],
+    "tickLabels": [
+     "2700 BCE",
+     "2500",
+     "2300",
+     "2100",
+     "1900",
+     "1700",
+     "1500"
+    ],
+    "axis": "years BCE",
+    "hint": "Hover or click a row",
+    "rows": [
+     {
+      "t": "Royal tombs of Ur",
+      "from": 2600,
+      "to": 2500,
+      "lab": "c. 2600-2500"
+     },
+     {
+      "t": "Dynasty of Akkad",
+      "from": 2334,
+      "to": 2154,
+      "lab": "c. 2334-2154"
+     },
+     {
+      "t": "Sargon",
+      "sub": "king",
+      "from": 2334,
+      "to": 2279,
+      "lab": "c. 2334-2279",
+      "acc": true
+     },
+     {
+      "t": "Naram-Sin",
+      "sub": "king",
+      "from": 2254,
+      "to": 2218,
+      "lab": "c. 2254-2218"
+     },
+     {
+      "t": "Third Dynasty of Ur",
+      "from": 2112,
+      "to": 2004,
+      "lab": "c. 2112-2004",
+      "plate": {
+       "kicker": "3.7 · Ur III",
+       "title": "The Third Dynasty of Ur",
+       "sub": "c. 2112 to 2004 BCE",
+       "text": "[[c-ur3]] [[c-ur3-archives]] [[c-ur3-fall]]",
+       "sources": [
+        "brit-urnammu",
+        "neumann1994",
+        "brit-ibbisin"
+       ]
+      }
+     },
+     {
+      "t": "Shulgi",
+      "sub": "king",
+      "from": 2094,
+      "to": 2047,
+      "lab": "c. 2094-2047",
+      "acc": true
+     },
+     {
+      "t": "Hammurabi",
+      "sub": "king of Babylon",
+      "from": 1792,
+      "to": 1750,
+      "lab": "c. 1792-1750",
+      "acc": true
+     },
+     {
+      "t": "Hittite raid on Babylon",
+      "from": 1596,
+      "to": 1594,
+      "lab": "1595"
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What was Puzrish-Dagan, as recent studies reconstruct it?",
+     "choices": [
+      "A temple where the moon god Nanna was worshipped",
+      "A central office for recording livestock",
+      "The royal palace of the Ur III kings at Ur",
+      "A storehouse founded by the Akkadian kings"
+     ],
+     "answer": 1,
+     "why": "Shulgi founded it near Nippur as a central livestock office; more than 13,500 of its tablets survive, and a 2013 study argues that most animals were recorded there rather than physically brought there.",
+     "wrong": {
+      "0": "It was a central livestock office, not a temple.",
+      "2": "It lay near Nippur, not at Ur.",
+      "3": "Shulgi of Ur founded it."
+     }
+    },
+    {
+     "q": "How should a historian use Shulgi's boast of running from Nippur to Ur and back in a day?",
+     "choices": [
+      "As a precise record of a royal journey",
+      "As proof that he was worshipped as a god",
+      "As a sign of how kings wished to be seen",
+      "As a forgery by later Babylonian scribes"
+     ],
+     "answer": 2,
+     "why": "The hymn is royal self-praise; it shows ideology rather than events.",
+     "wrong": {
+      "0": "It is royal self-praise, not a record.",
+      "1": "The boast is about running, not worship; it is royal self-praise.",
+      "3": "Nothing suggests forgery; the hymn's limit is that it is royal self-praise."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Hammurabi's Babylon",
+   "sub": "c. 1792 to 1595 BCE",
+   "lede": "Hammurabi turned Babylon from one city among many into the capital of Mesopotamia. His laws, carved on a black stone pillar, are the most famous text of the ancient Near East, and one of the most misunderstood.",
+   "body": [
+    "Hammurabi reigned about 1792-1750 BCE. [[c-chronology]] Late in his reign he conquered Larsa, turned on his former ally Mari, and destroyed Eshnunna, uniting southern and central Mesopotamia under Babylon. [[c-hammurabi]] His letters show him managing canals, taxes and lawsuits in person. [[c-hammurabi-letters]]",
+    "His laws survive on a stele 2.25 metres tall, with the sun god Shamash, god of justice, before the king at the top. It was found at Susa in Iran in 1901-02, where an Elamite king had carried it as plunder. [[c-stele]] It holds about 282 laws, framed by a prologue declaring that the gods called Hammurabi 'so that the strong should not harm the weak'. [[c-282]]",
+    "The laws divide people into free men, commoners and slaves. [[c-classes]] 'An eye for an eye' applied only between equals: if a man put out the eye of another free man, his own eye was put out, but blinding a commoner cost a fine in silver, and blinding a slave half the slave's price. [[c-talion]]",
+    {
+     "table": {
+      "head": [
+       "Victim of an injury to the eye",
+       "Penalty (laws 196-199)"
+      ],
+      "rows": [
+       [
+        "free man (awilum)",
+        "the offender's eye is put out"
+       ],
+       [
+        "commoner (mushkenum)",
+        "one mina of silver"
+       ],
+       [
+        "another man's slave",
+        "half the slave's value"
+       ]
+      ]
+     }
+    },
+    "Were these laws actually used? Surviving court records almost never cite them. Many scholars now read the stele as a monument to a just king and as a work of scribal learning, copied in schools for more than a thousand years. [[c-law-or-not]]",
+    "Hammurabi's dynasty lasted until 1595 BCE, when the Hittite king Mursili I raided Babylon; Kassite kings then ruled for some 400 years. [[c-babylon-fall]]",
+    {
+     "compare": "Compare Exodus 21:23-25, 'eye for eye, tooth for tooth'. The biblical laws share the principle, and also include protections for slaves (Exodus 21:26-27)."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 44.5,
+     "lat": 32.9,
+     "zoom": 34
+    },
+    "caption": "Hammurabi's conquests, and the journey of his stele",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "conquered by Hammurabi"
+     ],
+     [
+      "acc",
+      "the stele carried to Susa, 12th century BCE"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          44.2542,
+          33.0597
+         ],
+         [
+          46.3,
+          32.9
+         ],
+         [
+          48.2537,
+          32.1888
+         ]
+        ],
+        "label": "stele taken to Susa (probably from Sippar)",
+        "lab": [
+         46.3,
+         32.9
+        ],
+        "ldy": -8
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         44.425,
+         32.5373
+        ],
+        "label": "Babylon",
+        "date": "c. 1792-1750 BCE",
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "3.8 · Babylon",
+         "title": "Hammurabi",
+         "sub": "king of Babylon, c. 1792 to 1750 BCE",
+         "text": "[[c-hammurabi]] [[c-hammurabi-letters]] [[c-chronology]]",
+         "sources": [
+          "brit-hammurabi",
+          "manning2016"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.2542,
+         33.0597
+        ],
+        "label": "Sippar",
+        "date": "Shamash's city",
+        "anchor": "end",
+        "dy": -6
+       },
+       {
+        "ll": [
+         45.8536,
+         31.2858
+        ],
+        "label": "Larsa",
+        "date": "1763 BCE",
+        "acc": true
+       },
+       {
+        "ll": [
+         40.8886,
+         34.5503
+        ],
+        "label": "Mari",
+        "date": "1761 BCE",
+        "acc": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         44.7283,
+         33.4842
+        ],
+        "label": "Eshnunna",
+        "date": "c. 1756 BCE",
+        "acc": true
+       },
+       {
+        "ll": [
+         48.2537,
+         32.1888
+        ],
+        "label": "Susa",
+        "date": "stele found 1901-02",
+        "plate": {
+         "kicker": "3.8 · the stele",
+         "title": "The stele of Hammurabi",
+         "sub": "now in the Louvre",
+         "text": "[[c-stele]] [[c-282]] [[c-law-or-not]]",
+         "facts": [
+          [
+           "height",
+           "2.25 m"
+          ],
+          [
+           "laws",
+           "about 282"
+          ],
+          [
+           "found",
+           "Susa, 1901-02"
+          ]
+         ],
+         "sources": [
+          "louvre-hammurabi",
+          "brit-code",
+          "muenster-codex"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What do laws 196-199 of Hammurabi show?",
+     "choices": [
+      "Everyone received 'an eye for an eye' alike",
+      "The penalty depended on the victim's rank",
+      "Slaves could sue their masters for injuries",
+      "Commoners got retaliation; free men got fines"
+     ],
+     "answer": 1,
+     "why": "The same injury brought retaliation, a fine in silver or half a slave's price, depending on whether the victim was a free man, a commoner or a slave.",
+     "wrong": {
+      "0": "Retaliation applied only between equals, when the victim was a free man.",
+      "2": "Blinding a slave cost half the slave's price, a payment set by value, not a right to sue.",
+      "3": "Reversed: blinding a free man brought retaliation; blinding a commoner cost a fine in silver."
+     }
+    },
+    {
+     "q": "What is the strongest evidence that Hammurabi's stele was not working legislation?",
+     "choices": [
+      "It was found far away at Susa in Iran",
+      "Court records almost never cite its laws",
+      "It opens with a prologue about the gods",
+      "It was carved on stone instead of clay"
+     ],
+     "answer": 1,
+     "why": "Surviving court records almost never cite the laws, so many scholars read the stele as a royal monument and a work of scribal learning, copied in schools for more than a thousand years.",
+     "wrong": {
+      "0": "It reached Susa as plunder taken by an Elamite king; that says nothing about its use in Babylonia.",
+      "2": "The prologue shows royal ideology, not whether the laws were applied.",
+      "3": "Stone suits a monument, but the material alone does not show whether the laws were used; the court records are the evidence."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Daily life",
+   "sub": "barley, beer, silver and debt",
+   "lede": "Most Mesopotamians were farmers, herders and workers paid in grain. Their lives survive in an unusual way: in contracts, loans, letters and ration lists.",
+   "body": [
+    "Barley was everything: bread, gruel and beer, the everyday drink. People also ate dates, onions, garlic, leeks, fish and mutton. [[c-diet]] Workers for the state were paid in barley; under the kings of Ur a working man typically received about 60 litres a month, a woman 30-40. [[c-rations]]",
+    "Value was measured in silver, weighed on a balance rather than coined: a shekel was about 8 grams, and sixty made a mina. [[c-silver]] The Laws of Eshnunna price one shekel of silver at 300 litres of barley. [[c-eshnunna-prices]] Loans were common, at 20 percent for silver and 33⅓ for barley, [[c-interest]] and debt was a constant danger: a man could sell his wife or children into service to pay what he owed. [[c-debt-slavery]] From time to time kings cancelled debts and freed debt slaves by royal edict. [[c-misharum]]",
+    {
+     "table": {
+      "head": [
+       "Prices and rates",
+       ""
+      ],
+      "rows": [
+       [
+        "1 shekel of silver (c. 8 g)",
+        "300 sila (about 300 litres) of barley"
+       ],
+       [
+        "interest on silver",
+        "20% a year"
+       ],
+       [
+        "interest on barley",
+        "33⅓%"
+       ],
+       [
+        "a man's monthly ration (Ur III)",
+        "about 60 sila of barley"
+       ]
+      ]
+     }
+    },
+    "Trade reached far. At Kanesh in central Anatolia, merchants from Ashur left more than 23,000 tablets: they brought tin and textiles by donkey caravan and sent silver and gold home. [[c-kanesh]] Their wives in Ashur wove the textiles, invested and lent money, and wrote to their husbands on business. [[c-assur-women]] At Sippar, women dedicated to the sun god lived in a cloister and managed land and loans in their own names. [[c-naditu]]",
+    "Slavery existed, through debt and war, but historians now stress the many statuses between slave and free. [[c-unfree]]"
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "bars",
+    "caption": "What one shekel of silver bought",
+    "title": "Laws of Eshnunna (c. 18th century BCE): goods worth one shekel, in sila (about a litre)",
+    "scale": "log",
+    "min": 1,
+    "max": 1000,
+    "ticks": [
+     1,
+     10,
+     100,
+     1000
+    ],
+    "tickLabels": [
+     "1",
+     "10",
+     "100",
+     "1,000"
+    ],
+    "axis": "sila, log scale",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "Barley",
+      "v": 300,
+      "lab": "300 sila",
+      "acc": true,
+      "tip": "about 5 months of a man's ration"
+     },
+     {
+      "t": "Bitumen",
+      "v": 40,
+      "lab": "40 sila"
+     },
+     {
+      "t": "Oil",
+      "v": 12,
+      "lab": "12 sila"
+     },
+     {
+      "t": "Fine oil",
+      "v": 3,
+      "lab": "3 sila"
+     }
+    ],
+    "notes": [
+     "Source: Laws of Eshnunna §1, via World Eras. A sila was about a litre but varied."
+    ]
+   },
+   "practice": [
+    {
+     "q": "At the standard rates, a farmer borrows 300 sila of barley until harvest. What does he repay?",
+     "choices": [
+      "300 sila",
+      "360 sila",
+      "400 sila",
+      "600 sila"
+     ],
+     "answer": 2,
+     "why": "Barley loans carried interest of 33⅓ percent: 100 sila on 300.",
+     "wrong": {
+      "0": "Barley loans carried interest of 33⅓ percent.",
+      "1": "20 percent was the rate for silver, not barley.",
+      "3": "That would be 100 percent interest; barley loans carried 33⅓ percent."
+     }
+    },
+    {
+     "q": "What does the archive from Kanesh best show?",
+     "choices": [
+      "Trade run directly by the palace of Babylon",
+      "Private trade by Assyrian merchant families",
+      "Payment in coins struck by the Assyrian state",
+      "Anatolians selling tin to Assyrian traders"
+     ],
+     "answer": 1,
+     "why": "Merchant houses from Ashur left more than 23,000 tablets: they brought tin and textiles by donkey caravan, and their wives in Ashur wove the textiles, invested and lent money.",
+     "wrong": {
+      "0": "The merchants came from Ashur, and the tablets come from merchant houses.",
+      "2": "Silver was weighed, not coined; coins appeared only around 650 BCE.",
+      "3": "The Assyrians brought tin to Anatolia and took silver and gold home."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Gilgamesh and the flood",
+   "sub": "the first great epic",
+   "lede": "The Epic of Gilgamesh is one of the oldest great works of literature to survive: the story of a king who loses his friend and goes to the ends of the earth in search of life without death. On its eleventh tablet is a flood story strikingly like Noah's.",
+   "body": [
+    "Gilgamesh may have been a real king of Uruk around 2700 BCE, but nothing from his lifetime survives. [[c-gilgamesh-real]] The epic grew over a thousand years: Sumerian poems about him, probably composed for the kings of Ur; an Akkadian epic of the 18th century BCE; and a standard version credited to the scholar Sîn-lēqi-unninni late in the 2nd millennium BCE. [[c-epic-layers]] Its fullest copy comes from Ashurbanipal's library at Nineveh, of the 7th century BCE. [[c-nineveh-copy]]",
+    "In Tablet XI, Gilgamesh meets Utnapishtim, the one man who survived the flood. The god Ea warned him; he built a great boat, sealed it with pitch, and took his family and animals aboard. When the waters fell he sent out birds, and when one did not return he offered a sacrifice, and the gods gathered 'like flies' to its smell. [[c-tablet11]] In 1872 George Smith of the British Museum read this tablet and announced a Babylonian flood story older than any copy of Genesis; it was a sensation. [[c-smith1872]]",
+    "An older poem, Atrahasis, tells the same flood at greater length. There the gods send it because humans have become too noisy, and afterwards they limit human numbers. [[c-atrahasis]] Genesis gives a moral reason, human violence and wickedness, and ends with God's blessing, 'be fruitful and multiply'.",
+    "How are the stories related? The shared details are many, down to the word for pitch. [[c-parallels]] Most biblical scholars think the Genesis account draws in some way on Mesopotamian tradition, while differing over how and when; others see common models rather than borrowing. Either way, Genesis tells the story around one God and a moral cause. [[c-relationship]] A tablet published in 2014 even describes Atrahasis's ark as a giant round coracle. [[c-ark-tablet]]",
+    {
+     "compare": "Readers of the Hebrew Bible will meet Mesopotamia again in Chapter 7: the Assyrian kings of 2 Kings, Nebuchadnezzar, and the exile in Babylon."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ledger",
+    "signs": false,
+    "caption": "Two flood stories, side by side",
+    "title": "Atrahasis and Gilgamesh XI compared with Genesis 6-9",
+    "left": {
+     "h": "Mesopotamian",
+     "items": [
+      {
+       "t": "Why: humans too noisy",
+       "s": "Atrahasis"
+      },
+      {
+       "t": "Ea secretly warns one man",
+       "s": "Atrahasis; Utnapishtim"
+      },
+      {
+       "t": "A boat sealed with pitch (kupru)",
+       "s": "Gilgamesh XI"
+      },
+      {
+       "t": "A dove, a swallow, a raven",
+       "s": "Gilgamesh XI"
+      },
+      {
+       "t": "Sacrifice; the gods gather 'like flies'",
+       "s": "Gilgamesh XI, Atrahasis"
+      },
+      {
+       "t": "Gods limit human numbers",
+       "s": "Atrahasis"
+      }
+     ]
+    },
+    "right": {
+     "h": "Genesis 6-9",
+     "items": [
+      {
+       "t": "Why: violence and wickedness",
+       "s": "Genesis 6:11-13"
+      },
+      {
+       "t": "God warns Noah",
+       "s": "Genesis 6:13-14"
+      },
+      {
+       "t": "An ark sealed with pitch (kofer)",
+       "s": "Genesis 6:14"
+      },
+      {
+       "t": "A raven, then a dove",
+       "s": "Genesis 8:6-12"
+      },
+      {
+       "t": "Sacrifice; God smells 'the pleasing odor'",
+       "s": "Genesis 8:20-21"
+      },
+      {
+       "t": "'Be fruitful and multiply'",
+       "s": "Genesis 9:1"
+      }
+     ]
+    }
+   },
+   "practice": [
+    {
+     "q": "Which statement best reflects scholarship on Genesis 6-9?",
+     "choices": [
+      "Most see some dependence on Mesopotamian tradition",
+      "Most see Atrahasis as copied from Genesis instead",
+      "The Ark Tablet shows that Noah's ark was really round",
+      "Smith's 1872 find proved that the flood happened"
+     ],
+     "answer": 0,
+     "why": "Most biblical scholars think the Genesis flood story depends in some way on Mesopotamian tradition, but differ over how, when and through which text; some, such as David Tsumura, argue for common models rather than borrowing.",
+     "wrong": {
+      "1": "Atrahasis is known from a copy of about the 17th century BCE, and all agree the Mesopotamian manuscripts are older than any written Genesis.",
+      "2": "The Ark Tablet describes Atrahasis's boat, not Noah's.",
+      "3": "The parallels say nothing either way about whether a flood happened."
+     }
+    },
+    {
+     "q": "How did the Epic of Gilgamesh take shape?",
+     "choices": [
+      "Gilgamesh himself wrote it down in his own lifetime",
+      "Sumerian poems, an Akkadian epic, then a standard version",
+      "Ashurbanipal's scribes composed it in the 7th century BCE",
+      "One Sumerian poem was translated into Akkadian unchanged"
+     ],
+     "answer": 1,
+     "why": "Separate Sumerian poems, an Akkadian epic of the 18th-17th centuries BCE and a standard version credited to Sîn-lēqi-unninni; the fullest copy comes from Ashurbanipal's library at Nineveh.",
+     "wrong": {
+      "0": "Nothing survives from Gilgamesh's own lifetime.",
+      "2": "Their library held the fullest copy of a version that already existed.",
+      "3": "The epic grew in stages over a thousand years, beginning with separate Sumerian poems."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Numbers and stars",
+   "sub": "base 60 and the first astronomy",
+   "lede": "Every time you read a clock you use Babylonian mathematics. Mesopotamian scribes counted in sixties, solved problems in geometry, and kept the longest series of astronomical records of the ancient world.",
+   "body": [
+    "The Babylonians counted in base 60, inherited from the Sumerians; nobody knows why, though 60 can be divided evenly by 2, 3, 4, 5, 6, 10, 12, 15, 20 and 30. [[c-base60]] They wrote numbers by place value, as we do, so the same sign could mean 1, 60 or 3,600 depending on its position. Through Greek astronomers, who divided each degree into 60 parts and each part into 60 again, their system gave us minutes and seconds. [[c-minutes]]",
+    "Their mathematics was practical and surprisingly advanced. A school tablet gives the square root of 2 correct to five decimal places, an error of less than one part in a million. [[c-ybc7289]] Plimpton 322, of about 1800 BCE, lists 15 rows of numbers describing right triangles, more than a thousand years before Pythagoras. [[c-plimpton]] In 2017 it was called the oldest trigonometric table; most historians of mathematics think it was a teacher's aid. [[c-plimpton-debate]]",
+    {
+     "table": {
+      "head": [
+       "Find",
+       "Date",
+       "What it shows"
+      ],
+      "rows": [
+       [
+        "YBC 7289",
+        "c. 1800-1600 BCE",
+        "√2 to five decimal places"
+       ],
+       [
+        "Plimpton 322",
+        "c. 1800 BCE",
+        "numbers for right triangles"
+       ],
+       [
+        "Venus tablet",
+        "observations c. 1640 BCE",
+        "a key to dating"
+       ],
+       [
+        "Astronomical Diaries",
+        "652-61 BCE",
+        "monthly sky, weather and prices"
+       ],
+       [
+        "Jupiter tablets",
+        "c. 350-50 BCE",
+        "area under a graph"
+       ]
+      ]
+     }
+    },
+    "The sky was read for omens: tablets published in 2024 predict a king's death from eclipses of the moon. [[c-omens]] Observations of Venus made under King Ammi-saduqa survive and are still used, with difficulty, to date the period. [[c-venus]] From 652 BCE astronomers kept monthly diaries of the moon and planets, with weather, prices and news, for six centuries. [[c-diaries]] They developed the twelve-sign zodiac in the 5th century BCE, [[c-zodiac]] and late tablets compute Jupiter's motion from the area under a graph, a method Europeans rediscovered only in the 14th century CE. [[c-jupiter]]"
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "bars",
+    "caption": "Why sixty?",
+    "title": "How many whole numbers divide evenly into...",
+    "max": 13,
+    "ticks": [
+     0,
+     4,
+     8,
+     12
+    ],
+    "axis": "number of divisors",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "10",
+      "sub": "our base",
+      "v": 4,
+      "lab": "4: 1, 2, 5, 10"
+     },
+     {
+      "t": "12",
+      "sub": "a dozen",
+      "v": 6,
+      "lab": "6: 1, 2, 3, 4, 6, 12"
+     },
+     {
+      "t": "60",
+      "sub": "the Babylonian base",
+      "v": 12,
+      "lab": "12: 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60",
+      "acc": true
+     },
+     {
+      "t": "100",
+      "sub": "for comparison",
+      "v": 9,
+      "lab": "9: 1, 2, 4, 5, 10, 20, 25, 50, 100"
+     }
+    ],
+    "notes": [
+     "Arithmetic. Why the Sumerians chose 60 is unknown; easy division is one suggested reason."
+    ]
+   },
+   "practice": [
+    {
+     "q": "What is the fairest summary of Plimpton 322?",
+     "choices": [
+      "A triangle table whose purpose is still debated",
+      "Proof that Babylonians measured angles in degrees",
+      "Historians call it a trig table; Mansfield, a teacher's aid",
+      "One of the Astronomical Diaries begun in 652 BCE"
+     ],
+     "answer": 0,
+     "why": "Its 15 rows of numbers describing right triangles, of about 1800 BCE, are agreed; whether it is a trigonometric table, as Mansfield and Wildberger claimed in 2017, or a teacher's aid, as most historians think, is not.",
+     "wrong": {
+      "1": "It lists numbers describing right triangles; whether it is trigonometry at all is disputed.",
+      "2": "Reversed: Mansfield and Wildberger called it a trigonometric table; most historians see a teacher's aid.",
+      "3": "It dates to about 1800 BCE; the diaries begin in 652 BCE."
+     }
+    },
+    {
+     "q": "Why are there 60 minutes in an hour?",
+     "choices": [
+      "Babylonian water clocks were marked with sixty-minute dials",
+      "Base-60 fractions passed from Babylon via Greek astronomers",
+      "Greek astronomers invented base 60 for their degrees",
+      "European clockmakers chose 60 in the 16th century CE"
+     ],
+     "answer": 1,
+     "why": "The Babylonians counted in base 60; Greek astronomers such as Ptolemy divided each degree into 60 parts and 60 again, and these minutes and seconds reached clocks in the 16th century CE.",
+     "wrong": {
+      "0": "Base-60 fractions reached clocks only in the 16th century CE.",
+      "2": "The Babylonians inherited base 60 from the Sumerians; the Greeks divided the degree using it.",
+      "3": "Minutes reached clocks then, but they descend from Babylonian base-60 fractions."
+     }
+    }
+   ]
+  },
+  {
+   "title": "How Mesopotamia was rediscovered",
+   "sub": "buried cities, a lost script and an uncertain calendar",
+   "lede": "For two thousand years Mesopotamia was known mostly from the Bible and Greek writers. In the 19th century its cities, its libraries and its script came back to light, and with them a problem: exactly when everything happened.",
+   "body": [
+    "In the 1840s, Paul-Émile Botta for France and Austen Henry Layard for Britain dug into the mounds of northern Iraq and found the palaces of the Assyrian kings, with their great stone reliefs. [[c-rediscovery]] At Nineveh, Layard and Hormuzd Rassam found the library of King Ashurbanipal, over 30,000 tablets and fragments, many hardened by the fire that destroyed the city in 612 BCE. [[c-library]] Among them, George Smith would find the flood story (3.10).",
+    "Reading the tablets took decades. The key was a cliff inscription of the Persian king Darius I at Bisotun in Iran, carved in three languages, which Henry Rawlinson copied at great risk. [[c-bisotun]] By the 1850s scholars could read Akkadian, and in 1857 four of them translated the same text independently to prove it (3.2).",
+    "Even now, dates before about 1500 BCE are uncertain. Records give the order of kings and the length of reigns, but tying them to our calendar depends on astronomy and other evidence. The main chronologies put Hammurabi's accession anywhere from 1848 to 1728 BCE. [[c-chronologies]] Tree rings and radiocarbon have narrowed the choice to the 'Middle Chronology' used in this book or a date about eight years later. [[c-manning]]",
+    {
+     "table": {
+      "head": [
+       "Chronology",
+       "Hammurabi's first year",
+       "Fall of Babylon"
+      ],
+      "rows": [
+       [
+        "High",
+        "1848 BCE",
+        "1651 BCE"
+       ],
+       [
+        "Middle (used here)",
+        "1792 BCE",
+        "1595 BCE"
+       ],
+       [
+        "Low Middle",
+        "1784 BCE",
+        "1587 BCE"
+       ],
+       [
+        "Low",
+        "1728 BCE",
+        "1531 BCE"
+       ]
+      ],
+      "note": "Nahm and Roaf (2025). An 'Ultra-Low' scheme puts Hammurabi later still."
+     }
+    },
+    "The rediscovery continues, and so does the loss. After 2003 looters dug over more of southern Iraq's ancient sites than archaeologists ever had, [[c-looting]] and in 2015 extremists blew up much of the palace at Nimrud. [[c-nimrud]]",
+    {
+     "compare": "The later Assyrian and Babylonian empires, the exile of the Jews to Babylon and the conquest of Babylon by Cyrus of Persia in 539 BCE come in Chapter 7."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "When did Hammurabi reign?",
+    "title": "Hammurabi's 42-year reign under four chronologies",
+    "max": 1860,
+    "min": 1670,
+    "unit": "ka",
+    "ticks": [
+     1850,
+     1800,
+     1750,
+     1700
+    ],
+    "tickLabels": [
+     "1850 BCE",
+     "1800",
+     "1750",
+     "1700"
+    ],
+    "axis": "years BCE",
+    "hint": "Hover a row",
+    "rows": [
+     {
+      "t": "High",
+      "from": 1848,
+      "to": 1806,
+      "lab": "1848-1806",
+      "open": true
+     },
+     {
+      "t": "Middle",
+      "sub": "used in this book",
+      "from": 1792,
+      "to": 1750,
+      "lab": "1792-1750",
+      "acc": true,
+      "tip": "supported by tree rings and radiocarbon (2016)"
+     },
+     {
+      "t": "Low Middle",
+      "from": 1784,
+      "to": 1742,
+      "lab": "1784-1742",
+      "acc": true,
+      "tip": "argued for in a 2025 volume"
+     },
+     {
+      "t": "Low",
+      "from": 1728,
+      "to": 1686,
+      "lab": "1728-1686",
+      "open": true
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "A book gives Hammurabi's reign as '1792-1750 BCE'. What does that mean?",
+     "choices": [
+      "A Middle Chronology date, one of two now favoured",
+      "A date read from radiocarbon dating of his stele",
+      "The latest of the main schemes, now widely favoured",
+      "A date fixed exactly by the Venus tablet alone"
+     ],
+     "answer": 0,
+     "why": "Tree rings and radiocarbon support the Middle Chronology, which puts his accession in 1792 BCE, or a date about eight years later; a 2025 study favours 1784.",
+     "wrong": {
+      "1": "The evidence comes from timbers of palaces in Anatolia, not the stele.",
+      "2": "The latest scheme puts his accession in 1728 BCE; tree rings and radiocarbon favour 1792 or a date about eight years later.",
+      "3": "Tying reigns to our calendar depends on astronomy and other evidence; tree rings and radiocarbon have narrowed the choice."
+     }
+    },
+    {
+     "q": "Why was Ashurbanipal's library so important to the rediscovery of Mesopotamia?",
+     "choices": [
+      "Its tablets held texts such as the flood story",
+      "Botta found it in the 1840s at Khorsabad",
+      "Fire in 612 BCE destroyed most of its tablets",
+      "It held the three-language key to cuneiform"
+     ],
+     "answer": 0,
+     "why": "Ashurbanipal's library has yielded over 30,000 tablets and fragments, many hardened by fire; among them George Smith found the flood story.",
+     "wrong": {
+      "1": "Layard and Rassam found it at Nineveh.",
+      "2": "Many tablets were hardened by the fire; over 30,000 tablets and fragments survive.",
+      "3": "The three-language inscription is carved on a cliff at Bisotun in Iran."
+     }
+    }
+   ]
+  }
+ ]
+}

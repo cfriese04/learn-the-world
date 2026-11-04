@@ -1,0 +1,33 @@
+name: Check the book
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+# Read-only: this workflow never gets write access or secrets.
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Rebuild every chapter from its sources
+        run: |
+          cd build
+          for f in build.py build_*.py; do python3 "$f"; done
+          cd ..
+          python3 tools/build_index.py
+      - name: Built files must match the sources
+        run: git diff --exit-code -- content/
+      - name: Only safe HTML and https links
+        run: python3 tools/check_content.py
+      - name: Practice questions do not give away their answers
+        run: python3 tools/check_practice.py

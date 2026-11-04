@@ -1,0 +1,4874 @@
+{
+ "id": "ch10",
+ "no": "10",
+ "title": "Late antiquity and the rise of Islam",
+ "sub": "c. 250 to 750",
+ "sources": {
+  "princeton-brown": {
+   "citation": "Princeton University, Department of History, \"Peter Brown\"",
+   "url": "https://history.princeton.edu/people/peter-brown"
+  },
+  "bmcr-kulikowski2024": {
+   "citation": "Michael Kulikowski, review in Bryn Mawr Classical Review 2024.08.43",
+   "url": "https://bmcr.brynmawr.edu/?p=86771"
+  },
+  "balzan-brown": {
+   "citation": "Peter Brown, lecture at the Balzan Forum (2011)",
+   "url": "https://www.balzan.org/wp-content/uploads/2022/05/Forum2011_BROWN.pdf"
+  },
+  "brit-gibbon": {
+   "citation": "Encyclopaedia Britannica, \"Edward Gibbon: The Decline and Fall\"",
+   "url": "https://www.britannica.com/biography/Edward-Gibbon/The-Decline-and-Fall"
+  },
+  "ox-oxyrhynchus": {
+   "citation": "University of Oxford, Faculty of Classics, \"The Oxyrhynchus papyri\"",
+   "url": "https://www.sds.ox.ac.uk/oxyrhynchus-papyri"
+  },
+  "pnas-mcconnell2018": {
+   "citation": "McConnell et al., \"Lead pollution recorded in Greenland ice...\", PNAS 115 (2018)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5984482"
+  },
+  "sd-buntgen2016": {
+   "citation": "ScienceDaily, on Büntgen et al., the Late Antique Little Ice Age (2016)",
+   "url": "https://sciencedaily.com/releases/2016/02/160208112918.htm"
+  },
+  "arch-taranto2024": {
+   "citation": "Archaeology, on Zonneveld, Harper et al., plagues and climate in a Gulf of Taranto core, Science Advances (2024)",
+   "url": "https://archaeology.org/news/2024/01/30/240131-disease-climate-model/"
+  },
+  "riken-speidel": {
+   "citation": "RIKEN iTHEMS, on Speidel et al., ancient DNA and first-millennium migrations, Nature (2025)",
+   "url": "https://ithems.riken.jp/en/news/ancient-dna-unlocks-new-understanding-of-migrations-in-the-first-millennium-ad"
+  },
+  "brit-sasanian": {
+   "citation": "Encyclopaedia Britannica, \"Ancient Iran: the Sasanian period\"",
+   "url": "https://www.britannica.com/place/ancient-Iran/The-Sasanian-period"
+  },
+  "unesco-sasanian": {
+   "citation": "UNESCO World Heritage Centre, \"Sassanid Archaeological Landscape of Fars Region\"",
+   "url": "https://whc.unesco.org/en/list/1568/"
+  },
+  "brit-shapur1": {
+   "citation": "Encyclopaedia Britannica, \"Shapur I\"",
+   "url": "https://www.britannica.com/biography/Shapur-I"
+  },
+  "lactantius-mp": {
+   "citation": "Lactantius, On the Deaths of the Persecutors (New Advent)",
+   "url": "https://www.newadvent.org/fathers/0705.htm"
+  },
+  "caley1956": {
+   "citation": "Earle R. Caley and Harold D. McBride, \"Chemical composition of antoniniani of Trajan Decius, Trebonianus Gallus, and Valerian\", Ohio Journal of Science 56 (1956)",
+   "url": "https://core.ac.uk/download/76293692.pdf"
+  },
+  "livius-tetrarchy": {
+   "citation": "Livius, \"Tetrarchy\"",
+   "url": "https://www.livius.org/articles/concept/tetrarchy/"
+  },
+  "brit-diocletian": {
+   "citation": "Encyclopaedia Britannica, \"Diocletian: domestic reforms\"",
+   "url": "https://www.britannica.com/biography/Diocletian/Domestic-reforms"
+  },
+  "brit-constantine": {
+   "citation": "Encyclopaedia Britannica, \"Constantine I\" summary",
+   "url": "https://www.britannica.com/summary/Constantine-I-Roman-emperor"
+  },
+  "ect-lactantius-vision": {
+   "citation": "Lactantius, On the Deaths of the Persecutors 44 (Early Church Texts)",
+   "url": "https://www.earlychurchtexts.com/public/lactantius_constantine_heavenly_vision.htm"
+  },
+  "eusebius-vc1": {
+   "citation": "Eusebius, Life of Constantine 1.28-31 (New Advent)",
+   "url": "https://www.newadvent.org/fathers/25021.htm"
+  },
+  "girardet2023": {
+   "citation": "Klaus Martin Girardet, on Constantine's sign in the sky, Römische Quartalschrift 118 (2023)",
+   "url": "https://herder.de/rq/hefte/archiv/118-2023/3-4-2023/der-kaiser-und-ein-gottzeichen-am-himmel-konstantin-dgr-in-den-ersten-jahren-als-christ"
+  },
+  "unifr-milan": {
+   "citation": "Lactantius, On the Deaths of the Persecutors 48 (Bibliothek der Kirchenväter, Fribourg)",
+   "url": "https://bkv.unifr.ch/fr/works/cpl-91/versions/of-the-manner-in-which-the-persecutors-died/divisions/49"
+  },
+  "ft-wilken": {
+   "citation": "First Things, quoting Robert Louis Wilken on the 'Edict of Milan'",
+   "url": "https://firstthings.com/?p=24594"
+  },
+  "brit-nicaea": {
+   "citation": "Encyclopaedia Britannica, \"First Council of Nicaea\"",
+   "url": "https://www.britannica.com/event/First-Council-of-Nicaea-325"
+  },
+  "ebsco-theodosius": {
+   "citation": "EBSCO Research Starters, \"Theodosius's edicts promote Christian orthodoxy\"",
+   "url": "https://www.ebsco.com/research-starters/religion-and-philosophy/theodosiuss-edicts-promote-christian-orthodoxy"
+  },
+  "brit-constantinople": {
+   "citation": "Encyclopaedia Britannica, \"Istanbul: Constantinople\"",
+   "url": "https://www.britannica.com/place/Istanbul/Constantinople"
+  },
+  "brit-julian": {
+   "citation": "Encyclopaedia Britannica, \"Julian\" summary",
+   "url": "https://www.britannica.com/summary/Julian-Roman-emperor"
+  },
+  "ehrman-growth": {
+   "citation": "Bart Ehrman, \"The rate of Christian growth\" (Ehrman Blog)",
+   "url": "https://ehrmanblog.org/the-rate-of-christian-growth/"
+  },
+  "ehrman-significant": {
+   "citation": "Bart Ehrman, \"How significant was early Christianity?\" (Ehrman Blog)",
+   "url": "https://ehrmanblog.org/how-significant-was-early-christianity/"
+  },
+  "lucero2021": {
+   "citation": "Lucero, a model of early Christian growth (arXiv preprint, 2021)",
+   "url": "https://arxiv.org/pdf/2111.08833"
+  },
+  "npr-nicaea2025": {
+   "citation": "NPR, \"Pope Leo prays at Nicaea with the Ecumenical Patriarch\" (28 November 2025)",
+   "url": "https://www.npr.org/2025/11/28/nx-s1-5621985/pope-leo-prays-nicaea-turkey-patriarch"
+  },
+  "archmag-frankfurt": {
+   "citation": "Archaeology Magazine (Greece), on the 'Frankfurt silver inscription' (December 2024)",
+   "url": "https://archaeologymag.com/2024/12/oldest-evidence-of-christianity-north-of-the-alps"
+  },
+  "ucp-payne": {
+   "citation": "University of California Press, Richard Payne, A State of Mixture (2015)",
+   "url": "https://www.ucpress.edu/books/a-state-of-mixture/epub-pdf"
+  },
+  "brit-mani": {
+   "citation": "Encyclopaedia Britannica, \"Mani\"",
+   "url": "https://www.britannica.com/biography/Mani-Iranian-religious-leader"
+  },
+  "uw-manichaeism": {
+   "citation": "Lance Jenott, \"Manichaeism\", University of Washington Silk Road Seattle",
+   "url": "https://depts.washington.edu/silkroad/exhibit/religion/manichaeism/essay.html"
+  },
+  "iranica-jews": {
+   "citation": "Jacob Neusner, on the Jews in Sasanian Babylonia, Encyclopaedia Iranica",
+   "url": "https://www.iranicaonline.org/?p=2146"
+  },
+  "brit-talmud": {
+   "citation": "Encyclopaedia Britannica, \"Talmud and Midrash: early compilations\"",
+   "url": "https://www.britannica.com/topic/Talmud/Early-compilations"
+  },
+  "cojs-talmud": {
+   "citation": "Lawrence Schiffman, \"The Babylonian Talmud\", Center for Online Judaic Studies",
+   "url": "https://cojs.org/the_babylonian_talmud/"
+  },
+  "iranica-christianity": {
+   "citation": "James Russell, \"Christianity i: in pre-Islamic Persia\", Encyclopaedia Iranica",
+   "url": "https://iranicaonline.org/articles/christianity-i"
+  },
+  "bm-drachm": {
+   "citation": "British Museum, silver drachm of Khusrau II (C.MAR.535)",
+   "url": "https://www.britishmuseum.org/collection/object/C_MAR-535"
+  },
+  "seshat-sasanian": {
+   "citation": "Seshat Global History Databank, \"Sasanid Empire II\"",
+   "url": "https://seshat-db.com/core/polity/130"
+  },
+  "unesco-takht": {
+   "citation": "UNESCO World Heritage Centre, \"Takht-e Soleyman\"",
+   "url": "https://whc.unesco.org/en/list/1077/"
+  },
+  "brit-adrianople": {
+   "citation": "Encyclopaedia Britannica, \"Battle of Adrianople\"",
+   "url": "https://www.britannica.com/event/Battle-of-Adrianople-378"
+  },
+  "brit-sack410": {
+   "citation": "Encyclopaedia Britannica, \"Sack of Rome (410)\"",
+   "url": "https://www.britannica.com/event/Sack-of-Rome-410"
+  },
+  "brit-alaric": {
+   "citation": "Encyclopaedia Britannica, \"Alaric\"",
+   "url": "https://www.britannica.com/biography/Alaric"
+  },
+  "aug-civ1": {
+   "citation": "Augustine, City of God, Book I (Nicene and Post-Nicene Fathers translation, New Advent)",
+   "url": "https://www.newadvent.org/fathers/120101.htm"
+  },
+  "aug-civ14": {
+   "citation": "Augustine, City of God, Book XIV (Nicene and Post-Nicene Fathers translation, New Advent)",
+   "url": "https://www.newadvent.org/fathers/120114.htm"
+  },
+  "brit-odoacer": {
+   "citation": "Encyclopaedia Britannica, \"Odoacer\"",
+   "url": "https://www.britannica.com/biography/Odoacer"
+  },
+  "brit-romulus": {
+   "citation": "Encyclopaedia Britannica, \"Romulus Augustulus\"",
+   "url": "https://www.britannica.com/biography/Romulus-Augustulus"
+  },
+  "tmr-cameron": {
+   "citation": "Averil Cameron, review of Motions of Late Antiquity, The Medieval Review 17.01.17",
+   "url": "https://scholarworks.iu.edu/journals/index.php/tmr/article/view/23305"
+  },
+  "bham-trw": {
+   "citation": "University of Birmingham, \"Transformation of the Roman World\" research project",
+   "url": "https://research.birmingham.ac.uk/en/projects/transformation-of-the-roman-world"
+  },
+  "ox-wardperkins": {
+   "citation": "Oxford History Faculty, Bryan Ward-Perkins, The Fall of Rome and the End of Civilization (2005)",
+   "url": "https://www.history.ox.ac.uk/node/112181"
+  },
+  "cj-heather": {
+   "citation": "Peter S. Wells, review of Peter Heather, The Fall of the Roman Empire, Classical Journal",
+   "url": "https://cj.camws.org/Wells%20on%20Heather.pdf"
+  },
+  "the-kingsley": {
+   "citation": "Sean Kingsley, review of Ward-Perkins, Times Higher Education",
+   "url": "https://www.timeshighereducation.com/node/83996"
+  },
+  "eurekalert-speidel": {
+   "citation": "Francis Crick Institute, on Speidel et al., ancient DNA and first-millennium migrations, Nature (2025)",
+   "url": "https://www.eurekalert.org/news-releases/1069205"
+  },
+  "unesco-toledo": {
+   "citation": "UNESCO World Heritage Centre, \"Historic City of Toledo\"",
+   "url": "https://whc.unesco.org/en/list/379/"
+  },
+  "brit-recared": {
+   "citation": "Encyclopaedia Britannica, \"Recared\"",
+   "url": "https://www.britannica.com/biography/Recared"
+  },
+  "brit-toledo-councils": {
+   "citation": "Encyclopaedia Britannica, \"Councils of Toledo\"",
+   "url": "https://www.britannica.com/event/councils-of-Toledo"
+  },
+  "cohen-spain": {
+   "citation": "Rodrigo Laham Cohen, \"Spain\", in The Jews in Late Antiquity (Arc Humanities, 2018)",
+   "url": "https://cambridge.org/core/books/jews-in-late-antiquity/spain/45E37A2BFF2B5C093D55F0616597FC49"
+  },
+  "brit-justinian": {
+   "citation": "Encyclopaedia Britannica, \"Justinian I\"",
+   "url": "https://www.britannica.com/biography/Justinian-I"
+  },
+  "brit-justinian-law": {
+   "citation": "Encyclopaedia Britannica, \"Roman law: the law of Justinian\"",
+   "url": "https://www.britannica.com/topic/Roman-law/The-law-of-Justinian"
+  },
+  "brit-civil-law": {
+   "citation": "Encyclopaedia Britannica, \"Civil law (Romano-Germanic)\"",
+   "url": "https://www.britannica.com/topic/civil-law-Romano-Germanic"
+  },
+  "brit-nika": {
+   "citation": "Encyclopaedia Britannica, \"Nika riots\"",
+   "url": "https://www.britannica.com/topic/Nika-riots"
+  },
+  "unesco-istanbul": {
+   "citation": "UNESCO World Heritage Centre, \"Historic Areas of Istanbul\"",
+   "url": "https://whc.unesco.org/en/list/356/"
+  },
+  "brit-gelimer": {
+   "citation": "Encyclopaedia Britannica, \"Gelimer\"",
+   "url": "https://www.britannica.com/biography/Gelimer"
+  },
+  "brit-totila": {
+   "citation": "Encyclopaedia Britannica, \"Totila\"",
+   "url": "https://www.britannica.com/biography/Totila"
+  },
+  "procopius-plague": {
+   "citation": "Procopius, Wars II.22-23, tr. Dewing (1914), in Ancient Civilizations (Oregon State)",
+   "url": "https://open.oregonstate.education/ancientcivilizations/chapter/plague-of-justinian/"
+  },
+  "wagner2014": {
+   "citation": "Northern Arizona University, on Wagner et al., Yersinia pestis and the Plague of Justinian, Lancet Infectious Diseases (2014)",
+   "url": "https://www.eurekalert.org/pub_releases/2014-01/nau-ruh012714.php"
+  },
+  "mainz-plague2013": {
+   "citation": "Johannes Gutenberg University Mainz, 'Scientists confirm that the Justinianic plague was caused by the bacterium Yersinia pestis' (2013)",
+   "url": "https://press.uni-mainz.de/scientists-confirm-that-the-justinianic-plague-was-caused-by-the-bacterium-yersinia-pestis/"
+  },
+  "keller2019": {
+   "citation": "Phys.org, on Keller et al., genomes of the Justinianic plague, PNAS (2019)",
+   "url": "https://phys.org/news/2019-06-bacterial-diversity-justinianic-plague.amp"
+  },
+  "fau-jerash2025": {
+   "citation": "Florida Atlantic University, on Yersinia pestis from the Jerash mass grave (2025)",
+   "url": "https://www.fau.edu/newsdesk/articles/genomic-origins-first-pandemic"
+  },
+  "mordechai2019": {
+   "citation": "McMaster Ancient DNA Centre, on Mordechai et al., \"The Justinianic Plague: an inconsequential pandemic?\", PNAS (2019)",
+   "url": "https://adna.mcmaster.ca/the-justinianic-plague-an-inconsequential-pandemic"
+  },
+  "sarris-sb": {
+   "citation": "ScienceBlog, on Peter Sarris, Past & Present (2021)",
+   "url": "https://scienceblog.com/justinianic-plague-was-nothing-like-flu-and-may-have-hit-england-before-constantinople/"
+  },
+  "buntgen2016-pdf": {
+   "citation": "Büntgen et al., \"Cooling and societal change during the Late Antique Little Ice Age\", Nature Geoscience 9 (2016)",
+   "url": "https://www.climatology.uni-mainz.de/files/2012/03/Buentgen_2016_NatureGeo.pdf"
+  },
+  "toohey2016": {
+   "citation": "ScienceDaily, on Toohey et al., the eruptions of 536 and 540, Climatic Change (2016)",
+   "url": "https://sciencedaily.com/releases/2016/04/160419083247.htm"
+  },
+  "robin-himyar": {
+   "citation": "Christian Julien Robin, \"The Judaism of the ancient kingdom of Ḥimyar\", in Diversity and Rabbinization (Open Book, 2021)",
+   "url": "https://books.openbookpublishers.com/10.11647/obp.0219/ch7.xhtml"
+  },
+  "brit-lakhmid": {
+   "citation": "Encyclopaedia Britannica, \"Lakhmid dynasty\"",
+   "url": "https://www.britannica.com/topic/Lakhmid-dynasty"
+  },
+  "brit-ghassanid": {
+   "citation": "Encyclopaedia Britannica, \"Ghassanid dynasty\"",
+   "url": "https://www.Britannica.Com/place/Ghassanid-dynasty"
+  },
+  "crone2007": {
+   "citation": "Patricia Crone, \"Quraysh and the Roman army: making sense of the Meccan leather trade\", BSOAS 70 (2007)",
+   "url": "https://www.ias.edu/sites/default/files/hs/Crone_Articles/Crone_Quraysh_Leather_Trade.pdf"
+  },
+  "brit-muhammad": {
+   "citation": "Encyclopaedia Britannica, \"Muhammad\"",
+   "url": "https://www.britannica.com/biography/Muhammad"
+  },
+  "shaddel-dj": {
+   "citation": "Mehdy Shaddel, \"Doctrina Iacobi and the rise of Islam\", forthcoming in Viermann and Wienand (eds.), Reading the Late Roman Monarchy (pre-publication copy)",
+   "url": "https://almuslih.org/wp-content/uploads/2024/11/Shaddel-M-Doctrina-Iacobi-.pdf"
+  },
+  "hagarism": {
+   "citation": "Patricia Crone and Michael Cook, Hagarism (Cambridge, 1977), publisher's description",
+   "url": "https://blackwells.co.uk/bookshop/product/Hagarism-The-Making-of-the-Islamic-World-by-Patricia-Crone-Michael-Cook/9780521297547"
+  },
+  "shoemaker2012": {
+   "citation": "Stephen Shoemaker, The Death of a Prophet (Pennsylvania, 2012), record",
+   "url": "https://oeaw.ac.at/resources/Record/9780812205138"
+  },
+  "neuenkirchen2016": {
+   "citation": "Paul Neuenkirchen, review of Shoemaker, Studia Islamica 111 (2016)",
+   "url": "https://www.academia.edu/37046142"
+  },
+  "hup-donner": {
+   "citation": "Harvard University Press, Fred Donner, Muhammad and the Believers (2010)",
+   "url": "https://www.hup.harvard.edu/books/9780674064140"
+  },
+  "hoyland2007": {
+   "citation": "Robert Hoyland, \"Writing the biography of the Prophet Muhammad: problems and solutions\", History Compass (2007)",
+   "url": "https://www.academia.edu/3303289"
+  },
+  "pup-scriptures": {
+   "citation": "Princeton University Press, sample chapter 'The Scriptures: Bible, New Testament, and Quran'",
+   "url": "https://assets.press.princeton.edu/chapters/s7593.pdf"
+  },
+  "brit-quran": {
+   "citation": "Encyclopaedia Britannica, \"Qur'an\"",
+   "url": "https://www.britannica.com/topic/Quran"
+  },
+  "quran-15-9": {
+   "citation": "Quran 15:9, tr. Abdel Haleem (quran.com)",
+   "url": "https://quran.com/15/9?translations=85"
+  },
+  "bukhari-4987": {
+   "citation": "Sahih al-Bukhari 4987 (sunnah.com)",
+   "url": "https://sunnah.com/bukhari/66/9"
+  },
+  "bham-quran": {
+   "citation": "University of Birmingham, Cadbury Research Library, \"The Birmingham Qur'an manuscript: FAQs\"",
+   "url": "https://www.birmingham.ac.uk/facilities/cadbury/birmingham-quran-mingana-collection/birmingham-quran/faqs"
+  },
+  "marx-jocham2019": {
+   "citation": "Michael Marx and Tobias Jocham, \"Radiocarbon (14C) dating of Qur'an manuscripts\" (Brill, 2019), Corpus Coranicum",
+   "url": "https://corpuscoranicum.de/pdf/Radiocarbon_Dating_of_Quran_Manuscripts.pdf"
+  },
+  "iis-sanaa": {
+   "citation": "Institute of Ismaili Studies, Asma Hilali, The Sanaa Palimpsest (2017)",
+   "url": "https://iis.ac.uk/publications-listing/2017/the-sanaa-palimpsest"
+  },
+  "sinai2020": {
+   "citation": "Nicolai Sinai, review of Hilali, Journal of the American Oriental Society 140 (2020)",
+   "url": "https://lockwoodonlinejournals.com/index.php/jaos/article/download/760/603/1620"
+  },
+  "sinai2014": {
+   "citation": "Nicolai Sinai, \"When did the consonantal skeleton of the Quran reach closure?\", BSOAS 77 (2014)",
+   "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/when-did-the-consonantal-skeleton-of-the-quran-reach-closure-part-i1/D2C425AFB394D8979DE11DA4E0AAE086"
+  },
+  "ucp-shoemaker2022": {
+   "citation": "University of California Press, Stephen Shoemaker, Creating the Qur'an (2022)",
+   "url": "https://www.ucpress.edu/books/creating-the-quran/paper"
+  },
+  "quran-2-127": {
+   "citation": "Quran 2:127, tr. Abdel Haleem (quran.com)",
+   "url": "https://quran.com/2/127?translations=85"
+  },
+  "quran-2-136": {
+   "citation": "Quran 2:136, tr. Abdel Haleem (quran.com)",
+   "url": "https://quran.com/2/136?translations=85"
+  },
+  "quran-3-42": {
+   "citation": "Quran 3:42, tr. Abdel Haleem (quran.com)",
+   "url": "https://quran.com/3/42?translations=85"
+  },
+  "quran-4-157": {
+   "citation": "Quran 4:157, tr. Abdel Haleem (quran.com)",
+   "url": "https://quran.com/4/157?translations=85"
+  },
+  "reynolds2009": {
+   "citation": "Gabriel Said Reynolds, \"The Muslim Jesus: dead or alive?\", BSOAS 72 (2009)",
+   "url": "https://core-prod.cambridgecore.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/muslim-jesus-dead-or-alive/527849E7101E74FC672FB8B4F8AC5B07"
+  },
+  "nd-reynolds2018": {
+   "citation": "University of Notre Dame, on Gabriel Said Reynolds, The Qur'an and the Bible: Text and Commentary (Yale, 2018)",
+   "url": "https://theology.nd.edu/news/new-faculty-book-i-the-quran-and-the-bible-text-and-commentary-i-by-gabriel-said-reynolds/"
+  },
+  "brit-heraclius": {
+   "citation": "Encyclopaedia Britannica, \"Heraclius\"",
+   "url": "https://www.britannica.com/print/article/262495"
+  },
+  "brit-yarmuk": {
+   "citation": "Encyclopaedia Britannica, \"Battle of Yarmouk\"",
+   "url": "https://www.britannica.com/topic/Battle-of-Yarmouk-636"
+  },
+  "brit-qadisiyya": {
+   "citation": "Encyclopaedia Britannica, \"Battle of al-Qadisiyyah\"",
+   "url": "https://www.britannica.com/event/Battle-of-al-Qadisiyyah"
+  },
+  "durham-qadisiyya": {
+   "citation": "Durham University, \"Declassified spy images help locate ancient battle site\" (November 2024), on Deadman et al., Antiquity",
+   "url": "https://dur.ac.uk/news-events/latest-news/2024/11/declassified-spy-images-help-locate-ancient-battle-site/"
+  },
+  "archmag-qadisiyya": {
+   "citation": "Archaeology Magazine (Greece), on the site of al-Qadisiyyah (November 2024)",
+   "url": "https://archaeologymag.com/2024/11/site-of-al-qadisiyyah-battle-in-iraq"
+  },
+  "brit-yazdegerd": {
+   "citation": "Encyclopaedia Britannica, \"Yazdegerd III\"",
+   "url": "https://www.britannica.com/biography/Yazdegerd-III"
+  },
+  "brit-egypt-islamic": {
+   "citation": "Encyclopaedia Britannica, \"Egypt: from the Islamic conquest to 1250\"",
+   "url": "https://www.Britannica.com/place/Egypt/From-the-Islamic-conquest-to-1250"
+  },
+  "brit-kairouan": {
+   "citation": "Encyclopaedia Britannica, \"Kairouan\"",
+   "url": "https://www.britannica.com/place/Kairouan"
+  },
+  "brit-kahina": {
+   "citation": "Encyclopaedia Britannica, \"Kahinah\"",
+   "url": "https://www.britannica.com/biography/Kahinah"
+  },
+  "brit-jizya": {
+   "citation": "Encyclopaedia Britannica, \"Jizya\"",
+   "url": "https://www.Britannica.Com/topic/jizya"
+  },
+  "quran-9-29": {
+   "citation": "Quran 9:29, tr. M. A. S. Abdel Haleem (quran.com)",
+   "url": "https://quran.com/at-tawbah/29/translation/en-haleem"
+  },
+  "princeton-donner": {
+   "citation": "Princeton Near Eastern Studies, on Fred Donner, Muhammad and the Believers (Harvard, 2010)",
+   "url": "https://nes.princeton.edu/publications/muhammad-and-believers-origins-islam"
+  },
+  "buntgen2016": {
+   "citation": "Büntgen et al., \"Cooling and societal change during the Late Antique Little Ice Age from 536 to around 660 AD\", Nature Geoscience 9 (2016)",
+   "url": "https://www.nature.com/articles/ngeo2652"
+  },
+  "iranica-conversion": {
+   "citation": "E. L. Daniel, \"Conversion ii: of Iranians to Islam\", Encyclopaedia Iranica (on Richard Bulliet's method)",
+   "url": "https://www.iranicaonline.org/?p=9866"
+  },
+  "bulliet1979": {
+   "citation": "Richard Bulliet, Conversion to Islam in the Medieval Period (Harvard, 1979), record",
+   "url": "https://www.fulcrum.org/concern/monographs/hq37vn72q"
+  },
+  "brit-umayyad": {
+   "citation": "Encyclopaedia Britannica, \"Umayyad dynasty\"",
+   "url": "https://www.britannica.com/topic/Umayyad-dynasty-Islamic-history"
+  },
+  "met-dinar": {
+   "citation": "The Met, gold dinar of Abd al-Malik, 698/699",
+   "url": "https://www.metmuseum.org/art/collection/search/479469"
+  },
+  "met-dirham": {
+   "citation": "The Met, silver dirham of the Umayyad reform coinage",
+   "url": "https://www.metmuseum.org/art/collection/search/479445"
+  },
+  "brit-dome": {
+   "citation": "Encyclopaedia Britannica, \"Dome of the Rock: historical context and construction\"",
+   "url": "https://britannica.com/topic/Dome-of-the-Rock/Historical-context-and-construction"
+  },
+  "ia-dome": {
+   "citation": "Islamic Awareness, transcription and translation of the Dome of the Rock inscriptions",
+   "url": "https://www.islamic-awareness.org/history/islam/inscriptions/DoTR.html"
+  },
+  "quran-4-171": {
+   "citation": "Quran 4:171, tr. M. A. S. Abdel Haleem (quran.com)",
+   "url": "https://quran.com/an-nisa/171/translation/en-haleem"
+  },
+  "brit-roderick": {
+   "citation": "Encyclopaedia Britannica, \"Roderick\"",
+   "url": "https://britannica.com/biography/Roderick"
+  },
+  "brit-covadonga": {
+   "citation": "Encyclopaedia Britannica, \"Battle of Covadonga\"",
+   "url": "https://britannica.com/topic/Battle-of-Covadonga"
+  },
+  "brit-tours": {
+   "citation": "Encyclopaedia Britannica, \"Battle of Tours\"",
+   "url": "https://www.britannica.com/event/Battle-of-Tours"
+  },
+  "brit-abdalrahman1": {
+   "citation": "Encyclopaedia Britannica, \"Abd al-Rahman I\"",
+   "url": "https://www.britannica.com/biography/Abd-al-Rahman-I"
+  },
+  "rae-almohada": {
+   "citation": "Real Academia Española, Diccionario de la lengua española, \"almohada\"",
+   "url": "https://dle.rae.es/almohada"
+  },
+  "udep-arabismos": {
+   "citation": "Universidad de Piura, Castellano Actual, \"Desde Arabia\" (2012), on Arabic words in Spanish",
+   "url": "https://www.udep.edu.pe/castellanoactual/desde-arabia/"
+  },
+  "rae-aceite": {
+   "citation": "Real Academia Española, Diccionario de la lengua española, \"aceite\"",
+   "url": "https://dle.rae.es/aceite"
+  },
+  "rae-ojala": {
+   "citation": "Real Academia Española, Diccionario de la lengua española, \"ojalá\"",
+   "url": "https://dle.rae.es/ojal%C3%A1"
+  },
+  "brit-christotokos": {
+   "citation": "Encyclopaedia Britannica, \"Christotokos\"",
+   "url": "https://www.britannica.com/topic/Christotokos"
+  },
+  "brit-nestorius": {
+   "citation": "Encyclopaedia Britannica, \"Nestorius\"",
+   "url": "https://www.britannica.com/biography/Nestorius"
+  },
+  "brit-chalcedon": {
+   "citation": "Encyclopaedia Britannica, \"Council of Chalcedon\"",
+   "url": "https://britannica.com/event/Council-of-Chalcedon"
+  },
+  "wcc-oriental": {
+   "citation": "World Council of Churches, on the Oriental Orthodox churches",
+   "url": "https://oikoumene.org/node/6097"
+  },
+  "vatican-1994": {
+   "citation": "Common Christological Declaration between the Catholic Church and the Assyrian Church of the East (11 November 1994)",
+   "url": "https://www.vatican.va/content/john-paul-ii/en/speeches/1994/november/documents/hf_jp-ii_spe_19941111_dichiarazione-cristologica.html"
+  },
+  "ct-armenia2026": {
+   "citation": "Christianity Today, on Armenia as the first Christian nation (January 2026), adapted from Mark W. Graham, 30 Key Moments in the History of Christianity",
+   "url": "https://www.christianitytoday.com/2026/01/first-christian-nation-armenia-history-book"
+  },
+  "unesco-mtskheta": {
+   "citation": "UNESCO World Heritage Centre, \"Historical Monuments of Mtskheta\"",
+   "url": "https://whc.unesco.org/en/list/708"
+  },
+  "brit-nino": {
+   "citation": "Encyclopaedia Britannica, \"Saint Nino\"",
+   "url": "https://www.britannica.com/biography/Saint-Nino"
+  },
+  "sh-aksum-coins": {
+   "citation": "Smarthistory / British Museum, \"Aksumite coins\"",
+   "url": "https://smarthistory.org/aksumite-coins"
+  },
+  "brit-kebra": {
+   "citation": "Encyclopaedia Britannica, \"Kebra Negast\"",
+   "url": "https://britannica.com/topic/Kebra-Negast"
+  },
+  "bg-1kings10": {
+   "citation": "1 Kings 10:1-13 (NRSVUE)",
+   "url": "https://www.biblegateway.com/passage/?search=1+Kings+10%3A1-13&version=NRSVUE"
+  },
+  "martens2015": {
+   "citation": "Małgorzata Martens-Czarnecka, on the Christianisation of Nubia, Studia Ceranea 5 (2015)",
+   "url": "https://czasopisma.uni.lodz.pl/sceranea/article/download/5366/5036/15423"
+  },
+  "uw-xian": {
+   "citation": "University of Washington, on the Xi'an 'Nestorian' stele",
+   "url": "https://depts.washington.edu/ealclir/wordpress/?p=474"
+  },
+  "bham-xian": {
+   "citation": "University of Birmingham ePapers, on the Xi'an stele",
+   "url": "https://epapers.bham.ac.uk/755/"
+  },
+  "brit-patrick": {
+   "citation": "Encyclopaedia Britannica, \"Saint Patrick\"",
+   "url": "https://www.Britannica.Com/biography/Saint-Patrick"
+  },
+  "hes-iona": {
+   "citation": "Historic Environment Scotland, \"Iona Abbey and Nunnery: history\"",
+   "url": "https://historicenvironment.scot/visit-a-place/places/iona-abbey-and-nunnery/history"
+  },
+  "brit-sui": {
+   "citation": "Encyclopaedia Britannica, \"China: the Sui dynasty\"",
+   "url": "https://www.Britannica.Com/place/China/The-Sui-dynasty"
+  },
+  "ebsco-wjin": {
+   "citation": "Thomas McGeary, \"Western Jin Dynasty\", EBSCO Research Starters (2022)",
+   "url": "https://www.ebsco.com/research-starters/history/western-jin-dynasty"
+  },
+  "unesco-grandcanal": {
+   "citation": "UNESCO World Heritage Centre, \"The Grand Canal\"",
+   "url": "https://whc.unesco.org/en/list/1443"
+  },
+  "brit-gaozu-tang": {
+   "citation": "Encyclopaedia Britannica, \"Gaozu\" (emperor of the Tang dynasty)",
+   "url": "https://www.britannica.com/biography/Gaozu-emperor-of-Tang-dynasty"
+  },
+  "brit-steppe-turks": {
+   "citation": "Encyclopaedia Britannica, \"The steppe: the era of Turkic predominance, 550-1200\"",
+   "url": "https://www.Britannica.Com/place/the-Steppe/The-era-of-Turkic-predominance-550-1200"
+  },
+  "brit-harsha": {
+   "citation": "Encyclopaedia Britannica, \"Harsha\"",
+   "url": "https://www.britannica.com/biography/Harsha"
+  },
+  "cowgill2015": {
+   "citation": "George Cowgill, Ancient Teotihuacan (Cambridge, 2015), ch. 9",
+   "url": "https://core-prod.cambridgecore.org/core/books/ancient-teotihuacan/interesting-times-teotihuacan-comes-apart-and-a-new-story-begins-550-ce-and-after/21338750E61C3AE3BCE97A8B4BB269D6"
+  },
+  "newswise-teo": {
+   "citation": "Newswise / Iowa State University, \"Search for clues may explain the collapse of ancient city in Mexico\" (2022)",
+   "url": "https://www.newswise.com/articles/search-for-clues-may-explain-the-collapse-of-ancient-city-in-mexico"
+  },
+  "natgeo-teo": {
+   "citation": "National Geographic, \"Teotihuacan\"",
+   "url": "https://www.nationalgeographic.com/history/archaeology/teotihuacan/"
+  },
+  "princeton-changan": {
+   "citation": "Princeton East Asian Studies, course description 'Chang'an: China's medieval metropolis'",
+   "url": "https://eas.princeton.edu/courses/changan-chinas-medieval-metropolis-1"
+  },
+  "ku-teo2025": {
+   "citation": "University of Copenhagen, on Hansen and Helmke's hypothesis about Teotihuacan writing (October 2025)",
+   "url": "https://news.ku.dk/all_news/2025/10/researchers-on-the-verge-of-solving-mexican-mystery/"
+  },
+  "ls-teo-quakes": {
+   "citation": "Live Science, on the earthquake hypothesis for Teotihuacan (2024)",
+   "url": "https://www.livescience.com/archaeology/5-catastrophic-megathrust-earthquakes-led-to-the-demise-of-the-pre-aztec-city-of-teotihuacan-new-study-suggests"
+  },
+  "brit-lateclassic": {
+   "citation": "Encyclopaedia Britannica, \"Pre-Columbian civilizations: Late Classic Lowland Maya, 600-900\"",
+   "url": "https://www.britannica.com/topic/pre-Columbian-civilizations/Late-Classic-Lowland-Maya-600-900"
+  },
+  "ls-maya2025": {
+   "citation": "Live Science, on Estrada-Belli et al., the Maya population estimate from lidar (2025)",
+   "url": "https://www.livescience.com/archaeology/maya-civilization-had-16-million-people-at-peak-new-study-finds-twice-the-population-of-modern-day-nyc"
+  }
+ },
+ "claims": {
+  "c-brown": {
+   "text": "Peter Brown's The World of Late Antiquity (1971) is credited with creating the field; he has argued that the period was not simply one of decline, and in 2011 said that historians 'have grown tired of melodramatic ruminations on decline and fall'.",
+   "label": "debated",
+   "sources": [
+    "princeton-brown",
+    "bmcr-kulikowski2024",
+    "balzan-brown"
+   ],
+   "show": true,
+   "note": "Brown's view; critics such as Bryan Ward-Perkins argue that in the West it was a real fall (see 10.4)."
+  },
+  "c-gibbon": {
+   "text": "Edward Gibbon's Decline and Fall of the Roman Empire (1776-88) summed up the story as 'the triumph of barbarism and religion'.",
+   "label": "consensus",
+   "sources": [
+    "brit-gibbon"
+   ],
+   "show": false
+  },
+  "c-oxyrhynchus": {
+   "text": "Rubbish dumps at Oxyrhynchus in Egypt, dug in 1896-1907, yielded thousands of texts on papyrus from the 2nd century BCE to the 7th century CE: tax records, census returns, petitions, letters, and early copies of the Bible.",
+   "label": "consensus",
+   "sources": [
+    "ox-oxyrhynchus"
+   ],
+   "show": false
+  },
+  "c-ice10": {
+   "text": "Lead in Greenland ice records European mining and smelting year by year; it shows the Roman economy's long growth ending with the Antonine plague of the 160s.",
+   "label": "debated",
+   "sources": [
+    "pnas-mcconnell2018"
+   ],
+   "show": true,
+   "note": "The record is secure; reading it as a measure of the whole economy is debated."
+  },
+  "c-taranto": {
+   "text": "A 2024 study of a sediment core from the Gulf of Taranto found that three great epidemics, in the 160s, the 250s and the 540s, each came during a cooler, drier phase in Italy.",
+   "label": "debated",
+   "sources": [
+    "arch-taranto2024"
+   ],
+   "show": true,
+   "note": "New. A correlation in time; the mechanism is unknown, and so are the pathogens of the first two."
+  },
+  "c-ardashir": {
+   "text": "In about 224 Ardashir, a prince of Fars, defeated the last Parthian king and founded the Sasanian dynasty, which ruled Iran and Iraq until 651.",
+   "label": "approx",
+   "sources": [
+    "brit-sasanian",
+    "unesco-sasanian"
+   ],
+   "show": true,
+   "note": "Britannica's own article gives both 224 and 226 for the decisive battle."
+  },
+  "c-shapur-claims": {
+   "text": "Shapur I (reigned 241-272) recorded his victories over Rome in Persian, Parthian and Greek on a monument at Naqsh-e Rostam, claiming the death of one emperor, a ransom of 500,000 gold pieces from another, and 60,000 Romans destroyed in one battle.",
+   "label": "tradition",
+   "sources": [
+    "brit-sasanian"
+   ],
+   "show": true,
+   "note": "These are the king's own claims."
+  },
+  "c-valerian": {
+   "text": "In 260 Shapur captured the Roman emperor Valerian near Edessa and held him for the rest of his life; rock reliefs show the scene.",
+   "label": "consensus",
+   "sources": [
+    "brit-shapur1"
+   ],
+   "show": false
+  },
+  "c-valerian-legend": {
+   "text": "The Christian writer Lactantius says Shapur used Valerian as a footstool and later had his skin dyed red and hung in a temple.",
+   "label": "tradition",
+   "sources": [
+    "lactantius-mp"
+   ],
+   "show": true,
+   "note": "Lactantius tells it as God's punishment of a persecutor of Christians; it is polemic, not reporting."
+  },
+  "c-deportees": {
+   "text": "Roman prisoners from Antioch were settled in Iran, where they built the city of Gundeshapur and a great dam at Shushtar.",
+   "label": "consensus",
+   "sources": [
+    "brit-shapur1"
+   ],
+   "show": false
+  },
+  "c-debasement3": {
+   "text": "Chemical analysis shows the main silver coin, the antoninianus, fell from about 35 percent silver under Decius (249-251) to about 18 percent under Valerian and about 5 percent under Gallienus in the 260s.",
+   "label": "approx",
+   "sources": [
+    "caley1956"
+   ],
+   "show": true,
+   "note": "Averages from analysed coins; individual coins vary."
+  },
+  "c-tetrarchy": {
+   "text": "Diocletian (284-305) shared power: from 286 two senior emperors (Augusti) and from 293 two junior ones (Caesars), the 'tetrarchy'; in 305 he and his colleague abdicated.",
+   "label": "consensus",
+   "sources": [
+    "livius-tetrarchy",
+    "brit-diocletian"
+   ],
+   "show": false
+  },
+  "c-diocletian-reforms": {
+   "text": "Diocletian reorganised taxation around new assessments of land and people, made at first every five years and later on a fifteen-year cycle, enlarged the army by about a quarter, restored good gold and silver coins and nearly doubled the number of mints (from 8 to 15).",
+   "label": "consensus",
+   "sources": [
+    "brit-diocletian"
+   ],
+   "show": false
+  },
+  "c-price-edict": {
+   "text": "His Edict on Maximum Prices (301) fixed maximum prices and wages for about 1,000 goods and services on pain of death; it proved unenforceable and was abandoned.",
+   "label": "consensus",
+   "sources": [
+    "brit-diocletian"
+   ],
+   "show": false
+  },
+  "c-persecution": {
+   "text": "On 23 February 303 soldiers razed the church at Nicomedia, the start of the 'Great Persecution'; four edicts followed, until Galerius issued an edict of toleration in April 311.",
+   "label": "consensus",
+   "sources": [
+    "lactantius-mp",
+    "brit-diocletian"
+   ],
+   "show": false
+  },
+  "c-milvian": {
+   "text": "Constantine defeated his rival Maxentius at the Milvian Bridge outside Rome in 312 and became master of the West.",
+   "label": "consensus",
+   "sources": [
+    "brit-constantine"
+   ],
+   "show": false
+  },
+  "c-sign": {
+   "text": "Two Christian writers describe a sign before the battle: Lactantius says Constantine was told in a dream to put a heavenly sign on his soldiers' shields; Eusebius, who says Constantine told him under oath, describes a cross of light in the sky with the words 'Conquer by this'.",
+   "label": "tradition",
+   "sources": [
+    "ect-lactantius-vision",
+    "eusebius-vc1"
+   ],
+   "show": true,
+   "note": "The two accounts differ, and what Constantine saw, if anything, is unknowable."
+  },
+  "c-girardet": {
+   "text": "A 2023 study argues that the detailed description of the sign in Lactantius is a later addition, and that he meant a simple cross.",
+   "label": "debated",
+   "sources": [
+    "girardet2023"
+   ],
+   "show": true,
+   "note": "New; Klaus Girardet's argument is not yet widely tested."
+  },
+  "c-milan": {
+   "text": "In 313 Constantine and his co-emperor Licinius agreed to grant 'the Christians and all others' freedom of religion; the text that survives is a letter Licinius posted in the East, so the famous 'Edict of Milan' was neither an edict nor issued at Milan.",
+   "label": "consensus",
+   "sources": [
+    "unifr-milan",
+    "ft-wilken"
+   ],
+   "show": false
+  },
+  "c-nicaea": {
+   "text": "The Council of Nicaea (325), called by Constantine, condemned Arius, who taught that the Son was a created being, and declared the Son 'of one substance' (homoousios) with the Father, a word not found in Scripture.",
+   "label": "consensus",
+   "sources": [
+    "brit-nicaea"
+   ],
+   "show": false
+  },
+  "c-constantinople": {
+   "text": "Constantine refounded Byzantium as 'New Rome', inaugurated on 11 May 330; it became Constantinople.",
+   "label": "consensus",
+   "sources": [
+    "brit-constantinople"
+   ],
+   "show": false
+  },
+  "c-julian": {
+   "text": "Julian (361-363), the last pagan emperor, proclaimed freedom of worship while favouring the old gods; he was killed on campaign in Persia.",
+   "label": "consensus",
+   "sources": [
+    "brit-julian"
+   ],
+   "show": false
+  },
+  "c-theodosius": {
+   "text": "Theodosius I made Nicene Christianity the empire's official faith by an edict of 380, and in 391-392 banned pagan sacrifice; in about 391 the great temple of Serapis in Alexandria was destroyed.",
+   "label": "debated",
+   "sources": [
+    "ebsco-theodosius"
+   ],
+   "show": true,
+   "note": "The 380 edict defined which Christians were orthodox; the laws of 391-392 struck at public pagan cult. Which counts as making Christianity the 'state religion' is a matter of definition."
+  },
+  "c-stark": {
+   "text": "Sociologist Rodney Stark calculated that steady growth of about 40 percent a decade would take Christians from about 1,000 in 40 CE to about 6 million, a tenth of the empire, by 300, with no mass conversions needed.",
+   "label": "debated",
+   "sources": [
+    "ehrman-growth",
+    "ehrman-significant"
+   ],
+   "show": true,
+   "note": "A model, not a count; Bart Ehrman calls these figures 'guestimates and round numbers' for illustration."
+  },
+  "c-stark-critics": {
+   "text": "Critics note that the same steady rate would give some 170 million Christians by 400, more than the empire's whole population, so growth must have slowed.",
+   "label": "debated",
+   "sources": [
+    "ehrman-growth",
+    "lucero2021"
+   ],
+   "show": true,
+   "note": "Bart Ehrman and others; one 2021 model has growth slowing to about 21 percent a decade by 400."
+  },
+  "c-nicaea2025": {
+   "text": "On 28 November 2025 Pope Leo XIV and the Ecumenical Patriarch Bartholomew prayed together at the ruins of a basilica on the lake at Iznik, ancient Nicaea, for the council's 1,700th anniversary.",
+   "label": "consensus",
+   "sources": [
+    "npr-nicaea2025"
+   ],
+   "show": false
+  },
+  "c-frankfurt": {
+   "text": "In 2024 a silver amulet from a Frankfurt grave of about 230-270, inscribed 'In the name of Jesus Christ, Son of God', was announced as the oldest evidence of Christianity north of the Alps.",
+   "label": "approx",
+   "sources": [
+    "archmag-frankfurt"
+   ],
+   "show": true,
+   "note": "New. The grave's date is approximate."
+  },
+  "c-kartir": {
+   "text": "The Zoroastrian high priest Kartir, powerful from the 270s to the 290s, boasted in inscriptions of suppressing Jews, Buddhists, Brahmins, Christians and others.",
+   "label": "debated",
+   "sources": [
+    "brit-sasanian"
+   ],
+   "show": true,
+   "note": "These are his own claims; how much persecution actually happened is uncertain."
+  },
+  "c-payne": {
+   "text": "Richard Payne (2015) argues that Christians in Sasanian Iran were less a marginal, persecuted minority than participants integrated into elite networks and imperial institutions, within a hierarchy headed by Zoroastrianism.",
+   "label": "debated",
+   "sources": [
+    "ucp-payne"
+   ],
+   "show": true,
+   "note": "This revises the older picture of a Zoroastrian 'state church' persecuting other faiths."
+  },
+  "c-mani": {
+   "text": "Mani, born in Babylonia in 216, preached a religion of light and darkness under Shapur I; under Bahram I he was imprisoned and died in about 274-277.",
+   "label": "approx",
+   "sources": [
+    "brit-mani"
+   ],
+   "show": true,
+   "note": "Sources differ on the year of his death."
+  },
+  "c-manichaeism": {
+   "text": "Manichaeism spread west to Roman North Africa, where the young Augustine followed it, and east along the Silk Road, where the Uighurs made it their state religion from about 762 to 840.",
+   "label": "consensus",
+   "sources": [
+    "uw-manichaeism"
+   ],
+   "show": false
+  },
+  "c-exilarch": {
+   "text": "Under the Sasanians the Jews of Babylonia governed their own affairs under a recognised leader, the exilarch, while accepting the rabbi Samuel's rule that 'the law of the government is law' in matters of land and tax.",
+   "label": "consensus",
+   "sources": [
+    "iranica-jews"
+   ],
+   "show": false
+  },
+  "c-bavli": {
+   "text": "The Babylonian Talmud, compiled by the rabbis of Mesopotamia, became the central text of Jewish law; tradition ends its compilation with Rav Ashi (died 427) and Rabina (died 499).",
+   "label": "debated",
+   "sources": [
+    "brit-talmud",
+    "cojs-talmud"
+   ],
+   "show": true,
+   "note": "Modern scholars see editing continuing well into the 6th century, in informal study circles rather than formal academies."
+  },
+  "c-persian-christians": {
+   "text": "Christians, many descended from Roman deportees, had bishops in Persia from early in the Sasanian period, and a Persian bishop attended the Council of Nicaea.",
+   "label": "approx",
+   "sources": [
+    "iranica-christianity"
+   ],
+   "show": true,
+   "note": "Early numbers are uncertain."
+  },
+  "c-shapur2-persecution": {
+   "text": "Shapur II began a persecution of Christians in 339 that lasted some forty years, perhaps killing 35,000.",
+   "label": "debated",
+   "sources": [
+    "iranica-christianity"
+   ],
+   "show": true,
+   "note": "The figure comes from later Christian martyr literature; Payne's revision applies here too."
+  },
+  "c-church-east": {
+   "text": "In 410 a synod at Ctesiphon adopted the Nicene creed, and in 424 the church of Persia declared its head, the catholicos, independent of western bishops: the 'Church of the East', using Syriac.",
+   "label": "consensus",
+   "sources": [
+    "iranica-christianity"
+   ],
+   "show": false
+  },
+  "c-drachm": {
+   "text": "Sasanian silver drachms, with the crowned king on one side and a fire altar on the other, were struck in huge numbers and weighed about 4 grams.",
+   "label": "consensus",
+   "sources": [
+    "bm-drachm",
+    "brit-sasanian"
+   ],
+   "show": false
+  },
+  "c-khosrow-tax": {
+   "text": "Khosrow I (531-579) replaced land taxes paid in kind with fixed cash assessments, a system the Arab conquerors kept.",
+   "label": "consensus",
+   "sources": [
+    "brit-sasanian"
+   ],
+   "show": false
+  },
+  "c-sasanian-pop": {
+   "text": "Rough estimates put the Sasanian empire's population at about 9 million around 500 and about 13 million later in the 6th century; a figure of over 20 million for 620-642 counts Roman provinces occupied during the war of 602-628.",
+   "label": "approx",
+   "sources": [
+    "seshat-sasanian"
+   ],
+   "show": true,
+   "note": "Figures from Colin McEvedy and Richard Jones (1978), compiled by the Seshat databank, which flags gaps in them; treat them as rough."
+  },
+  "c-takht": {
+   "text": "Takht-e Soleyman in north-west Iran was the Sasanian kings' great fire sanctuary.",
+   "label": "consensus",
+   "sources": [
+    "unesco-takht"
+   ],
+   "show": false
+  },
+  "c-adrianople": {
+   "text": "On 9 August 378, near Adrianople (Edirne), Goths who had been admitted into the empire and then rebelled destroyed a Roman army and killed the emperor Valens.",
+   "label": "consensus",
+   "sources": [
+    "brit-adrianople"
+   ],
+   "show": false
+  },
+  "c-adrianople-toll": {
+   "text": "Some ancient accounts put the Roman dead at over 40,000, and the historian Ammianus called it the worst slaughter since Cannae.",
+   "label": "approx",
+   "sources": [
+    "brit-adrianople"
+   ],
+   "show": true,
+   "note": "Ancient casualty figures are unreliable."
+  },
+  "c-sack410": {
+   "text": "On 24 August 410 Alaric's Visigoths entered Rome and plundered it for three days; the city had not been captured by a foreign enemy for nearly 800 years. Most citizens were spared.",
+   "label": "consensus",
+   "sources": [
+    "brit-sack410",
+    "brit-alaric"
+   ],
+   "show": false
+  },
+  "c-augustine": {
+   "text": "Augustine began the City of God in 413 to answer pagans who blamed Christianity for the disaster; he contrasted two cities, one built by love of self and one by love of God.",
+   "label": "consensus",
+   "sources": [
+    "brit-sack410",
+    "aug-civ1",
+    "aug-civ14"
+   ],
+   "show": false
+  },
+  "c-476": {
+   "text": "In 476 the general Odoacer deposed the boy emperor Romulus Augustulus and ruled Italy as king; the date is traditionally taken as the end of the western Roman empire.",
+   "label": "tradition",
+   "sources": [
+    "brit-odoacer",
+    "brit-romulus"
+   ],
+   "show": true,
+   "note": "It is a convention: the eastern court never recognised Romulus, and little changed in Italy that year."
+  },
+  "c-fall-debate": {
+   "text": "Whether the western empire 'fell' or was 'transformed' is one of the great debates of history.",
+   "label": "debated",
+   "sources": [
+    "tmr-cameron",
+    "bham-trw",
+    "ox-wardperkins",
+    "cj-heather"
+   ],
+   "show": true,
+   "note": "Peter Brown and the European 'Transformation of the Roman World' project (1993-98) stressed continuity; Bryan Ward-Perkins (2005) calls that view 'badly in error' and describes 'a time of horror and dislocation'; Peter Heather argues the main cause was the military power of Rome's enemies."
+  },
+  "c-material": {
+   "text": "Ward-Perkins points to material evidence: in much of the West, roof tiles and coins disappeared from daily life, and cattle shrank from about 120 cm to about 112 cm at the shoulder.",
+   "label": "approx",
+   "sources": [
+    "the-kingsley"
+   ],
+   "show": true,
+   "note": "These are his figures as reported by a reviewer; critics accept the decline but argue about how much it mattered."
+  },
+  "c-speidel2025": {
+   "text": "A 2025 study of more than 1,500 ancient genomes found ancestry from Iron Age Scandinavia spreading into southern Germany, Italy, Poland and Britain during the first millennium CE.",
+   "label": "debated",
+   "sources": [
+    "eurekalert-speidel"
+   ],
+   "show": true,
+   "note": "New. It shows that people really moved; the authors say the 'nature, scale and even the trajectories' of the movements are still disputed."
+  },
+  "c-toledo": {
+   "text": "Toledo became the capital of the Visigothic kingdom of Spain.",
+   "label": "consensus",
+   "sources": [
+    "unesco-toledo"
+   ],
+   "show": false
+  },
+  "c-recared": {
+   "text": "King Reccared (586-601) converted from Arian to Catholic Christianity, and at the Third Council of Toledo in 589 Catholicism became the religion of the kingdom; eighteen councils met at Toledo between about 400 and 702 and shaped its law and politics.",
+   "label": "consensus",
+   "sources": [
+    "brit-recared",
+    "brit-toledo-councils"
+   ],
+   "show": false
+  },
+  "c-visigoth-jews": {
+   "text": "Visigothic kings turned on the kingdom's Jews: Sisebut ordered them to convert between 612 and 616, and a council in 694 decreed their enslavement.",
+   "label": "debated",
+   "sources": [
+    "cohen-spain"
+   ],
+   "show": true,
+   "note": "The laws are certain; how far they were enforced, and whether they targeted converts, is unclear."
+  },
+  "c-justinian": {
+   "text": "Justinian, born about 483 in the Balkans and a native Latin speaker, ruled the eastern empire from 527 to 565.",
+   "label": "consensus",
+   "sources": [
+    "brit-justinian"
+   ],
+   "show": false
+  },
+  "c-corpus": {
+   "text": "His lawyers compiled the Corpus Juris Civilis: the Code of imperial laws (529, revised 534), the Digest of the jurists in 50 books (533), the Institutes, a textbook, and the Novels, his own new laws.",
+   "label": "consensus",
+   "sources": [
+    "brit-justinian-law"
+   ],
+   "show": false
+  },
+  "c-civil-law": {
+   "text": "Rediscovered in the Middle Ages, Justinian's Corpus became the basis of legal study across Europe and a main root of the civil-law tradition of continental Europe, later adopted in much of Latin America.",
+   "label": "consensus",
+   "sources": [
+    "brit-civil-law",
+    "brit-justinian-law"
+   ],
+   "show": false
+  },
+  "c-nika": {
+   "text": "In January 532 the rival Blue and Green circus factions united in the Nika riot, burned much of Constantinople and proclaimed a rival emperor; Justinian stayed, on the advice of the empress Theodora, and his general Belisarius crushed the revolt in a massacre.",
+   "label": "consensus",
+   "sources": [
+    "brit-nika"
+   ],
+   "show": false
+  },
+  "c-hagia": {
+   "text": "The Hagia Sophia, designed by Anthemius of Tralles and Isidore of Miletus to replace a church burned in the riot, was built in just five years, 532-537.",
+   "label": "consensus",
+   "sources": [
+    "unesco-istanbul",
+    "brit-nika"
+   ],
+   "show": false
+  },
+  "c-africa": {
+   "text": "Belisarius destroyed the Vandal kingdom in North Africa in 533-534, restoring Roman rule there.",
+   "label": "consensus",
+   "sources": [
+    "brit-gelimer"
+   ],
+   "show": false
+  },
+  "c-italy": {
+   "text": "Italy was harder: the Goths were beaten by 540, but under Totila they won most of it back, and only in 552 did Narses defeat Totila at Taginae.",
+   "label": "consensus",
+   "sources": [
+    "brit-totila"
+   ],
+   "show": false
+  },
+  "c-procopius-plague": {
+   "text": "The historian Procopius says the plague began at Pelusium in Egypt and reached Constantinople in 542, where at its height it killed 5,000 and then 10,000 people a day, with 'a bubonic swelling'.",
+   "label": "tradition",
+   "sources": [
+    "procopius-plague"
+   ],
+   "show": true,
+   "note": "An eyewitness account; his numbers cannot be checked."
+  },
+  "c-ypestis": {
+   "text": "DNA from victims' teeth at Aschheim in Bavaria confirmed in 2013 that the pandemic was caused by Yersinia pestis, the bacterium of the later Black Death; the first genome followed in 2014, showing a different lineage that died out, and a 2019 study of 21 sites across western Europe added eight more genomes.",
+   "label": "consensus",
+   "sources": [
+    "mainz-plague2013",
+    "wagner2014",
+    "keller2019"
+   ],
+   "show": false
+  },
+  "c-jerash": {
+   "text": "In 2025 researchers reported plague genomes from a mass grave under the hippodrome at Jerash in Jordan, the first direct genetic proof of the pandemic inside the eastern empire.",
+   "label": "approx",
+   "sources": [
+    "fau-jerash2025"
+   ],
+   "show": true,
+   "note": "New. The burials are dated to about 550-660."
+  },
+  "c-plague-toll": {
+   "text": "How many died is fiercely debated.",
+   "label": "debated",
+   "sources": [
+    "mordechai2019",
+    "sarris-sb"
+   ],
+   "show": true,
+   "note": "Older estimates ran to tens of millions. Lee Mordechai, Merle Eisenberg and colleagues (2019) found that papyri, laws, coins and pollen do not support such figures; Peter Sarris (2021) answers that laws, coin weights and new DNA show a catastrophe."
+  },
+  "c-536": {
+   "text": "Volcanic eruptions in 536 and 540 brought what was probably the coldest decade of the last 2,000 years in the northern hemisphere, the start of a 'Late Antique Little Ice Age' that lasted to about 660.",
+   "label": "approx",
+   "sources": [
+    "buntgen2016-pdf",
+    "toohey2016"
+   ],
+   "show": true,
+   "note": "The cooling is measured in tree rings and ice cores; the volcanoes themselves have not been securely identified."
+  },
+  "c-himyar": {
+   "text": "In Himyar, the kingdom of Yemen, royal inscriptions abandoned the old gods for a single 'Lord of the Sky' around 380-384, and a community calling itself 'Israel' appears; the kingdom's rulers leaned towards Judaism.",
+   "label": "debated",
+   "sources": [
+    "robin-himyar"
+   ],
+   "show": true,
+   "note": "Christian Julien Robin calls it a 'discreet conversion', because royal inscriptions never name Judaism outright; how close it was to rabbinic Judaism is disputed."
+  },
+  "c-najran": {
+   "text": "The Jewish king Joseph (Yusuf) rebelled against Aksumite overlordship in 522-523; Christian and Muslim accounts say he massacred the Christians of Najran, and Aksum invaded in 525 and killed him.",
+   "label": "tradition",
+   "sources": [
+    "robin-himyar"
+   ],
+   "show": true,
+   "note": "The campaigns are recorded in some ten contemporary inscriptions of 523, which make no clear mention of religion, though two of them invoke Rahmanan as 'Lord of the Jews'; the massacre is known from Syriac and Greek Christian texts and later Muslim narratives."
+  },
+  "c-lakhmid-ghassanid": {
+   "text": "In the north, two Arab Christian dynasties guarded the empires' desert frontiers: the Lakhmids at al-Hira for Persia, ended in 602, and the Ghassanids for Rome, whose last ruler was defeated by the Muslim armies in 636.",
+   "label": "consensus",
+   "sources": [
+    "brit-lakhmid",
+    "brit-ghassanid"
+   ],
+   "show": false
+  },
+  "c-mecca-trade": {
+   "text": "What made Mecca prosperous is debated.",
+   "label": "debated",
+   "sources": [
+    "crone2007"
+   ],
+   "show": true,
+   "note": "Patricia Crone called the old picture of a rich spice and incense trade a myth, and suggested Meccan merchants sold leather and wool, perhaps to the Roman army, an idea she said 'can be made' but is 'not proved'."
+  },
+  "c-muhammad-life": {
+   "text": "According to Muslim tradition, Muhammad was born in Mecca about 570, received his first revelation at about 40, emigrated to Medina in 622 (the hijra, year 1 of the Islamic calendar), took Mecca in 630 and died in Medina in 632.",
+   "label": "tradition",
+   "sources": [
+    "brit-muhammad"
+   ],
+   "show": true,
+   "note": "The outline comes from Muslim sources written down a century and more later."
+  },
+  "c-sira": {
+   "text": "The Quran itself gives little biography; the earliest full life, by Ibn Ishaq (died 767/768), survives mainly in a later abridgement. Non-Muslim sources from within decades of his death confirm that an Arab prophet named Muhammad existed.",
+   "label": "consensus",
+   "sources": [
+    "brit-muhammad"
+   ],
+   "show": false
+  },
+  "c-doctrina": {
+   "text": "A Greek Christian text, the Doctrina Jacobi, reports that 'a prophet appeared, coming with the Saracens', proclaiming 'the arrival of the coming Anointed One and Christ'.",
+   "label": "debated",
+   "sources": [
+    "shaddel-dj"
+   ],
+   "show": true,
+   "note": "It is usually dated to about 634, which would make it the earliest outside reference; Mehdy Shaddel argues it was written decades later, in the Umayyad period."
+  },
+  "c-revisionists": {
+   "text": "Historians disagree about how far the traditional biography can be trusted.",
+   "label": "debated",
+   "sources": [
+    "hagarism",
+    "shoemaker2012",
+    "neuenkirchen2016",
+    "hup-donner",
+    "hoyland2007"
+   ],
+   "show": true,
+   "note": "Patricia Crone and Michael Cook (1977) rebuilt early Islam from non-Muslim sources alone; Stephen Shoemaker argues Muhammad lived to lead the first attack on Palestine in 634; Fred Donner describes an open movement of 'Believers'; Robert Hoyland surveys both sides and finds no reliable test of authenticity. Traditional Muslim scholarship accepts the outline of the sira."
+  },
+  "c-quran-structure": {
+   "text": "The Quran, roughly the length of the New Testament, has 114 suras (chapters), usually counted as 6,236 verses; after the short opening sura they are arranged roughly from longest to shortest.",
+   "label": "consensus",
+   "sources": [
+    "brit-quran",
+    "pup-scriptures"
+   ],
+   "show": false
+  },
+  "c-quran-muslim": {
+   "text": "Muslims hold the Quran to be the very word of God, revealed through the angel Gabriel to Muhammad; it says of itself, 'We have sent down the Quran Ourself, and We Ourself will guard it' (15:9).",
+   "label": "tradition",
+   "sources": [
+    "brit-quran",
+    "quran-15-9"
+   ],
+   "show": true,
+   "note": "This is the belief of Muslims and the text's own claim; the translation is Abdel Haleem's."
+  },
+  "c-uthman": {
+   "text": "Muslim tradition holds that the caliph Uthman had a standard text copied from the manuscripts kept by Hafsa, sent a copy to every Muslim province, and ordered all other Quranic material burned, so that Muslims would not 'differ about the Book (Qur'an) as Jews and the Christians did before'.",
+   "label": "tradition",
+   "sources": [
+    "bukhari-4987"
+   ],
+   "show": true,
+   "note": "Reported in the hadith collection of al-Bukhari, compiled in the 9th century."
+  },
+  "c-birmingham": {
+   "text": "Two leaves in Birmingham, with parts of suras 18-20, are written on parchment radiocarbon-dated to between 568 and 645.",
+   "label": "approx",
+   "sources": [
+    "bham-quran",
+    "marx-jocham2019"
+   ],
+   "show": true,
+   "note": "The date is when the animal died, not when the text was written; the university does not call them the oldest Quran."
+  },
+  "c-early-mss": {
+   "text": "Other manuscripts tested by the Corpus Coranicum project date to the 7th century, for example 606-649 and 606-652.",
+   "label": "approx",
+   "sources": [
+    "marx-jocham2019"
+   ],
+   "show": true,
+   "note": "The authors warn that manuscripts can be dated precisely neither by handwriting nor by radiocarbon."
+  },
+  "c-sanaa": {
+   "text": "In the Sanaa palimpsest, a 7th-century Quran was scraped off and overwritten; the lower text is the only known manuscript whose consonantal text differs from the standard one.",
+   "label": "debated",
+   "sources": [
+    "iis-sanaa",
+    "sinai2020"
+   ],
+   "show": true,
+   "note": "Asma Hilali reads it as a teaching text; Nicolai Sinai argues it came from a full copy that preserved a different version."
+  },
+  "c-closure": {
+   "text": "When the Quran's text was fixed is debated.",
+   "label": "debated",
+   "sources": [
+    "sinai2014",
+    "ucp-shoemaker2022"
+   ],
+   "show": true,
+   "note": "Nicolai Sinai (2014) argues that 'neither the epigraphic nor the literary evidence' for a late closure 'is incompatible with the conventional dating' under Uthman (reigned 644-656); Stephen Shoemaker (2022) argues that the canonical text was 'most likely produced only around the turn of the eighth century', under Abd al-Malik."
+  },
+  "c-abraham-quran": {
+   "text": "The Quran tells how 'Abraham and Ishmael built up the foundations of the House', the Kaaba at Mecca (2:127).",
+   "label": "consensus",
+   "sources": [
+    "quran-2-127"
+   ],
+   "show": false
+  },
+  "c-prophets": {
+   "text": "It tells believers to accept what was revealed to Abraham, Moses, Jesus and the other prophets: 'We make no distinction between any of them' (2:136).",
+   "label": "consensus",
+   "sources": [
+    "quran-2-136"
+   ],
+   "show": false
+  },
+  "c-mary": {
+   "text": "Mary is honoured as chosen 'above all women' (3:42), and a whole sura bears her name.",
+   "label": "consensus",
+   "sources": [
+    "quran-3-42",
+    "bham-quran"
+   ],
+   "show": false
+  },
+  "c-crucifixion": {
+   "text": "Of Jesus the Quran says 'they did not kill him, nor did they crucify him, though it was made to appear like that to them' (4:157).",
+   "label": "debated",
+   "sources": [
+    "quran-4-157",
+    "reynolds2009"
+   ],
+   "show": true,
+   "note": "Most classical Muslim commentators held that someone else was made to look like Jesus and that Jesus did not die; Gabriel Said Reynolds argues that 'the Quran rather accepts that Jesus died', and that it denies only that his enemies killed him."
+  },
+  "c-quran-bible": {
+   "text": "Biblical characters, images and stories feature prominently in the Quran.",
+   "label": "debated",
+   "sources": [
+    "nd-reynolds2018"
+   ],
+   "show": true,
+   "note": "Believers read them as one God's revelation, restating and correcting earlier scriptures; historians read them as the Quran's engagement with the Jewish and Christian traditions around it."
+  },
+  "c-persian-war": {
+   "text": "In the last great war between Rome and Persia, the Persians took Syria, Palestine and Jerusalem in 614 and Egypt in 619; the emperor Heraclius struck back and won near Nineveh in 627, and peace followed.",
+   "label": "consensus",
+   "sources": [
+    "brit-heraclius"
+   ],
+   "show": false
+  },
+  "c-yarmuk": {
+   "text": "Arab armies entered Syria in 634; at the Yarmuk on 20 August 636 they won a six-day battle that ended Byzantine rule in Syria.",
+   "label": "approx",
+   "sources": [
+    "brit-yarmuk"
+   ],
+   "show": true,
+   "note": "The date is secure; Britannica's losses (40,000 Byzantine, 5,000 Arab) come from later narratives and are rough."
+  },
+  "c-qadisiyya": {
+   "text": "At al-Qadisiyya, in about 636-638, Arab forces defeated the army of the Sasanian king Yazdegerd III, opening Iraq to conquest.",
+   "label": "approx",
+   "sources": [
+    "brit-qadisiyya",
+    "durham-qadisiyya"
+   ],
+   "show": true,
+   "note": "Sources date it from 636 to 638."
+  },
+  "c-qadisiyya-found": {
+   "text": "In 2024 archaeologists using declassified 1970s spy-satellite images located the battlefield about 30 km south of Kufa, with a double wall some 10 km long, a trench and a river ford.",
+   "label": "approx",
+   "sources": [
+    "durham-qadisiyya",
+    "archmag-qadisiyya"
+   ],
+   "show": true,
+   "note": "New. The identification rests on landscape features matching the written accounts."
+  },
+  "c-yazdegerd": {
+   "text": "Yazdegerd III was defeated again at Nahavand in 642 and killed at Merv in 651, ending the Sasanian dynasty.",
+   "label": "consensus",
+   "sources": [
+    "brit-yazdegerd"
+   ],
+   "show": false
+  },
+  "c-egypt-conquest": {
+   "text": "Amr ibn al-As invaded Egypt in 639 with some 4,000 men, later reinforced; by 642 the Byzantines had left, and a Byzantine attempt to retake Alexandria in 645 failed. The Arabs built a new garrison town, al-Fustat, rather than ruling from Alexandria.",
+   "label": "approx",
+   "sources": [
+    "brit-egypt-islamic"
+   ],
+   "show": true,
+   "note": "The army's size is a figure from the later Arabic histories."
+  },
+  "c-egypt-continuity": {
+   "text": "In Egypt the conquerors kept the Byzantine land and poll taxes, Coptic Christian clerks ran the tax offices, and there was 'no attempt to force, or even to persuade, the Egyptians to convert'.",
+   "label": "consensus",
+   "sources": [
+    "brit-egypt-islamic"
+   ],
+   "show": false
+  },
+  "c-maghrib": {
+   "text": "By tradition Uqba ibn Nafi founded Kairouan in 670 as a base for the conquest of North Africa; Carthage was taken after the Berber leader al-Kahina was defeated in 698.",
+   "label": "tradition",
+   "sources": [
+    "brit-kairouan",
+    "brit-kahina"
+   ],
+   "show": true,
+   "note": "The founding date comes from later Arabic histories; Berber resistance was long and fierce."
+  },
+  "c-jizya": {
+   "text": "Non-Muslim subjects with means, called dhimmis ('protected people'), paid a poll tax, the jizya; the poor, the old, women and clergy were generally exempt. The status first applied to Jews and Christians and was soon extended to Zoroastrians in Persia.",
+   "label": "consensus",
+   "sources": [
+    "brit-jizya"
+   ],
+   "show": false
+  },
+  "c-jizya-status": {
+   "text": "From about the 8th century, jurists increasingly treated the jizya as a mark of the payer's inferior legal status as well as a tax.",
+   "label": "debated",
+   "sources": [
+    "brit-jizya"
+   ],
+   "show": true,
+   "note": "How harsh dhimmi status was in practice varied widely by time and place, and historians weigh it differently."
+  },
+  "c-quran-9-29": {
+   "text": "The Quran (9:29) commands fighting those of the People of the Book who do not truly believe 'until they pay the tax and agree to submit'.",
+   "label": "tradition",
+   "sources": [
+    "quran-9-29"
+   ],
+   "show": true,
+   "note": "This is the text in Abdel Haleem's translation; Muslim jurists and modern scholars have read its scope and conditions in different ways."
+  },
+  "c-donner": {
+   "text": "Fred Donner argues that the early movement around Muhammad was a community of 'Believers' that included pious Jews and Christians, and that the conviction that Muslims formed a separate religious community emerged only about a century later, under the Umayyads.",
+   "label": "debated",
+   "sources": [
+    "princeton-donner"
+   ],
+   "show": true,
+   "note": "An academic reconstruction; the traditional Muslim account holds that Islam was distinct from Muhammad's lifetime."
+  },
+  "c-lalia": {
+   "text": "Volcanic eruptions in 536, 540 and 547 began a cold period, the 'Late Antique Little Ice Age', which lasted to about 660; its discoverers suggest it may have helped the plague take hold, set off pastoral movements on the steppe and, by bringing more rain and fodder to Arabia, indirectly aided the Arab expansion.",
+   "label": "debated",
+   "sources": [
+    "buntgen2016"
+   ],
+   "show": true,
+   "note": "The cooling is well established from tree rings; its role in the conquests is a suggestion, not a proven cause."
+  },
+  "c-bulliet": {
+   "text": "Richard Bulliet, counting when converts' families adopted Muslim names in biographical dictionaries, estimated that conversion in Iran was slow and limited until 750, then rapid, reaching 80 percent or more by about 950.",
+   "label": "debated",
+   "sources": [
+    "iranica-conversion",
+    "bulliet1979"
+   ],
+   "show": true,
+   "note": "His data cover formal conversions in towns; rural and informal conversion is far less visible."
+  },
+  "c-umayyads": {
+   "text": "The Umayyad dynasty ruled the caliphate from Damascus from 661 to 750; its founder Mu'awiya made the office hereditary by having his son Yazid acknowledged as heir.",
+   "label": "consensus",
+   "sources": [
+    "brit-umayyad"
+   ],
+   "show": false
+  },
+  "c-abdalmalik": {
+   "text": "Under Abd al-Malik (685-705) Arabic became the language of government, Arab officials replaced Greek and Persian ones in the finance offices, and Umayyad armies pushed into Central Asia.",
+   "label": "consensus",
+   "sources": [
+    "brit-umayyad"
+   ],
+   "show": false
+  },
+  "c-coin-reform": {
+   "text": "From 696/697 Abd al-Malik's mints struck gold and silver coins with no images, only Arabic religious texts: the declaration of faith and verses of the Quran. The Met calls the reform one of those that 'laid the foundations for the imagery of the Islamic state'.",
+   "label": "consensus",
+   "sources": [
+    "met-dinar",
+    "met-dirham",
+    "brit-umayyad"
+   ],
+   "show": false
+  },
+  "c-dome-date": {
+   "text": "An inscription in the Dome of the Rock in Jerusalem gives the year 72 of the Islamic calendar (691-692), generally taken as its completion date.",
+   "label": "consensus",
+   "sources": [
+    "brit-dome"
+   ],
+   "show": false
+  },
+  "c-dome-purpose": {
+   "text": "Why the Dome was built is uncertain: suggestions include presenting Islam as the heir of Abraham's faith, rivalling the Church of the Holy Sepulchre, and beliefs about the end of time.",
+   "label": "debated",
+   "sources": [
+    "brit-dome"
+   ],
+   "show": true,
+   "note": "A later claim that it was meant to replace the Kaaba as a pilgrimage site is doubted by most modern scholars."
+  },
+  "c-dome-text": {
+   "text": "Its inscriptions proclaim the oneness of God and address Christians directly, in words close to Quran 4:171, denying that Jesus is divine or that God is a Trinity; dated 72 AH (691/692), they are an early dated witness to Quranic wording.",
+   "label": "approx",
+   "sources": [
+    "brit-dome",
+    "ia-dome",
+    "quran-4-171"
+   ],
+   "show": true,
+   "note": "The transcription used here comes from a secondary website; the standard edition is Grabar's."
+  },
+  "c-guadalete": {
+   "text": "In July 711 Tariq ibn Ziyad defeated the Visigothic king Roderick near the Guadalete river, then marched on Toledo; most of Spain surrendered within a few years.",
+   "label": "approx",
+   "sources": [
+    "brit-roderick"
+   ],
+   "show": true,
+   "note": "The exact battlefield is unknown; Britannica gives 23 July."
+  },
+  "c-covadonga": {
+   "text": "In the mountains of Asturias, a Christian noble, Pelayo, defeated a Muslim force at Covadonga in about 720, a skirmish later celebrated as the start of the Reconquista.",
+   "label": "debated",
+   "sources": [
+    "brit-covadonga"
+   ],
+   "show": true,
+   "note": "Britannica gives about 720 (rebellions began in 718); Pelayo probably had fewer than 500 men, and the battle is only 'sometimes described as the start of the Reconquista'."
+  },
+  "c-tours": {
+   "text": "In October 732 a Frankish army under Charles Martel defeated a Muslim raiding army somewhere between Tours and Poitiers, killing its commander.",
+   "label": "debated",
+   "sources": [
+    "brit-tours"
+   ],
+   "show": true,
+   "note": "Older histories call it the battle that saved Europe; many historians now think it stopped a large raid, and that the Berber revolt of 739 and the Abbasid civil war did more to halt expansion."
+  },
+  "c-abbasid-rev": {
+   "text": "In 749-750 the Abbasid movement, drawing on the grievances of non-Arab Muslims, overthrew the Umayyads; the last Umayyad caliph was defeated on the Great Zab river in 750.",
+   "label": "consensus",
+   "sources": [
+    "brit-umayyad"
+   ],
+   "show": false
+  },
+  "c-abdalrahman": {
+   "text": "An Umayyad prince, Abd al-Rahman, escaped the massacre of his family and in 755-756 made himself ruler of al-Andalus, with Córdoba as his capital.",
+   "label": "approx",
+   "sources": [
+    "brit-abdalrahman1",
+    "brit-umayyad"
+   ],
+   "show": true,
+   "note": "Britannica gives 755 for his victory and 756 for his rule."
+  },
+  "c-arabismos": {
+   "text": "Spanish has some 4,000 words of Arabic origin, counting place names. Examples include aceite and aceituna (oil, olive), alcalde (mayor), almohada (pillow), arroz (rice), cero (zero) and ojalá (I hope so, originally 'if God wills').",
+   "label": "approx",
+   "sources": [
+    "udep-arabismos",
+    "rae-aceite",
+    "rae-ojala",
+    "rae-almohada"
+   ],
+   "show": true,
+   "note": "The total depends on what is counted; the source gives it without naming who calculated it."
+  },
+  "c-ephesus": {
+   "text": "The Council of Ephesus (431) condemned Nestorius, who preferred to call Mary 'Christ-bearer', and declared her truly Theotokos, 'Mother of God'.",
+   "label": "consensus",
+   "sources": [
+    "brit-christotokos",
+    "brit-nestorius"
+   ],
+   "show": false
+  },
+  "c-chalcedon": {
+   "text": "The Council of Chalcedon (451) defined Christ as one person in two distinct natures, divine and human, following Pope Leo I.",
+   "label": "consensus",
+   "sources": [
+    "brit-chalcedon"
+   ],
+   "show": false
+  },
+  "c-oriental": {
+   "text": "The Coptic, Ethiopian, Eritrean, Armenian, Syriac and Indian (Malankara) Orthodox churches accept the first three councils but not Chalcedon.",
+   "label": "consensus",
+   "sources": [
+    "wcc-oriental"
+   ],
+   "show": false
+  },
+  "c-1994": {
+   "text": "In 1994 the Pope and the head of the Assyrian Church of the East declared that their ancient division over Mary's titles was 'due in large part to misunderstandings'.",
+   "label": "consensus",
+   "sources": [
+    "vatican-1994"
+   ],
+   "show": false
+  },
+  "c-armenia": {
+   "text": "Armenia's king Trdat adopted Christianity early in the 4th century, making Armenia the first Christian kingdom.",
+   "label": "debated",
+   "sources": [
+    "ct-armenia2026"
+   ],
+   "show": true,
+   "note": "Armenian tradition dates it to 301; Mark Graham (2026) calls 314 the 'current consensus' among historians."
+  },
+  "c-georgia": {
+   "text": "In Georgia, converted by the missionary Nino, Christianity was proclaimed the official religion at Mtskheta in about 337.",
+   "label": "approx",
+   "sources": [
+    "unesco-mtskheta",
+    "brit-nino"
+   ],
+   "show": true,
+   "note": "UNESCO gives 337; Britannica places Nino's mission early in the 4th century."
+  },
+  "c-ezana": {
+   "text": "King Ezana of Aksum converted in about 340-356, through the missionary Frumentius; his coins replaced the old crescent and disc with the cross.",
+   "label": "approx",
+   "sources": [
+    "sh-aksum-coins"
+   ],
+   "show": true,
+   "note": "Dated from his coins and inscriptions."
+  },
+  "c-kebra": {
+   "text": "The Kebra Nagast, compiled in the 14th century, tells how Solomon and the Queen of Sheba had a son, Menelik, who brought the Ark of the Covenant to Ethiopia; it gave Ethiopia's later kings their claim to descend from Solomon.",
+   "label": "tradition",
+   "sources": [
+    "brit-kebra",
+    "bg-1kings10"
+   ],
+   "show": true,
+   "note": "In 1 Kings 10:1-13 the queen comes 'to test him with riddles' and then 'returned to her own land'; there is no son and no Ark. The text is medieval, not evidence for antiquity."
+  },
+  "c-nubia": {
+   "text": "The Nubian kingdoms adopted Christianity through Byzantine missions in about 540-580; in 652, after an Arab siege of Dongola, Nubia and Egypt agreed the baqt, an exchange of slaves for food, cloth and horses that lasted for centuries.",
+   "label": "approx",
+   "sources": [
+    "martens2015"
+   ],
+   "show": true,
+   "note": "The terms are known from much later writers; letters found at Qasr Ibrim confirm that the arrangement existed."
+  },
+  "c-xian": {
+   "text": "A stele set up in Chang'an in 781, in Chinese with names in Syriac, records the arrival in 635 of a Persian monk, Alopen, of the Church of the East.",
+   "label": "approx",
+   "sources": [
+    "uw-xian",
+    "bham-xian"
+   ],
+   "show": true,
+   "note": "The stele's date is certain; it was rediscovered in the 1620s."
+  },
+  "c-patrick": {
+   "text": "In 431 the Pope sent Palladius as 'first bishop to the Irish believers in Christ'; Patrick's mission falls in the later 5th century, and only two short works by him survive.",
+   "label": "approx",
+   "sources": [
+    "brit-patrick"
+   ],
+   "show": true,
+   "note": "Patrick's dates are uncertain."
+  },
+  "c-iona": {
+   "text": "Columba founded a monastery on Iona in 563, from which monks evangelised northern Britain; the Book of Kells was probably made there.",
+   "label": "approx",
+   "sources": [
+    "hes-iona"
+   ],
+   "show": true,
+   "note": "The date and the Book of Kells' origin are traditional but widely accepted."
+  },
+  "c-sui": {
+   "text": "Yang Jian founded the Sui dynasty in 581 and in 589 conquered the southern Chen, reuniting China after nearly four centuries of political fragmentation, broken only by a brief reunion under the Western Jin (280-c. 316).",
+   "label": "consensus",
+   "sources": [
+    "brit-sui",
+    "ebsco-wjin"
+   ],
+   "show": false
+  },
+  "c-grandcanal": {
+   "text": "The Sui linked older canals into a network joining the Yellow River and the Yangzi: Luoyang to the Yangzi in 605, on to Hangzhou in 610; the effort overstrained the dynasty, which fell in 618.",
+   "label": "consensus",
+   "sources": [
+    "brit-sui",
+    "unesco-grandcanal"
+   ],
+   "show": false
+  },
+  "c-tang": {
+   "text": "Li Yuan founded the Tang dynasty at Chang'an in 618; his son Taizong took power in 626.",
+   "label": "consensus",
+   "sources": [
+    "brit-gaozu-tang"
+   ],
+   "show": false
+  },
+  "c-turks": {
+   "text": "From 552 a Turkic empire based in the Altai stretched from China's frontier to the Caspian Sea, using its own runic script, until it broke up in the 8th century.",
+   "label": "consensus",
+   "sources": [
+    "brit-steppe-turks"
+   ],
+   "show": false
+  },
+  "c-harsha": {
+   "text": "In India, Harsha (reigned 606-647) ruled much of the north from Kannauj; the Chinese pilgrim Xuanzang became his friend and is a main source for his reign.",
+   "label": "consensus",
+   "sources": [
+    "brit-harsha"
+   ],
+   "show": false
+  },
+  "c-teotihuacan": {
+   "text": "Teotihuacan, the great city of central Mexico, declined from about 550; its civic-ceremonial centre was burned and its population fell sharply.",
+   "label": "debated",
+   "sources": [
+    "cowgill2015",
+    "newswise-teo",
+    "ls-teo-quakes"
+   ],
+   "show": true,
+   "note": "George Cowgill dates the burning to about 600-650 and the fall to between a third and more than half; others date it to about 550. Causes proposed include invasion, revolt against inequality and, in a 2024 hypothesis, earthquakes."
+  },
+  "c-teo-size": {
+   "text": "Teotihuacan may have held about 100,000 people at its height.",
+   "label": "approx",
+   "sources": [
+    "natgeo-teo"
+   ],
+   "show": true,
+   "note": "George Cowgill's estimate; Britannica gives 125,000-200,000."
+  },
+  "c-teo-writing": {
+   "text": "In 2025 two linguists proposed that Teotihuacan's signs are true writing, recording an early form of the language family that includes Nahuatl.",
+   "label": "debated",
+   "sources": [
+    "ku-teo2025"
+   ],
+   "show": true,
+   "note": "New, and offered as a hypothesis by Magnus Pharao Hansen and Christophe Helmke."
+  },
+  "c-changan": {
+   "text": "Tang Chang'an had more than a million people and was probably the largest city in the world at the time.",
+   "label": "approx",
+   "sources": [
+    "princeton-changan"
+   ],
+   "show": true,
+   "note": "Population estimates for pre-modern cities are rough."
+  },
+  "c-maya": {
+   "text": "The Classic Maya of the southern lowlands reached their peak in the Late Classic period, about 600-900.",
+   "label": "consensus",
+   "sources": [
+    "brit-lateclassic"
+   ],
+   "show": false
+  },
+  "c-maya-pop": {
+   "text": "A 2025 lidar survey of some 95,000 km² estimates the Late Classic Maya lowlands held about 16 million people, up from an estimate of 11 million in 2018.",
+   "label": "approx",
+   "sources": [
+    "ls-maya2025"
+   ],
+   "show": true,
+   "note": "New. Population is inferred from mapped houses, so the totals depend on assumptions about household size and occupation."
+  }
+ },
+ "pages": [
+  {
+   "title": "Late antiquity",
+   "sub": "c. 250 to 750",
+   "lede": "Between the crises of the 3rd century and the Abbasid revolution of 750, the Roman empire became Christian and split in two, its western half broke into kingdoms, Persia had its last great dynasty, and a new faith from Arabia created an empire larger than Rome's. Historians call these centuries 'late antiquity', and they argue about whether to tell them as a fall or a new beginning.",
+   "body": [
+    "Five acts. In the 3rd century Rome nearly broke apart and Persia gained a new, aggressive dynasty. [[c-ardashir]] Diocletian and Constantine rebuilt the empire, and Constantine made it Christian. [[c-milvian]] The West fragmented in the 5th century, [[c-476]] while the East, under Justinian, codified Roman law and fought off plague. [[c-justinian]] Then, from the 630s, Arab armies inspired by a new prophet [[c-muhammad-life]] took half the Roman empire and, by 651, all of Persia, and by 750 their caliphs ruled from Spain to Central Asia. [[c-umayyads]]",
+    "For two centuries the period was told as Gibbon told it, as decline. [[c-gibbon]] Peter Brown taught historians to see a world of new religions, new art and new communities instead. [[c-brown]] The argument is still alive (see 10.4).",
+    "New kinds of evidence are reshaping it. Papyri from Egyptian rubbish dumps show ordinary people's lives. [[c-oxyrhynchus]] Greenland ice and Alpine tree rings measure mining and climate year by year, [[c-ice10]] [[c-536]] and sediment cores tie epidemics to cold spells. [[c-taranto]] Ancient DNA shows who moved where. [[c-speidel2025]]",
+    {
+     "table": {
+      "head": [
+       "Evidence",
+       "Example",
+       "What it measures"
+      ],
+      "rows": [
+       [
+        "Papyri",
+        "Oxyrhynchus, Egypt",
+        "taxes, prices, letters, early Bible copies"
+       ],
+       [
+        "Coins",
+        "Roman antoniniani; Umayyad dinars",
+        "state finances; public identity"
+       ],
+       [
+        "Ice cores",
+        "Greenland lead record",
+        "mining and smelting, year by year"
+       ],
+       [
+        "Tree rings",
+        "Alps and Altai",
+        "summer temperatures; the cold of the 530s-540s"
+       ],
+       [
+        "Sediment cores",
+        "Gulf of Taranto",
+        "regional climate"
+       ],
+       [
+        "Ancient DNA",
+        "1,500 genomes (2025); plague victims",
+        "migration; the pathogens of epidemics"
+       ]
+      ],
+      "note": "[[c-oxyrhynchus]] [[c-ice10]] [[c-536]] [[c-taranto]] [[c-speidel2025]] [[c-ypestis]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 22.0,
+     "lat": 50.0,
+     "zoom": 3.0
+    },
+    "caption": "Where the new evidence comes from",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "source of evidence"
+     ],
+     [
+      "pt",
+      "capital"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         -42.32,
+         75.1
+        ],
+        "label": "NGRIP ice core",
+        "date": "lead, 1100 BCE-800 CE",
+        "acc": true,
+        "big": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "10.0 · ice",
+         "title": "The Greenland lead record",
+         "sub": "NGRIP core",
+         "text": "[[c-ice10]]",
+         "sources": [
+          "pnas-mcconnell2018"
+         ]
+        }
+       },
+       {
+        "ll": [
+         30.6519,
+         28.5426
+        ],
+        "label": "Oxyrhynchus",
+        "date": "papyri",
+        "acc": true,
+        "big": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "10.0 · papyri",
+         "title": "Oxyrhynchus",
+         "sub": "dug 1896-1907",
+         "text": "[[c-oxyrhynchus]]",
+         "sources": [
+          "ox-oxyrhynchus"
+         ]
+        }
+       },
+       {
+        "ll": [
+         87.02,
+         50.73
+        ],
+        "label": "Altai",
+        "date": "tree rings",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "10.0 · tree rings",
+         "title": "The coldest decade",
+         "sub": "536-660",
+         "text": "[[c-536]] [[c-lalia]]",
+         "sources": [
+          "sd-buntgen2016",
+          "buntgen2016"
+         ]
+        }
+       },
+       {
+        "ll": [
+         17.33,
+         40.13
+        ],
+        "label": "Gulf of Taranto",
+        "date": "sediment core",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "10.0 · sediments",
+         "title": "Plague and climate",
+         "sub": "2024 study",
+         "text": "[[c-taranto]]",
+         "sources": [
+          "arch-taranto2024"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -1.083,
+         53.958
+        ],
+        "label": "York",
+        "date": "ancient DNA",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "10.0 · DNA",
+         "title": "Ancient DNA",
+         "sub": "2025 study",
+         "text": "[[c-speidel2025]]",
+         "sources": [
+          "riken-speidel",
+          "eurekalert-speidel"
+         ]
+        }
+       },
+       {
+        "ll": [
+         11.717,
+         48.171
+        ],
+        "label": "Aschheim",
+        "date": "plague DNA",
+        "acc": true,
+        "dy": -8
+       },
+       {
+        "ll": [
+         12.511,
+         41.892
+        ],
+        "label": "Rome",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         28.95,
+         41.014
+        ],
+        "label": "Constantinople",
+        "dy": -8
+       },
+       {
+        "ll": [
+         44.583,
+         33.083
+        ],
+        "label": "Ctesiphon",
+        "dy": 16
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "How does Peter Brown's 'late antiquity' differ from Gibbon's 'decline and fall'?",
+     "choices": [
+      "Brown saw new growth; Gibbon saw barbarism and religion triumph",
+      "Gibbon saw new growth; Brown saw barbarism and religion triumph",
+      "Brown accepts Gibbon's decline but dates it two centuries later",
+      "Gibbon was replying to Brown and his critics, such as Ward-Perkins"
+     ],
+     "answer": 0,
+     "why": "Gibbon summed up the story as 'the triumph of barbarism and religion'; Brown argued the period was not simply one of decline, but a world of new religions, new art and new communities.",
+     "wrong": {
+      "1": "Reversed: the phrase 'the triumph of barbarism and religion' is Gibbon's, and Brown rejected the story of decline.",
+      "2": "Brown argued the period was not simply one of decline.",
+      "3": "Gibbon published in 1776-88, two centuries before Brown's book of 1971."
+     }
+    },
+    {
+     "q": "Why is the Greenland lead record useful to historians?",
+     "choices": [
+      "It measures European mining and smelting year by year",
+      "It records the tax Rome raised from its silver mines",
+      "It shows steady economic growth through the 3rd century",
+      "It identifies the germ behind the Antonine plague"
+     ],
+     "answer": 0,
+     "why": "Lead from mining and smelting settled in ice that can be dated year by year: a physical trace that no ancient writer could slant.",
+     "wrong": {
+      "1": "It records lead from mining and smelting, not taxes; tax records survive in papyri such as those from Oxyrhynchus.",
+      "2": "It shows the Roman economy's long growth ending with the Antonine plague of the 160s.",
+      "3": "The pathogens of the epidemics of the 160s and 250s are still unknown."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Crisis and repair",
+   "sub": "the 3rd century and Diocletian, 224-311",
+   "lede": "In the middle of the 3rd century the Roman empire nearly fell apart. Emperors came and went in quick succession, a new Persian dynasty captured one of them, and the silver coinage collapsed. Diocletian rebuilt the state by making it bigger, more bureaucratic and more expensive.",
+   "body": [
+    "In Iran, a new dynasty replaced the Parthians: the Sasanians, who claimed the heritage of the ancient Persian kings. [[c-ardashir]] Its second king, Shapur I, defeated three Roman emperors, by his own account, [[c-shapur-claims]] and in 260 took one of them, Valerian, prisoner. [[c-valerian]] Christian writers turned Valerian's fate into a morality tale. [[c-valerian-legend]] Shapur settled Roman captives in Iran as builders and engineers. [[c-deportees]]",
+    "Rome's emperors paid their armies by putting less silver in each coin. By the 260s the main silver coin was mostly copper. [[c-debasement3]] Prices rose, the state took more of its taxes in kind, and plague returned in the 250s. [[c-taranto]]",
+    "Diocletian, a soldier from the Balkans, ended the crisis. He divided the empire among four rulers, [[c-tetrarchy]] rebuilt taxation on regular assessments of land and people, enlarged the army and reformed the coinage. [[c-diocletian-reforms]] He also tried to fix prices by law, and failed. [[c-price-edict]] In 303 he turned on the Christians in the last and fiercest persecution, which ended only in 311. [[c-persecution]]",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "Event"
+      ],
+      "rows": [
+       [
+        "c. 224",
+        "Ardashir founds the Sasanian dynasty"
+       ],
+       [
+        "249-268",
+        "the silver coinage collapses"
+       ],
+       [
+        "260",
+        "Shapur I captures the emperor Valerian"
+       ],
+       [
+        "286-293",
+        "Diocletian's tetrarchy: four emperors"
+       ],
+       [
+        "301",
+        "Edict on Maximum Prices"
+       ],
+       [
+        "303-311",
+        "the Great Persecution"
+       ]
+      ],
+      "note": "[[c-ardashir]] [[c-debasement3]] [[c-valerian]] [[c-tetrarchy]] [[c-price-edict]] [[c-persecution]]"
+     }
+    },
+    {
+     "compare": "Diocletian's Price Edict is the most famous price control of the ancient world: maximum prices and wages for about 1,000 items, enforced by the death penalty, issued after decades in which debased coinage had driven prices up. Britannica calls it unenforceable; it was later revoked. Our only account of its effects is by the hostile Christian writer Lactantius, who says that 'men were afraid to expose anything to sale' until the law was abandoned. Economists often cite it as a textbook case of price caps causing shortages, but the evidence for that is thin."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "bars",
+    "caption": "How the silver disappeared",
+    "title": "Silver content of the antoninianus, by emperor (percent)",
+    "max": 40,
+    "ticks": [
+     0,
+     10,
+     20,
+     30,
+     40
+    ],
+    "axis": "percent silver",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "Decius",
+      "sub": "249-251",
+      "v": 35.4,
+      "lab": "35.4%"
+     },
+     {
+      "t": "Trebonianus Gallus",
+      "sub": "251-253",
+      "v": 31.5,
+      "lab": "31.5%"
+     },
+     {
+      "t": "Valerian",
+      "sub": "253-260",
+      "v": 17.9,
+      "lab": "17.9%",
+      "acc": true,
+      "tip": "captured by Shapur in 260"
+     },
+     {
+      "t": "Gallienus",
+      "sub": "260-268",
+      "v": 5.5,
+      "lab": "c. 5-6%",
+      "acc": true,
+      "tip": "older analyses; 4.9-6.0%"
+     },
+     {
+      "t": "Claudius II",
+      "sub": "268-270",
+      "v": 4.2,
+      "lab": "4.2%",
+      "acc": true,
+      "plate": {
+       "kicker": "10.1 · money",
+       "title": "The debasement",
+       "sub": "249-270",
+       "text": "[[c-debasement3]] [[c-diocletian-reforms]] [[c-price-edict]]",
+       "sources": [
+        "caley1956",
+        "brit-diocletian"
+       ]
+      }
+     }
+    ],
+    "notes": [
+     "Source: Caley and McBride (1956): averages of their analyses for Decius, Gallus and Valerian; for Gallienus (three coins) and Claudius II (one coin), older analyses by von Bibra that they reprint."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Which evidence best shows that the 3rd-century crisis was not purely political?",
+     "choices": [
+      "A main silver coin that was mostly copper by the 260s",
+      "The rock reliefs of Valerian's capture by Shapur in 260",
+      "Diocletian's division of power among four rulers",
+      "Lactantius' account of Valerian's skin hung in a temple"
+     ],
+     "answer": 0,
+     "why": "The antoninianus fell from about 35 percent silver under Decius to about 5 percent under Gallienus: a fiscal and monetary crisis, not only a political one.",
+     "wrong": {
+      "1": "The reliefs record a military event.",
+      "2": "The tetrarchy was a political answer to the crisis, not evidence of its economic side.",
+      "3": "It is hostile Christian polemic, not reporting, let alone economic data."
+     }
+    },
+    {
+     "q": "What was Diocletian's Edict on Maximum Prices of 301?",
+     "choices": [
+      "A failed cap on prices and wages, on pain of death",
+      "A reform restoring good gold and silver coins",
+      "A new tax based on assessments of land and people",
+      "The first edict of the Great Persecution of Christians"
+     ],
+     "answer": 0,
+     "why": "It fixed maximum prices and wages for about 1,000 goods and services on pain of death, proved unenforceable and was abandoned.",
+     "wrong": {
+      "1": "Restoring good coins was a separate measure.",
+      "2": "The new assessments of land and people were a separate tax reform.",
+      "3": "The persecution began two years later, in 303."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Constantine and the Christian empire",
+   "sub": "312 to 392",
+   "lede": "In 312 a Roman emperor fought under a Christian sign. Within eighty years Christianity had gone from persecuted sect to the empire's official religion, with its creed defined by imperial councils. How fast it grew, and why, are still argued about.",
+   "body": [
+    "Constantine won control of the West at the Milvian Bridge in 312. [[c-milvian]] Christian writers tell of a sign from heaven before the battle, though their accounts differ, [[c-sign]] and a recent study questions one of them. [[c-girardet]] In 313 he and his eastern colleague granted freedom of worship to all. [[c-milan]]",
+    "Constantine poured money into churches and summoned the bishops to Nicaea in 325, where they defined Christ as 'of one substance' with the Father against the priest Arius. [[c-nicaea]] The creed they began is still recited, and in 2025 a pope and a patriarch prayed together at the site. [[c-nicaea2025]] He also founded a new capital, Constantinople. [[c-constantinople]] One later emperor, Julian, tried to revive the old gods and died after two years. [[c-julian]] Under Theodosius, Nicene Christianity became the official faith and pagan sacrifice was banned. [[c-theodosius]]",
+    "How did a small sect become the majority? Rodney Stark argued that steady growth of about 40 percent a decade, through families and networks rather than mass conversions, would be enough. [[c-stark]] Critics point out that the same rate soon becomes impossible, so growth must have slowed, and they debate why. [[c-stark-critics]] Archaeology occasionally adds a datapoint: in 2024 a tiny inscribed silver amulet showed a Christian buried in Germany before 270. [[c-frankfurt]]",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "Event"
+      ],
+      "rows": [
+       [
+        "311",
+        "Galerius' edict of toleration"
+       ],
+       [
+        "312",
+        "Milvian Bridge"
+       ],
+       [
+        "313",
+        "freedom of religion ('Edict of Milan')"
+       ],
+       [
+        "325",
+        "Council of Nicaea"
+       ],
+       [
+        "330",
+        "Constantinople inaugurated"
+       ],
+       [
+        "361-363",
+        "Julian tries to restore paganism"
+       ],
+       [
+        "380",
+        "Nicene Christianity made the official faith"
+       ],
+       [
+        "391-392",
+        "pagan sacrifice banned"
+       ]
+      ],
+      "note": "[[c-persecution]] [[c-milvian]] [[c-milan]] [[c-nicaea]] [[c-constantinople]] [[c-julian]] [[c-theodosius]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "bars",
+    "caption": "How fast did Christianity grow?",
+    "title": "Christians in the Roman empire on Stark's model of 40% growth per decade (log scale)",
+    "scale": "log",
+    "min": 100,
+    "max": 1000000000,
+    "ticks": [
+     1000,
+     1000000,
+     1000000000
+    ],
+    "tickLabels": [
+     "1,000",
+     "1 million",
+     "1 billion"
+    ],
+    "axis": "number of Christians, log scale",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "40 CE",
+      "v": 1000,
+      "lab": "c. 1,000",
+      "tip": "Stark's starting assumption"
+     },
+     {
+      "t": "100 CE",
+      "v": 7400,
+      "lab": "c. 7,400"
+     },
+     {
+      "t": "200 CE",
+      "v": 210000,
+      "lab": "c. 210,000"
+     },
+     {
+      "t": "300 CE",
+      "v": 6000000,
+      "lab": "c. 6 million",
+      "acc": true,
+      "tip": "about a tenth of the empire",
+      "plate": {
+       "kicker": "10.2 · growth",
+       "title": "Stark's model",
+       "sub": "and its critics",
+       "text": "[[c-stark]] [[c-stark-critics]]",
+       "sources": [
+        "ehrman-growth",
+        "lucero2021"
+       ]
+      }
+     },
+     {
+      "t": "400 CE, same rate",
+      "sub": "impossible",
+      "v": 170000000,
+      "lab": "c. 170 million",
+      "tip": "more than the whole empire (about 60 million)"
+     }
+    ],
+    "notes": [
+     "Projections, not counts (Ehrman's figures for Stark's model)."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do historians say the 'Edict of Milan' is misnamed?",
+     "choices": [
+      "It survives as a letter Licinius posted in the East",
+      "It is really Theodosius' law of 380, not Constantine's",
+      "Constantine issued it alone, without his co-emperor",
+      "It protected Christians but left pagans unprotected"
+     ],
+     "answer": 0,
+     "why": "In 313 Constantine and Licinius agreed on religious freedom, but the text that survives is a letter Licinius posted in the East: neither an edict nor issued at Milan.",
+     "wrong": {
+      "1": "It was agreed by Constantine and Licinius in 313; Theodosius' edict of 380 is a different text.",
+      "2": "It was agreed by Constantine and his co-emperor Licinius.",
+      "3": "It granted freedom to 'the Christians and all others'."
+     }
+    },
+    {
+     "q": "Start with 6 million Christians in 300 and keep growth at 40 percent a decade. What problem appears by 400?",
+     "choices": [
+      "It gives some 170 million, more than the whole empire",
+      "It gives about 24 million, too few for a Christian empire",
+      "It leaves Christians a tenth of the empire, as in 300",
+      "It needs mass conversions, which no source records"
+     ],
+     "answer": 0,
+     "why": "Critics note that the same steady rate would give some 170 million Christians by 400, more than the empire's whole population, so growth must have slowed.",
+     "wrong": {
+      "1": "Ten decades at 40 percent multiply 6 million by about 29, giving some 170 million.",
+      "2": "At 40 percent a decade the number keeps rising; a tenth was the estimate for 300.",
+      "3": "Stark's point is that steady compounding needs no mass conversions."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Sasanian empire",
+   "sub": "Persia, 224-651",
+   "lede": "Rome's great rival for four centuries was a sophisticated empire of many faiths: Zoroastrian kings, Christian bishops, Jewish rabbis who wrote the Babylonian Talmud, and a prophet, Mani, whose religion spread from North Africa to China.",
+   "body": [
+    "The Sasanian kings presented themselves as champions of the old Iranian religion of Zoroaster (see 7.8), and their great fire temples were royal shrines. [[c-takht]] One high priest boasted of persecuting other faiths, [[c-kartir]] but Richard Payne argues that the empire mostly included religious minorities in a hierarchy rather than persecuting them. [[c-payne]] The prophet Mani preached a new universal religion at Shapur I's court before dying in prison under Bahram I; [[c-mani]] his faith spread across Eurasia. [[c-manichaeism]]",
+    "Mesopotamia was home to one of the largest and most important Jewish communities of the age. Under its own leader, the exilarch, it governed its own affairs, [[c-exilarch]] and its rabbis produced the Babylonian Talmud, still the central text of Jewish law. [[c-bavli]] Christians, many descended from Roman prisoners, built a church across the empire, [[c-persian-christians]] suffered a long persecution under Shapur II, [[c-shapur2-persecution]] and in 410-424 organised themselves as the independent Church of the East. [[c-church-east]]",
+    "The state rested on farming the rich lands of Iraq and on silver. Its drachms circulated from Arabia to Central Asia, [[c-drachm]] and Khosrow I's cash land tax outlived the dynasty. [[c-khosrow-tax]] The empire may have held some 13 million people in its last century, [[c-sasanian-pop]] before war with Rome and then the Arab conquests destroyed it (10.8).",
+    {
+     "table": {
+      "head": [
+       "Faith",
+       "Key figure",
+       "Under the Sasanians"
+      ],
+      "rows": [
+       [
+        "Zoroastrian",
+        "Kartir, high priest",
+        "religion of the kings"
+       ],
+       [
+        "Manichaean",
+        "Mani (216-c. 274/277)",
+        "patronised, then its founder imprisoned; he died in prison"
+       ],
+       [
+        "Jewish",
+        "the exilarch; rabbis of Sura and Pumbedita",
+        "self-government; the Babylonian Talmud"
+       ],
+       [
+        "Christian",
+        "the catholicos of the Church of the East",
+        "persecuted from 339; organised as a recognised church from 410"
+       ]
+      ],
+      "note": "[[c-kartir]] [[c-mani]] [[c-exilarch]] [[c-bavli]] [[c-church-east]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 47.5,
+     "lat": 33.0,
+     "zoom": 15
+    },
+    "caption": "The Sasanian empire: places of power and faith",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         44.0,
+         31.0
+        ],
+        "label": "MESOPOTAMIA",
+        "size": 9
+       },
+       {
+        "ll": [
+         53.0,
+         31.5
+        ],
+        "label": "FARS",
+        "size": 10
+       },
+       {
+        "ll": [
+         38.0,
+         35.5
+        ],
+        "label": "ROMAN SYRIA",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         44.5833,
+         33.0833
+        ],
+        "label": "Ctesiphon",
+        "date": "capital; synod of 410",
+        "acc": true,
+        "big": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "10.3 · Christians",
+         "title": "The Church of the East",
+         "sub": "410-424",
+         "text": "[[c-persian-christians]] [[c-shapur2-persecution]] [[c-church-east]] [[c-payne]]",
+         "sources": [
+          "iranica-christianity",
+          "ucp-payne"
+         ]
+        }
+       },
+       {
+        "ll": [
+         43.79,
+         33.35
+        ],
+        "label": "Pumbedita",
+        "date": "rabbinic centre",
+        "acc": true,
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "10.3 · Jews",
+         "title": "The Babylonian Talmud",
+         "sub": "3rd-6th centuries",
+         "text": "[[c-exilarch]] [[c-bavli]]",
+         "sources": [
+          "iranica-jews",
+          "brit-talmud",
+          "cojs-talmud"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.45,
+         31.88
+        ],
+        "label": "Sura",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         48.5167,
+         32.2833
+        ],
+        "label": "Gundeshapur",
+        "date": "built by Roman captives",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "10.3 · Mani",
+         "title": "Mani",
+         "sub": "216 to c. 274-277",
+         "text": "[[c-mani]] [[c-manichaeism]] [[c-deportees]]",
+         "sources": [
+          "brit-mani",
+          "uw-manichaeism",
+          "brit-shapur1"
+         ]
+        }
+       },
+       {
+        "ll": [
+         52.8749,
+         29.9887
+        ],
+        "label": "Naqsh-e Rostam",
+        "date": "Shapur's and Kartir's inscriptions",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "10.3 · kings",
+         "title": "Naqsh-e Rostam",
+         "sub": "royal inscriptions",
+         "text": "[[c-shapur-claims]] [[c-valerian]] [[c-kartir]]",
+         "sources": [
+          "brit-sasanian",
+          "brit-shapur1"
+         ]
+        }
+       },
+       {
+        "ll": [
+         52.572,
+         28.845
+        ],
+        "label": "Firuzabad",
+        "date": "Ardashir's first capital",
+        "dy": 16
+       },
+       {
+        "ll": [
+         47.235,
+         36.6039
+        ],
+        "label": "Takht-e Soleyman",
+        "date": "royal fire sanctuary",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "10.3 · Zoroastrians",
+         "title": "Takht-e Soleyman",
+         "sub": "fire sanctuary",
+         "text": "[[c-takht]] [[c-drachm]]",
+         "sources": [
+          "unesco-takht",
+          "bm-drachm"
+         ]
+        }
+       },
+       {
+        "ll": [
+         41.215,
+         37.07
+        ],
+        "label": "Nisibis",
+        "date": "Christian school",
+        "dy": -8
+       },
+       {
+        "ll": [
+         38.794,
+         37.167
+        ],
+        "label": "Edessa",
+        "date": "Valerian captured, 260",
+        "acc": true,
+        "dy": 16
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Which best describes Jewish life in Sasanian Babylonia?",
+     "choices": [
+      "An exilarch led the Jews; state law ruled land and tax",
+      "Kartir's campaign forced most Jews to become Zoroastrians",
+      "Babylonia's Jews were expelled to Roman Palestine",
+      "Rabbis ruled Jewish life and set the community's land taxes"
+     ],
+     "answer": 0,
+     "why": "A recognised exilarch governed the community's affairs, while it accepted Samuel's rule that 'the law of the government is law' in matters of land and tax.",
+     "wrong": {
+      "1": "Kartir's boasts are his own claims, and the community went on governing itself and producing the Talmud.",
+      "2": "Mesopotamia was home to one of the largest Jewish communities of the age, whose rabbis compiled the Babylonian Talmud.",
+      "3": "The community had its own leader, the exilarch, and accepted that the government's law applied to land and tax."
+     }
+    },
+    {
+     "q": "Which statement about the Church of the East is best supported?",
+     "choices": [
+      "It adopted Nicaea's creed in 410 and independence in 424",
+      "It was organised after the Arab conquest of Persia",
+      "It used Greek and took orders from western bishops",
+      "Shapur I founded it for his Roman deportees"
+     ],
+     "answer": 0,
+     "why": "A synod at Ctesiphon adopted the Nicene creed in 410, and in 424 the church declared its head, the catholicos, independent of western bishops.",
+     "wrong": {
+      "1": "Bishops are recorded early in the Sasanian period, and a Persian bishop attended Nicaea in 325.",
+      "2": "It used Syriac, and in 424 declared its head independent of western bishops.",
+      "3": "Many Persian Christians descended from Roman deportees, but the church organised itself through the synods of 410 and 424."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Did Rome fall?",
+   "sub": "the West, 376 to 589",
+   "lede": "In the 5th century the western half of the Roman empire broke up into kingdoms ruled by Goths, Vandals, Franks and others. Whether that was a catastrophe or a gradual transformation is one of the oldest arguments in history, and new evidence, from cattle bones to ancient DNA, keeps changing it.",
+   "body": [
+    "Gothic refugees fleeing the Huns were let into the empire, mistreated, and rebelled. At Adrianople in 378 they killed an emperor and destroyed his army. [[c-adrianople]] [[c-adrianople-toll]] In 410 another Gothic army sacked Rome itself. [[c-sack410]] Augustine, a bishop in North Africa, answered those who blamed the Christian God by writing the City of God. [[c-augustine]] In 476 the boy emperor Romulus Augustulus, conventionally the last in the West, was quietly deposed. [[c-476]]",
+    "For a generation of historians led by Peter Brown, this was a 'transformation': Roman law, Latin, cities and the Church carried on under new rulers. Others answer that it was a collapse, measurable in the ground. [[c-fall-debate]] In much of the West, pottery, roof tiles, coins and even the size of cattle shrank. [[c-material]] Ancient DNA now shows that real migrations of people took place, though not how large or violent they were. [[c-speidel2025]]",
+    "In Spain the Visigoths built the most lasting of the successor kingdoms, with its capital at Toledo. [[c-toledo]] They were Arian Christians ruling Catholic subjects until King Reccared converted in 589; councils of bishops at Toledo then became the kingdom's lawmakers. [[c-recared]] The same councils passed increasingly harsh laws against the kingdom's Jews. [[c-visigoth-jews]] The kingdom lasted until 711 (see 10.9).",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "Event"
+      ],
+      "rows": [
+       [
+        "378",
+        "Battle of Adrianople; emperor Valens killed"
+       ],
+       [
+        "410",
+        "Visigoths sack Rome"
+       ],
+       [
+        "413",
+        "Augustine begins the City of God"
+       ],
+       [
+        "476",
+        "Romulus Augustulus deposed"
+       ],
+       [
+        "589",
+        "Third Council of Toledo: Visigothic Spain becomes Catholic"
+       ]
+      ],
+      "note": "[[c-adrianople]] [[c-sack410]] [[c-augustine]] [[c-476]] [[c-recared]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ledger",
+    "signs": false,
+    "caption": "Fall, or transformation?",
+    "title": "Two readings of the West, c. 400-600",
+    "left": {
+     "h": "'Transformation' (Brown, Pohl)",
+     "items": [
+      {
+       "t": "Roman law, Latin and the Church carried on",
+       "s": "continuity under new rulers"
+      },
+      {
+       "t": "New kingdoms used Roman officials and taxes",
+       "s": "e.g. Visigothic Toledo"
+      },
+      {
+       "t": "Culture flourished in new forms",
+       "s": "monasteries, councils, saints"
+      },
+      {
+       "t": "Movement, not invasion, of peoples",
+       "s": "the 1993-98 European project"
+      }
+     ]
+    },
+    "right": {
+     "h": "'Fall' (Ward-Perkins, Heather)",
+     "items": [
+      {
+       "t": "Roof tiles and coins vanished from daily life",
+       "s": "Ward-Perkins"
+      },
+      {
+       "t": "Cattle shrank from c. 120 to c. 112 cm",
+       "s": "Ward-Perkins, via a reviewer"
+      },
+      {
+       "t": "Enemies' military power broke the West",
+       "s": "Heather"
+      },
+      {
+       "t": "DNA confirms that people really did move",
+       "s": "Speidel et al. (2025); scale still disputed"
+      }
+     ]
+    },
+    "notes": [
+     "Both sides accept much of the other's evidence; they disagree about what mattered most."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Ward-Perkins points to smaller cattle and the disappearance of roof tiles and coins. What is this evidence meant to show?",
+     "choices": [
+      "That material living standards in the West really fell",
+      "That Roman life went on under new rulers, with little change",
+      "That the military power of Rome's enemies caused the fall",
+      "That large migrations from Scandinavia really took place"
+     ],
+     "answer": 0,
+     "why": "He tests everyday comfort, not just politics: in much of the West, tiles and coins disappeared from daily life and cattle shrank.",
+     "wrong": {
+      "1": "That is the continuity view he calls 'badly in error'.",
+      "2": "That is Peter Heather's argument about the cause; Ward-Perkins' material evidence measures how far life declined.",
+      "3": "That is the finding of the 2025 ancient-DNA study, not of tiles, coins and cattle."
+     }
+    },
+    {
+     "q": "Why did the Council of Toledo in 589 matter?",
+     "choices": [
+      "It made the Arian Goths' kingdom officially Catholic",
+      "It was the first of the councils held at Toledo",
+      "It ordered the kingdom's Jews to accept baptism",
+      "It converted the Visigoths from Catholicism to Arianism"
+     ],
+     "answer": 0,
+     "why": "After King Reccared converted from Arian to Catholic Christianity, the Third Council of Toledo made Catholicism the religion of the kingdom, uniting rulers and ruled in one church.",
+     "wrong": {
+      "1": "Eighteen councils met at Toledo between about 400 and 702; this was the third.",
+      "2": "That order came from King Sisebut, between 612 and 616.",
+      "3": "Reccared converted the other way, from Arian to Catholic Christianity."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Justinian and the plague",
+   "sub": "the eastern empire, 527-565",
+   "lede": "In Constantinople the Roman empire carried on. Its most ambitious ruler, Justinian, codified Roman law, built the greatest church in Christendom and won back Africa and Italy. Then the first great plague pandemic and a sudden cold snap struck, and historians are still arguing about how much damage they did.",
+   "body": [
+    "Justinian, a Latin speaker of peasant stock from the Balkans and nephew of the emperor Justin I, came to the throne in 527. [[c-justinian]] His lawyers condensed centuries of Roman law into the Corpus Juris Civilis. [[c-corpus]] Rediscovered in medieval Italy, it became the basis of legal study across Europe and a main root of the civil-law systems of continental Europe, which much of Latin America later adopted. [[c-civil-law]] In 532 a riot nearly toppled him; [[c-nika]] he rebuilt the burned city centre around the Hagia Sophia. [[c-hagia]] His generals retook North Africa from the Vandals [[c-africa]] and, after twenty years of war, Italy from the Goths. [[c-italy]]",
+    "In 541 plague arrived in Egypt and the next year in the capital. Procopius saw it and gives terrifying figures. [[c-procopius-plague]] Ancient DNA has identified the killer as Yersinia pestis, the bacterium of the Black Death, [[c-ypestis]] and in 2025 its genome was recovered from a mass grave in Jordan. [[c-jerash]] But how many died is one of the hottest arguments in the field. [[c-plague-toll]]",
+    "Nature struck in another way too. Huge volcanic eruptions in 536 and 540 brought what was probably the coldest decade in two thousand years. [[c-536]] Whether the cold, the plague and the wars together explain the shrinking of the empire in the 7th century, and the success of the Arab conquests (10.8), is still being tested.",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "Event"
+      ],
+      "rows": [
+       [
+        "527",
+        "Justinian becomes emperor"
+       ],
+       [
+        "529-534",
+        "Code, Digest and Institutes"
+       ],
+       [
+        "532",
+        "Nika riot; Hagia Sophia begun (finished 537)"
+       ],
+       [
+        "533-534",
+        "Vandal Africa reconquered"
+       ],
+       [
+        "536 and 540",
+        "great eruptions; probably the coldest decade in 2,000 years"
+       ],
+       [
+        "541-542",
+        "plague reaches Egypt, then Constantinople"
+       ],
+       [
+        "552",
+        "Totila defeated; Italy reconquered"
+       ]
+      ],
+      "note": "[[c-justinian]] [[c-corpus]] [[c-nika]] [[c-africa]] [[c-536]] [[c-procopius-plague]] [[c-italy]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 19.0,
+     "lat": 39.0,
+     "zoom": 7.5
+    },
+    "caption": "Justinian's wars and the first plague pandemic, 533-660",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc",
+      "reconquests (simplified)"
+     ],
+     [
+      "dot",
+      "plague evidence"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          28.98,
+          41.01
+         ],
+         [
+          24.0,
+          37.0
+         ],
+         [
+          17.0,
+          36.0
+         ],
+         [
+          10.33,
+          36.87
+         ]
+        ],
+        "label": "Africa, 533",
+        "lab": [
+         17.0,
+         36.0
+        ],
+        "ldy": 18
+       },
+       {
+        "path": [
+         [
+          10.33,
+          36.87
+         ],
+         [
+          13.0,
+          38.0
+         ],
+         [
+          15.0,
+          40.0
+         ],
+         [
+          12.51,
+          41.89
+         ],
+         [
+          12.2,
+          44.41
+         ]
+        ],
+        "label": "Italy, 535-552",
+        "lab": [
+         15.0,
+         40.0
+        ],
+        "ldx": 8,
+        "anchor": "start"
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         15.8,
+         41.0
+        ],
+        "label": "ITALY",
+        "size": 9
+       },
+       {
+        "ll": [
+         8.0,
+         33.5
+        ],
+        "label": "AFRICA",
+        "size": 9
+       },
+       {
+        "ll": [
+         31.0,
+         39.0
+        ],
+        "label": "ANATOLIA",
+        "size": 9
+       },
+       {
+        "ll": [
+         -1.5,
+         40.0
+        ],
+        "label": "VISIGOTHIC SPAIN",
+        "size": 8
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         28.98,
+         41.008
+        ],
+        "label": "Constantinople",
+        "date": "Nika 532; Hagia Sophia 537",
+        "acc": true,
+        "big": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "10.5 · the capital",
+         "title": "Constantinople",
+         "sub": "527-565",
+         "text": "[[c-justinian]] [[c-corpus]] [[c-nika]] [[c-hagia]]",
+         "sources": [
+          "brit-justinian",
+          "brit-justinian-law",
+          "brit-nika",
+          "unesco-istanbul"
+         ]
+        }
+       },
+       {
+        "ll": [
+         10.333,
+         36.867
+        ],
+        "label": "Carthage",
+        "date": "retaken 533",
+        "dy": -8
+       },
+       {
+        "ll": [
+         12.201,
+         44.413
+        ],
+        "label": "Ravenna",
+        "date": "taken 540",
+        "dy": -8
+       },
+       {
+        "ll": [
+         12.779,
+         43.229
+        ],
+        "label": "Taginae",
+        "date": "552",
+        "dy": 16
+       },
+       {
+        "ll": [
+         32.54,
+         31.043
+        ],
+        "label": "Pelusium",
+        "date": "plague begins, 541",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "10.5 · plague",
+         "title": "The plague of Justinian",
+         "sub": "from 541",
+         "text": "[[c-procopius-plague]] [[c-plague-toll]]",
+         "sources": [
+          "procopius-plague",
+          "mordechai2019",
+          "sarris-sb"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.899,
+         32.281
+        ],
+        "label": "Jerash",
+        "date": "plague genomes, 2025",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "10.5 · new DNA",
+         "title": "Jerash",
+         "sub": "reported 2025",
+         "text": "[[c-jerash]]",
+         "sources": [
+          "fau-jerash2025"
+         ]
+        }
+       },
+       {
+        "ll": [
+         11.717,
+         48.171
+        ],
+        "label": "Aschheim",
+        "date": "first plague genome, 2014",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "10.5 · ancient DNA",
+         "title": "Yersinia pestis",
+         "sub": "confirmed 2013; genome 2014",
+         "text": "[[c-ypestis]] [[c-536]]",
+         "sources": [
+          "wagner2014",
+          "keller2019",
+          "buntgen2016-pdf"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What do the plague genomes from Aschheim and Jerash settle, and what do they leave open?",
+     "choices": [
+      "They confirm Yersinia pestis, but not the death toll",
+      "They show the strain led to the Black Death, but not its toll",
+      "They show it began in Constantinople, but not the toll",
+      "They confirm the toll, but not which germ was responsible"
+     ],
+     "answer": 0,
+     "why": "DNA identifies the killer as Yersinia pestis; how many died is still argued from papyri, laws, coins and pollen.",
+     "wrong": {
+      "1": "The Justinianic genome belongs to a different lineage, which died out.",
+      "2": "Procopius says it began at Pelusium in Egypt and reached Constantinople in 542.",
+      "3": "The reverse: DNA identified the germ, and the toll is fiercely debated."
+     }
+    },
+    {
+     "q": "Which reading of the 'Late Antique Little Ice Age' is most careful?",
+     "choices": [
+      "The cooling is measured; its social effects are still tested",
+      "The volcanoes are known, and their link to upheaval proved",
+      "The cold is measured, and it caused the Arab conquests",
+      "The cold of 536 explains the Nika riot in Constantinople"
+     ],
+     "answer": 0,
+     "why": "Tree rings and ice cores measure the cooling; whether cold, plague and war together explain the shrinking of the empire is still being tested.",
+     "wrong": {
+      "1": "The volcanoes have not been securely identified, and the link to upheaval is still being tested.",
+      "2": "Whether the cold, the plague and the wars explain the Arab conquests is still being tested.",
+      "3": "The riot was in January 532, before the eruptions of 536 and 540."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Arabia and the Prophet",
+   "sub": "c. 380 to 632",
+   "lede": "Arabia was not cut off from the late antique world. Its southern kings turned to Judaism, its northern tribes served Rome and Persia as Christian allies, and the two empires fought over its edges. Into this world, by the account of Muslim tradition, Muhammad was born around 570.",
+   "body": [
+    "In Yemen, the kings of Himyar gave up their old gods in the 380s for a single 'Lord of the Sky', and a Jewish community appears in their inscriptions. [[c-himyar]] In the 520s a Jewish king fought the Christian kingdom of Aksum across the Red Sea, and was defeated. [[c-najran]] In the north, Arab Christian dynasties guarded the frontiers of Persia and Rome. [[c-lakhmid-ghassanid]] Mecca, in the Hijaz between them, was a shrine town whose trade is still debated. [[c-mecca-trade]]",
+    "Muslim tradition gives a clear outline of Muhammad's life: born in Mecca, called as a prophet at about 40, driven to Medina in 622, victorious over Mecca in 630, dead in 632. [[c-muhammad-life]] That outline was written down a century and more after his death. [[c-sira]] A Christian text that may date from the 630s mentions a prophet among the Arabs, [[c-doctrina]] and historians disagree about how much of the traditional story can be checked. [[c-revisionists]]",
+    "What is not in doubt is the result. Muhammad united much of Arabia behind a new faith and a single leadership in Medina. Within two years of his death his successors were attacking the two great empires (10.8).",
+    {
+     "table": {
+      "head": [
+       "Approach",
+       "Who",
+       "Main argument"
+      ],
+      "rows": [
+       [
+        "Traditional Muslim",
+        "classical and modern Muslim scholarship",
+        "the sira's outline is reliable"
+       ],
+       [
+        "Sceptical",
+        "Crone and Cook (1977)",
+        "rebuild early Islam from non-Muslim sources"
+       ],
+       [
+        "Apocalyptic",
+        "Shoemaker (2012)",
+        "Muhammad expected the end and led the first attacks"
+       ],
+       [
+        "Ecumenical",
+        "Donner (2010)",
+        "a 'Believers' movement' open to Jews and Christians"
+       ],
+       [
+        "Methodological",
+        "Hoyland (2007)",
+        "no reliable test of authenticity; weigh each report"
+       ]
+      ],
+      "note": "[[c-revisionists]] [[c-muhammad-life]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 42.0,
+     "lat": 24.0,
+     "zoom": 12
+    },
+    "caption": "Arabia between the empires, c. 380-632",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         41.5,
+         21.5
+        ],
+        "label": "HIJAZ",
+        "size": 10
+       },
+       {
+        "ll": [
+         45.5,
+         15.8
+        ],
+        "label": "HIMYAR",
+        "size": 10
+       },
+       {
+        "ll": [
+         37.5,
+         12.5
+        ],
+        "label": "AKSUM",
+        "size": 10
+       },
+       {
+        "ll": [
+         46.5,
+         33.8
+        ],
+        "label": "PERSIA",
+        "size": 9
+       },
+       {
+        "ll": [
+         36.0,
+         35.5
+        ],
+        "label": "ROME",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         39.826,
+         21.426
+        ],
+        "label": "Mecca",
+        "date": "Muhammad b. c. 570 (tradition)",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 4,
+        "plate": {
+         "kicker": "10.6 · the Prophet",
+         "title": "Mecca",
+         "sub": "c. 570-630",
+         "text": "[[c-muhammad-life]] [[c-mecca-trade]] [[c-sira]]",
+         "sources": [
+          "brit-muhammad",
+          "crone2007"
+         ]
+        }
+       },
+       {
+        "ll": [
+         39.614,
+         24.469
+        ],
+        "label": "Medina",
+        "date": "hijra, 622",
+        "acc": true,
+        "big": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "10.6 · the sources",
+         "title": "How we know",
+         "sub": "the sira and its critics",
+         "text": "[[c-sira]] [[c-doctrina]] [[c-revisionists]]",
+         "sources": [
+          "brit-muhammad",
+          "shaddel-dj",
+          "hoyland2007"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.128,
+         17.493
+        ],
+        "label": "Najran",
+        "date": "Christians killed, 523",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "10.6 · Himyar",
+         "title": "Najran",
+         "sub": "523",
+         "text": "[[c-najran]]",
+         "sources": [
+          "robin-himyar"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.401,
+         14.213
+        ],
+        "label": "Zafar",
+        "date": "Himyarite capital",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "10.6 · Himyar",
+         "title": "Himyar",
+         "sub": "monotheism from c. 380",
+         "text": "[[c-himyar]]",
+         "sources": [
+          "robin-himyar"
+         ]
+        }
+       },
+       {
+        "ll": [
+         38.723,
+         14.121
+        ],
+        "label": "Aksum",
+        "date": "invades Himyar, 525",
+        "anchor": "end",
+        "dy": 16
+       },
+       {
+        "ll": [
+         44.487,
+         31.89
+        ],
+        "label": "al-Hira",
+        "date": "Lakhmids, to 602",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "10.6 · frontier Arabs",
+         "title": "Lakhmids and Ghassanids",
+         "sub": "to 602 and 636",
+         "text": "[[c-lakhmid-ghassanid]]",
+         "sources": [
+          "brit-lakhmid",
+          "brit-ghassanid"
+         ]
+        }
+       },
+       {
+        "ll": [
+         36.012,
+         32.942
+        ],
+        "label": "al-Jabiya",
+        "date": "Ghassanid centre",
+        "anchor": "end",
+        "dy": -6
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do historians argue over the Doctrina Jacobi?",
+     "choices": [
+      "Its date decides if it is the earliest outside witness",
+      "It is the earliest Muslim biography, older than Ibn Ishaq's",
+      "It supplies the 622 date for Muhammad's hijra to Medina",
+      "It is used to argue that Muhammad was a later legend"
+     ],
+     "answer": 0,
+     "why": "If it dates from about 634, as usually thought, it is the earliest outside reference to the prophet; Mehdy Shaddel argues it was written decades later.",
+     "wrong": {
+      "1": "It is a Greek Christian text; the earliest full Muslim biography is Ibn Ishaq's.",
+      "2": "That date comes from Muslim tradition.",
+      "3": "Non-Muslim sources from within decades of his death confirm that an Arab prophet named Muhammad existed."
+     }
+    },
+    {
+     "q": "Which statement about southern Arabia before Islam is accurate?",
+     "choices": [
+      "Himyar's kings turned to one god and leaned towards Judaism",
+      "Himyar was a Persian client, like the Lakhmids at al-Hira",
+      "The Ghassanids guarded Persia's frontier as Zoroastrians",
+      "Himyar's kings named Judaism outright in their inscriptions"
+     ],
+     "answer": 0,
+     "why": "Around 380-384 royal inscriptions abandoned the old gods for a single 'Lord of the Sky', and the kingdom's rulers leaned towards Judaism.",
+     "wrong": {
+      "1": "Himyar's king rebelled against Aksumite, not Persian, overlordship; the Lakhmids guarded Persia's frontier in the north.",
+      "2": "The Ghassanids were an Arab Christian dynasty that guarded Rome's frontier.",
+      "3": "Christian Julien Robin calls it a 'discreet conversion' because royal inscriptions never name Judaism outright."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Quran",
+   "sub": "scripture, manuscripts and scholarship",
+   "lede": "For Muslims the Quran is the literal word of God. For historians it is the one text that almost certainly goes back to the earliest Muslim community. Both readings can be set side by side, together with what radiocarbon dating of the oldest manuscripts now shows.",
+   "body": [
+    "The Quran is about as long as the New Testament: 114 suras, arranged roughly from longest to shortest. [[c-quran-structure]] Muslims hold it to be God's own speech, revealed to Muhammad, and the text claims divine protection for itself. [[c-quran-muslim]] Muslim tradition says the caliph Uthman fixed a single standard text and sent copies to the provinces. [[c-uthman]]",
+    "Manuscripts now let historians test this. Leaves in Birmingham and other early Qurans are written on parchment from the 7th century, [[c-birmingham]] [[c-early-mss]] and the Sanaa palimpsest preserves, under a later text, a version whose wording differs from the standard one. [[c-sanaa]] Most scholars think the evidence fits a standard text fixed in the mid-7th century; a minority argue for about 700. [[c-closure]]",
+    "The Quran speaks to readers of the Bible. It tells of Abraham building the Kaaba with Ishmael, [[c-abraham-quran]] honours all the prophets from Abraham to Jesus, [[c-prophets]] and names a sura after Mary. [[c-mary]] On Jesus' death it differs sharply from the Gospels. [[c-crucifixion]] Believers and historians read these shared stories differently. [[c-quran-bible]]",
+    {
+     "table": {
+      "head": [
+       "Figure",
+       "Quran",
+       "Hebrew Bible and New Testament"
+      ],
+      "rows": [
+       [
+        "Abraham",
+        "builds the Kaaba with Ishmael (2:127)",
+        "no link with Mecca (Genesis)"
+       ],
+       [
+        "Moses",
+        "his story is retold in many suras",
+        "the central figure of Exodus-Deuteronomy"
+       ],
+       [
+        "Mary",
+        "chosen above all women (3:42); sura 19 named after her",
+        "mother of Jesus (Gospels)"
+       ],
+       [
+        "Jesus",
+        "messenger and Messiah; not crucified, 'it was made to appear' so (4:157)",
+        "crucified and risen (Gospels)"
+       ]
+      ],
+      "note": "[[c-abraham-quran]] [[c-mary]] [[c-crucifixion]] [[c-prophets]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "How old are the oldest Qurans?",
+    "title": "Radiocarbon dates of early Quran manuscripts (95% ranges, CE)",
+    "max": -550,
+    "min": -780,
+    "unit": "ka",
+    "ticks": [
+     -550,
+     -600,
+     -650,
+     -700,
+     -750
+    ],
+    "tickLabels": [
+     "550 CE",
+     "600",
+     "650",
+     "700",
+     "750 CE"
+    ],
+    "axis": "calibrated radiocarbon date of the parchment, CE",
+    "hint": "Hover or click a row",
+    "marks": [
+     {
+      "ya": -622,
+      "t": "hijra, 622"
+     },
+     {
+      "ya": -632,
+      "t": "Muhammad's death, 632 (tradition)"
+     },
+     {
+      "ya": -691,
+      "t": "Dome of the Rock, 691/692",
+      "anchor": "end"
+     }
+    ],
+    "rows": [
+     {
+      "t": "Birmingham",
+      "sub": "Mingana 1572a",
+      "from": -568,
+      "to": -645,
+      "lab": "568-645",
+      "acc": true,
+      "plate": {
+       "kicker": "10.7 · manuscripts",
+       "title": "The Birmingham leaves",
+       "sub": "568-645",
+       "text": "[[c-birmingham]] [[c-early-mss]]",
+       "sources": [
+        "bham-quran",
+        "marx-jocham2019"
+       ]
+      }
+     },
+     {
+      "t": "Sanaa palimpsest",
+      "sub": "lower text",
+      "from": -606,
+      "to": -649,
+      "lab": "606-649",
+      "acc": true,
+      "plate": {
+       "kicker": "10.7 · manuscripts",
+       "title": "The Sanaa palimpsest",
+       "sub": "7th century",
+       "text": "[[c-sanaa]] [[c-closure]]",
+       "sources": [
+        "iis-sanaa",
+        "sinai2020",
+        "sinai2014",
+        "ucp-shoemaker2022"
+       ]
+      }
+     },
+     {
+      "t": "Berlin",
+      "sub": "Ms. or. fol. 4313",
+      "from": -606,
+      "to": -652,
+      "lab": "606-652",
+      "acc": true
+     },
+     {
+      "t": "Sanaa",
+      "sub": "DAM 01-29.1",
+      "from": -633,
+      "to": -665,
+      "lab": "633-665",
+      "acc": true
+     },
+     {
+      "t": "Tübingen",
+      "sub": "Ma VI 165",
+      "from": -649,
+      "to": -675,
+      "lab": "649-675",
+      "acc": true
+     },
+     {
+      "t": "Leiden",
+      "sub": "Or. 14.545a",
+      "from": -652,
+      "to": -763,
+      "lab": "652-763",
+      "open": true
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "The Birmingham leaves date to 568-645 at 95 percent probability. What does that result show?",
+     "choices": [
+      "It dates the parchment, not the writing on it",
+      "The text was certainly written in Muhammad's lifetime",
+      "It is the oldest Quran, as the university announced",
+      "It preserves a complete Quran from the 7th century"
+     ],
+     "answer": 0,
+     "why": "Radiocarbon dates when the animal died, not when the text was written; the result fits a 7th-century text.",
+     "wrong": {
+      "1": "The date is when the animal died; the writing could be later.",
+      "2": "The university does not call them the oldest Quran.",
+      "3": "They are two leaves with parts of suras 18-20."
+     }
+    },
+    {
+     "q": "Why does the lower text of the Sanaa palimpsest matter?",
+     "choices": [
+      "It is the only known Quran with wording unlike the standard",
+      "Its lower text is a Christian scripture, not a Quran",
+      "Sinai reads it as a teaching text, not a full copy",
+      "It proves the standard text was fixed only around 700"
+     ],
+     "answer": 0,
+     "why": "The lower text, a 7th-century Quran, is the only known manuscript whose consonantal text differs from the standard one.",
+     "wrong": {
+      "1": "The lower text is a 7th-century Quran that was scraped off and overwritten.",
+      "2": "That is Asma Hilali's reading; Nicolai Sinai argues it came from a full copy that preserved a different version.",
+      "3": "It shows that a different version existed; when the standard text was fixed is still debated."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Arab conquests",
+   "sub": "634 to c. 710",
+   "lede": "Within a dozen years of Muhammad's death, Arab armies had taken Syria, Iraq and Egypt from the two great empires of the age. Within a century they ruled from Spain to Central Asia. It is one of the fastest and most lasting conquests in history, and how it happened is still argued over.",
+   "body": [
+    "The two empires were exhausted. Rome and Persia had just fought a quarter-century war in which Persia took Jerusalem and Egypt and Rome won them back. [[c-persian-war]] Both had been hit by plague and by a sharp cooling of the climate. [[c-lalia]] Into this world came armies united, for the first time, under a single religious and political leadership from Medina.",
+    "Syria fell after the battle of the Yarmuk in 636. [[c-yarmuk]] Iraq was opened by al-Qadisiyya, [[c-qadisiyya]] whose battlefield was located in 2024 from Cold War spy-satellite photographs. [[c-qadisiyya-found]] The last Sasanian king was hunted across Iran and killed in 651. [[c-yazdegerd]] Egypt fell in 639-642, [[c-egypt-conquest]] and North Africa, after long Berber resistance, by about 700. [[c-maghrib]]",
+    "The conquerors ruled from new garrison towns and left most things as they were. In Egypt, Christian clerks went on collecting the old taxes and no one was pressed to convert. [[c-egypt-continuity]] Jews, Christians and Zoroastrians became protected subjects who paid a poll tax, [[c-jizya]] grounded in a verse of the Quran; [[c-quran-9-29]] over time the tax also marked a lower status. [[c-jizya-status]] Some historians argue that the early movement was more open than later tradition remembered. [[c-donner]] Conversion was slow: in Iran most people became Muslim only after 750. [[c-bulliet]]",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "Event"
+      ],
+      "rows": [
+       [
+        "614-628",
+        "Persia takes Jerusalem and Egypt; Heraclius wins them back"
+       ],
+       [
+        "634",
+        "Arab armies enter Syria"
+       ],
+       [
+        "636",
+        "Yarmuk: Byzantine Syria lost"
+       ],
+       [
+        "c. 636-638",
+        "al-Qadisiyya: Iraq opened"
+       ],
+       [
+        "639-642",
+        "conquest of Egypt"
+       ],
+       [
+        "642, 651",
+        "Nahavand; Yazdegerd III killed at Merv"
+       ],
+       [
+        "670-698",
+        "Kairouan founded; Carthage taken"
+       ]
+      ],
+      "note": "[[c-persian-war]] [[c-yarmuk]] [[c-qadisiyya]] [[c-egypt-conquest]] [[c-yazdegerd]] [[c-maghrib]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 36.5,
+     "lat": 31.0,
+     "zoom": 6.6
+    },
+    "caption": "The first Arab conquests, 634-698",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc",
+      "campaigns (simplified)"
+     ],
+     [
+      "dot",
+      "battle or key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          39.61,
+          24.47
+         ],
+         [
+          37.5,
+          28.5
+         ],
+         [
+          36.0,
+          31.5
+         ],
+         [
+          35.87,
+          32.71
+         ]
+        ],
+        "label": "to Syria, 634",
+        "lab": [
+         37.5,
+         28.5
+        ],
+        "ldx": 8,
+        "anchor": "start"
+       },
+       {
+        "path": [
+         [
+          39.61,
+          24.47
+         ],
+         [
+          42.5,
+          28.0
+         ],
+         [
+          44.44,
+          31.78
+         ],
+         [
+          44.58,
+          33.09
+         ],
+         [
+          48.37,
+          34.19
+         ],
+         [
+          55.0,
+          36.0
+         ],
+         [
+          62.17,
+          37.67
+         ]
+        ],
+        "label": "to Iraq and Iran",
+        "lab": [
+         42.5,
+         28.0
+        ],
+        "ldx": 8,
+        "anchor": "start"
+       },
+       {
+        "path": [
+         [
+          35.0,
+          31.3
+         ],
+         [
+          33.0,
+          30.9
+         ],
+         [
+          31.24,
+          30.01
+         ],
+         [
+          29.92,
+          31.2
+         ]
+        ],
+        "label": "to Egypt, 639",
+        "lab": [
+         33.0,
+         30.9
+        ],
+        "ldy": 18
+       },
+       {
+        "path": [
+         [
+          29.92,
+          31.2
+         ],
+         [
+          25.0,
+          31.5
+         ],
+         [
+          20.0,
+          31.0
+         ],
+         [
+          15.0,
+          32.5
+         ],
+         [
+          10.1,
+          35.68
+         ],
+         [
+          10.33,
+          36.87
+         ]
+        ],
+        "label": "North Africa",
+        "lab": [
+         20.0,
+         31.0
+        ],
+        "ldy": 18
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         42.0,
+         22.0
+        ],
+        "label": "ARABIA",
+        "size": 12
+       },
+       {
+        "ll": [
+         54.0,
+         32.0
+        ],
+        "label": "SASANIAN PERSIA",
+        "size": 10
+       },
+       {
+        "ll": [
+         31.5,
+         39.0
+        ],
+        "label": "BYZANTIUM",
+        "size": 10
+       },
+       {
+        "ll": [
+         29.5,
+         26.5
+        ],
+        "label": "EGYPT",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         39.6142,
+         24.4686
+        ],
+        "label": "Medina",
+        "date": "base of the early caliphs",
+        "acc": true,
+        "big": true,
+        "dy": 16
+       },
+       {
+        "ll": [
+         36.2913,
+         33.5102
+        ],
+        "label": "Damascus",
+        "dy": -8
+       },
+       {
+        "ll": [
+         35.87,
+         32.71
+        ],
+        "label": "Yarmuk",
+        "date": "636",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 4,
+        "plate": {
+         "kicker": "10.8 · Syria",
+         "title": "The Yarmuk",
+         "sub": "20 August 636",
+         "text": "[[c-persian-war]] [[c-yarmuk]]",
+         "sources": [
+          "brit-heraclius",
+          "brit-yarmuk"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.44,
+         31.78
+        ],
+        "label": "al-Qadisiyya",
+        "date": "c. 636-638",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 14,
+        "plate": {
+         "kicker": "10.8 · Iraq",
+         "title": "al-Qadisiyya",
+         "sub": "located in 2024",
+         "text": "[[c-qadisiyya]] [[c-qadisiyya-found]]",
+         "sources": [
+          "brit-qadisiyya",
+          "durham-qadisiyya",
+          "archmag-qadisiyya"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.5833,
+         33.0833
+        ],
+        "label": "Ctesiphon",
+        "date": "Sasanian capital",
+        "dy": -8
+       },
+       {
+        "ll": [
+         48.3745,
+         34.1909
+        ],
+        "label": "Nahavand",
+        "date": "642",
+        "acc": true,
+        "dy": -8
+       },
+       {
+        "ll": [
+         62.173,
+         37.6677
+        ],
+        "label": "Merv",
+        "date": "Yazdegerd killed, 651",
+        "acc": true,
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "10.8 · Persia",
+         "title": "The end of the Sasanians",
+         "sub": "651",
+         "text": "[[c-yazdegerd]] [[c-bulliet]]",
+         "sources": [
+          "brit-yazdegerd",
+          "iranica-conversion"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.2393,
+         30.0074
+        ],
+        "label": "al-Fustat",
+        "date": "garrison town",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "10.8 · Egypt",
+         "title": "The conquest of Egypt",
+         "sub": "639-642",
+         "text": "[[c-egypt-conquest]] [[c-egypt-continuity]] [[c-jizya]]",
+         "sources": [
+          "brit-egypt-islamic",
+          "brit-jizya"
+         ]
+        }
+       },
+       {
+        "ll": [
+         29.9158,
+         31.2018
+        ],
+        "label": "Alexandria",
+        "anchor": "end",
+        "dy": -8
+       },
+       {
+        "ll": [
+         10.0963,
+         35.6781
+        ],
+        "label": "Kairouan",
+        "date": "founded 670 (tradition)",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "10.8 · North Africa",
+         "title": "Kairouan and Carthage",
+         "sub": "670-698",
+         "text": "[[c-maghrib]]",
+         "sources": [
+          "brit-kairouan",
+          "brit-kahina"
+         ]
+        }
+       },
+       {
+        "ll": [
+         10.3333,
+         36.8667
+        ],
+        "label": "Carthage",
+        "date": "taken after 698",
+        "dy": -10
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why did Arab rule in Egypt after 642 not quickly produce a Muslim majority?",
+     "choices": [
+      "They kept Coptic tax clerks and made no effort to convert",
+      "A Byzantine force retook and held Alexandria after 645",
+      "They governed from Alexandria, the old Christian capital",
+      "Most Copts fled to Byzantine lands when the Arabs came"
+     ],
+     "answer": 0,
+     "why": "The conquerors kept the Byzantine land and poll taxes, Coptic Christian clerks ran the tax offices, and there was 'no attempt to force, or even to persuade, the Egyptians to convert'.",
+     "wrong": {
+      "1": "The Byzantine attempt to retake Alexandria in 645 failed.",
+      "2": "They built a new garrison town, al-Fustat, rather than ruling from Alexandria.",
+      "3": "The Copts stayed: Coptic Christian clerks went on running the tax offices."
+     }
+    },
+    {
+     "q": "What does Richard Bulliet's 'conversion curve' rest on, and where is it weakest?",
+     "choices": [
+      "Names in biographical dictionaries; weak on rural converts",
+      "Counts of excavated mosques; weak in unexcavated areas",
+      "Tax registers of jizya payers; weak before about 750",
+      "Names in biographical dictionaries; weak for the towns"
+     ],
+     "answer": 0,
+     "why": "He dated conversions by when converts' families adopted Muslim names in biographical dictionaries; those cover formal conversions in towns, so rural and informal conversion is far less visible.",
+     "wrong": {
+      "1": "His data came from biographical dictionaries, not archaeology.",
+      "2": "His data are converts' names in biographical dictionaries, not tax records.",
+      "3": "His data cover formal conversions in towns; it is rural and informal conversion that is hard to see."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Umayyads and al-Andalus",
+   "sub": "661 to 756",
+   "lede": "The first dynasty of caliphs ruled from Damascus over an empire stretching from the Indus to the Atlantic. They gave it an Arabic administration, an Islamic coinage and its first great monument, and in 711 their armies crossed into Spain, beginning nearly eight centuries of Muslim rule in Iberia.",
+   "body": [
+    "After a civil war over the succession, Mu'awiya of the Umayyad clan made the caliphate a hereditary monarchy based in Damascus. [[c-umayyads]] Under Abd al-Malik the empire became recognisably Islamic in its public face: Arabic replaced Greek and Persian in government, [[c-abdalmalik]] and new coins carried no images, only words of faith. [[c-coin-reform]] In Jerusalem he built the Dome of the Rock, [[c-dome-date]] whose purpose is still debated, [[c-dome-purpose]] and whose inscriptions speak directly to Christians about who Jesus was. [[c-dome-text]]",
+    "In 711 a Berber general, Tariq ibn Ziyad, crossed the strait and landed below the rock that still bears his name (Gibraltar, from Jabal Tariq, 'Tariq's mountain'), and defeated the last Visigothic king. [[c-guadalete]] Within a few years almost all of Iberia was under Muslim rule. In the northern mountains a small Christian force held out at Covadonga, [[c-covadonga]] and in 732 a raid into France was turned back near Tours. [[c-tours]]",
+    "In 750 the Umayyads were overthrown by the Abbasids, who moved the centre of the caliphate to Iraq. [[c-abbasid-rev]] One Umayyad prince escaped to Spain and founded an independent emirate at Córdoba. [[c-abdalrahman]] Al-Andalus left a deep mark on Spanish, which has thousands of words from Arabic. [[c-arabismos]]",
+    {
+     "table": {
+      "head": [
+       "Spanish",
+       "Meaning",
+       "From Arabic"
+      ],
+      "rows": [
+       [
+        "aceite",
+        "oil",
+        "azzáyt, oil (ultimately from Aramaic)"
+       ],
+       [
+        "ojalá",
+        "I hope so",
+        "'if God wills'"
+       ],
+       [
+        "alcalde",
+        "mayor",
+        "al-qadi, the judge"
+       ],
+       [
+        "arroz",
+        "rice",
+        "Andalusi arráwz, from ar-ruzz (ultimately from Greek)"
+       ],
+       [
+        "cero",
+        "zero",
+        "sifr, empty (via Italian zero)"
+       ],
+       [
+        "almohada",
+        "pillow",
+        "almukhádda (Andalusi Arabic)"
+       ]
+      ],
+      "note": "[[c-arabismos]]"
+     }
+    },
+    {
+     "compare": "The Dome's inscriptions echo Quran 4:171, which tells the People of the Book not to go to excess in their religion and not to speak of a Trinity, and they quote sura 112, which in Abdel Haleem's translation says of God, 'He begot no one nor was He begotten' (112:3). Placed on the Temple Mount, close to the great churches of Christian Jerusalem, the building is read by many historians as a public argument with its Christian neighbours."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 14.0,
+     "lat": 37.0,
+     "zoom": 6.4
+    },
+    "caption": "The Umayyad caliphate, 661-750, and al-Andalus",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc",
+      "into Spain and France, 711-732 (simplified)"
+     ],
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          -5.81,
+          35.78
+         ],
+         [
+          -5.6,
+          36.1
+         ],
+         [
+          -5.81,
+          36.75
+         ],
+         [
+          -4.77,
+          37.89
+         ],
+         [
+          -4.02,
+          39.86
+         ],
+         [
+          -2.0,
+          41.6
+         ],
+         [
+          0.5,
+          42.6
+         ],
+         [
+          0.34,
+          46.58
+         ]
+        ],
+        "label": "711-732",
+        "lab": [
+         -2.0,
+         41.6
+        ],
+        "ldx": 8,
+        "anchor": "start"
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         -4.2,
+         40.9
+        ],
+        "label": "AL-ANDALUS",
+        "size": 10
+       },
+       {
+        "ll": [
+         4.5,
+         48.6
+        ],
+        "label": "FRANKS",
+        "size": 10
+       },
+       {
+        "ll": [
+         30.0,
+         39.0
+        ],
+        "label": "BYZANTIUM",
+        "size": 10
+       },
+       {
+        "ll": [
+         42.0,
+         25.0
+        ],
+        "label": "ARABIA",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         36.2913,
+         33.5102
+        ],
+        "label": "Damascus",
+        "date": "Umayyad capital, 661-750",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": -10,
+        "plate": {
+         "kicker": "10.9 · the Umayyads",
+         "title": "Damascus",
+         "sub": "661-750",
+         "text": "[[c-umayyads]] [[c-abdalmalik]] [[c-coin-reform]]",
+         "sources": [
+          "brit-umayyad",
+          "met-dinar"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.2351,
+         31.7781
+        ],
+        "label": "Jerusalem",
+        "date": "Dome of the Rock, 691/692",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 14,
+        "plate": {
+         "kicker": "10.9 · the Dome",
+         "title": "The Dome of the Rock",
+         "sub": "691/692",
+         "text": "[[c-dome-date]] [[c-dome-purpose]] [[c-dome-text]]",
+         "sources": [
+          "brit-dome",
+          "ia-dome",
+          "quran-4-171"
+         ]
+        }
+       },
+       {
+        "ll": [
+         43.34,
+         35.99
+        ],
+        "label": "Great Zab",
+        "date": "Umayyads defeated, 750",
+        "acc": true,
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "10.9 · revolution",
+         "title": "The Abbasid revolution",
+         "sub": "749-750",
+         "text": "[[c-abbasid-rev]]",
+         "sources": [
+          "brit-umayyad"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -5.8106,
+         36.7508
+        ],
+        "label": "Guadalete",
+        "date": "711",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "10.9 · Spain",
+         "title": "The fall of Visigothic Spain",
+         "sub": "711",
+         "text": "[[c-guadalete]]",
+         "sources": [
+          "brit-roderick"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -4.0226,
+         39.8581
+        ],
+        "label": "Toledo",
+        "date": "Visigothic capital",
+        "dy": 16
+       },
+       {
+        "ll": [
+         -4.7727,
+         37.8916
+        ],
+        "label": "Córdoba",
+        "date": "emirate from 756",
+        "acc": true,
+        "big": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "10.9 · al-Andalus",
+         "title": "Córdoba",
+         "sub": "from 756",
+         "text": "[[c-abdalrahman]] [[c-arabismos]]",
+         "sources": [
+          "brit-abdalrahman1",
+          "udep-arabismos",
+          "rae-aceite"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -5.0549,
+         43.3082
+        ],
+        "label": "Covadonga",
+        "date": "c. 720",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "10.9 · Asturias",
+         "title": "Covadonga",
+         "sub": "c. 718-722",
+         "text": "[[c-covadonga]]",
+         "sources": [
+          "brit-covadonga"
+         ]
+        }
+       },
+       {
+        "ll": [
+         0.3435,
+         46.5826
+        ],
+        "label": "Poitiers",
+        "date": "Tours/Poitiers, 732",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "10.9 · France",
+         "title": "Tours/Poitiers",
+         "sub": "October 732",
+         "text": "[[c-tours]]",
+         "sources": [
+          "brit-tours"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does Abd al-Malik's coin reform of the 690s tell us?",
+     "choices": [
+      "Coins with only Arabic religious texts proclaimed Islam",
+      "It replaced Arabic with Greek on the state's coinage",
+      "The new coins showed the caliph's portrait with Quran verses",
+      "The reform was first carried out at the mint of Córdoba"
+     ],
+     "answer": 0,
+     "why": "From 696/697 the mints struck gold and silver coins with no images, only the declaration of faith and Quranic verses; the Met says the reform helped lay 'the foundations for the imagery of the Islamic state'.",
+     "wrong": {
+      "1": "The reverse: under Abd al-Malik Arabic became the language of government, and the coins bore Arabic texts.",
+      "2": "The reformed coins had no images.",
+      "3": "Córdoba became an Umayyad capital only in 755-756, decades after the reform of 696/697."
+     }
+    },
+    {
+     "q": "Why do historians argue about how important the battle of Tours/Poitiers (732) was?",
+     "choices": [
+      "It may have stopped a large raid rather than an invasion",
+      "It may have been fought in Spain rather than in France",
+      "The Muslim commander survived and went on to take Aquitaine",
+      "Historians agree it ended Muslim expansion in Europe"
+     ],
+     "answer": 0,
+     "why": "Older histories call it the battle that saved Europe; many historians now think it stopped a large raid, and that the Berber revolt of 739 and the Abbasid civil war did more to halt expansion.",
+     "wrong": {
+      "1": "It was fought somewhere between Tours and Poitiers, in France.",
+      "2": "The Muslim commander was killed.",
+      "3": "Many historians now credit the Berber revolt of 739 and the Abbasid civil war with doing more to halt expansion."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Christian worlds beyond Rome",
+   "sub": "from Ireland to China",
+   "lede": "By 700 Christianity was not one church but several, divided by arguments over how Christ could be both God and man. Some of the oldest Christian nations, Armenia, Georgia and Ethiopia, lay outside the Roman world altogether, and Persian monks had carried the faith to China.",
+   "body": [
+    "Kingdoms on Rome's edges converted early, often from the top down. Armenia's king was baptised in the early 4th century, [[c-armenia]] Georgia followed, [[c-georgia]] and in Aksum King Ezana put the cross on his coins. [[c-ezana]] Ethiopia later traced its kings to Solomon and the Queen of Sheba through a medieval epic. [[c-kebra]] The Nubian kingdoms on the Nile converted in the 6th century and kept a treaty with Muslim Egypt for centuries. [[c-nubia]]",
+    "Within the empire, councils of bishops tried to define the faith. Ephesus (431) condemned Nestorius over what to call Mary; [[c-ephesus]] Chalcedon (451) defined Christ's two natures. [[c-chalcedon]] Much of Egypt, Syria and Armenia rejected Chalcedon, and their churches remain separate today. [[c-oriental]] The church of the Persian empire, the Church of the East, went its own way too. Some of these divisions have recently been called largely misunderstandings. [[c-1994]]",
+    "At both ends of the world, monks carried the faith further. Monks of the Church of the East reached the Chinese capital in 635. [[c-xian]] In the far west, Ireland, never part of the empire, received bishops in the 5th century, [[c-patrick]] and its monks went on to found Iona and evangelise northern Britain. [[c-iona]]",
+    {
+     "table": {
+      "head": [
+       "Church",
+       "Heartland",
+       "Position on Chalcedon (451)"
+      ],
+      "rows": [
+       [
+        "Catholic and Eastern Orthodox",
+        "Latin West, Greek East",
+        "accept"
+       ],
+       [
+        "Oriental Orthodox",
+        "Egypt, Ethiopia, Syria, Armenia, India",
+        "reject"
+       ],
+       [
+        "Church of the East",
+        "Persia, Central Asia, China",
+        "outside the Roman councils after Ephesus"
+       ]
+      ],
+      "note": "[[c-chalcedon]] [[c-oriental]] [[c-ephesus]] [[c-1994]]"
+     }
+    },
+    {
+     "compare": "In 1 Kings 10:1-13 the queen of Sheba comes to Solomon 'to test him with riddles', exchanges gifts with him and 'returned to her own land with her servants'. The Ethiopian epic adds a son, Menelik, and the Ark of the Covenant, neither of which is in the biblical text."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 52.0,
+     "lat": 35.0,
+     "zoom": 3.2
+    },
+    "caption": "Christian worlds, c. 300-781",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "conversion or council"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         20.0,
+         43.0
+        ],
+        "label": "BYZANTIUM",
+        "size": 9
+       },
+       {
+        "ll": [
+         54.0,
+         31.0
+        ],
+        "label": "PERSIA",
+        "size": 10
+       },
+       {
+        "ll": [
+         108.0,
+         30.0
+        ],
+        "label": "TANG CHINA",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         -6.3916,
+         56.3353
+        ],
+        "label": "Iona",
+        "date": "563",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "10.10 · Ireland",
+         "title": "Ireland and Iona",
+         "sub": "431-563",
+         "text": "[[c-patrick]] [[c-iona]]",
+         "sources": [
+          "brit-patrick",
+          "hes-iona"
+         ]
+        }
+       },
+       {
+        "ll": [
+         27.3408,
+         37.9397
+        ],
+        "label": "Ephesus",
+        "date": "431",
+        "acc": true,
+        "anchor": "end",
+        "dy": 14,
+        "plate": {
+         "kicker": "10.10 · councils",
+         "title": "Ephesus and Chalcedon",
+         "sub": "431 and 451",
+         "text": "[[c-ephesus]] [[c-chalcedon]] [[c-oriental]]",
+         "sources": [
+          "brit-christotokos",
+          "brit-chalcedon",
+          "wcc-oriental"
+         ]
+        }
+       },
+       {
+        "ll": [
+         29.0903,
+         40.9823
+        ],
+        "label": "Chalcedon",
+        "date": "451",
+        "acc": true,
+        "dy": -8
+       },
+       {
+        "ll": [
+         44.2946,
+         40.1656
+        ],
+        "label": "Armenia",
+        "date": "301 or 314",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "10.10 · Armenia",
+         "title": "The first Christian kingdom",
+         "sub": "301 or 314",
+         "text": "[[c-armenia]]",
+         "sources": [
+          "ct-armenia2026"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.7188,
+         41.8451
+        ],
+        "label": "Mtskheta",
+        "date": "c. 337",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "10.10 · Georgia",
+         "title": "Georgia",
+         "sub": "c. 337",
+         "text": "[[c-georgia]]",
+         "sources": [
+          "unesco-mtskheta",
+          "brit-nino"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.5833,
+         33.0833
+        ],
+        "label": "Ctesiphon",
+        "date": "Church of the East",
+        "dy": 16
+       },
+       {
+        "ll": [
+         30.7431,
+         18.2238
+        ],
+        "label": "Dongola",
+        "date": "baqt, 652",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "10.10 · Nubia",
+         "title": "Christian Nubia",
+         "sub": "6th century onward",
+         "text": "[[c-nubia]]",
+         "sources": [
+          "martens2015"
+         ]
+        }
+       },
+       {
+        "ll": [
+         38.7234,
+         14.1211
+        ],
+        "label": "Aksum",
+        "date": "Ezana, c. 340-356",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "10.10 · Ethiopia",
+         "title": "Aksum",
+         "sub": "c. 340-356",
+         "text": "[[c-ezana]] [[c-kebra]]",
+         "sources": [
+          "sh-aksum-coins",
+          "brit-kebra",
+          "bg-1kings10"
+         ]
+        }
+       },
+       {
+        "ll": [
+         108.9286,
+         34.2583
+        ],
+        "label": "Chang'an",
+        "date": "Alopen, 635",
+        "acc": true,
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "10.10 · China",
+         "title": "The Xi'an stele",
+         "sub": "635 and 781",
+         "text": "[[c-xian]]",
+         "sources": [
+          "uw-xian",
+          "bham-xian"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why are the Coptic, Ethiopian, Armenian and Syriac Orthodox churches not in communion with the Eastern Orthodox churches?",
+     "choices": [
+      "They reject Chalcedon's definition of two natures",
+      "They rejected Ephesus and its title 'Mother of God'",
+      "They follow Nestorius, condemned at Ephesus in 431",
+      "A declaration made in 1994 divided them from Rome"
+     ],
+     "answer": 0,
+     "why": "They accept the first three councils but not Chalcedon (451), which defined Christ as one person in two natures.",
+     "wrong": {
+      "1": "They accept the first three councils, Ephesus included.",
+      "2": "Ephesus condemned Nestorius, and these churches accept Ephesus.",
+      "3": "The 1994 declaration was between the Pope and the Assyrian Church of the East, and it aimed at reconciliation."
+     }
+    },
+    {
+     "q": "What does the Xi'an stele best show?",
+     "choices": [
+      "That Church of the East monks were in Tang China from 635",
+      "That Christianity reached China through a mission from the Pope",
+      "That it was set up in the 1620s, when it was found",
+      "That its text is in Syriac, with Chinese names added"
+     ],
+     "answer": 0,
+     "why": "Set up at Chang'an in 781, it records the arrival in 635 of a Persian monk, Alopen, of the Church of the East.",
+     "wrong": {
+      "1": "It names a Persian monk, Alopen, of the Church of the East.",
+      "2": "It was set up in 781 and only rediscovered in the 1620s.",
+      "3": "The reverse: the text is Chinese, with names in Syriac."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Late antiquity elsewhere",
+   "sub": "China reunited, the steppe Turks, Teotihuacan and the Maya",
+   "lede": "The centuries that saw Rome divided and Islam born were turning points elsewhere too. China was reunited and dug its Grand Canal, a Turkic empire spanned the steppe, and in the Americas the greatest city of the age declined while the Maya reached their peak.",
+   "body": [
+    "China, divided since the Han apart from a brief reunion under the Jin (280-c. 316), was reunited in 589 by the Sui. [[c-sui]] They joined older canals into a system linking north and south, and exhausted themselves doing it. [[c-grandcanal]] The Tang dynasty that followed in 618 (see 11.4) [[c-tang]] would make Chang'an, with perhaps a million people, probably the largest city in the world. [[c-changan]] On the steppe, a Turkic empire stretched from China to the Caspian, [[c-turks]] and in India Harsha briefly rebuilt a northern empire. [[c-harsha]]",
+    "In the Americas, Teotihuacan, a planned city of perhaps 100,000 people or more in the valley of Mexico, [[c-teo-size]] declined after about 550, its centre burned. [[c-teotihuacan]] Whether its signs were true writing is now being argued again. [[c-teo-writing]] As Teotihuacan's influence faded, the Maya cities of the southern lowlands reached their height between 600 and 900. [[c-maya]] Laser scanning from aircraft has revealed far more of their houses, fields and roads than anyone expected. [[c-maya-pop]]",
+    {
+     "table": {
+      "head": [
+       "Region",
+       "c. 550-750"
+      ],
+      "rows": [
+       [
+        "China",
+        "Sui reunification 589; Grand Canal 605-610; Tang from 618"
+       ],
+       [
+        "Steppe",
+        "Turkic empire from 552"
+       ],
+       [
+        "India",
+        "Harsha, 606-647"
+       ],
+       [
+        "Mexico",
+        "Teotihuacan declines from c. 550"
+       ],
+       [
+        "Maya lowlands",
+        "Late Classic peak, c. 600-900"
+       ]
+      ],
+      "note": "[[c-sui]] [[c-grandcanal]] [[c-turks]] [[c-harsha]] [[c-teotihuacan]] [[c-maya]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "The world beyond Rome, c. 500-900",
+    "title": "Selected states and cities, CE",
+    "max": -500,
+    "min": -920,
+    "unit": "ka",
+    "ticks": [
+     -500,
+     -600,
+     -700,
+     -800,
+     -900
+    ],
+    "tickLabels": [
+     "500 CE",
+     "600",
+     "700",
+     "800",
+     "900 CE"
+    ],
+    "axis": "years CE",
+    "hint": "Hover or click a row",
+    "marks": [
+     {
+      "ya": -589,
+      "t": "China reunited, 589"
+     },
+     {
+      "ya": -622,
+      "t": "the hijra, 622"
+     }
+    ],
+    "rows": [
+     {
+      "t": "Sui dynasty",
+      "from": -581,
+      "to": -618,
+      "lab": "581-618",
+      "acc": true,
+      "plate": {
+       "kicker": "10.11 · China",
+       "title": "The Sui",
+       "sub": "581-618",
+       "text": "[[c-sui]] [[c-grandcanal]]",
+       "sources": [
+        "brit-sui",
+        "unesco-grandcanal"
+       ]
+      }
+     },
+     {
+      "t": "Tang dynasty",
+      "sub": "to 907 (see 11.4)",
+      "from": -618,
+      "to": -907,
+      "lab": "618-907",
+      "acc": true
+     },
+     {
+      "t": "Turkic empire",
+      "from": -552,
+      "to": -744,
+      "lab": "552-8th century",
+      "open": true,
+      "plate": {
+       "kicker": "10.11 · steppe",
+       "title": "The Turks",
+       "sub": "from 552",
+       "text": "[[c-turks]]",
+       "sources": [
+        "brit-steppe-turks"
+       ]
+      }
+     },
+     {
+      "t": "Harsha",
+      "sub": "northern India",
+      "from": -606,
+      "to": -647,
+      "lab": "606-647",
+      "acc": true
+     },
+     {
+      "t": "Teotihuacan decline",
+      "from": -550,
+      "to": -650,
+      "lab": "c. 550-650",
+      "open": true,
+      "plate": {
+       "kicker": "10.11 · Mexico",
+       "title": "Teotihuacan",
+       "sub": "from c. 550",
+       "text": "[[c-teotihuacan]]",
+       "sources": [
+        "cowgill2015",
+        "newswise-teo",
+        "ls-teo-quakes"
+       ]
+      }
+     },
+     {
+      "t": "Late Classic Maya",
+      "from": -600,
+      "to": -900,
+      "lab": "c. 600-900",
+      "acc": true,
+      "plate": {
+       "kicker": "10.11 · Maya",
+       "title": "The Late Classic Maya",
+       "sub": "c. 600-900",
+       "text": "[[c-maya]] [[c-maya-pop]]",
+       "sources": [
+        "brit-lateclassic",
+        "ls-maya2025"
+       ]
+      }
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Which statement about China between 581 and 626 do the sources support?",
+     "choices": [
+      "The Sui reunified China, overreached and fell in 618",
+      "Yang Jian reunified China and founded the Tang in 618",
+      "The Sui cut a new canal rather than joining older ones",
+      "The Tang reunified China in 589 and built the canals"
+     ],
+     "answer": 0,
+     "why": "The Sui reunified China in 589, linked older canals into a network, overstrained the dynasty and fell in 618, when the Tang was founded.",
+     "wrong": {
+      "1": "Yang Jian founded the Sui in 581; Li Yuan founded the Tang in 618.",
+      "2": "The Sui linked older canals into a network.",
+      "3": "The Sui reunified China in 589 and built the canal network; the Tang was founded in 618."
+     }
+    },
+    {
+     "q": "Why is 'Teotihuacan collapsed in 550' a contested statement?",
+     "choices": [
+      "Decline began about 550; when it burned is argued",
+      "It was a Maya city, which flourished until about 900",
+      "Earthquakes are now proven to have destroyed it in 550",
+      "George Cowgill firmly dates its burning to about 550"
+     ],
+     "answer": 0,
+     "why": "Decline began around 550, but George Cowgill dates the burning to about 600-650 while others say about 550, and estimates of the population loss run from a third to more than half.",
+     "wrong": {
+      "1": "It was in central Mexico; the Maya cities of the southern lowlands peaked in about 600-900.",
+      "2": "The earthquake idea is a 2024 hypothesis.",
+      "3": "Cowgill dates the burning to about 600-650; others prefer about 550."
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4058 @@
+{
+ "id": "ch06",
+ "no": "06",
+ "title": "The Bronze Age world",
+ "sub": "a club of great powers, and its collapse",
+ "sources": {
+  "bryce2005": {
+   "citation": "Trevor Bryce, The Kingdom of the Hittites (Oxford University Press), chapter \"The Supremacy of Hatti: The Reign of Suppiluliuma I (c. 1350-1322)\"",
+   "url": "https://academic.oup.com/book/36172/chapter/314548344"
+  },
+  "lexdk-suppiluliuma": {
+   "citation": "Tobias Mosbæk Søborg, \"Šuppiluliuma 1.\", Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/%C5%A0uppiluliuma_1."
+  },
+  "brit-suppiluliuma": {
+   "citation": "Encyclopaedia Britannica, \"Suppiluliumas I\"",
+   "url": "https://www.britannica.com/biography/Suppiluliumas-I"
+  },
+  "brit-tushratta": {
+   "citation": "Encyclopaedia Britannica, \"Tushratta\"",
+   "url": "https://www.britannica.com/biography/Tushratta"
+  },
+  "ucl-amarna-letters": {
+   "citation": "UCL Digital Egypt, \"The Amarna letters\"",
+   "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/amarna/cuneiform2.html"
+  },
+  "met-amarna": {
+   "citation": "The Met, \"The Amarna Letters\" (Knott, 2016)",
+   "url": "https://www.metmuseum.org/essays/the-amarna-letters"
+  },
+  "brit-amarna": {
+   "citation": "Encyclopaedia Britannica, \"Amarna Letters\"",
+   "url": "https://www.britannica.com/topic/Amarna-Letters"
+  },
+  "goren2003": {
+   "citation": "Goren, Bunimovitz, Finkelstein and Na'aman, \"The location of Alashiya\", American Journal of Archaeology 107 (2003)",
+   "url": "https://cris.haifa.ac.il/en/publications/the-location-of-alashiya-new-evidence-from-petrographic-investiga/"
+  },
+  "arch-horse": {
+   "citation": "Archaeology, \"The story of the horse\" (2015)",
+   "url": "https://archaeology.org/issues/july-august-2015/collection/warhorses/the-story-of-the-horse/"
+  },
+  "unesco-mycenae": {
+   "citation": "UNESCO World Heritage, \"Archaeological Sites of Mycenae and Tiryns\"",
+   "url": "https://whc.unesco.org/en/list/941/"
+  },
+  "unesco-ashur": {
+   "citation": "UNESCO World Heritage, \"Ashur (Qal'at Sherqat)\"",
+   "url": "https://whc.unesco.org/en/list/1130/"
+  },
+  "brit-mitanni": {
+   "citation": "Encyclopaedia Britannica, \"Mitanni\"",
+   "url": "https://www.britannica.com/place/Mitanni"
+  },
+  "brit-hittite": {
+   "citation": "Encyclopaedia Britannica, \"Hittite\"",
+   "url": "https://www.britannica.com/topic/Hittite"
+  },
+  "met-kassite": {
+   "citation": "The Met, \"The Middle Babylonian / Kassite period in Mesopotamia\"",
+   "url": "https://www.metmuseum.org/en/essays/the-middle-babylonian-kassite-period-ca-1595-1155-b-c-in-mesopotamia"
+  },
+  "brit-ashuruballit": {
+   "citation": "Encyclopaedia Britannica, \"Ashur-uballit I\"",
+   "url": "https://www.britannica.com/biography/Ashur-uballit-I"
+  },
+  "brit-winckler": {
+   "citation": "Encyclopaedia Britannica, \"Hugo Winckler\"",
+   "url": "https://www.britannica.com/biography/Hugo-Winckler"
+  },
+  "wurzburg2023": {
+   "citation": "University of Würzburg, \"New Indo-European language discovered\" (2023)",
+   "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/new-indo-european-language-discovered"
+  },
+  "radio-hrozny": {
+   "citation": "Radio Prague International, on Bedřich Hrozný",
+   "url": "https://english.radio.cz/node/8565351"
+  },
+  "radio-hrozny2": {
+   "citation": "Radio Prague International, on the decipherment of Hittite",
+   "url": "https://english.radio.cz/node/8837195"
+  },
+  "manning2016": {
+   "citation": "Cornell Chronicle on Manning et al., PLOS ONE (2016), dating the Middle Bronze Age",
+   "url": "https://news.cornell.edu/node/286154"
+  },
+  "turkmus-hattusa": {
+   "citation": "Turkish Museums, \"Hattusha: the city of a thousand gods\"",
+   "url": "https://www.turkishmuseums.com/blog/detail/turkiyes-unesco-sites-hattusha-the-city-of-a-thousand-gods/10027/4"
+  },
+  "chil-laws": {
+   "citation": "CHiL project (Florence / Mainz), the Hittite laws",
+   "url": "https://wres-hatti.adwudlit.uni-mainz.de/CHiL"
+  },
+  "unesco-hattusa": {
+   "citation": "UNESCO World Heritage, \"Hattusha: the Hittite Capital\"",
+   "url": "https://whc.unesco.org/en/list/377/"
+  },
+  "demartino2018": {
+   "citation": "Stefano de Martino, \"The fall of the Hittite kingdom\", Mesopotamia 53 (2018)",
+   "url": "https://core.ac.uk/download/302346176.pdf"
+  },
+  "natgeo-hittite": {
+   "citation": "National Geographic, on the end of Hattusa (2025)",
+   "url": "https://www.nationalgeographic.com/history/article/hittite-ancient-empire-disappear-mystery"
+  },
+  "manning2023": {
+   "citation": "ScienceDaily on Manning et al., \"Severe multi-year drought coincident with Hittite collapse\", Nature (2023)",
+   "url": "https://www.sciencedaily.com/releases/2023/02/230208124227.htm"
+  },
+  "lipinski2012": {
+   "citation": "Edward Lipiński, \"Hittites et Hourrites dans la Bible\", The Biblical Annals 2 (2012)",
+   "url": "https://bazhum.muzhp.pl/media/files/The_Biblical_Annals/The_Biblical_Annals-r2012-t2-n1/The_Biblical_Annals-r2012-t2-n1-s9-25/The_Biblical_Annals-r2012-t2-n1-s9-25.pdf"
+  },
+  "enc-bible-hittites": {
+   "citation": "Encyclopedia of the Bible (Bible Gateway), \"Hittites\"",
+   "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Hittites"
+  },
+  "pup-cline2025": {
+   "citation": "Princeton University Press, Eric Cline, Love, War, and Diplomacy (2025)",
+   "url": "https://press.princeton.edu/index%2ephp/node/66060"
+  },
+  "harvard-amarna": {
+   "citation": "Harvard course exhibit, \"The Amarna letters\"",
+   "url": "https://hist1039-16.omeka.fas.harvard.edu/exhibits/show/under-the-guise-of-greatness/the-amarna-letters"
+  },
+  "bm-burnaburiash": {
+   "citation": "British Museum, letter from Burna-Buriash to the pharaoh (1888,1013.81), via Google Arts & Culture",
+   "url": "https://artsandculture.google.com/asset/letter-from-burnaburiash-to-amenhotep-iv/BQGeSOpGdl5m-g"
+  },
+  "guner2003": {
+   "citation": "Güner and Druckman, \"Tushratta's requests to the pharaohs\" (2003)",
+   "url": "https://repository.bilkent.edu.tr/bitstream/11693/51237/1/Tushratta_s_requests_to_the_pharaohs.pdf"
+  },
+  "mandell-abdiheba": {
+   "citation": "Alice Mandell, \"King Abdi-Heba of Jerusalem commissions a Syrian scribe\", TheTorah.com",
+   "url": "https://www.thetorah.com/article/king-abdi-heba-of-jerusalem-commissions-a-syrian-scribe"
+  },
+  "rainey-apiru": {
+   "citation": "Anson Rainey, \"The 'Apiru problem\", Biblical Archaeology Review",
+   "url": "https://old.biblicalarchaeology.org/node/121166"
+  },
+  "waterhouse2001": {
+   "citation": "S. Douglas Waterhouse, on the Habiru and the Hebrews, Journal of the Adventist Theological Society (2001)",
+   "url": "https://core.ac.uk/download/232863108.pdf"
+  },
+  "iranica-aryans": {
+   "citation": "Rüdiger Schmitt, \"Aryans\", Encyclopaedia Iranica",
+   "url": "https://www.iranicaonline.org/articles/aryans"
+  },
+  "cornil-treaty": {
+   "citation": "Pierre Cornil, on the treaty of Suppiluliuma and Shattiwaza",
+   "url": "https://sites.unipa.it/dipstdir/portale/pub/riviste/CORNIL.pdf"
+  },
+  "scinews-kemune": {
+   "citation": "Sci.News, \"Mittani-era palace unearthed in Iraqi Kurdistan\" (2019)",
+   "url": "https://www.sci.news/archaeology/kemune-palace-07345.html"
+  },
+  "brit-tukulti": {
+   "citation": "Encyclopaedia Britannica, \"Tukulti-Ninurta I\"",
+   "url": "https://www.britannica.com/biography/Tukulti-Ninurta-I"
+  },
+  "brit-kassite": {
+   "citation": "Encyclopaedia Britannica, \"Kassite\"",
+   "url": "https://www.britannica.com/topic/Kassite"
+  },
+  "bm-kudurru": {
+   "citation": "British Museum, kudurru of Meli-Shipak (1882,0522.1798), via Google Arts & Culture",
+   "url": "https://artsandculture.google.com/asset/boundary-stone-kudurru/lAG2wsa-HdViCw"
+  },
+  "dejong1989": {
+   "citation": "de Jong and van Soldt, \"The earliest known solar eclipse record redated\", Nature 338 (1989)",
+   "url": "https://link.springer.com/article/10.1038/338238a0"
+  },
+  "bg-isa27": {
+   "citation": "Isaiah 27:1, New Revised Standard Version Updated Edition, BibleGateway",
+   "url": "https://www.biblegateway.com/passage/?search=Isaiah%2027%3A1&version=NRSVUE"
+  },
+  "bas-ajrud": {
+   "citation": "Biblical Archaeology Society Library, image caption on the Kuntillet 'Ajrud pithos inscription",
+   "url": "https://library.biblicalarchaeology.org/?p=109169"
+  },
+  "brit-minoan": {
+   "citation": "Encyclopaedia Britannica, \"Minoan civilization\"",
+   "url": "https://www.britannica.com/topic/Minoan-civilization"
+  },
+  "brit-knossos": {
+   "citation": "Encyclopaedia Britannica, \"Knossos\"",
+   "url": "https://www.britannica.com/place/Knossos"
+  },
+  "unesco-minoan2025": {
+   "citation": "UNESCO World Heritage Committee, decision 47 COM 8B.25, \"Minoan Palatial Centres\" (2025)",
+   "url": "https://whc.unesco.org/en/decisions/8959/"
+  },
+  "brit-lineara": {
+   "citation": "Encyclopaedia Britannica, \"Linear A\"",
+   "url": "https://www.britannica.com/topic/Linear-A"
+  },
+  "lup-minoan2023": {
+   "citation": "Liverpool University Press blog, on Minoan Utopia or Minoan Catastrophe? (2023)",
+   "url": "https://liverpooluniversitypress.blog/2023/04/12/minoan-utopia-or-minoan-catastrophe-archaeological-and-cultural-perspectives/"
+  },
+  "arizona-thera2018": {
+   "citation": "University of Arizona, on Pearson et al., Science Advances (2018), dating Thera with tree rings",
+   "url": "https://news.arizona.edu/story/dating-ancient-minoan-eruption-thera-using-tree-rings"
+  },
+  "pearson2023": {
+   "citation": "Pearson, Sbonias, Tzachili and Heaton, \"Olive shrub buried on Therasia supports a mid-16th century BCE date\", Scientific Reports (2023)",
+   "url": "https://experts.arizona.edu/en/publications/olive-shrub-buried-on-therasia-supports-a-mid-16th-century-bce-da/"
+  },
+  "manning2022": {
+   "citation": "EurekAlert, on Manning, \"Second Intermediate Period date for the Thera (Santorini) eruption\", PLOS ONE (2022)",
+   "url": "https://www.eurekalert.org/news-releases/965476"
+  },
+  "manning2024": {
+   "citation": "Sturt Manning, on the Therasia olive shrub, Journal of Greek Archaeology 9 (2024)",
+   "url": "https://www.archaeopresspublishing.com/ojs/index.php/JGA/article/view/2744"
+  },
+  "bruins2025": {
+   "citation": "ScienceDaily, on Bruins and van der Plicht, PLOS ONE (2025), Thera and the reign of Ahmose",
+   "url": "https://sciencedaily.com/releases/2025/12/251207031331.htm"
+  },
+  "gr-akrotiri": {
+   "citation": "Hellenic Ministry of Culture, \"The archaeological site of Akrotiri of Thera\"",
+   "url": "https://cyclades.culture.gov.gr/en/location/the-archaeological-site-of-akrotiri-of-thera/"
+  },
+  "brit-shaftgraves": {
+   "citation": "Encyclopaedia Britannica, \"Shaft graves\"",
+   "url": "https://www.britannica.com/topic/shaft-graves"
+  },
+  "brit-linearb": {
+   "citation": "Encyclopaedia Britannica, \"Linear B\"",
+   "url": "https://www.britannica.com/topic/Linear-B"
+  },
+  "aegeus-kober": {
+   "citation": "Aegeus Society, \"Alice E. Kober correspondence now online\"",
+   "url": "https://www.aegeussociety.org/news/alice-e-kober-correspondence-now-online/"
+  },
+  "kcl-adams": {
+   "citation": "Ellen Adams, King's College London, \"The Homeric world: material culture\" (teaching slides)",
+   "url": "https://www.kcl.ac.uk/classics/assets/gcse-classical-civilisation/the-homeric-world-powerpoint-material-culture-dr.-ellen-adams.pdf"
+  },
+  "brit-dionysus": {
+   "citation": "Encyclopaedia Britannica, \"Dionysus\"",
+   "url": "https://www.britannica.com/topic/Dionysus"
+  },
+  "sd-griffin": {
+   "citation": "ScienceDaily, on the Griffin Warrior's grave goods (2017)",
+   "url": "https://sciencedaily.com/releases/2017/11/171107092910.htm"
+  },
+  "sd-lazaridis2017": {
+   "citation": "ScienceDaily, on Lazaridis et al., \"Genetic origins of the Minoans and Mycenaeans\", Nature (2017)",
+   "url": "https://www.sciencedaily.com/releases/2017/08/170802134718.htm"
+  },
+  "lazaridis2022": {
+   "citation": "Lazaridis et al., \"A genetic probe into the ancient and medieval history of southern Europe and West Asia\", Science (2022)",
+   "url": "https://researchportal.helsinki.fi/en/publications/a-genetic-probe-into-the-ancient-and-medieval-history-of-southern/"
+  },
+  "harvard-cousins": {
+   "citation": "Harvard, on Skourtanioti et al., Nature Ecology & Evolution (2023), cousin marriage in the Bronze Age Aegean",
+   "url": "https://sohp.fas.harvard.edu/news/new-ancient-dna-evidence-cousin-marriage-minoan-crete-and-mycenaean-greece"
+  },
+  "brit-troy": {
+   "citation": "Encyclopaedia Britannica, \"Troy\"",
+   "url": "https://www.britannica.com/place/Troy-ancient-city-Turkey"
+  },
+  "hopesimpson": {
+   "citation": "Richard Hope Simpson, \"Troy and the Trojan War\", in Mycenaean Greece and the Homeric Tradition (open textbook)",
+   "url": "https://ecampusontario.pressbooks.pub/mycenaeangreeceandhomerictradition/chapter/troy-and-the-trojan-war-archaeology-history-and-the-epic-traditions/"
+  },
+  "arch-korfmann": {
+   "citation": "Archaeology, on Manfred Korfmann and Troy (2004)",
+   "url": "https://archive.archaeology.org/0405/etc/troy.html"
+  },
+  "strauss2006": {
+   "citation": "Barry Strauss, on Troy and the Trojan War, Historically Speaking (2006)",
+   "url": "https://muse.jhu.edu/journals/historically_speaking/v008/8.1.strauss.pdf"
+  },
+  "beckman2011": {
+   "citation": "Beckman, Bryce and Cline, The Ahhiyawa Texts (Society of Biblical Literature, 2011)",
+   "url": "https://www.sbl-site.org/wp-content/uploads/2024/11/Beckman_Ahhiyawa.pdf"
+  },
+  "brit-homer": {
+   "citation": "Encyclopaedia Britannica, \"Homer\"",
+   "url": "https://www.britannica.com/biography/Homer-Greek-poet"
+  },
+  "met-ugarit": {
+   "citation": "The Met, \"Ugarit\" (2004)",
+   "url": "https://www.metmuseum.org/en/essays/ugarit"
+  },
+  "arch-ugarit": {
+   "citation": "Archaeology, on the Ugarit archives (2021)",
+   "url": "https://archaeology.org/issues/july-august-2021/features/ugarit-bronze-age-archive/"
+  },
+  "met-canaan-gods": {
+   "citation": "Ira Spar, The Met, \"The gods and goddesses of Canaan\" (2009)",
+   "url": "https://www.metmuseum.org/essays/the-gods-and-goddesses-of-canaan"
+  },
+  "illinois-baal": {
+   "citation": "University of Illinois, \"Taming the fertility god Baal\" (2005), on Wayne Pitard's work",
+   "url": "https://las.illinois.edu/news/2005-12-01/taming-fertility-god-baal"
+  },
+  "kaniewski2011": {
+   "citation": "Kaniewski et al., \"The Sea Peoples, from cuneiform tablets to carbon dating\", PLOS ONE (2011)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0020232"
+  },
+  "smith-monotheism": {
+   "citation": "Mark S. Smith, on biblical monotheism, The Bible and Interpretation",
+   "url": "https://bibleinterp.arizona.edu/articles/MSmith_BiblicalMonotheism"
+  },
+  "uehlinger2003": {
+   "citation": "Christoph Uehlinger, review of Mark S. Smith, The Early History of God (2003)",
+   "url": "https://www.religionswissenschaft.uzh.ch/dam/jcr:6f2249b5-33a3-4b18-9999-b58209e11af9/Uehlinger%20(2003),%20Rez.%20The%20Early%20History%20of%20God.pdf"
+  },
+  "wibilex-leviathan": {
+   "citation": "WiBiLex (German Bible Society), \"Leviatan\"",
+   "url": "https://www.die-bibel.de/stichwort/24871"
+  },
+  "wibilex-tannin": {
+   "citation": "WiBiLex (German Bible Society), \"Tannin\" (2019)",
+   "url": "https://www.die-bibel.de/stichwort/26497"
+  },
+  "freedman1973": {
+   "citation": "Freedman and Hyland, \"Psalm 29: a structural analysis\", Harvard Theological Review (1973)",
+   "url": "https://cambridge.org/core/journals/harvard-theological-review/article/psalm-29-a-structural-analysis/1243E133DF26AE3510901658D99E9F76"
+  },
+  "bas-wadielhol": {
+   "citation": "Biblical Archaeology Society, \"The Wadi el-Hol inscription: earlier than Serabit?\"",
+   "url": "https://library.biblicalarchaeology.org/sidebar/the-wadi-el-hol-inscription-earlier-than-serabit/"
+  },
+  "solardaily-umm": {
+   "citation": "SolarDaily, on Glenn Schwartz's Umm el-Marra cylinders (2024)",
+   "url": "https://www.solardaily.com/reports/Oldest_alphabetic_writing_found_in_ancient_Syrian_tomb_999.html"
+  },
+  "brit-merneptah": {
+   "citation": "Encyclopaedia Britannica, \"Merneptah\"",
+   "url": "https://www.britannica.com/biography/Merneptah"
+  },
+  "cojs-merneptah": {
+   "citation": "Center for Online Judaic Studies, the Merneptah Stele",
+   "url": "https://cojs.org/stelae_and_reliefs_of_pharaoh_merneptah-_c-_1207_bce/"
+  },
+  "pulak2008": {
+   "citation": "Cemal Pulak, \"The Uluburun shipwreck and Late Bronze Age trade\", in Beyond Babylon (Metropolitan Museum, 2008)",
+   "url": "https://cgs.la.psu.edu/wp-content/uploads/sites/27/2020/12/Pulak-2008-Reading.pdf"
+  },
+  "ina-gelidonya": {
+   "citation": "Institute of Nautical Archaeology, \"Cape Gelidonya Late Bronze Age shipwreck\"",
+   "url": "https://nauticalarch.org/projects/cape-gelidonya-late-bronze-age-shipwreck-excavation/"
+  },
+  "sd-powell2022": {
+   "citation": "ScienceDaily, on Powell et al., Science Advances (2022), the sources of Uluburun's tin",
+   "url": "https://www.sciencedaily.com/releases/2022/11/221130151458.htm"
+  },
+  "berger2023": {
+   "citation": "Berger, Kaniuth, Brügmann and Pernicka, on the Uluburun tin, Frontiers in Earth Science 11 (2023)",
+   "url": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2023.1211478/full"
+  },
+  "toi-berger2019": {
+   "citation": "Times of Israel, on Berger et al., PLOS ONE (2019): tin ingots found off Israel",
+   "url": "https://www.timesofisrael.com/groundbreaking-study-ancient-tin-ingots-found-in-israel-were-mined-in-england/"
+  },
+  "dartmouth-aegean": {
+   "citation": "Dartmouth College, Aegean Prehistory, lesson 28: the end of the palaces",
+   "url": "https://sites.dartmouth.edu/aegean-prehistory/lessons/lesson-28-narrative"
+  },
+  "oeaw2022": {
+   "citation": "Jung and Kardamaki (eds.), Synchronizing the Destructions of the Mycenaean Palaces (Austrian Academy of Sciences, 2022)",
+   "url": "https://verlag.oeaw.ac.at/en/product/synchronizing-the-destructions-of-the-mycenaean-palaces/99200522"
+  },
+  "bas-hazor": {
+   "citation": "Bible History Daily, on the destruction of Canaanite Hazor",
+   "url": "https://www.biblicalarchaeology.org/daily/news/scorched-wheat-may-provide-answers-on-the-destruction-of-canaanite-tel-hazor/"
+  },
+  "ej-lachish": {
+   "citation": "Encyclopaedia Judaica, \"Lachish\" (via encyclopedia.com)",
+   "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/lachish"
+  },
+  "whe-seapeoples": {
+   "citation": "Joshua J. Mark, World History Encyclopedia, \"Sea Peoples\"",
+   "url": "https://www.worldhistory.org/Sea_Peoples/"
+  },
+  "grandet2014": {
+   "citation": "Pierre Grandet, \"Early to mid-20th Dynasty\", UCLA Encyclopedia of Egyptology (2014)",
+   "url": "https://journalpub.escholarship.org/nelc_uee/article/4768/galley/2682/download"
+  },
+  "cline2015": {
+   "citation": "Eric Cline, \"Raiders of the lost Bronze Age?\", MHQ (2015)",
+   "url": "https://ancientportsantiques.com/wp-content/uploads/Documents/AUTHORS/SeaPeoples/SeaPeoples-Cline2015.pdf"
+  },
+  "ucl-ramesses3": {
+   "citation": "UCL Digital Egypt, \"Ramesses III\"",
+   "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/ramsesiii.html"
+  },
+  "tau-langgut": {
+   "citation": "Tel Aviv University, on Langgut, Finkelstein and Litt, Tel Aviv (2013): pollen and drought",
+   "url": "https://english.tau.ac.il/node/1346"
+  },
+  "kaniewski2013": {
+   "citation": "Kaniewski et al., \"Environmental roots of the Late Bronze Age crisis\", PLOS ONE (2013)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071004"
+  },
+  "archmag-power2026": {
+   "citation": "Archaeology Magazine (Greece), on Power et al., Science Advances (2026): drought and the Bronze Age collapse",
+   "url": "https://archaeologymag.com/2026/07/severe-droughts-collapse-of-bronze-age-civilizations/"
+  },
+  "nur-cline2000": {
+   "citation": "Nur and Cline, \"Poseidon's horses: plate tectonics and earthquake storms\", Journal of Archaeological Science 27 (2000)",
+   "url": "https://www.ancientportsantiques.com/wp-content/uploads/Documents/ETUDESarchivees/Tsunamis/Earthquakes-Nur&Cline2000.pdf"
+  },
+  "knapp-manning2016": {
+   "citation": "Knapp and Manning, \"Crisis in context: the end of the Late Bronze Age in the eastern Mediterranean\", American Journal of Archaeology 120 (2016)",
+   "url": "https://ajaonline.org/wp-content/uploads/2015/12/1201_Knapp.pdf"
+  },
+  "pup-1177": {
+   "citation": "Princeton University Press, Eric Cline, 1177 B.C.: The Year Civilization Collapsed (revised edition, 2021)",
+   "url": "https://press.princeton.edu/books/paperback/9780691208015/1177-bc"
+  },
+  "cline2024": {
+   "citation": "Eric Cline, After 1177 B.C.: The Survival of Civilizations (Princeton, 2024), publisher's description",
+   "url": "https://betterread.com.au/book/after-1177-bc-the-survival-of-civilizations.do"
+  },
+  "brit-tiglath": {
+   "citation": "Encyclopaedia Britannica, \"Tiglath-pileser I\"",
+   "url": "https://www.britannica.com/print/article/595525"
+  },
+  "erb-satullo2019": {
+   "citation": "Nathaniel Erb-Satullo, \"The innovation and adoption of iron in the ancient Near East\", Journal of Archaeological Research (2019)",
+   "url": "https://link.springer.com/doi/10.1007/s10814-019-09129-6"
+  },
+  "mpg-ashkelon": {
+   "citation": "Max Planck Institute, on Feldman et al., \"Ancient DNA sheds light on the genetic origins of early Iron Age Philistines\", Science Advances (2019)",
+   "url": "https://www.shh.mpg.de/1360247/sino-tibetan-origin"
+  },
+  "brit-philistines": {
+   "citation": "Encyclopaedia Britannica, \"Philistine\"",
+   "url": "https://www.britannica.com/topic/Philistine-people"
+  },
+  "met-phoenicians": {
+   "citation": "The Met, \"The Phoenicians (1500-300 B.C.)\" (2004)",
+   "url": "https://www.metmuseum.org/toah/hd/phoe/hd_phoe.htm"
+  },
+  "brit-phoen-alphabet": {
+   "citation": "Encyclopaedia Britannica, \"Phoenician alphabet\"",
+   "url": "https://www.britannica.com/topic/Phoenician-alphabet"
+  },
+  "finkelstein2001": {
+   "citation": "Finkelstein and Silberman, The Bible Unearthed (2001), chapter on the highland settlers (excerpt)",
+   "url": "https://courses.lsa.umich.edu/israel-palestine/wp-content/uploads/sites/142/2013/12/016.-I.Finkelstein_N.A-Silberman-105-120_01.pdf"
+  },
+  "dever-on-faust": {
+   "citation": "William Dever, review of Avraham Faust, Israel's Ethnogenesis, Bible History Daily (2012)",
+   "url": "https://www.biblicalarchaeology.org/reviews/israels-ethnogenesis/"
+  },
+  "america-dever": {
+   "citation": "Michael Coogan, review of William Dever, Who Were the Early Israelites?, America (2003)",
+   "url": "https://www.americamagazine.org/books/2003/06/09/emerging-confederation/"
+  },
+  "brit-neohittite": {
+   "citation": "Encyclopaedia Britannica, \"Anatolia: the Neo-Hittite states\"",
+   "url": "https://www.britannica.com/place/Anatolia/The-neo-Hittite-states-from-c-1180-to-700-bce"
+  }
+ },
+ "claims": {
+  "c-akkadian-diplomacy": {
+   "text": "The great kings of the age wrote to each other in Akkadian, in cuneiform, even when neither side spoke it, so the Mesopotamian script and language served across the eastern Mediterranean.",
+   "label": "consensus",
+   "sources": [
+    "met-amarna"
+   ],
+   "show": false
+  },
+  "c-brothers": {
+   "text": "The great kings addressed one another as 'brother', while lesser rulers called the pharaoh 'the Sun, my lord' and themselves his servants.",
+   "label": "consensus",
+   "sources": [
+    "met-amarna"
+   ],
+   "show": false
+  },
+  "c-gifts": {
+   "text": "Gift exchange and royal marriages were the main business between the great powers.",
+   "label": "consensus",
+   "sources": [
+    "brit-amarna",
+    "met-amarna"
+   ],
+   "show": false
+  },
+  "c-alashiya": {
+   "text": "Alashiya, a kingdom in the Amarna letters, was on Cyprus: the clay of its letters comes from the edge of the Troodos mountains.",
+   "label": "approx",
+   "sources": [
+    "goren2003"
+   ],
+   "show": true,
+   "note": "Goren and colleagues (2003) identified the clay by petrography; the exact capital and political structure remain unclear."
+  },
+  "c-chariots": {
+   "text": "By the middle of the 2nd millennium BCE, horse-drawn chariots with spoked wheels, crewed by a driver and an archer, were the elite arm of every great power.",
+   "label": "consensus",
+   "sources": [
+    "arch-horse"
+   ],
+   "show": false
+  },
+  "c-mycenaean-span": {
+   "text": "Mycenaean civilization dominated the Aegean from about the 15th to the 12th century BCE.",
+   "label": "approx",
+   "sources": [
+    "unesco-mycenae"
+   ],
+   "show": false
+  },
+  "c-power-spans": {
+   "text": "Approximate spans: Mitanni as a great power c. 1500 BCE to the mid-14th century; the Hittite empire c. 1400-1200; Kassite Babylon c. 1595-1155; Middle Assyria rising from c. 1365.",
+   "label": "approx",
+   "sources": [
+    "brit-mitanni",
+    "brit-hittite",
+    "met-kassite",
+    "brit-ashuruballit",
+    "bryce2005"
+   ],
+   "show": true,
+   "note": "Mesopotamian dates follow the Middle Chronology; all are approximate. Britannica puts Mitanni's fall about 1360, using older, higher dates for the Hittite king Suppiluliuma I; this book follows Trevor Bryce's lower dates (6.1)."
+  },
+  "c-ashur-capital": {
+   "text": "Ashur was Assyria's first capital and its religious centre.",
+   "label": "consensus",
+   "sources": [
+    "unesco-ashur"
+   ],
+   "show": false
+  },
+  "c-hittites": {
+   "text": "The Hittites spoke an Indo-European language and ruled central Anatolia from their capital Hattusa, near modern Boğazkale, from about 1650 BCE.",
+   "label": "approx",
+   "sources": [
+    "brit-hittite"
+   ],
+   "show": true,
+   "note": "The date is that of Hattusili I, the first king known to have ruled from Hattusa."
+  },
+  "c-winckler": {
+   "text": "Hugo Winckler's excavations at Boğazköy from 1906 found thousands of tablets, among them the Akkadian version of Ramesses II's treaty with the Hittites.",
+   "label": "consensus",
+   "sources": [
+    "brit-winckler"
+   ],
+   "show": false
+  },
+  "c-hattusa-archive": {
+   "text": "Almost 30,000 tablets and fragments have been found at Hattusa, in Hittite, Luwian, Palaic, Hattic, Akkadian and other languages; in 2023 a previously unknown language, 'Kalasmaic', was identified in one of them.",
+   "label": "approx",
+   "sources": [
+    "wurzburg2023"
+   ],
+   "show": false
+  },
+  "c-hrozny": {
+   "text": "In 1915 Bedřich Hrozný deciphered Hittite and showed it was Indo-European, the oldest written language of that family; a key sentence was 'now you will eat bread and drink water'.",
+   "label": "consensus",
+   "sources": [
+    "radio-hrozny",
+    "radio-hrozny2",
+    "wurzburg2023"
+   ],
+   "show": false
+  },
+  "c-mursili": {
+   "text": "The Hittite king Mursili I raided down the Euphrates and sacked Babylon, ending Hammurabi's dynasty, about 1595 BCE.",
+   "label": "approx",
+   "sources": [
+    "brit-hittite",
+    "met-kassite",
+    "manning2016"
+   ],
+   "show": true,
+   "note": "1595 is the Middle Chronology date; tree-ring and radiocarbon evidence published in 2016 supports that chronology."
+  },
+  "c-telipinu": {
+   "text": "About 1530 BCE King Telipinu issued an edict to regulate the royal succession after a series of murders.",
+   "label": "approx",
+   "sources": [
+    "brit-hittite"
+   ],
+   "show": false
+  },
+  "c-suppiluliuma": {
+   "text": "The empire reached its height under Suppiluliuma I (c. 1350-1322 BCE), who sacked the Mitanni capital and made northern Syria a Hittite sphere.",
+   "label": "approx",
+   "sources": [
+    "bryce2005",
+    "lexdk-suppiluliuma",
+    "brit-hittite",
+    "brit-suppiluliuma"
+   ],
+   "show": true,
+   "note": "Dates follow Trevor Bryce; older works, including Britannica, give c. 1380-1346."
+  },
+  "c-thousand-gods": {
+   "text": "Hittite texts speak of the 'thousand gods' of Hatti: the state absorbed Anatolian, Hurrian and Syrian deities rather than replacing them.",
+   "label": "consensus",
+   "sources": [
+    "turkmus-hattusa",
+    "brit-hittite"
+   ],
+   "show": false
+  },
+  "c-hittite-laws": {
+   "text": "The Hittite laws, about 200 clauses, survive in versions going back at least to the 16th century BCE; later copies note that penalties 'formerly' harsh had been replaced by fines.",
+   "label": "consensus",
+   "sources": [
+    "chil-laws"
+   ],
+   "show": false
+  },
+  "c-hattusa-site": {
+   "text": "Hattusa's walls ran for more than 8 km; nearby, the rock sanctuary of Yazılıkaya is carved with processions of gods.",
+   "label": "consensus",
+   "sources": [
+    "unesco-hattusa"
+   ],
+   "show": false
+  },
+  "c-hattusa-end": {
+   "text": "Hattusa was abandoned in the early 12th century BCE. The excavators find no sign of battle: official buildings were emptied in an orderly way, and the city burned only later.",
+   "label": "debated",
+   "sources": [
+    "demartino2018",
+    "natgeo-hittite"
+   ],
+   "show": true,
+   "note": "This is now the excavators' view; older accounts spoke of a sack. Where the court went is unknown."
+  },
+  "c-gordion-drought": {
+   "text": "Tree rings from Gordion show three years of severe drought about 1198-1196 BCE, just before the Hittite collapse.",
+   "label": "approx",
+   "sources": [
+    "manning2023"
+   ],
+   "show": true,
+   "note": "The authors present it as a possible tipping point, not the only cause; the dates carry an uncertainty of about three years."
+  },
+  "c-bible-hittites": {
+   "text": "The 'Hittites' of the Hebrew Bible, such as Ephron in Genesis 23 or Uriah, are probably not the Bronze Age empire of Hattusa.",
+   "label": "debated",
+   "sources": [
+    "lipinski2012",
+    "enc-bible-hittites"
+   ],
+   "show": true,
+   "note": "Lipiński sees Ephron's 'sons of Heth' as a local group around Hebron, and links Solomon's Hittite wives to the later Neo-Hittite courts of Syria; older views proposed migrants from Anatolia. Hittite seals and an ivory found in Israel show some real contact."
+  },
+  "c-amarna-find": {
+   "text": "The Amarna letters were found in 1887 at Akhetaten (Amarna), Akhenaten's capital; the story of the find is vague and contradictory.",
+   "label": "approx",
+   "sources": [
+    "met-amarna",
+    "pup-cline2025"
+   ],
+   "show": false
+  },
+  "c-amarna-count": {
+   "text": "382 clay tablets are known, about 350 of them letters, chiefly from the reigns of Amenhotep III and Akhenaten in the 14th century BCE; they are the only royal archive known from New Kingdom Egypt.",
+   "label": "approx",
+   "sources": [
+    "ucl-amarna-letters",
+    "met-amarna",
+    "harvard-amarna",
+    "pup-cline2025",
+    "brit-amarna"
+   ],
+   "show": true,
+   "note": "Other counts, such as 350-400, differ because some tablets are fragments or are not letters."
+  },
+  "c-burnaburiash": {
+   "text": "Burna-Buriash of Babylon complained to the pharaoh that his gifts were meagre and protested that Assyrian envoys, whom he called his vassals, had been received in Egypt.",
+   "label": "consensus",
+   "sources": [
+    "bm-burnaburiash"
+   ],
+   "show": false
+  },
+  "c-tushratta": {
+   "text": "Tushratta of Mitanni, whose daughter Tadu-Heba married Amenhotep III, pressed for promised statues of solid gold and complained when Akhenaten sent gold-plated wood.",
+   "label": "consensus",
+   "sources": [
+    "guner2003"
+   ],
+   "show": false
+  },
+  "c-abdiheba": {
+   "text": "Abdi-Heba, ruler of Jerusalem, wrote seven surviving letters (EA 285-291) protesting his loyalty, accusing his neighbours and warning that 'all of the lands of the king, my lord, are lost'.",
+   "label": "consensus",
+   "sources": [
+    "mandell-abdiheba"
+   ],
+   "show": false
+  },
+  "c-apiru": {
+   "text": "The letters complain of the 'Apiru (Habiru), uprooted people of no single language or ethnicity, often working as mercenaries, attested from about 2000 to 1150 BCE from the Tigris to Egypt.",
+   "label": "consensus",
+   "sources": [
+    "rainey-apiru"
+   ],
+   "show": false
+  },
+  "c-apiru-hebrews": {
+   "text": "Whether the word 'Apiru is related to 'ibri, 'Hebrew', is disputed.",
+   "label": "debated",
+   "sources": [
+    "rainey-apiru",
+    "waterhouse2001"
+   ],
+   "show": true,
+   "note": "Anson Rainey rejected any linguistic link; Nadav Na'aman and others accept a connection, with 'Hebrew' growing out of a social label. Most agree the 'Apiru were not an ethnic group."
+  },
+  "c-mitanni-aryans": {
+   "text": "Mitanni was a Hurrian-speaking kingdom whose kings bore Indo-Aryan names; its capital, Washukanni, probably lay in the Khabur region of north-east Syria but has not been securely identified.",
+   "label": "approx",
+   "sources": [
+    "brit-mitanni",
+    "iranica-aryans"
+   ],
+   "show": true,
+   "note": "The Indo-Aryan element was a ruling stratum soon absorbed into Hurrian culture."
+  },
+  "c-vedic-gods": {
+   "text": "In a 14th-century treaty with the Hittites, the Mitanni king Shattiwaza invoked Mitra, Varuna, Indra and the Nasatyas, gods also found in the Rigveda.",
+   "label": "consensus",
+   "sources": [
+    "cornil-treaty",
+    "iranica-aryans"
+   ],
+   "show": false
+  },
+  "c-kikkuli": {
+   "text": "A horse-training manual by Kikkuli, 'a horse trainer of the land of Mitanni', found at Hattusa, sets out a programme of about 184 days and uses Indo-Aryan technical terms and numerals.",
+   "label": "approx",
+   "sources": [
+    "arch-horse",
+    "cornil-treaty"
+   ],
+   "show": false
+  },
+  "c-mitanni-fall": {
+   "text": "Mitanni fell in stages: Suppiluliuma sacked its capital in the mid-14th century BCE, and Assyrian kings later annexed its remnant, Hanigalbat, by about 1250.",
+   "label": "approx",
+   "sources": [
+    "brit-mitanni",
+    "cornil-treaty",
+    "bryce2005",
+    "lexdk-suppiluliuma"
+   ],
+   "show": false
+  },
+  "c-tushratta-dates": {
+   "text": "Tushratta ruled Mitanni about 1365-1330 BCE; he wrote to both Amenhotep III and Akhenaten, and was later murdered.",
+   "label": "approx",
+   "sources": [
+    "brit-tushratta",
+    "lexdk-suppiluliuma",
+    "brit-mitanni"
+   ],
+   "show": true,
+   "note": "Britannica's Mitanni article gives an older date for his death, about 1360, which is too early for his letters to Akhenaten."
+  },
+  "c-kemune": {
+   "text": "In 2018 a falling reservoir on the Tigris exposed a Mitanni-era palace at Kemune, with wall paintings and tablets.",
+   "label": "consensus",
+   "sources": [
+    "scinews-kemune"
+   ],
+   "show": false
+  },
+  "c-ashuruballit": {
+   "text": "Ashur-uballit I (c. 1365-1330 BCE) freed Assyria from Mitanni, married his daughter into the Kassite royal house and wrote to the pharaoh as a great king.",
+   "label": "approx",
+   "sources": [
+    "brit-ashuruballit",
+    "met-amarna"
+   ],
+   "show": false
+  },
+  "c-tukulti": {
+   "text": "Tukulti-Ninurta I (c. 1243-1207 BCE) conquered Babylon, built a new capital opposite Ashur, and was murdered by his son.",
+   "label": "approx",
+   "sources": [
+    "brit-tukulti",
+    "met-kassite"
+   ],
+   "show": false
+  },
+  "c-kassites": {
+   "text": "Kassite kings ruled Babylonia for over four centuries, about 1595-1155 BCE, the longest dynasty in its history.",
+   "label": "approx",
+   "sources": [
+    "met-kassite",
+    "brit-kassite"
+   ],
+   "show": true,
+   "note": "Tradition gives 576 years, counting kings who overlapped with Hammurabi's dynasty; an Elamite invasion ended the dynasty."
+  },
+  "c-kudurru": {
+   "text": "Kassite kings recorded land grants on carved stones called kudurrus, set up in temples and protected by divine symbols and curses.",
+   "label": "consensus",
+   "sources": [
+    "met-kassite",
+    "bm-kudurru"
+   ],
+   "show": false
+  },
+  "c-minoan": {
+   "text": "Minoan civilization flourished on Crete from about 3000 to 1100 BCE; Arthur Evans named it after Minos, a legendary king of Crete.",
+   "label": "approx",
+   "sources": [
+    "brit-minoan"
+   ],
+   "show": false
+  },
+  "c-knossos": {
+   "text": "Arthur Evans began excavating Knossos in 1900; its palace was rebuilt more than once after earthquakes.",
+   "label": "consensus",
+   "sources": [
+    "brit-knossos"
+   ],
+   "show": false
+  },
+  "c-unesco-minoan": {
+   "text": "In 2025 six Minoan palace sites, including Knossos, Phaistos, Malia and Zakros, became a World Heritage Site.",
+   "label": "consensus",
+   "sources": [
+    "unesco-minoan2025"
+   ],
+   "show": false
+  },
+  "c-lineara": {
+   "text": "The Minoans wrote in a script called Linear A, used about 1850-1400 BCE; its language is unknown.",
+   "label": "consensus",
+   "sources": [
+    "brit-lineara"
+   ],
+   "show": false
+  },
+  "c-bull": {
+   "text": "Bulls and snakes are central images in Minoan art, and the famous bull-leaping scenes probably had a religious meaning.",
+   "label": "debated",
+   "sources": [
+    "brit-minoan"
+   ],
+   "show": true,
+   "note": "What the rituals meant is unknown; older ideas of a religion centred on a mother goddess are now treated with caution."
+  },
+  "c-peaceful": {
+   "text": "Evans pictured the Minoans as a peaceful people ruled by priest-kings; scholars still disagree about how peaceful Minoan society was.",
+   "label": "debated",
+   "sources": [
+    "lup-minoan2023"
+   ],
+   "show": true,
+   "note": "Some see a genuinely peaceful society; others an order imposed by force, a 'Minoan peace' like the Roman one."
+  },
+  "c-thera-date": {
+   "text": "The eruption of Thera (Santorini) is now dated by radiocarbon and tree rings to between about 1610 and 1540 BCE, earlier than the date of about 1500 once drawn from pottery.",
+   "label": "debated",
+   "sources": [
+    "arizona-thera2018",
+    "manning2022",
+    "manning2024",
+    "pearson2023"
+   ],
+   "show": true,
+   "note": "Sturt Manning favours about 1610-1600 BCE; Charlotte Pearson's team favours the mid-16th century. The debate has narrowed to about 50 years."
+  },
+  "c-thera-egypt": {
+   "text": "A 2025 study of radiocarbon dates from Egyptian objects of the reign of Ahmose concluded that the eruption came before the New Kingdom began.",
+   "label": "debated",
+   "sources": [
+    "bruins2025"
+   ],
+   "show": true,
+   "note": "If so, it fell in Egypt's Second Intermediate Period, the time of the Hyksos (4.7)."
+  },
+  "c-akrotiri": {
+   "text": "At Akrotiri on Thera, a town buried by the eruption, more than 30 multi-storey buildings survive, many with wall paintings; excavation began in 1967.",
+   "label": "consensus",
+   "sources": [
+    "gr-akrotiri"
+   ],
+   "show": false
+  },
+  "c-thera-end": {
+   "text": "The eruption did not by itself end Minoan civilization, which continued for generations afterwards.",
+   "label": "debated",
+   "sources": [
+    "lup-minoan2023",
+    "brit-minoan"
+   ],
+   "show": true,
+   "note": "Spyridon Marinatos argued in 1939 that the eruption destroyed Minoan Crete; most scholars now think it weakened Crete but did not end it."
+  },
+  "c-myc-knossos": {
+   "text": "By the 15th century BCE, Mycenaean Greeks ruled Knossos; its later archives are in Linear B, which writes Greek.",
+   "label": "approx",
+   "sources": [
+    "brit-minoan",
+    "brit-knossos"
+   ],
+   "show": false
+  },
+  "c-mycenae-walls": {
+   "text": "Mycenae and Tiryns were ringed by walls of huge stones; those of Tiryns reach about 8 metres thick and 13 metres high.",
+   "label": "approx",
+   "sources": [
+    "unesco-mycenae"
+   ],
+   "show": false
+  },
+  "c-shaft-graves": {
+   "text": "The shaft graves at Mycenae, about 1600-1450 BCE, held rich burials with gold masks and weapons; Heinrich Schliemann dug the first circle in 1876.",
+   "label": "approx",
+   "sources": [
+    "brit-shaftgraves"
+   ],
+   "show": false
+  },
+  "c-linearb": {
+   "text": "Linear B, used about 1400-1200 BCE at Knossos, Pylos, Mycenae, Tiryns and Thebes, was deciphered in 1952 by Michael Ventris, working with John Chadwick, who showed it wrote an early form of Greek.",
+   "label": "consensus",
+   "sources": [
+    "brit-linearb"
+   ],
+   "show": false
+  },
+  "c-kober": {
+   "text": "Alice Kober's earlier work showing that the Linear B language had inflected word endings laid the groundwork for the decipherment.",
+   "label": "consensus",
+   "sources": [
+    "aegeus-kober"
+   ],
+   "show": false
+  },
+  "c-linearb-content": {
+   "text": "The Linear B tablets are palace accounts: land, taxes, rations, offerings and inventories. Tablets from Pylos assign bronze to about 300 smiths in 17 places.",
+   "label": "approx",
+   "sources": [
+    "kcl-adams",
+    "brit-linearb"
+   ],
+   "show": false
+  },
+  "c-myc-gods": {
+   "text": "Linear B tablets name gods later worshipped by the Greeks, including Zeus, Poseidon and Dionysus.",
+   "label": "consensus",
+   "sources": [
+    "kcl-adams",
+    "brit-dionysus"
+   ],
+   "show": false
+  },
+  "c-griffin": {
+   "text": "The grave of the 'Griffin Warrior' near Pylos, found in 2015 and dated about 1500 BCE, held Minoan-made treasures, including four gold rings and a carved agate showing combat.",
+   "label": "consensus",
+   "sources": [
+    "sd-griffin"
+   ],
+   "show": false,
+   "note": "Its excavators read the Minoan objects as a sign of deep cultural exchange, not simply loot."
+  },
+  "c-dna2017": {
+   "text": "Ancient DNA shows that Minoans and Mycenaeans were closely related, with about three-quarters of their ancestry from early farmers; Mycenaeans also had some ancestry that may come from the steppe.",
+   "label": "approx",
+   "sources": [
+    "sd-lazaridis2017"
+   ],
+   "show": true,
+   "note": "Whether that extra ancestry arrived with the first Greek speakers is debated."
+  },
+  "c-dna2022": {
+   "text": "A 2022 study found Mycenaean elites were not genetically distinct from ordinary people: some had steppe ancestry and some, like the Griffin Warrior, did not.",
+   "label": "consensus",
+   "sources": [
+    "lazaridis2022"
+   ],
+   "show": false
+  },
+  "c-cousins": {
+   "text": "Ancient DNA from more than 100 Aegean Bronze Age people shows that marriage between first cousins was common on Crete and the mainland.",
+   "label": "approx",
+   "sources": [
+    "harvard-cousins"
+   ],
+   "show": true,
+   "note": "The authors suggest it kept land within families; that explanation is a hypothesis."
+  },
+  "c-troy-site": {
+   "text": "Troy lies at Hisarlık, near the Dardanelles in north-west Turkey; excavators from Schliemann in 1870 onward have found nine main layers, Troy I to IX.",
+   "label": "consensus",
+   "sources": [
+    "brit-troy"
+   ],
+   "show": false
+  },
+  "c-troy-vi": {
+   "text": "Troy VI, a large fortified city, was damaged by an earthquake about 1300 BCE.",
+   "label": "approx",
+   "sources": [
+    "brit-troy",
+    "hopesimpson"
+   ],
+   "show": true,
+   "note": "Wilhelm Dörpfeld identified Troy VI as Homer's Troy; an earthquake fits the story of a sack poorly."
+  },
+  "c-troy-viia": {
+   "text": "Troy VIIa was destroyed by fire, with signs of violence; Carl Blegen dated this about 1250 BCE and saw it as Priam's city, while more recent work dates it about 1200-1180.",
+   "label": "debated",
+   "sources": [
+    "brit-troy",
+    "hopesimpson",
+    "arch-korfmann"
+   ],
+   "show": true,
+   "note": "Hope Simpson dates the destruction about 1210-1190 and thinks a raid 'a distinct possibility'; Korfmann pointed to burning, skeletons and sling stones about 1180."
+  },
+  "c-lower-town": {
+   "text": "Manfred Korfmann argued that Late Bronze Age Troy had a large lower town below the citadel; critics said he overstated its size and importance.",
+   "label": "debated",
+   "sources": [
+    "strauss2006",
+    "hopesimpson"
+   ],
+   "show": true,
+   "note": "Frank Kolb attacked his claims in 2002; Barry Strauss judged the evidence for the lower town 'good, if not ideal'."
+  },
+  "c-wilusa": {
+   "text": "Hittite texts from about 1400 BCE to the late 13th century mention a kingdom of Wilusa in north-west Anatolia, a Hittite vassal; most scholars identify it with Troy, Greek (W)ilios.",
+   "label": "debated",
+   "sources": [
+    "hopesimpson",
+    "beckman2011"
+   ],
+   "show": true,
+   "note": "The identification rests on the names and the location; it is widely but not universally accepted."
+  },
+  "c-ahhiyawa": {
+   "text": "The same texts mention Ahhiyawa, a power across the sea that clashed with the Hittites over western Anatolia, including Wilusa; it was most likely the Mycenaean Greek world.",
+   "label": "debated",
+   "sources": [
+    "beckman2011",
+    "hopesimpson"
+   ],
+   "show": true,
+   "note": "Beckman, Bryce and Cline think it was centred on the mainland, perhaps at Mycenae, possibly as a loose confederation."
+  },
+  "c-alaksandu": {
+   "text": "A Hittite treaty names a king of Wilusa, Alaksandu; some scholars compare the name with Alexandros, another name of Paris in the Iliad.",
+   "label": "debated",
+   "sources": [
+    "beckman2011",
+    "hopesimpson"
+   ],
+   "show": true,
+   "note": "The comparison is old and suggestive, but unproven."
+  },
+  "c-trojan-war": {
+   "text": "Whether a Trojan War happened is debated: some scholars think the epic preserves memories of real Bronze Age conflicts; others find no evidence of a Greek attack, let alone a ten-year siege.",
+   "label": "debated",
+   "sources": [
+    "hopesimpson",
+    "beckman2011"
+   ],
+   "show": true,
+   "note": "Korfmann urged that 'Homer should be taken seriously'; Trevor Bryce found no historical evidence of a Mycenaean attack. A common middle view is that raids were later magnified into an epic."
+  },
+  "c-homer": {
+   "text": "The Iliad and Odyssey were probably composed in the 8th century BCE, some five centuries after the events they describe.",
+   "label": "approx",
+   "sources": [
+    "brit-homer"
+   ],
+   "show": true,
+   "note": "Some scholars place Homer in the 9th century; Britannica calls the epics 'dubious authorities' for historical events."
+  },
+  "c-ugarit-find": {
+   "text": "Ugarit, at Ras Shamra on the Syrian coast, was found in 1928 when a farmer struck a tomb; French excavations began in 1929 under Claude Schaeffer.",
+   "label": "consensus",
+   "sources": [
+    "met-ugarit"
+   ],
+   "show": false
+  },
+  "c-ugarit-archive": {
+   "text": "More than 5,000 tablets have been found at Ugarit, in five writing systems and eight languages.",
+   "label": "approx",
+   "sources": [
+    "arch-ugarit",
+    "met-ugarit"
+   ],
+   "show": false
+  },
+  "c-ugarit-alphabet": {
+   "text": "Ugarit's scribes used an alphabet of 30 signs written in cuneiform wedges, to write their own Semitic language.",
+   "label": "consensus",
+   "sources": [
+    "arch-ugarit"
+   ],
+   "show": false
+  },
+  "c-ugarit-vassal": {
+   "text": "Ugarit was a wealthy trading port that became a Hittite vassal about 1350 BCE.",
+   "label": "approx",
+   "sources": [
+    "met-ugarit"
+   ],
+   "show": false
+  },
+  "c-baal-cycle": {
+   "text": "In the Baal Cycle, the storm god Baal defeats Yam (Sea), builds a palace, is swallowed by Mot (Death) and is rescued by the war goddess Anat; El, the aged father of the gods, and his consort Athirat (Asherah) preside.",
+   "label": "consensus",
+   "sources": [
+    "met-canaan-gods"
+   ],
+   "show": false
+  },
+  "c-baal-readings": {
+   "text": "Scholars now read Baal less as a sex-and-fertility god than older accounts did.",
+   "label": "debated",
+   "sources": [
+    "illinois-baal"
+   ],
+   "show": true,
+   "note": "Wayne Pitard argues those earlier readings were shaped by the Bible's hostile picture of Baal."
+  },
+  "c-ugarit-end": {
+   "text": "Ugarit was destroyed early in the 12th century BCE, soon after a solar eclipse of 1192 recorded in its texts.",
+   "label": "approx",
+   "sources": [
+    "kaniewski2011",
+    "met-ugarit",
+    "dejong1989"
+   ],
+   "show": true,
+   "note": "Kaniewski and colleagues date the end to about 1192-1190 BCE; their radiocarbon data also allow a later range of about 1180-1160. The eclipse's date is itself disputed: de Jong and van Soldt (1989) redated it to 1223, and some doubt the text describes an eclipse."
+  },
+  "c-canaanite-texts": {
+   "text": "Before Ugarit, Canaanite religion was known mainly from the Bible's attacks on it; the Ugaritic texts let it speak in its own words, in a language closely related to Hebrew.",
+   "label": "consensus",
+   "sources": [
+    "met-canaan-gods",
+    "illinois-baal"
+   ],
+   "show": false
+  },
+  "c-el": {
+   "text": "El, the head of the Ugaritic gods, shares his name with a common Hebrew word for God, used of Israel's God in the Bible.",
+   "label": "consensus",
+   "sources": [
+    "smith-monotheism"
+   ],
+   "show": false
+  },
+  "c-el-yahweh": {
+   "text": "Some scholars argue that Israel's God Yahweh was at first distinct from El and later identified with him.",
+   "label": "debated",
+   "sources": [
+    "smith-monotheism",
+    "uehlinger2003"
+   ],
+   "show": true,
+   "note": "Mark S. Smith reads Deuteronomy 32:8-9 this way and dates full monotheism to the 7th-6th centuries BCE; Christoph Uehlinger accepts much of the model but disputes its timeline. Many readers of the Bible see El and Yahweh as one God from the start."
+  },
+  "c-leviathan": {
+   "text": "The Bible's 'Leviathan the fleeing serpent, Leviathan the twisting serpent' (Isaiah 27:1) corresponds to Lotan, a sea monster described in almost the same words in the Baal Cycle.",
+   "label": "consensus",
+   "sources": [
+    "wibilex-leviathan",
+    "wibilex-tannin",
+    "bg-isa27"
+   ],
+   "show": false,
+   "note": "The shared description is widely accepted; details of the names' history are still discussed. Isaiah turns the old myth into a picture of God's final victory."
+  },
+  "c-divine-council": {
+   "text": "Both Ugaritic texts and some psalms picture a council of divine beings: in Psalm 82, God takes his place in 'the divine council'.",
+   "label": "consensus",
+   "sources": [
+    "smith-monotheism"
+   ],
+   "show": false
+  },
+  "c-psalm29": {
+   "text": "Some scholars argue that Psalm 29, with its thundering 'voice of the Lord' over Lebanon and Sirion, adapts an older hymn to Baal.",
+   "label": "debated",
+   "sources": [
+    "freedman1973"
+   ],
+   "show": true,
+   "note": "H. L. Ginsberg proposed this in 1935; Freedman and Hyland note that problems remain and read the psalm as a unity."
+  },
+  "c-asherah": {
+   "text": "Whether Asherah was worshipped in Israel as a goddess beside Yahweh is debated.",
+   "label": "debated",
+   "sources": [
+    "smith-monotheism",
+    "uehlinger2003",
+    "bas-ajrud"
+   ],
+   "show": true,
+   "note": "Inscriptions from Kuntillet 'Ajrud (about 800 BCE) bless people 'by Yahweh of Samaria and by his asherah'; scholars disagree whether this means a goddess or a cult object."
+  },
+  "c-wadi-el-hol": {
+   "text": "The earliest clear alphabetic inscriptions, from Wadi el-Hol in Egypt and Serabit el-Khadim in Sinai, date from about the 19th-18th centuries BCE; their signs were adapted from Egyptian hieroglyphs.",
+   "label": "approx",
+   "sources": [
+    "bas-wadielhol"
+   ],
+   "show": false
+  },
+  "c-umm-el-marra": {
+   "text": "In 2024 an archaeologist proposed that marks on clay cylinders from Umm el-Marra in Syria, about 2400 BCE, are an even earlier alphabet.",
+   "label": "debated",
+   "sources": [
+    "solardaily-umm"
+   ],
+   "show": true,
+   "note": "The signs are unread, and the claim is contested."
+  },
+  "c-uluburun-find": {
+   "text": "The Uluburun wreck, off southern Turkey, was found by a sponge diver in 1982 and excavated in eleven seasons from 1984 to 1994, at depths of 42-61 metres.",
+   "label": "consensus",
+   "sources": [
+    "pulak2008"
+   ],
+   "show": false
+  },
+  "c-uluburun-date": {
+   "text": "Tree rings and radiocarbon date the sinking to about 1300 BCE.",
+   "label": "approx",
+   "sources": [
+    "pulak2008"
+   ],
+   "show": false
+  },
+  "c-copper": {
+   "text": "The ship carried about 10 tons of copper, in 354 slab ingots, most of them 'oxhide'-shaped, and lead isotopes link the copper to Cyprus.",
+   "label": "approx",
+   "sources": [
+    "pulak2008"
+   ],
+   "show": false
+  },
+  "c-tin": {
+   "text": "It also carried about a ton of tin, enough with the copper to make about 11 tons of bronze in the usual proportion of ten parts copper to one of tin.",
+   "label": "approx",
+   "sources": [
+    "pulak2008"
+   ],
+   "show": false
+  },
+  "c-cargo": {
+   "text": "Other cargo included about 175 ingots of glass, Canaanite jars of resin, ebony logs, elephant and hippopotamus ivory, and a gold scarab bearing the name of Nefertiti.",
+   "label": "consensus",
+   "sources": [
+    "pulak2008"
+   ],
+   "show": false
+  },
+  "c-route": {
+   "text": "The ship probably sailed from the coast of Canaan and was heading west, perhaps to Mycenaean Greece.",
+   "label": "debated",
+   "sources": [
+    "pulak2008"
+   ],
+   "show": true,
+   "note": "This is Cemal Pulak's reconstruction from the cargo; no text records its voyage."
+  },
+  "c-gelidonya": {
+   "text": "The smaller Cape Gelidonya wreck, about 1200 BCE, carried copper, tin and scrap bronze; excavated by George Bass in 1960, it was the first ancient wreck fully excavated on the seabed.",
+   "label": "consensus",
+   "sources": [
+    "ina-gelidonya"
+   ],
+   "show": false
+  },
+  "c-tin-source": {
+   "text": "Where the tin came from is disputed: a 2022 study traced much of it to Anatolia and Central Asia; a 2023 reply rejected both proposed mines.",
+   "label": "debated",
+   "sources": [
+    "sd-powell2022",
+    "berger2023"
+   ],
+   "show": true,
+   "note": "Powell and colleagues proposed Kestel in Anatolia and Mušiston in Central Asia; Berger and colleagues argue the chemistry does not match and suggest more distant sources, possibly south-west England."
+  },
+  "c-tin-cornwall": {
+   "text": "Tin ingots of the 13th-12th centuries found off Israel have been traced to Cornwall and Devon in Britain.",
+   "label": "debated",
+   "sources": [
+    "toi-berger2019"
+   ],
+   "show": true,
+   "note": "The authors called England the most likely source; tin deposits are rare and scattered, which makes sourcing difficult."
+  },
+  "c-bronze-trade": {
+   "text": "Copper and tin rarely occur together, so making bronze depended on trade over long distances and across many borders.",
+   "label": "consensus",
+   "sources": [
+    "pulak2008",
+    "sd-powell2022"
+   ],
+   "show": false
+  },
+  "c-carchemish": {
+   "text": "Carchemish on the Euphrates was not destroyed; its ruler, a member of the Hittite royal family, took the title Great King.",
+   "label": "consensus",
+   "sources": [
+    "demartino2018"
+   ],
+   "show": false
+  },
+  "c-tweini": {
+   "text": "At Tell Tweini near Ugarit, radiocarbon dates the destruction to about 1192-1190 BCE, at almost the same time as Ugarit.",
+   "label": "approx",
+   "sources": [
+    "kaniewski2011"
+   ],
+   "show": true,
+   "note": "Some scholars think the precision of these dates is overstated."
+  },
+  "c-emar": {
+   "text": "Emar on the Euphrates fell about 1185 BCE or shortly after.",
+   "label": "approx",
+   "sources": [
+    "demartino2018"
+   ],
+   "show": false
+  },
+  "c-aegean-fires": {
+   "text": "Fires ended the palaces of Mycenae, Tiryns, Pylos and Thebes around 1200 BCE; Pylos and Mycenae's palace were never rebuilt.",
+   "label": "approx",
+   "sources": [
+    "dartmouth-aegean",
+    "oeaw2022"
+   ],
+   "show": true,
+   "note": "The destructions are dated by pottery phases, not calendar years, and may not have been simultaneous."
+  },
+  "c-hazor": {
+   "text": "The Canaanite city of Hazor burned in the 13th century BCE; who destroyed it, and exactly when, is disputed.",
+   "label": "debated",
+   "sources": [
+    "bas-hazor"
+   ],
+   "show": true,
+   "note": "Amnon Ben-Tor links it to early Israel; Sharon Zuckerman argues for an internal revolt."
+  },
+  "c-lachish": {
+   "text": "Lachish was destroyed later, perhaps about 1130 BCE: an object bearing the name of Ramesses III shows it outlived his wars.",
+   "label": "debated",
+   "sources": [
+    "ej-lachish"
+   ],
+   "show": true,
+   "note": "The attacker is unknown; Sea Peoples and Israelites have both been suggested."
+  },
+  "c-merneptah-sea": {
+   "text": "In about 1209 BCE, his fifth year, Merneptah defeated a Libyan invasion joined by groups including the Sherden, Shekelesh, Lukka, Teresh and Ekwesh.",
+   "label": "approx",
+   "sources": [
+    "whe-seapeoples",
+    "grandet2014",
+    "brit-merneptah",
+    "cojs-merneptah"
+   ],
+   "show": true,
+   "note": "Britannica and the World History Encyclopedia give 1209 for the battle. The Merneptah Stele, which celebrates the victory in the same regnal year, is dated about 1208 in this book (4.9); some sources give c. 1207."
+  },
+  "c-medinet-habu": {
+   "text": "Ramesses III's inscription at Medinet Habu says that 'the foreign countries made a conspiracy in their islands' and that 'no land could stand before their arms', naming the Peleset, Tjekker, Shekelesh, Denyen and Weshesh.",
+   "label": "consensus",
+   "sources": [
+    "cline2015",
+    "grandet2014"
+   ],
+   "show": false
+  },
+  "c-year8": {
+   "text": "Ramesses III records defeating them by land and sea in his 8th year, about 1177 BCE.",
+   "label": "approx",
+   "sources": [
+    "cline2015",
+    "ucl-ramesses3",
+    "grandet2014"
+   ],
+   "show": true,
+   "note": "1177 follows the dates used in Chapter 4; other chronologies put it up to a decade earlier. The inscriptions are royal propaganda as well as record."
+  },
+  "c-sea-identity": {
+   "text": "The firmest identification of any 'Sea People' with a people known from later history is the Peleset, who are the Philistines.",
+   "label": "debated",
+   "sources": [
+    "cline2015",
+    "ucl-ramesses3"
+   ],
+   "show": true,
+   "note": "Links of the Sherden to Sardinia and the Shekelesh to Sicily are guesses; Eric Cline suggests the Sea Peoples may have been 'as much the victims as the aggressors'."
+  },
+  "c-langgut": {
+   "text": "Pollen from cores in the Sea of Galilee and the Dead Sea suggests repeated droughts in the southern Levant between about 1250 and 1100 BCE.",
+   "label": "debated",
+   "sources": [
+    "tau-langgut"
+   ],
+   "show": true,
+   "note": "Critics say the dating of the cores is too loose to tie the drought to particular events."
+  },
+  "c-kaniewski-cyprus": {
+   "text": "Pollen from a salt lake in Cyprus has been read as the start of a long dry period about 1200 BCE.",
+   "label": "debated",
+   "sources": [
+    "kaniewski2013"
+   ],
+   "show": true,
+   "note": "The authors argue the crisis, the Sea Peoples and the drought were 'the same event'; the evidence comes from one core."
+  },
+  "c-power2026": {
+   "text": "A 2026 climate-model study supports severe drought in the eastern Mediterranean about 3,200 years ago.",
+   "label": "debated",
+   "sources": [
+    "archmag-power2026"
+   ],
+   "show": true,
+   "note": "Model results must be checked against physical records."
+  },
+  "c-quakes": {
+   "text": "Amos Nur and Eric Cline proposed an 'earthquake storm', a chain of earthquakes about 1225-1175 BCE that damaged many cities.",
+   "label": "debated",
+   "sources": [
+    "nur-cline2000"
+   ],
+   "show": true,
+   "note": "They presented it as one factor among several; Knapp and Manning argue earthquake damage is hard to prove and would not by itself destroy societies."
+  },
+  "c-knapp": {
+   "text": "Bernard Knapp and Sturt Manning argued in 2016 that the climate records were too imprecise to name drought as the cause.",
+   "label": "debated",
+   "sources": [
+    "knapp-manning2016"
+   ],
+   "show": true,
+   "note": "Manning later co-authored the precisely dated Gordion tree-ring study (6.1)."
+  },
+  "c-invasion": {
+   "text": "Destruction layers with arrowheads, and letters from Ugarit about enemy ships, fit seaborne raiding in the Levant.",
+   "label": "debated",
+   "sources": [
+    "cline2015",
+    "kaniewski2011"
+   ],
+   "show": true,
+   "note": "There is no sound evidence that the Sea Peoples attacked the Aegean palaces."
+  },
+  "c-revolt": {
+   "text": "Other explanations stress internal weakness: peasant revolt, elite conflict, or a palace economy too specialised to survive shocks.",
+   "label": "debated",
+   "sources": [
+    "dartmouth-aegean"
+   ],
+   "show": true,
+   "note": "These ideas are hard to test directly."
+  },
+  "c-systems": {
+   "text": "Eric Cline argues that drought, earthquakes, invasions, revolts and broken trade interacted, and that the powers' dependence on one another made the fall faster and wider.",
+   "label": "debated",
+   "sources": [
+    "pup-1177"
+   ],
+   "show": true,
+   "note": "This 'systems collapse' view is widely cited, but its critics say it can explain almost anything."
+  },
+  "c-resilience": {
+   "text": "In a 2024 book Cline argues that some societies vanished while others, such as the Phoenicians, Philistines, Israelites and Assyria, adapted and built something new.",
+   "label": "debated",
+   "sources": [
+    "cline2024"
+   ],
+   "show": true,
+   "note": "Whether 'collapse' is the right word depends on where one looks."
+  },
+  "c-assyria-survives": {
+   "text": "Assyria survived: Tiglath-pileser I (c. 1115-1077 BCE) campaigned to the Mediterranean coast and took tribute from Phoenician cities.",
+   "label": "approx",
+   "sources": [
+    "brit-tiglath"
+   ],
+   "show": false
+  },
+  "c-iron": {
+   "text": "Iron objects become more common from the 12th century BCE, first in Cyprus and the Levant; large-scale iron-working there came in the 10th-9th centuries.",
+   "label": "approx",
+   "sources": [
+    "erb-satullo2019"
+   ],
+   "show": false
+  },
+  "c-iron-shortage": {
+   "text": "An old theory says iron spread because the collapse cut off supplies of tin; recent research finds little support for it.",
+   "label": "debated",
+   "sources": [
+    "erb-satullo2019"
+   ],
+   "show": true,
+   "note": "Cypriot copper production continued, and bronzes show no clear fall in tin content."
+  },
+  "c-philistine-dna": {
+   "text": "DNA from Ashkelon shows that newcomers with European-related ancestry arrived at the start of the Iron Age and, within two centuries, mixed with the local population.",
+   "label": "approx",
+   "sources": [
+    "mpg-ashkelon"
+   ],
+   "show": true,
+   "note": "The study sampled ten individuals; a southern European source is plausible but not confirmed."
+  },
+  "c-philistines": {
+   "text": "The Philistines settled the southern coast of Canaan in five cities, Gaza, Ashkelon, Ashdod, Gath and Ekron; their early pottery derives from Mycenaean styles.",
+   "label": "consensus",
+   "sources": [
+    "brit-philistines"
+   ],
+   "show": false
+  },
+  "c-caphtor": {
+   "text": "The Bible says the Philistines came from Caphtor, usually taken to be Crete.",
+   "label": "tradition",
+   "sources": [
+    "brit-philistines"
+   ],
+   "show": true,
+   "note": "Amos 9:7; Aegean-style pottery fits an origin in the Aegean world, but no find confirms Crete specifically."
+  },
+  "c-phoenicians": {
+   "text": "Freed from Egyptian control, the Phoenician cities of Tyre, Sidon, Byblos and Arwad grew rich on trade in cedar wood and purple dye.",
+   "label": "consensus",
+   "sources": [
+    "met-phoenicians"
+   ],
+   "show": false
+  },
+  "c-phoen-alphabet": {
+   "text": "The Phoenician alphabet of 22 consonants, known from the 11th century BCE, is the ancestor of the Greek alphabet and so of the Latin one.",
+   "label": "approx",
+   "sources": [
+    "brit-phoen-alphabet"
+   ],
+   "show": false
+  },
+  "c-highlands": {
+   "text": "From about 1200 BCE some 250 small villages appeared in the hill country of Canaan, rising to perhaps 45,000 people by about 1000.",
+   "label": "approx",
+   "sources": [
+    "finkelstein2001"
+   ],
+   "show": true,
+   "note": "Population is estimated from the number and size of sites."
+  },
+  "c-highland-origins": {
+   "text": "Most archaeologists connect these villages with early Israel, but disagree about who the settlers were.",
+   "label": "debated",
+   "sources": [
+    "finkelstein2001",
+    "dever-on-faust",
+    "america-dever"
+   ],
+   "show": true,
+   "note": "Israel Finkelstein sees mainly local pastoralists settling down; Avraham Faust sees a group marking its identity by avoiding pork and display; William Dever sees a mixed 'proto-Israelite' confederation. Some scholars doubt Israelite identity can be traced this early at all."
+  },
+  "c-no-pigs": {
+   "text": "The highland villages were small and unfortified, and their animal bones include almost no pig.",
+   "label": "consensus",
+   "sources": [
+    "finkelstein2001"
+   ],
+   "show": false
+  },
+  "c-neohittite": {
+   "text": "In northern Syria and south-east Anatolia, Neo-Hittite kingdoms such as Carchemish kept Hittite traditions alive until Assyria absorbed them in the late 8th century BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-neohittite",
+    "demartino2018"
+   ],
+   "show": false
+  }
+ },
+ "pages": [
+  {
+   "title": "The Bronze Age world",
+   "sub": "a club of great powers, and its collapse",
+   "lede": "Between about 1600 and 1200 BCE, a handful of kingdoms from Greece to Mesopotamia formed the first international system: rulers who wrote to each other as 'brothers', traded gold for horses, married each other's daughters and fought by agreed rules. Then, within a few decades after 1200, most of it fell apart.",
+   "body": [
+    "Egypt (Chapter 4) was one member of this club. The others were the Hittites of Anatolia, Mitanni in northern Syria, Kassite Babylon, a rising Assyria, and, on the edges, Mycenaean Greece and Alashiya on Cyprus. [[c-power-spans]] [[c-mycenaean-span]] [[c-alashiya]]",
+    "They shared a diplomatic language: Akkadian written in cuneiform, which scribes from Egypt to Anatolia learned for the purpose. [[c-akkadian-diplomacy]] Great kings called one another 'brother'; smaller rulers were 'servants'. [[c-brothers]] Gold, horses, chariots and princesses moved between courts. [[c-gifts]] And they shared a way of war, built on the horse-drawn chariot. [[c-chariots]]",
+    "Pages 6.1 to 6.3 meet the great kingdoms of Anatolia and Mesopotamia and the letters they sent; 6.4 to 6.7 the Aegean and the Levant; 6.8 the trade that bound them; and 6.9 to 6.11 the collapse and what came after.",
+    {
+     "table": {
+      "head": [
+       "Power",
+       "Capital",
+       "Great-power era (BCE)"
+      ],
+      "rows": [
+       [
+        "Egypt (New Kingdom)",
+        "Thebes, Memphis, Amarna",
+        "c. 1550-1069 (4.7)"
+       ],
+       [
+        "Hatti (Hittites)",
+        "Hattusa",
+        "c. 1400-1200"
+       ],
+       [
+        "Mitanni",
+        "Washukanni",
+        "c. 1500 to mid-14th century"
+       ],
+       [
+        "Babylonia (Kassites)",
+        "Babylon",
+        "c. 1595-1155"
+       ],
+       [
+        "Assyria",
+        "Ashur",
+        "from c. 1365"
+       ],
+       [
+        "Mycenaean Greece",
+        "Mycenae, Pylos and others",
+        "c. 1500-1100"
+       ]
+      ],
+      "note": "[[c-power-spans]]"
+     }
+    },
+    {
+     "compare": "Compare the first empire, Akkad (3.6), which tried to rule everyone. This was a different idea: several great powers recognising one another as equals."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 33.8,
+     "lat": 32.9,
+     "zoom": 15
+    },
+    "caption": "The great powers, c. 1350 BCE",
+    "hint": "Click a capital",
+    "legend": [
+     [
+      "dot",
+      "capital of a great power"
+     ],
+     [
+      "pt",
+      "other centre"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         32.2,
+         38.7
+        ],
+        "label": "HATTI",
+        "size": 12
+       },
+       {
+        "ll": [
+         39.6,
+         37.9
+        ],
+        "label": "MITANNI",
+        "size": 12
+       },
+       {
+        "ll": [
+         43.6,
+         37.2
+        ],
+        "label": "ASSYRIA",
+        "size": 11
+       },
+       {
+        "ll": [
+         44.0,
+         31.3
+        ],
+        "label": "BABYLONIA",
+        "size": 11
+       },
+       {
+        "ll": [
+         29.0,
+         27.0
+        ],
+        "label": "EGYPT",
+        "size": 12
+       },
+       {
+        "ll": [
+         23.8,
+         39.3
+        ],
+        "label": "MYCENAEAN GREECE",
+        "size": 9
+       },
+       {
+        "ll": [
+         33.0,
+         34.75
+        ],
+        "label": "ALASHIYA",
+        "size": 9
+       },
+       {
+        "ll": [
+         35.6,
+         31.0
+        ],
+        "label": "CANAAN",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         34.6153,
+         40.0197
+        ],
+        "label": "Hattusa",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "6.1 · the Hittites",
+         "title": "Hattusa",
+         "sub": "Hittite capital, c. 1650 to 1190 BCE",
+         "text": "[[c-hittites]] [[c-hattusa-site]] [[c-hattusa-end]]",
+         "sources": [
+          "brit-hittite",
+          "unesco-hattusa",
+          "demartino2018"
+         ]
+        }
+       },
+       {
+        "ll": [
+         40.0703,
+         36.8394
+        ],
+        "label": "Washukanni?",
+        "date": "site uncertain",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "6.3 · Mitanni",
+         "title": "Washukanni",
+         "sub": "capital of Mitanni",
+         "text": "[[c-mitanni-aryans]] [[c-mitanni-fall]]",
+         "sources": [
+          "brit-mitanni",
+          "iranica-aryans"
+         ]
+        }
+       },
+       {
+        "ll": [
+         43.2625,
+         35.4567
+        ],
+        "label": "Ashur",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "6.3 · Assyria",
+         "title": "Ashur",
+         "sub": "Assyria's first capital",
+         "text": "[[c-ashur-capital]] [[c-ashuruballit]]",
+         "sources": [
+          "unesco-ashur",
+          "brit-ashuruballit"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.4208,
+         32.5364
+        ],
+        "label": "Babylon",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "6.3 · Babylonia",
+         "title": "Kassite Babylon",
+         "sub": "c. 1595 to 1155 BCE",
+         "text": "[[c-kassites]] [[c-kudurru]]",
+         "sources": [
+          "met-kassite",
+          "brit-kassite"
+         ]
+        }
+       },
+       {
+        "ll": [
+         30.967,
+         27.65
+        ],
+        "label": "Amarna",
+        "date": "letters found 1887",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "6.2 · the Amarna letters",
+         "title": "Amarna",
+         "sub": "Akhenaten's capital",
+         "text": "[[c-amarna-find]] [[c-amarna-count]]",
+         "sources": [
+          "met-amarna",
+          "pup-cline2025"
+         ]
+        }
+       },
+       {
+        "ll": [
+         32.6582,
+         25.7184
+        ],
+        "label": "Thebes",
+        "dy": 14
+       },
+       {
+        "ll": [
+         22.7561,
+         37.7306
+        ],
+        "label": "Mycenae",
+        "dy": 14
+       },
+       {
+        "ll": [
+         33.8722,
+         35.166
+        ],
+        "label": "Enkomi",
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "6.0 · Alashiya",
+         "title": "Alashiya (Cyprus)",
+         "sub": "a great power of copper",
+         "text": "[[c-alashiya]]",
+         "sources": [
+          "goren2003"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.7854,
+         35.6019
+        ],
+        "label": "Ugarit",
+        "date": "see 6.7"
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "A king of Babylon and the ruler of a Canaanite city both write to the pharaoh in Akkadian. What does the difference in how they address him show?",
+     "choices": [
+      "That the Babylonian king was himself a vassal of the pharaoh",
+      "That rulers ranked as 'brothers' (equals) or 'servants'",
+      "That Akkadian was the language spoken at home in Canaan",
+      "That the pharaoh dealt with great kings and not with vassals"
+     ],
+     "answer": 1,
+     "why": "Great kings wrote to one another as 'brother'; lesser rulers called the pharaoh 'the Sun, my lord' and themselves his servants.",
+     "wrong": {
+      "0": "The king of Babylon wrote to the pharaoh as a 'brother', an equal.",
+      "2": "Akkadian was a written language of diplomacy, used even when neither side spoke it.",
+      "3": "Lesser rulers wrote to the pharaoh too, as his servants."
+     }
+    },
+    {
+     "q": "How did scholars establish that Alashiya was on Cyprus?",
+     "choices": [
+      "From a bilingual inscription found at Enkomi on Cyprus",
+      "By analysing the minerals in the clay of its letters",
+      "By radiocarbon dating of the Alashiya letters themselves",
+      "From a Hittite text placing Alashiya west of Ugarit"
+     ],
+     "answer": 1,
+     "why": "Goren and colleagues (2003) studied the clay by petrography and matched it to the edge of the Troodos mountains on Cyprus.",
+     "wrong": {
+      "0": "The identification came from the clay itself, not from an inscription.",
+      "2": "Goren's team used petrography, the study of the minerals in the clay, not radiocarbon dating.",
+      "3": "The identification rests on the clay of the letters, not on a written description."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Hittites",
+   "sub": "an empire rediscovered",
+   "lede": "A century and a half ago the Hittites were a name in the Bible and little more. Excavation at a Turkish village revealed the capital of an empire that had sacked Babylon, fought Egypt to a standstill, and written in the oldest recorded Indo-European language.",
+   "body": [
+    "The Hittites ruled central Anatolia from Hattusa from about 1650 BCE. [[c-hittites]] From 1906 Hugo Winckler dug there and found thousands of tablets, including the Akkadian text of the treaty with Ramesses II (4.9). [[c-winckler]] Almost 30,000 tablets and fragments are now known, in at least half a dozen languages. [[c-hattusa-archive]] In 1915 Bedřich Hrozný worked out that Hittite was Indo-European, related to Latin, Greek and Sanskrit. [[c-hrozny]]",
+    "The early kings were aggressive. About 1595 BCE Mursili I raided far down the Euphrates to Babylon and sacked it, ending the dynasty of Hammurabi (3.8). [[c-mursili]] Murders in the royal family followed, until Telipinu laid down rules for the succession. [[c-telipinu]] Under Suppiluliuma I in the 14th century the Hittites destroyed Mitanni and took northern Syria. [[c-suppiluliuma]]",
+    "Hittite religion collected gods: the texts speak of the 'thousand gods' of Hatti. [[c-thousand-gods]] Their laws are notable for replacing many death penalties and mutilations with fines. [[c-hittite-laws]] The capital was ringed by more than 8 km of walls, and at the nearby rock sanctuary of Yazılıkaya processions of gods are carved in stone. [[c-hattusa-site]]",
+    "The end was strange. Early in the 12th century the court left Hattusa, emptying its official buildings; the excavators find no sign of a battle. [[c-hattusa-end]] Tree rings show a severe drought just before. [[c-gordion-drought]]",
+    {
+     "compare": "The Bible's 'Hittites', such as Ephron in Genesis 23 or Uriah in 2 Samuel 11, are probably a different group from this empire. [[c-bible-hittites]]"
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "The Hittite kingdom, c. 1650-1180 BCE",
+    "title": "Kings and events, BCE (Middle Chronology)",
+    "max": 1700,
+    "min": 1150,
+    "unit": "ka",
+    "ticks": [
+     1700,
+     1600,
+     1500,
+     1400,
+     1300,
+     1200
+    ],
+    "tickLabels": [
+     "1700 BCE",
+     "1600",
+     "1500",
+     "1400",
+     "1300",
+     "1200"
+    ],
+    "axis": "years BCE; all dates approximate",
+    "hint": "Hover or click a row",
+    "rows": [
+     {
+      "t": "Hattusili I",
+      "sub": "first king at Hattusa",
+      "from": 1650,
+      "to": 1620,
+      "lab": "c. 1650-1620"
+     },
+     {
+      "t": "Mursili I sacks Babylon",
+      "from": 1597,
+      "to": 1593,
+      "lab": "c. 1595",
+      "acc": true,
+      "plate": {
+       "kicker": "6.1 · the Hittites",
+       "title": "The sack of Babylon",
+       "sub": "c. 1595 BCE",
+       "text": "[[c-mursili]]",
+       "sources": [
+        "brit-hittite",
+        "met-kassite",
+        "manning2016"
+       ]
+      }
+     },
+     {
+      "t": "Telipinu's edict",
+      "from": 1532,
+      "to": 1528,
+      "lab": "c. 1530"
+     },
+     {
+      "t": "Suppiluliuma I",
+      "sub": "height of the empire",
+      "from": 1350,
+      "to": 1322,
+      "lab": "c. 1350-1322",
+      "acc": true,
+      "plate": {
+       "kicker": "6.1 · the Hittites",
+       "title": "Suppiluliuma I",
+       "sub": "c. 1350 to 1322 BCE",
+       "text": "[[c-suppiluliuma]] [[c-mitanni-fall]]",
+       "sources": [
+        "bryce2005",
+        "lexdk-suppiluliuma",
+        "brit-hittite"
+       ]
+      }
+     },
+     {
+      "t": "Battle of Kadesh",
+      "sub": "see 4.9",
+      "from": 1276,
+      "to": 1272,
+      "lab": "c. 1274"
+     },
+     {
+      "t": "Treaty with Egypt",
+      "sub": "see 4.9",
+      "from": 1261,
+      "to": 1257,
+      "lab": "c. 1259"
+     },
+     {
+      "t": "Severe drought",
+      "sub": "Gordion tree rings",
+      "from": 1198,
+      "to": 1196,
+      "lab": "c. 1198-1196",
+      "open": true,
+      "plate": {
+       "kicker": "6.1 · the Hittites",
+       "title": "Drought",
+       "sub": "c. 1198 to 1196 BCE",
+       "text": "[[c-gordion-drought]]",
+       "sources": [
+        "manning2023"
+       ]
+      }
+     },
+     {
+      "t": "Hattusa abandoned",
+      "from": 1195,
+      "to": 1180,
+      "lab": "early 12th century",
+      "open": true,
+      "plate": {
+       "kicker": "6.1 · the Hittites",
+       "title": "The end of Hattusa",
+       "sub": "early 12th century BCE",
+       "text": "[[c-hattusa-end]]",
+       "sources": [
+        "demartino2018",
+        "natgeo-hittite"
+       ]
+      }
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why did Hrozný's decipherment of Hittite in 1915 matter beyond Anatolian history?",
+     "choices": [
+      "It proved the Hittites spoke a Semitic language like Akkadian",
+      "It revealed the oldest written Indo-European language",
+      "It identified Kalasmaic, a language unknown until then",
+      "It allowed Winckler to find the tablets at Boğazköy in 1906"
+     ],
+     "answer": 1,
+     "why": "Hittite is the oldest written member of the family that includes Latin, Greek and Sanskrit.",
+     "wrong": {
+      "0": "Hrozný showed that Hittite was Indo-European; Akkadian was one of several other languages in the archive.",
+      "2": "Kalasmaic was identified in 2023, in a tablet from Hattusa.",
+      "3": "Winckler's excavations began in 1906, nine years before the decipherment."
+     }
+    },
+    {
+     "q": "What evidence best supports the view that Hattusa was abandoned rather than sacked?",
+     "choices": [
+      "Mass graves at the city gates, dated to the early 12th century",
+      "Official buildings emptied in good order, with no sign of battle",
+      "Signs that the whole city burned at the very end of its life",
+      "Tree rings from Gordion recording a siege that lasted three years"
+     ],
+     "answer": 1,
+     "why": "The excavators describe an orderly departure, with burning only afterwards. Older accounts spoke of a sack.",
+     "wrong": {
+      "0": "The excavators find no sign of battle.",
+      "2": "The city did burn, but only after its official buildings had been emptied, so burning does not show a sack.",
+      "3": "The Gordion tree rings record a severe drought, not a war."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Amarna letters",
+   "sub": "the brotherhood of kings",
+   "lede": "In 1887 several hundred clay tablets came to light at Amarna, Akhenaten's short-lived capital. They are the pharaoh's foreign correspondence: letters from the great kings of the age, and from the anxious rulers of Canaan.",
+   "body": [
+    "The tablets were found in 1887, in circumstances that remain unclear. [[c-amarna-find]] 382 are known, about 350 of them letters, chiefly from the reigns of Amenhotep III and Akhenaten; they are the only royal archive known from New Kingdom Egypt. [[c-amarna-count]] Almost all are in Akkadian. [[c-akkadian-diplomacy]]",
+    "The great kings' letters read like family quarrels about money. Burna-Buriash of Babylon complained that his gifts were meagre, and objected that the pharaoh had received envoys from Assyria, whose king he called his vassal. [[c-burnaburiash]] Tushratta of Mitanni, whose daughter married into the Egyptian royal family, demanded the statues of solid gold he had been promised, and complained bitterly when gold-plated wood arrived instead. [[c-tushratta]]",
+    "The vassal letters are different in tone. Abdi-Heba, ruler of Jerusalem, protests his loyalty, accuses his neighbours and begs for troops: 'all of the lands of the king, my lord, are lost'. [[c-abdiheba]] Several rulers complain of the 'Apiru, uprooted people who worked as mercenaries or raiders. [[c-apiru]] Because the word resembles 'Hebrew', some scholars have linked the two; others reject the link. [[c-apiru-hebrews]]",
+    {
+     "table": {
+      "head": [
+       "Writer",
+       "Kingdom",
+       "Concern"
+      ],
+      "rows": [
+       [
+        "Burna-Buriash II",
+        "Babylon",
+        "gifts; Assyria's rise"
+       ],
+       [
+        "Tushratta",
+        "Mitanni",
+        "gold statues; marriage"
+       ],
+       [
+        "Ashur-uballit I",
+        "Assyria",
+        "recognition as a great king"
+       ],
+       [
+        "Abdi-Heba",
+        "Jerusalem",
+        "loyalty; troops; the 'Apiru"
+       ]
+      ],
+      "note": "[[c-burnaburiash]] [[c-tushratta]] [[c-ashuruballit]] [[c-abdiheba]]"
+     }
+    },
+    {
+     "compare": "Jerusalem appears here some 350 years before the time usually assigned to David, about 1000 BCE (1 Samuel to 1 Kings), as the seat of a minor ruler loyal to Egypt."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ledger",
+    "signs": false,
+    "caption": "Two kinds of letter",
+    "title": "How writers addressed the pharaoh",
+    "left": {
+     "h": "Great kings: 'my brother'",
+     "items": [
+      {
+       "t": "Babylon",
+       "s": "Burna-Buriash: gifts too small"
+      },
+      {
+       "t": "Mitanni",
+       "s": "Tushratta: gold statues, a royal bride"
+      },
+      {
+       "t": "Assyria",
+       "s": "Ashur-uballit: a newcomer to the club"
+      },
+      {
+       "t": "Hatti and Alashiya",
+       "s": "equals, with their own interests"
+      }
+     ]
+    },
+    "right": {
+     "h": "Vassals: 'the Sun, my lord'",
+     "items": [
+      {
+       "t": "Jerusalem",
+       "s": "Abdi-Heba: loyalty, please send troops"
+      },
+      {
+       "t": "Other Canaanite rulers",
+       "s": "accusations against neighbours"
+      },
+      {
+       "t": "The 'Apiru",
+       "s": "raiders and mercenaries, a common complaint"
+      },
+      {
+       "t": "Tone",
+       "s": "flattery, fear, requests for help"
+      }
+     ]
+    }
+   },
+   "practice": [
+    {
+     "q": "Burna-Buriash objects to the pharaoh receiving Assyrian envoys. What does this reveal?",
+     "choices": [
+      "That Assyria was at that time a vassal of the pharaoh",
+      "That Babylon saw a rising Assyria as a threat to its rank",
+      "That Babylon was preparing to go to war with Egypt",
+      "That the Assyrian envoys had written to Egypt in Egyptian"
+     ],
+     "answer": 1,
+     "why": "Membership of the great kings' club was contested. He calls the Assyrians his vassals so that they will not be treated as equals.",
+     "wrong": {
+      "0": "Ashur-uballit wrote to the pharaoh as a great king, seeking recognition as one.",
+      "2": "His letters complain about gifts and protocol, not war.",
+      "3": "Almost all the Amarna letters are in Akkadian."
+     }
+    },
+    {
+     "q": "What is the strongest reason many scholars resist equating the 'Apiru with the Hebrews?",
+     "choices": [
+      "The 'Apiru appear in Egyptian texts and nowhere else",
+      "The word names a social category found widely, not one people",
+      "Rainey accepted the link; Na'aman showed the words are unrelated",
+      "Canaan had no writing in the Amarna period to record them"
+     ],
+     "answer": 1,
+     "why": "The 'Apiru were uprooted people of no single language or ethnicity, attested from the Tigris to Egypt. Most agree they were not an ethnic group.",
+     "wrong": {
+      "0": "They are attested from the Tigris to Egypt, from about 2000 to 1150 BCE.",
+      "2": "It is the other way round: Anson Rainey rejected any linguistic link, and Nadav Na'aman accepts a connection.",
+      "3": "Canaanite rulers, such as Abdi-Heba of Jerusalem, wrote Amarna letters themselves."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Mitanni, Assyria and Babylon",
+   "sub": "the eastern powers",
+   "lede": "East of the Hittites lay three more members of the club: Mitanni, a kingdom whose kings swore by Vedic gods; Assyria, which rose on Mitanni's ruins; and Babylon, ruled for four centuries by a dynasty from the mountains.",
+   "body": [
+    "Mitanni was a Hurrian-speaking kingdom of northern Syria whose kings bore Indo-Aryan names. [[c-mitanni-aryans]] In a treaty with the Hittites its king swore by Mitra, Varuna, Indra and the Nasatyas, gods of the Rigveda, [[c-vedic-gods]] and a horse-training manual by a Mitanni trainer called Kikkuli uses Indo-Aryan terms. [[c-kikkuli]] Its capital has never been securely found; in 2018 a drought exposed one of its palaces on the Tigris. [[c-kemune]] Mitanni was destroyed in stages by the Hittites and the Assyrians. [[c-mitanni-fall]]",
+    "Assyria, centred on the city of Ashur, broke free of Mitanni under Ashur-uballit I, who wrote to the pharaoh as a great king. [[c-ashuruballit]] A century later Tukulti-Ninurta I conquered Babylon and built himself a new capital, before his own son murdered him. [[c-tukulti]]",
+    "Babylon, after the Hittite raid of 1595, was taken over by the Kassites, a people from the Zagros mountains, who ruled for over four centuries. [[c-kassites]] They kept Babylonian culture alive, and left a new kind of monument, the kudurru, a carved stone recording a royal land grant, guarded by the symbols of the gods and by curses on anyone who removed it. [[c-kudurru]]",
+    {
+     "table": {
+      "head": [
+       "King",
+       "Kingdom",
+       "Dates (BCE)"
+      ],
+      "rows": [
+       [
+        "Tushratta",
+        "Mitanni",
+        "c. 1365-1330"
+       ],
+       [
+        "Ashur-uballit I",
+        "Assyria",
+        "c. 1365-1330"
+       ],
+       [
+        "Burna-Buriash II",
+        "Babylon (Kassite)",
+        "14th century"
+       ],
+       [
+        "Tukulti-Ninurta I",
+        "Assyria",
+        "c. 1243-1207"
+       ]
+      ],
+      "note": "Middle Chronology. [[c-tushratta-dates]] [[c-ashuruballit]] [[c-tukulti]]"
+     }
+    },
+    {
+     "compare": "Compare the Rakhigarhi genome and the arrival of steppe ancestry in South Asia (5.3). The Mitanni treaty is the earliest dated written record of Indo-Aryan gods, far to the west of India."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 42.2,
+     "lat": 34.4,
+     "zoom": 50
+    },
+    "caption": "Mitanni, Assyria and Babylonia, 14th-13th centuries BCE",
+    "hint": "Click a city",
+    "legend": [
+     [
+      "dot",
+      "capital"
+     ],
+     [
+      "pt",
+      "other city"
+     ],
+     [
+      "acc",
+      "Assyrian conquest of Babylon, c. 1225 BCE"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         40.4,
+         36.0
+        ],
+        "label": "MITANNI",
+        "size": 11
+       },
+       {
+        "ll": [
+         43.9,
+         36.2
+        ],
+        "label": "ASSYRIA",
+        "size": 11
+       },
+       {
+        "ll": [
+         42.6,
+         32.5
+        ],
+        "label": "BABYLONIA",
+        "size": 11
+       },
+       {
+        "ll": [
+         41.8,
+         33.6
+        ],
+        "label": "SYRIAN DESERT",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          43.3,
+          35.35
+         ],
+         [
+          43.9,
+          34.2
+         ],
+         [
+          44.35,
+          32.7
+         ]
+        ],
+        "label": "c. 1225 BCE",
+        "lab": [
+         43.9,
+         34.2
+        ],
+        "ldx": 8,
+        "anchor": "start"
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         40.0703,
+         36.8394
+        ],
+        "label": "Washukanni?",
+        "date": "Mitanni capital, site uncertain",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "6.3 · Mitanni",
+         "title": "Mitanni",
+         "sub": "c. 1500 to the mid-14th century BCE",
+         "text": "[[c-mitanni-aryans]] [[c-vedic-gods]] [[c-kikkuli]] [[c-mitanni-fall]]",
+         "sources": [
+          "brit-mitanni",
+          "cornil-treaty",
+          "iranica-aryans"
+         ]
+        }
+       },
+       {
+        "ll": [
+         43.2625,
+         35.4567
+        ],
+        "label": "Ashur",
+        "date": "and Kar-Tukulti-Ninurta",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "6.3 · Assyria",
+         "title": "Ashur",
+         "sub": "Assyrian capital",
+         "text": "[[c-ashur-capital]] [[c-ashuruballit]] [[c-tukulti]]",
+         "sources": [
+          "unesco-ashur",
+          "brit-ashuruballit",
+          "brit-tukulti"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.2024,
+         33.3537
+        ],
+        "label": "Dur-Kurigalzu",
+        "date": "Kassite royal city",
+        "anchor": "end",
+        "dy": -8
+       },
+       {
+        "ll": [
+         44.2522,
+         33.0588
+        ],
+        "label": "Sippar",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         44.4208,
+         32.5364
+        ],
+        "label": "Babylon",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 14,
+        "plate": {
+         "kicker": "6.3 · Babylonia",
+         "title": "Kassite Babylon",
+         "sub": "c. 1595 to 1155 BCE",
+         "text": "[[c-kassites]] [[c-kudurru]]",
+         "sources": [
+          "met-kassite",
+          "brit-kassite",
+          "bm-kudurru"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do the Indo-Aryan gods in a treaty between the Hittites and Mitanni matter to historians of religion?",
+     "choices": [
+      "They prove that the Vedic hymns were first composed in northern Syria",
+      "They are a dated written record of Rigvedic gods, far west of India",
+      "They show the Hittites worshipped Indra as their chief god",
+      "They show most of Mitanni's people spoke an Indo-Aryan language"
+     ],
+     "answer": 1,
+     "why": "The 14th-century treaty is the earliest dated written record of Indo-Aryan gods, a fixed point far to the west of India.",
+     "wrong": {
+      "0": "The treaty shows the gods were known in Syria; it says nothing about where the hymns were composed.",
+      "2": "It is the Mitanni king, Shattiwaza, who invokes them.",
+      "3": "Mitanni was Hurrian-speaking; its kings bore Indo-Aryan names."
+     }
+    },
+    {
+     "q": "What was a kudurru for?",
+     "choices": [
+      "Marking the edges of fields as boundary stones in the open",
+      "Recording a royal land grant, under divine symbols and curses",
+      "Celebrating an Assyrian king's conquest of the city of Babylon",
+      "Serving as a clay receipt for taxes paid to a temple"
+     ],
+     "answer": 1,
+     "why": "Kudurrus were carved stones set up in temples as records of royal land grants, guarded by the symbols of the gods and by curses.",
+     "wrong": {
+      "0": "They were set up in temples, not in the fields.",
+      "2": "They are a Kassite Babylonian form, not Assyrian.",
+      "3": "They are carved stone monuments, not clay tablets."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Minoan Crete",
+   "sub": "palaces, bulls and a volcano",
+   "lede": "On Crete, Europe's first palace civilization built great courtyard complexes, painted bright frescoes of bulls and dolphins, and wrote in a script nobody can read. In the middle of its history, a volcano 110 km to the north blew apart.",
+   "body": [
+    "The Minoans, named by Arthur Evans after the legendary King Minos, flourished on Crete for most of the Bronze Age. [[c-minoan]] Evans began digging Knossos in 1900, [[c-knossos]] and in 2025 Knossos and five other palace sites became a World Heritage Site. [[c-unesco-minoan]] The Minoans wrote in Linear A, whose language is still unknown. [[c-lineara]]",
+    "Their art is full of bulls, snakes and young people leaping over charging bulls, scenes that probably had a religious meaning. [[c-bull]] Evans imagined a gentle society ruled by priest-kings; scholars still argue about how peaceful it really was. [[c-peaceful]]",
+    "Sometime between about 1610 and 1540 BCE the volcano of Thera (Santorini) erupted. [[c-thera-date]] It buried the town of Akrotiri, with its frescoed houses, under ash. [[c-akrotiri]] A 2025 study places it before the reign of Ahmose in Egypt. [[c-thera-egypt]] It did not end Minoan civilization by itself, [[c-thera-end]] but by the 15th century Greek-speaking Mycenaeans ruled Knossos. [[c-myc-knossos]]",
+    {
+     "table": {
+      "head": [
+       "Dating method",
+       "Date for the Thera eruption (BCE)"
+      ],
+      "rows": [
+       [
+        "Pottery and Egyptian links (older view)",
+        "c. 1570-1500"
+       ],
+       [
+        "Tree-ring radiocarbon (Pearson et al. 2018)",
+        "1600-1525"
+       ],
+       [
+        "Bayesian model (Manning 2022)",
+        "1609-1560"
+       ],
+       [
+        "Buried olive shrub (Pearson et al. 2023)",
+        "mid-16th century"
+       ]
+      ],
+      "note": "[[c-thera-date]]"
+     }
+    },
+    {
+     "compare": "Compare the debate over Mesopotamian chronologies (3.12): an exact date for one event can anchor or overturn a whole timeline."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "When did Thera erupt?",
+    "title": "Estimates for the eruption, and Egypt's New Kingdom, BCE",
+    "max": 1650,
+    "min": 1450,
+    "unit": "ka",
+    "ticks": [
+     1650,
+     1600,
+     1550,
+     1500,
+     1450
+    ],
+    "tickLabels": [
+     "1650 BCE",
+     "1600",
+     "1550",
+     "1500",
+     "1450"
+    ],
+    "axis": "years BCE",
+    "hint": "Hover or click a row",
+    "rows": [
+     {
+      "t": "Older archaeological estimate",
+      "sub": "pottery, Egyptian links",
+      "from": 1570,
+      "to": 1500,
+      "lab": "c. 1570-1500",
+      "open": true
+     },
+     {
+      "t": "Pearson et al. 2018",
+      "sub": "tree-ring radiocarbon",
+      "from": 1600,
+      "to": 1525,
+      "lab": "1600-1525",
+      "acc": true
+     },
+     {
+      "t": "Manning 2022",
+      "sub": "Bayesian model",
+      "from": 1609,
+      "to": 1560,
+      "lab": "1609-1560",
+      "acc": true,
+      "plate": {
+       "kicker": "6.4 · Thera",
+       "title": "Dating the eruption",
+       "sub": "between about 1610 and 1540 BCE",
+       "text": "[[c-thera-date]] [[c-thera-egypt]]",
+       "sources": [
+        "manning2022",
+        "manning2024",
+        "pearson2023",
+        "bruins2025"
+       ]
+      }
+     },
+     {
+      "t": "Manning 2024",
+      "sub": "olive shrub re-analysed",
+      "from": 1613,
+      "to": 1609,
+      "lab": "c. 1611",
+      "acc": true
+     },
+     {
+      "t": "Pearson et al. 2023",
+      "sub": "olive shrub",
+      "from": 1565,
+      "to": 1535,
+      "lab": "mid-16th century",
+      "acc": true
+     },
+     {
+      "t": "Ahmose and the New Kingdom",
+      "sub": "Egypt (4.7)",
+      "from": 1550,
+      "to": 1450,
+      "lab": "from 1550",
+      "open": true
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why did radiocarbon and tree-ring results matter so much for the date of the Thera eruption?",
+     "choices": [
+      "They confirmed the old pottery-based date of about 1500 BCE",
+      "They moved it earlier, perhaps before Egypt's New Kingdom",
+      "They proved that the eruption destroyed Knossos and its palace",
+      "They came from organic remains sealed in Linear A tablets"
+     ],
+     "answer": 1,
+     "why": "Recent estimates run from about 1610 to the mid-16th century BCE, earlier than the old date of about 1500. A 2025 study places the eruption before the reign of Ahmose.",
+     "wrong": {
+      "0": "About 1500 BCE was the old pottery-based date; the new results are earlier.",
+      "2": "Minoan civilization continued for generations, and Knossos was later ruled by Mycenaeans.",
+      "3": "The dates come from radiocarbon and tree rings; Linear A is a script whose language is unknown."
+     }
+    },
+    {
+     "q": "What best explains why the later archives at Knossos are in Linear B?",
+     "choices": [
+      "The Minoans had spoken Greek from the very beginning",
+      "Mycenaean Greeks ruled Knossos from the 15th century BCE",
+      "Linear A died out when the Thera eruption ended Minoan rule",
+      "Linear A and Linear B are one script, read in two ways"
+     ],
+     "answer": 1,
+     "why": "Linear B writes Greek, and records Mycenaean rule on Crete.",
+     "wrong": {
+      "0": "The Minoan language, written in Linear A, is unknown.",
+      "2": "The eruption did not by itself end Minoan civilization, which continued for generations.",
+      "3": "Linear A's language is unknown, while Linear B writes Greek."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Mycenaean Greece",
+   "sub": "Linear B and the first Greeks",
+   "lede": "On the Greek mainland, warrior kings built citadels of colossal stones and buried their dead in gold. Their scribes kept accounts in a script that, when it was finally read in 1952, turned out to be Greek.",
+   "body": [
+    "Mycenae, Tiryns and Pylos were the centres of small kingdoms, ringed by walls of huge stones. [[c-mycenae-walls]] [[c-mycenaean-span]] The earliest rulers of Mycenae were buried in shaft graves with gold masks, weapons and treasure. [[c-shaft-graves]] A grave found near Pylos in 2015, the 'Griffin Warrior', held Minoan-made masterpieces, a sign of how much the mainland took from Crete. [[c-griffin]]",
+    "Their script, Linear B, was deciphered in 1952 by the young architect Michael Ventris, with the philologist John Chadwick: [[c-linearb]] it wrote Greek, centuries older than Homer. Alice Kober's patient work had shown the way. [[c-kober]] The tablets are bureaucratic: land, rations, taxes, offerings, bronze issued to smiths. [[c-linearb-content]] But they also name gods the later Greeks knew: Zeus, Poseidon, even Dionysus. [[c-myc-gods]]",
+    "Ancient DNA shows Minoans and Mycenaeans were close relatives, both descended mostly from early farmers; the Mycenaeans had some extra ancestry, perhaps from the steppe. [[c-dna2017]] Elites were not genetically different from commoners, [[c-dna2022]] and marriage between first cousins was common. [[c-cousins]]",
+    {
+     "table": {
+      "head": [
+       "",
+       "Minoan Crete",
+       "Mycenaean Greece"
+      ],
+      "rows": [
+       [
+        "script",
+        "Linear A (unread)",
+        "Linear B (Greek)"
+       ],
+       [
+        "centres",
+        "palaces with open courts",
+        "walled citadels"
+       ],
+       [
+        "art",
+        "bulls, sea creatures, nature",
+        "warriors, chariots, hunting"
+       ],
+       [
+        "fate",
+        "taken over by Mycenaeans",
+        "palaces destroyed c. 1200 (6.9)"
+       ]
+      ],
+      "note": "[[c-lineara]] [[c-linearb]] [[c-myc-knossos]]"
+     }
+    },
+    {
+     "compare": "Compare the decipherment of Hittite (6.1) and the still-unread Indus script (5.2). Linear B was cracked without a bilingual inscription, by working out the structure of the language first."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 23.98,
+     "lat": 36.5,
+     "zoom": 64
+    },
+    "caption": "The Aegean in the Late Bronze Age",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "dot",
+      "Mycenaean centre"
+     ],
+     [
+      "pt",
+      "Minoan site"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         24.3,
+         35.35
+        ],
+        "label": "CRETE",
+        "size": 11
+       },
+       {
+        "ll": [
+         22.2,
+         37.25
+        ],
+        "label": "PELOPONNESE",
+        "size": 9
+       },
+       {
+        "ll": [
+         25.0,
+         37.7
+        ],
+        "label": "AEGEAN SEA",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         22.7561,
+         37.7306
+        ],
+        "label": "Mycenae",
+        "date": "shaft graves",
+        "acc": true,
+        "big": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "6.5 · Mycenaean Greece",
+         "title": "Mycenae",
+         "sub": "c. 1600 to 1100 BCE",
+         "text": "[[c-shaft-graves]] [[c-mycenae-walls]]",
+         "sources": [
+          "brit-shaftgraves",
+          "unesco-mycenae"
+         ]
+        }
+       },
+       {
+        "ll": [
+         22.8,
+         37.5994
+        ],
+        "label": "Tiryns",
+        "acc": true,
+        "dy": 14
+       },
+       {
+        "ll": [
+         21.695,
+         37.0272
+        ],
+        "label": "Pylos",
+        "date": "Linear B archive",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "6.5 · Mycenaean Greece",
+         "title": "Pylos",
+         "sub": "the \"Palace of Nestor\"",
+         "text": "[[c-linearb-content]] [[c-myc-gods]] [[c-griffin]]",
+         "sources": [
+          "kcl-adams",
+          "sd-griffin"
+         ]
+        }
+       },
+       {
+        "ll": [
+         23.3178,
+         38.3208
+        ],
+        "label": "Thebes",
+        "acc": true
+       },
+       {
+        "ll": [
+         25.1631,
+         35.2981
+        ],
+        "label": "Knossos",
+        "date": "Linear A, then B",
+        "big": true,
+        "anchor": "end",
+        "dy": -10,
+        "plate": {
+         "kicker": "6.4 · Minoan Crete",
+         "title": "Knossos",
+         "sub": "excavated from 1900",
+         "text": "[[c-knossos]] [[c-lineara]] [[c-myc-knossos]]",
+         "sources": [
+          "brit-knossos",
+          "brit-lineara"
+         ]
+        }
+       },
+       {
+        "ll": [
+         24.8136,
+         35.0514
+        ],
+        "label": "Phaistos",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         25.4647,
+         35.2833
+        ],
+        "label": "Malia",
+        "dy": -8
+       },
+       {
+        "ll": [
+         26.2614,
+         35.0981
+        ],
+        "label": "Zakros",
+        "anchor": "end",
+        "dy": -8
+       },
+       {
+        "ll": [
+         25.4036,
+         36.3514
+        ],
+        "label": "Akrotiri (Thera)",
+        "date": "buried by the eruption",
+        "plate": {
+         "kicker": "6.4 · Minoan Crete",
+         "title": "Akrotiri",
+         "sub": "Thera (Santorini)",
+         "text": "[[c-akrotiri]] [[c-thera-date]]",
+         "sources": [
+          "gr-akrotiri",
+          "arizona-thera2018"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What did the decipherment of Linear B mainly reveal?",
+     "choices": [
+      "Early written versions of Homer's poem about Troy, the Iliad",
+      "That palace scribes wrote early Greek, chiefly for accounts",
+      "The language of the Minoans, which turned out to be Greek",
+      "A law code like Hammurabi's, issued by the kings of Pylos"
+     ],
+     "answer": 1,
+     "why": "Ventris showed in 1952 that the script wrote an early form of Greek. The tablets record land, rations, taxes and offerings.",
+     "wrong": {
+      "0": "The tablets are centuries older than Homer, and they are accounts, not poetry.",
+      "2": "Linear A, the Minoan script, is still unread.",
+      "3": "The tablets are palace accounts, not laws."
+     }
+    },
+    {
+     "q": "What does the Griffin Warrior's DNA, published in 2022, suggest?",
+     "choices": [
+      "That Mycenaean elites were foreign conquerors from the steppe",
+      "That high status did not depend on having steppe ancestry",
+      "That Mycenaeans had no ancestry from the region's early farmers",
+      "That he carried more steppe ancestry than ordinary people did"
+     ],
+     "answer": 1,
+     "why": "Some elite individuals had steppe ancestry and others, including him, did not.",
+     "wrong": {
+      "0": "The study found elites were not genetically distinct from ordinary people.",
+      "2": "About three-quarters of their ancestry came from early farmers.",
+      "3": "He had no steppe ancestry."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Troy and the Trojan War",
+   "sub": "between archaeology and Homer",
+   "lede": "Homer's Iliad tells of a ten-year Greek siege of Troy. Archaeologists have dug at Troy for 150 years, and Hittite archives have added letters about a western kingdom called Wilusa. Did the war happen? The honest answer is: perhaps something like it.",
+   "body": [
+    "Troy is the mound of Hisarlık near the Dardanelles, with nine main layers of settlement. [[c-troy-site]] Two layers are candidates for Homer's city. Troy VI, a large fortified city, was badly damaged by an earthquake about 1300 BCE. [[c-troy-vi]] Troy VIIa was destroyed by fire with signs of violence, about 1250 BCE on Carl Blegen's dating and about 1200-1180 on more recent work. [[c-troy-viia]] Manfred Korfmann argued that the city was much larger than its citadel, a claim that drew fierce criticism. [[c-lower-town]]",
+    "Hittite texts add a voice from outside Greece. They mention Wilusa, a vassal kingdom in north-west Anatolia that most scholars identify with Troy (Greek Ilios, earlier Wilios). [[c-wilusa]] They also mention Ahhiyawa, a power across the sea, most likely the Mycenaean Greeks, that clashed with the Hittites over the region. [[c-ahhiyawa]] One king of Wilusa was called Alaksandu, a name some compare with Paris's other name, Alexandros. [[c-alaksandu]]",
+    "None of this proves a Trojan War. Some scholars think the epic preserves real memories; others see no evidence for a Greek attack at all. A common middle view is that raids and conflicts were later magnified into an epic. [[c-trojan-war]] The Iliad itself was composed about five centuries after the events. [[c-homer]]",
+    {
+     "table": {
+      "head": [
+       "Evidence",
+       "What it shows"
+      ],
+      "rows": [
+       [
+        "Troy VI",
+        "large city; earthquake c. 1300 BCE"
+       ],
+       [
+        "Troy VIIa",
+        "burned, with signs of violence"
+       ],
+       [
+        "Hittite texts",
+        "Wilusa a vassal; disputes with Ahhiyawa"
+       ],
+       [
+        "Homer",
+        "composed c. 8th century BCE"
+       ]
+      ],
+      "note": "[[c-troy-vi]] [[c-troy-viia]] [[c-wilusa]] [[c-homer]]"
+     }
+    },
+    {
+     "compare": "Compare the debate over the Exodus (4.9) and over Erlitou and the Xia (5.5): a later literary tradition, some archaeology, and the question of what kind of memory the tradition preserves."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "Troy, the Hittites and Homer",
+    "title": "Layers of Troy, Hittite texts and the epic, BCE",
+    "max": 1450,
+    "min": 650,
+    "unit": "ka",
+    "ticks": [
+     1400,
+     1200,
+     1000,
+     800
+    ],
+    "tickLabels": [
+     "1400 BCE",
+     "1200",
+     "1000",
+     "800"
+    ],
+    "axis": "years BCE; all dates approximate",
+    "hint": "Hover or click a row",
+    "rows": [
+     {
+      "t": "Wilusa in Hittite texts",
+      "from": 1400,
+      "to": 1220,
+      "lab": "c. 1400 to late 13th c.",
+      "open": true,
+      "plate": {
+       "kicker": "6.6 · Troy",
+       "title": "Wilusa and Ahhiyawa",
+       "sub": "in Hittite texts",
+       "text": "[[c-wilusa]] [[c-ahhiyawa]] [[c-alaksandu]]",
+       "sources": [
+        "beckman2011",
+        "hopesimpson"
+       ]
+      }
+     },
+     {
+      "t": "Troy VI damaged",
+      "sub": "earthquake",
+      "from": 1305,
+      "to": 1295,
+      "lab": "c. 1300"
+     },
+     {
+      "t": "Troy VIIa destroyed",
+      "sub": "Blegen's date",
+      "from": 1260,
+      "to": 1240,
+      "lab": "c. 1260-1240",
+      "open": true
+     },
+     {
+      "t": "Troy VIIa destroyed",
+      "sub": "more recent dates",
+      "from": 1210,
+      "to": 1180,
+      "lab": "c. 1210-1180",
+      "acc": true,
+      "plate": {
+       "kicker": "6.6 · Troy",
+       "title": "The end of Troy VIIa",
+       "sub": "burned, with signs of violence",
+       "text": "[[c-troy-viia]] [[c-trojan-war]]",
+       "sources": [
+        "hopesimpson",
+        "arch-korfmann",
+        "brit-troy"
+       ]
+      }
+     },
+     {
+      "t": "Iliad and Odyssey",
+      "sub": "composed",
+      "from": 800,
+      "to": 700,
+      "lab": "8th century",
+      "acc": true,
+      "plate": {
+       "kicker": "6.6 · Troy",
+       "title": "Homer",
+       "sub": "probably 8th century BCE",
+       "text": "[[c-homer]]",
+       "sources": [
+        "brit-homer"
+       ]
+      }
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why did Carl Blegen prefer Troy VIIa to Troy VI as Homer's Troy?",
+     "choices": [
+      "Troy VIIa held more gold, which fits the wealthy city of Priam",
+      "Troy VI was hit by an earthquake, Troy VIIa by fire and violence",
+      "Hittite texts name Troy VIIa as the city of Wilusa",
+      "Troy VIIa was larger and better fortified than Troy VI"
+     ],
+     "answer": 1,
+     "why": "A sack fits the Greek story better than an earthquake does. Blegen dated the destruction of Troy VIIa about 1250 BCE.",
+     "wrong": {
+      "0": "Blegen's reason was the burning and signs of violence, not wealth.",
+      "2": "Hittite texts name a kingdom, Wilusa, not an archaeological layer.",
+      "3": "Troy VI was the large fortified city; Blegen's reason was the burning."
+     }
+    },
+    {
+     "q": "What is the strongest evidence from outside Greece bearing on the Trojan War?",
+     "choices": [
+      "The Iliad, written down close to the time of the war",
+      "Hittite texts naming Wilusa and a power called Ahhiyawa",
+      "A Hittite treaty naming Paris, as Alexandros, king of Troy",
+      "Korfmann's lower town, which showed a ten-year siege"
+     ],
+     "answer": 1,
+     "why": "These are texts of the time, recording a Hittite vassal in north-west Anatolia and its disputes with a power across the sea.",
+     "wrong": {
+      "0": "The Iliad is Greek, and was composed about five centuries after the events.",
+      "2": "The treaty names Alaksandu, king of Wilusa; the comparison with Alexandros is unproven.",
+      "3": "The debate over the lower town is about the city's size; critics said Korfmann overstated it, and no evidence shows a ten-year siege."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Ugarit and the Canaanite world",
+   "sub": "the gods of Israel's neighbours",
+   "lede": "In 1928 a farmer's plough opened a tomb on the Syrian coast. Beneath lay Ugarit, a trading city whose archives preserve the myths of the Canaanite gods, in a language close to Hebrew. No discovery has done more to show the religious world in which the Hebrew Bible took shape.",
+   "body": [
+    "Ugarit was found in 1928 and excavated from 1929. [[c-ugarit-find]] A rich port, it became a Hittite vassal about 1350 BCE. [[c-ugarit-vassal]] Its archives hold more than 5,000 tablets in five writing systems and eight languages, [[c-ugarit-archive]] including its own: a 30-letter alphabet written in cuneiform wedges. [[c-ugarit-alphabet]] The alphabet itself had been invented centuries earlier, by people adapting Egyptian hieroglyphs. [[c-wadi-el-hol]] A recent claim pushes it back further, but is contested. [[c-umm-el-marra]]",
+    "The religious texts tell of El, the aged father of the gods, and his consort Asherah; of Baal, the storm god, who defeats Yam (Sea) and is swallowed by Mot (Death), and of his sister Anat, who rescues him. [[c-baal-cycle]] Older accounts made Baal a crude fertility god; recent scholars argue that picture came from the Bible's polemic. [[c-baal-readings]] Before Ugarit, Canaanite religion was known mainly from its enemies. [[c-canaanite-texts]]",
+    "The parallels with the Hebrew Bible are real but must be weighed one by one. El is a Hebrew word for God. [[c-el]] Isaiah 27:1's 'Leviathan the fleeing serpent, Leviathan the twisting serpent' is Ugarit's Lotan. [[c-leviathan]] Psalm 82 pictures God in 'the divine council', like El among the gods. [[c-divine-council]] More debated are whether Psalm 29 adapts a Baal hymn, [[c-psalm29]] whether Yahweh was once distinct from El, [[c-el-yahweh]] and whether Asherah was worshipped in Israel. [[c-asherah]]",
+    "Ugarit was destroyed early in the 12th century BCE. [[c-ugarit-end]] Its fall is part of the collapse described on page 6.9.",
+    {
+     "compare": "Compare the Hymn to the Aten and Psalm 104 (4.8), and the flood stories of Mesopotamia and Genesis (3.10). In each case, Israel's scriptures share language and images with their neighbours while reshaping them."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ledger",
+    "signs": false,
+    "caption": "Ugarit and the Hebrew Bible",
+    "title": "Parallels, from widely accepted (top) to debated (bottom)",
+    "left": {
+     "h": "Ugaritic texts",
+     "items": [
+      {
+       "t": "El, father of the gods",
+       "s": "head of the pantheon"
+      },
+      {
+       "t": "Lotan",
+       "s": "'the fleeing serpent, the twisting serpent'"
+      },
+      {
+       "t": "El's assembly of the gods",
+       "s": "the divine council"
+      },
+      {
+       "t": "Baal's thunder",
+       "s": "the storm god speaks"
+      },
+      {
+       "t": "Asherah",
+       "s": "El's consort"
+      }
+     ]
+    },
+    "right": {
+     "h": "Hebrew Bible",
+     "items": [
+      {
+       "t": "El, a word for Israel's God",
+       "s": "widely accepted"
+      },
+      {
+       "t": "Leviathan (Isaiah 27:1)",
+       "s": "widely accepted"
+      },
+      {
+       "t": "Psalm 82",
+       "s": "God in 'the divine council'; widely accepted"
+      },
+      {
+       "t": "Psalm 29",
+       "s": "'the voice of the Lord'; debated"
+      },
+      {
+       "t": "'by Yahweh of Samaria and by his asherah'",
+       "s": "inscriptions; meaning debated"
+      }
+     ]
+    }
+   },
+   "practice": [
+    {
+     "q": "Which link between Ugarit and the Hebrew Bible is most secure?",
+     "choices": [
+      "Psalm 29 is a translated Baal hymn, as Ginsberg showed in 1935",
+      "Leviathan matches Lotan, described in almost the same words",
+      "Yahweh appears among the gods of the Ugaritic pantheon",
+      "Asherah was worshipped in Israel as Yahweh's consort"
+     ],
+     "answer": 1,
+     "why": "The shared name and the 'fleeing, twisting serpent' wording are widely accepted.",
+     "wrong": {
+      "0": "Ginsberg proposed it in 1935, but Freedman and Hyland note that problems remain.",
+      "2": "The main Ugaritic gods are El, Asherah, Baal, Anat, Yam and Mot; Yahweh is not among them.",
+      "3": "That is debated: scholars disagree whether 'his asherah' means a goddess or a cult object."
+     }
+    },
+    {
+     "q": "Why does Ugarit matter so much to the study of Israelite religion?",
+     "choices": [
+      "It was an Israelite city on the coast of northern Syria",
+      "It gives Canaanite religious texts in their own words",
+      "Its texts show Baal was mainly a god of sex and fertility",
+      "It is the very place where the alphabet was first invented"
+     ],
+     "answer": 1,
+     "why": "Before Ugarit, Canaanite religion was known mainly from the Bible's attacks on it. Its texts let scholars compare Israel's scriptures with its neighbours' own words.",
+     "wrong": {
+      "0": "Ugarit was a trading port and a Hittite vassal.",
+      "2": "Recent scholars argue that picture of Baal came from the Bible's polemic.",
+      "3": "The alphabet was invented centuries earlier, by people adapting Egyptian hieroglyphs."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The trade that bound them",
+   "sub": "the Uluburun ship, copper and tin",
+   "lede": "Bronze is copper alloyed with a little tin, and the two metals are almost never found together. The great powers' armies, tools and temples therefore depended on long trade routes. A ship that sank about 1300 BCE shows what moved along them.",
+   "body": [
+    "In 1982 a sponge diver off southern Turkey reported strange metal objects on the sea floor. They were copper ingots from the Uluburun wreck, excavated over eleven seasons. [[c-uluburun-find]] Tree rings and radiocarbon date the sinking to about 1300 BCE. [[c-uluburun-date]]",
+    "The ship carried about 10 tons of Cypriot copper [[c-copper]] and about a ton of tin, enough for some 11 tons of bronze. [[c-tin]] It also held glass ingots, jars of resin, African ebony, ivory, and a gold scarab with the name of Nefertiti. [[c-cargo]] It was probably sailing west from Canaan toward the Aegean. [[c-route]] A smaller wreck at Cape Gelidonya, about a century later, carried scrap bronze for recycling. [[c-gelidonya]]",
+    "Copper came mainly from Cyprus, the Alashiya of the Amarna letters (6.0). Tin is harder. Recent studies trace Bronze Age tin to Anatolia, Central Asia or even Britain, and dispute each other's results. [[c-tin-source]] [[c-tin-cornwall]] Either way, tin came from a few scattered sources, and bronze tied the great powers to long and fragile supply lines. [[c-bronze-trade]]",
+    {
+     "table": {
+      "head": [
+       "Cargo",
+       "Amount",
+       "Origin"
+      ],
+      "rows": [
+       [
+        "copper",
+        "c. 10 tons",
+        "Cyprus"
+       ],
+       [
+        "tin",
+        "c. 1 ton",
+        "disputed"
+       ],
+       [
+        "glass ingots",
+        "c. 175",
+        "Egypt and the Near East"
+       ],
+       [
+        "resin in Canaanite jars",
+        "c. 0.5 ton",
+        "Canaan"
+       ],
+       [
+        "ebony; ivory",
+        "logs; tusk, hippo teeth",
+        "Africa; Africa or the Levant"
+       ]
+      ],
+      "note": "Pulak (2008). [[c-copper]] [[c-tin]] [[c-cargo]]"
+     }
+    },
+    {
+     "compare": "Compare the sea trade between the Indus, the Gulf and Mesopotamia (5.2), a thousand years earlier."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "bars",
+    "caption": "What the Uluburun ship carried",
+    "title": "Main bulk cargoes, by weight (kg)",
+    "max": 10500,
+    "ticks": [
+     0,
+     2000,
+     4000,
+     6000,
+     8000,
+     10000
+    ],
+    "axis": "kilograms",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "Copper",
+      "sub": "mostly oxhide ingots, Cyprus",
+      "v": 10000,
+      "lab": "c. 10 tons",
+      "acc": true,
+      "plate": {
+       "kicker": "6.8 · trade",
+       "title": "The Uluburun ship",
+       "sub": "sank c. 1300 BCE",
+       "text": "[[c-uluburun-find]] [[c-copper]] [[c-tin]] [[c-cargo]] [[c-route]]",
+       "sources": [
+        "pulak2008"
+       ]
+      }
+     },
+     {
+      "t": "Tin",
+      "sub": "source disputed",
+      "v": 1000,
+      "lab": "c. 1 ton",
+      "acc": true,
+      "plate": {
+       "kicker": "6.8 · trade",
+       "title": "Where did the tin come from?",
+       "sub": "a live debate",
+       "text": "[[c-tin-source]] [[c-tin-cornwall]]",
+       "sources": [
+        "sd-powell2022",
+        "berger2023",
+        "toi-berger2019"
+       ]
+      }
+     },
+     {
+      "t": "Resin",
+      "sub": "in Canaanite jars",
+      "v": 500,
+      "lab": "c. 0.5 ton"
+     },
+     {
+      "t": "Glass ingots",
+      "sub": "c. 175 ingots",
+      "v": 350,
+      "lab": "c. 350 kg"
+     }
+    ],
+    "notes": [
+     "Source: Pulak (2008). Tin decays in seawater; the original amount was probably larger."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do the 2022-2023 studies of the Uluburun tin matter for understanding the Late Bronze Age economy?",
+     "choices": [
+      "Tin came from a few scattered sources, still disputed today",
+      "They traced the tin to Cyprus, the source of the ship's copper",
+      "They redated the sinking of the ship to about 1000 BCE",
+      "Both agreed on Central Asia but disputed how the tin travelled"
+     ],
+     "answer": 0,
+     "why": "Proposed sources range from Anatolia to Central Asia and Britain. The disagreement itself shows how few and far-flung the sources were.",
+     "wrong": {
+      "1": "Cyprus supplied the copper, not the tin.",
+      "2": "Tree rings and radiocarbon date the sinking to about 1300 BCE.",
+      "3": "The 2023 reply rejected both the Central Asian and the Anatolian mines proposed in 2022."
+     }
+    },
+    {
+     "q": "The Uluburun ship held about ten times as much copper as tin. What does that ratio suggest?",
+     "choices": [
+      "The metals were meant to be alloyed into bronze at ten to one",
+      "The copper was meant for Cyprus and the tin for Canaan",
+      "The ship had sailed from Mycenae with Greek copper for Egypt",
+      "Tin was plentiful, so little of it needed to be carried"
+     ],
+     "answer": 0,
+     "why": "Bronze was usually ten parts copper to one of tin; Pulak notes the cargo would make about 11 tons of bronze.",
+     "wrong": {
+      "1": "The copper itself came from Cyprus, and the ship was probably heading west.",
+      "2": "Lead isotopes link the copper to Cyprus, and the ship probably sailed west from Canaan.",
+      "3": "Tin came from a few scattered sources, which is why bronze depended on long-distance trade."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The collapse",
+   "sub": "c. 1200 to 1150 BCE",
+   "lede": "Within about fifty years after 1200 BCE, the Hittite empire vanished, Ugarit was destroyed, the Mycenaean palaces burned, and Egypt fought off invaders by land and sea. Writing disappeared from Greece for four centuries.",
+   "body": [
+    "The Hittite court abandoned Hattusa early in the 12th century. [[c-hattusa-end]] Ugarit was destroyed soon after an eclipse of 1192 BCE, [[c-ugarit-end]] and nearby Tell Tweini at almost the same time. [[c-tweini]] Emar fell about 1185. [[c-emar]] But Carchemish survived, and its king called himself Great King. [[c-carchemish]] In Greece, fires ended the palaces of Mycenae, Tiryns, Pylos and Thebes around 1200. [[c-aegean-fires]] In Canaan, Hazor burned [[c-hazor]] and Lachish fell decades later. [[c-lachish]]",
+    "Egypt left the most famous account. Merneptah had already fought a Libyan invasion joined by groups from the sea. [[c-merneptah-sea]] About 1177 BCE, in his 8th year, Ramesses III fought them again. [[c-year8]] His temple at Medinet Habu says 'the foreign countries made a conspiracy in their islands' and that 'no land could stand before their arms'. [[c-medinet-habu]] Modern historians call them the 'Sea Peoples'. The firmest identification is the Peleset, the Philistines. [[c-sea-identity]]",
+    "The destructions were spread over decades, some cities survived, and some were abandoned rather than sacked. That is why most historians no longer think one wave of invaders destroyed the system.",
+    {
+     "table": {
+      "head": [
+       "Place",
+       "What happened",
+       "When (BCE)"
+      ],
+      "rows": [
+       [
+        "Hattusa",
+        "abandoned",
+        "early 12th century"
+       ],
+       [
+        "Ugarit",
+        "destroyed",
+        "soon after 1192"
+       ],
+       [
+        "Emar",
+        "destroyed",
+        "c. 1185"
+       ],
+       [
+        "Mycenae, Pylos",
+        "palaces burned",
+        "c. 1200"
+       ],
+       [
+        "Carchemish",
+        "survived",
+        "-"
+       ],
+       [
+        "Egypt",
+        "repelled invaders",
+        "c. 1177"
+       ]
+      ],
+      "note": "[[c-hattusa-end]] [[c-ugarit-end]] [[c-emar]] [[c-aegean-fires]] [[c-carchemish]] [[c-year8]]"
+     }
+    },
+    {
+     "compare": "Compare the end of Akkad and the crises around 2200 BCE (3.6, 4.6): another moment when several societies failed at once."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 30.0,
+     "lat": 35.6,
+     "zoom": 21
+    },
+    "caption": "Destruction and survival, c. 1200-1130 BCE",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "dot",
+      "destroyed or abandoned"
+     ],
+     [
+      "pt",
+      "survived"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         30.8,
+         30.4
+        ],
+        "label": "EGYPT",
+        "size": 11
+       },
+       {
+        "ll": [
+         33.5,
+         39.0
+        ],
+        "label": "HATTI",
+        "size": 11
+       },
+       {
+        "ll": [
+         26.0,
+         38.6
+        ],
+        "label": "AEGEAN",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         34.6153,
+         40.0197
+        ],
+        "label": "Hattusa",
+        "date": "abandoned",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "6.9 · collapse",
+         "title": "Hattusa",
+         "sub": "early 12th century BCE",
+         "text": "[[c-hattusa-end]] [[c-gordion-drought]]",
+         "sources": [
+          "demartino2018",
+          "natgeo-hittite",
+          "manning2023"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.7854,
+         35.6019
+        ],
+        "label": "Ugarit",
+        "date": "soon after 1192",
+        "acc": true,
+        "big": true,
+        "dy": 14,
+        "plate": {
+         "kicker": "6.9 · collapse",
+         "title": "Ugarit",
+         "sub": "destroyed soon after 1192 BCE",
+         "text": "[[c-ugarit-end]] [[c-tweini]] [[c-invasion]]",
+         "sources": [
+          "kaniewski2011",
+          "met-ugarit"
+         ]
+        }
+       },
+       {
+        "ll": [
+         38.1114,
+         35.9868
+        ],
+        "label": "Emar",
+        "date": "c. 1185",
+        "acc": true,
+        "dy": -8
+       },
+       {
+        "ll": [
+         38.0164,
+         36.8294
+        ],
+        "label": "Carchemish",
+        "date": "survived",
+        "dy": -8,
+        "anchor": "end",
+        "plate": {
+         "kicker": "6.9 · collapse",
+         "title": "Carchemish",
+         "sub": "a survivor",
+         "text": "[[c-carchemish]] [[c-neohittite]]",
+         "sources": [
+          "demartino2018",
+          "brit-neohittite"
+         ]
+        }
+       },
+       {
+        "ll": [
+         22.7561,
+         37.7306
+        ],
+        "label": "Mycenae",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "6.9 · collapse",
+         "title": "The Mycenaean palaces",
+         "sub": "burned c. 1200 BCE",
+         "text": "[[c-aegean-fires]] [[c-revolt]]",
+         "sources": [
+          "dartmouth-aegean",
+          "oeaw2022"
+         ]
+        }
+       },
+       {
+        "ll": [
+         21.695,
+         37.0272
+        ],
+        "label": "Pylos",
+        "acc": true,
+        "dy": 14
+       },
+       {
+        "ll": [
+         35.5668,
+         33.0192
+        ],
+        "label": "Hazor",
+        "date": "13th century",
+        "acc": true,
+        "plate": {
+         "kicker": "6.9 · collapse",
+         "title": "Hazor",
+         "sub": "burned in the 13th century BCE",
+         "text": "[[c-hazor]]",
+         "sources": [
+          "bas-hazor"
+         ]
+        }
+       },
+       {
+        "ll": [
+         34.8489,
+         31.565
+        ],
+        "label": "Lachish",
+        "date": "c. 1130?",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "6.9 · collapse",
+         "title": "Lachish",
+         "sub": "destroyed perhaps c. 1130 BCE",
+         "text": "[[c-lachish]]",
+         "sources": [
+          "ej-lachish"
+         ]
+        }
+       },
+       {
+        "ll": [
+         33.8722,
+         35.166
+        ],
+        "label": "Cyprus",
+        "date": "copper trade went on",
+        "anchor": "end",
+        "dy": 14
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do archaeologists doubt that a single army of 'Sea Peoples' destroyed the whole system in one campaign?",
+     "choices": [
+      "The destructions span decades, and Hattusa was abandoned",
+      "Medinet Habu describes a raid on Egypt but names no groups",
+      "Ugarit survived the raids and lasted into the Iron Age",
+      "The Sea Peoples conquered Egypt before reaching Hattusa"
+     ],
+     "answer": 0,
+     "why": "The destructions run from the 1190s to about 1130 BCE. Hattusa was abandoned rather than sacked, and Carchemish survived.",
+     "wrong": {
+      "1": "Medinet Habu names the Peleset, Tjekker, Shekelesh, Denyen and Weshesh.",
+      "2": "Ugarit was destroyed soon after 1192 BCE.",
+      "3": "Ramesses III records defeating them by land and sea, and Egypt survived."
+     }
+    },
+    {
+     "q": "Which group of 'Sea Peoples' do scholars identify most firmly with a people of later history?",
+     "choices": [
+      "The Peleset, known later as the Philistines",
+      "The Sherden, firmly linked to the Sardinians",
+      "The Shekelesh, firmly linked with the Sicilians",
+      "The Lukka, known later as the Philistines"
+     ],
+     "answer": 0,
+     "why": "The Peleset are the Philistines. Links of the Sherden to Sardinia and the Shekelesh to Sicily are guesses.",
+     "wrong": {
+      "1": "The link with Sardinia is a guess.",
+      "2": "The link with Sicily is a guess.",
+      "3": "The Philistines are identified with the Peleset, not the Lukka."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Why did it collapse?",
+   "sub": "drought, earthquakes, raiders and a fragile system",
+   "lede": "Few questions in ancient history have attracted so many answers. The evidence now points less to one cause than to several shocks hitting an interconnected world at once.",
+   "body": [
+    "Climate is the strongest new evidence. Pollen cores from the Sea of Galilee and the Dead Sea suggest repeated drought in the southern Levant, [[c-langgut]] and a core from Cyprus a long dry period beginning about 1200. [[c-kaniewski-cyprus]] Critics said such records were too loosely dated, [[c-knapp]] but in 2023 tree rings from Gordion pinned three years of severe drought to about 1198-1196 BCE, just before the Hittite collapse. [[c-gordion-drought]] A 2026 climate model points the same way. [[c-power2026]]",
+    "Other factors were in play. Earthquakes may have damaged several cities, [[c-quakes]] and raiders struck the Levantine coast. [[c-invasion]] Inside the kingdoms, revolt, elite rivalry or brittle palace economies may have turned shocks into collapse. [[c-revolt]] Eric Cline argues that these causes interacted, and that the powers' dependence on one another let failure spread. [[c-systems]]",
+    "Not everyone collapsed. Egypt survived, though weakened; Assyria recovered and marched to the Mediterranean; [[c-assyria-survives]] Carchemish and Cyprus carried on. In his 2024 sequel Cline asks why some societies adapted while others vanished. [[c-resilience]]",
+    {
+     "table": {
+      "head": [
+       "Explanation",
+       "Main evidence",
+       "Main objection"
+      ],
+      "rows": [
+       [
+        "drought",
+        "pollen cores; Gordion tree rings",
+        "timing in some records is loose"
+       ],
+       [
+        "earthquakes",
+        "damaged walls and buildings",
+        "hard to prove; cities recover from quakes"
+       ],
+       [
+        "invasion and raids",
+        "Medinet Habu; Ugarit letters",
+        "no evidence of raiders in the Aegean"
+       ],
+       [
+        "internal revolt",
+        "fragile palace economies",
+        "hard to test"
+       ],
+       [
+        "systems collapse",
+        "everything above, interacting",
+        "can explain almost anything"
+       ]
+      ],
+      "note": "[[c-langgut]] [[c-quakes]] [[c-invasion]] [[c-revolt]] [[c-systems]]"
+     }
+    },
+    {
+     "compare": "Compare the debate over the end of the Indus cities (5.3): there too, drought is now the leading suspect, but rarely the only one."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "Evidence for drought and disaster",
+    "title": "Proposed windows, BCE",
+    "max": 1300,
+    "min": 850,
+    "unit": "ka",
+    "ticks": [
+     1300,
+     1200,
+     1100,
+     1000,
+     900
+    ],
+    "tickLabels": [
+     "1300 BCE",
+     "1200",
+     "1100",
+     "1000",
+     "900"
+    ],
+    "axis": "years BCE",
+    "hint": "Hover or click a row",
+    "rows": [
+     {
+      "t": "Earthquake storm",
+      "sub": "Nur and Cline",
+      "from": 1225,
+      "to": 1175,
+      "lab": "c. 1225-1175",
+      "open": true,
+      "plate": {
+       "kicker": "6.10 · causes",
+       "title": "An earthquake storm?",
+       "sub": "c. 1225 to 1175 BCE",
+       "text": "[[c-quakes]] [[c-knapp]]",
+       "sources": [
+        "nur-cline2000",
+        "knapp-manning2016"
+       ]
+      }
+     },
+     {
+      "t": "Levant droughts",
+      "sub": "pollen, Galilee and Dead Sea",
+      "from": 1250,
+      "to": 1100,
+      "lab": "c. 1250-1100",
+      "open": true,
+      "plate": {
+       "kicker": "6.10 · causes",
+       "title": "Drought in the Levant",
+       "sub": "pollen cores",
+       "text": "[[c-langgut]]",
+       "sources": [
+        "tau-langgut"
+       ]
+      }
+     },
+     {
+      "t": "Cyprus dry period",
+      "sub": "pollen, Larnaca salt lake",
+      "from": 1200,
+      "to": 850,
+      "lab": "from c. 1200",
+      "open": true,
+      "plate": {
+       "kicker": "6.10 · causes",
+       "title": "A long dry period in Cyprus?",
+       "sub": "from c. 1200 BCE",
+       "text": "[[c-kaniewski-cyprus]]",
+       "sources": [
+        "kaniewski2013"
+       ]
+      }
+     },
+     {
+      "t": "Severe drought",
+      "sub": "Gordion tree rings",
+      "from": 1199,
+      "to": 1195,
+      "lab": "c. 1198-1196",
+      "acc": true,
+      "plate": {
+       "kicker": "6.10 · causes",
+       "title": "Three dry years",
+       "sub": "c. 1198 to 1196 BCE",
+       "text": "[[c-gordion-drought]]",
+       "sources": [
+        "manning2023"
+       ]
+      }
+     },
+     {
+      "t": "Ugarit destroyed",
+      "from": 1193,
+      "to": 1185,
+      "lab": "soon after 1192",
+      "acc": true
+     },
+     {
+      "t": "Ramesses III fights the Sea Peoples",
+      "from": 1179,
+      "to": 1175,
+      "lab": "c. 1177",
+      "acc": true
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why did the 2023 Gordion tree-ring study strengthen the drought argument more than earlier pollen cores?",
+     "choices": [
+      "Tree rings date the drought to within a few years",
+      "It showed drought caused each one of the destructions",
+      "Its samples covered the whole eastern Mediterranean",
+      "It showed the Sea Peoples played no part in the collapse"
+     ],
+     "answer": 0,
+     "why": "The main objection to the climate case was loose dating. The Gordion rings pin three years of severe drought to about 1198-1196 BCE.",
+     "wrong": {
+      "1": "The authors present the drought as a possible tipping point, not the only cause.",
+      "2": "It comes from a single site, Gordion.",
+      "3": "It addresses climate only; the Egyptian records of the Sea Peoples still stand."
+     }
+    },
+    {
+     "q": "Which statement best reflects Eric Cline's 2024 argument?",
+     "choices": [
+      "Some societies vanished while others adapted and rebuilt",
+      "Little changed after 1177 BCE; the collapse was largely a myth",
+      "Earthquakes, more than drought, ended the Bronze Age",
+      "The Phoenicians and Philistines vanished; Egypt adapted"
+     ],
+     "answer": 0,
+     "why": "His sequel asks why outcomes differed: the Phoenicians, Philistines, Israelites and Assyria adapted and built something new, while others vanished.",
+     "wrong": {
+      "1": "He describes societies that vanished as well as those that adapted.",
+      "2": "Nur and Cline presented earthquakes as one factor among several.",
+      "3": "Cline names the Phoenicians and Philistines among those that adapted and built something new."
+     }
+    }
+   ]
+  },
+  {
+   "title": "After the collapse",
+   "sub": "iron, Philistines, Phoenicians and the first Israel",
+   "lede": "Out of the ruins of the Bronze Age came a new world of smaller states: Philistine cities on the coast, Phoenician merchants in the north, Neo-Hittite kingdoms in Syria, and in the hills of Canaan a new people whom an Egyptian king had already called Israel.",
+   "body": [
+    "Iron objects became more common from the 12th century BCE, first in Cyprus and the Levant, [[c-iron]] though the old idea that a shortage of tin forced the change finds little support. [[c-iron-shortage]] The Peleset of Medinet Habu settled the southern coast as the Philistines, in five cities. [[c-philistines]] DNA from Ashkelon shows newcomers with European-related ancestry who soon mixed with locals; [[c-philistine-dna]] the Bible remembers them as coming from Caphtor. [[c-caphtor]] To the north, the Phoenician cities grew rich on trade, [[c-phoenicians]] and spread the alphabet that the Greeks would adopt. [[c-phoen-alphabet]] Neo-Hittite kingdoms kept Hittite traditions alive in Syria. [[c-neohittite]]",
+    "In the hill country, about 250 small villages appeared from about 1200 BCE. [[c-highlands]] They were unfortified, simple, and nearly free of pig bones. [[c-no-pigs]] Most archaeologists connect them with the Israel named on the Merneptah Stele (4.9), but disagree about who the settlers were: mostly local pastoralists settling down, a group deliberately marking itself off from its neighbours, or a mixed confederation. [[c-highland-origins]]",
+    "Chapter 7 takes up the story in the Iron Age, as Assyria rises again and the kingdoms of Israel and Judah take shape.",
+    {
+     "table": {
+      "head": [
+       "New player",
+       "Where",
+       "Known for"
+      ],
+      "rows": [
+       [
+        "Philistines",
+        "southern coast of Canaan",
+        "five cities; Aegean-style pottery"
+       ],
+       [
+        "Phoenicians",
+        "Tyre, Sidon, Byblos",
+        "trade, the alphabet"
+       ],
+       [
+        "Neo-Hittites",
+        "northern Syria, south-east Anatolia",
+        "Hittite traditions"
+       ],
+       [
+        "Highland villagers",
+        "hill country of Canaan",
+        "early Israel"
+       ]
+      ],
+      "note": "[[c-philistines]] [[c-phoenicians]] [[c-neohittite]] [[c-highland-origins]]"
+     }
+    },
+    {
+     "compare": "Compare the Bible's books of Joshua and Judges, which tell of conquest and of tribes living among Canaanites and Philistines. The archaeology of the highland villages shows no sign of a violent invasion; it fits better with gradual settlement."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 36.4,
+     "lat": 34.6,
+     "zoom": 34
+    },
+    "caption": "The Levant in the early Iron Age, c. 1150-1000 BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "pt",
+      "city"
+     ],
+     [
+      "zone",
+      "region of new settlement"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "zone",
+      "items": [
+       {
+        "ll": [
+         35.25,
+         32.0
+        ],
+        "r": 0.45,
+        "label": "HIGHLAND VILLAGES",
+        "lab": [
+         37.2,
+         31.75
+        ]
+       },
+       {
+        "ll": [
+         34.6,
+         31.6
+        ],
+        "r": 0.3,
+        "label": "PHILISTIA",
+        "lab": [
+         33.6,
+         31.2
+        ]
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         35.75,
+         33.6
+        ],
+        "label": "PHOENICIA",
+        "size": 9
+       },
+       {
+        "ll": [
+         37.6,
+         37.4
+        ],
+        "label": "NEO-HITTITE STATES",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         34.5458,
+         31.6639
+        ],
+        "label": "Ashkelon",
+        "date": "Philistine DNA",
+        "anchor": "end",
+        "plate": {
+         "kicker": "6.11 · after the collapse",
+         "title": "The Philistines",
+         "sub": "from the 12th century BCE",
+         "text": "[[c-philistines]] [[c-philistine-dna]] [[c-caphtor]]",
+         "sources": [
+          "brit-philistines",
+          "mpg-ashkelon"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.6519,
+         34.1236
+        ],
+        "label": "Byblos",
+        "date": "Phoenician city",
+        "anchor": "end",
+        "plate": {
+         "kicker": "6.11 · after the collapse",
+         "title": "The Phoenicians",
+         "sub": "from c. 1200 BCE",
+         "text": "[[c-phoenicians]] [[c-phoen-alphabet]]",
+         "sources": [
+          "met-phoenicians",
+          "brit-phoen-alphabet"
+         ]
+        }
+       },
+       {
+        "ll": [
+         38.0164,
+         36.8294
+        ],
+        "label": "Carchemish",
+        "acc": true,
+        "plate": {
+         "kicker": "6.11 · after the collapse",
+         "title": "The Neo-Hittite states",
+         "sub": "c. 1180 to 700 BCE",
+         "text": "[[c-neohittite]] [[c-carchemish]]",
+         "sources": [
+          "brit-neohittite",
+          "demartino2018"
+         ]
+        }
+       },
+       {
+        "ll": [
+         38.3611,
+         38.3819
+        ],
+        "label": "Arslantepe (Milid)",
+        "acc": true
+       },
+       {
+        "ll": [
+         35.25,
+         32.0
+        ],
+        "label": "hill country",
+        "plate": {
+         "kicker": "6.11 · after the collapse",
+         "title": "The highland villages",
+         "sub": "c. 1200 to 1000 BCE",
+         "text": "[[c-highlands]] [[c-no-pigs]] [[c-highland-origins]]",
+         "sources": [
+          "finkelstein2001",
+          "dever-on-faust",
+          "america-dever"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does the DNA study from Ashkelon show?",
+     "choices": [
+      "Newcomers with European-related ancestry arrived and mixed in",
+      "The Philistines came from Crete, as the Bible says of Caphtor",
+      "The newcomers kept their ancestry distinct for centuries",
+      "Hundreds of people were sampled across the Philistine cities"
+     ],
+     "answer": 0,
+     "why": "Newcomers with European-related ancestry appear at the start of the Iron Age and mixed with the local population within two centuries.",
+     "wrong": {
+      "1": "A southern European source is plausible but not confirmed, and no find confirms Crete.",
+      "2": "Within two centuries they had mixed with the local population.",
+      "3": "The study sampled ten individuals."
+     }
+    },
+    {
+     "q": "Why do archaeologists pay so much attention to the absence of pig bones in the highland villages?",
+     "choices": [
+      "It may mark a group identity, though scholars read it differently",
+      "Faust sees herders settling down; Finkelstein, an identity marker",
+      "It suggests the villages were wealthy towns with strong walls",
+      "It shows the settlers were too poor to keep animals of any kind"
+     ],
+     "answer": 0,
+     "why": "Finkelstein, Faust and Dever all connect the villages with early Israel, but disagree about who the settlers were.",
+     "wrong": {
+      "1": "It is the other way round: Finkelstein sees mainly local pastoralists settling down, and Faust a group marking its identity.",
+      "2": "The villages were small and unfortified.",
+      "3": "Animal bones are found there; what is almost missing is pig."
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4461 @@
+{
+ "id": "ch02",
+ "no": "02",
+ "title": "Before history",
+ "sub": "foragers, and the turn to farming",
+ "sources": {
+  "prb": {
+   "citation": "Population Reference Bureau, \"How Many People Have Ever Lived on Earth?\" (2022)",
+   "url": "https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/"
+  },
+  "hgp-hadza": {
+   "citation": "Human Generosity Project, \"The Hadza\"",
+   "url": "https://www.humangenerosity.org/?p=274"
+  },
+  "konner2011": {
+   "citation": "Melvin Konner, review of Frank Marlowe, The Hadza, American Scientist 99 (2011)",
+   "url": "https://www.americanscientist.org/node/1568"
+  },
+  "hill2011": {
+   "citation": "Hill et al., \"Co-residence patterns in hunter-gatherer societies show unique human social structure\", Science 331 (2011)",
+   "url": "https://hraf.yale.edu/ehc/documents/840"
+  },
+  "apicella2012": {
+   "citation": "Apicella et al., \"Social networks and cooperation in hunter-gatherers\", Nature 481 (2012)",
+   "url": "https://humannaturelab.net/publications/social-networks-and-cooperation-in-hunter-gatherers"
+  },
+  "anderson2023": {
+   "citation": "EurekAlert on Anderson et al., PLOS ONE (2023)",
+   "url": "https://www.eurekalert.org/news-releases/993195"
+  },
+  "venkataraman2024": {
+   "citation": "Venkataraman et al., \"Female foragers sometimes hunt, yet gendered divisions of labor are real\", Evolution and Human Behavior (2024)",
+   "url": "https://pure.psu.edu/en/publications/female-foragers-sometimes-hunt-yet-gendered-divisions-of-labor-ar/"
+  },
+  "kaplan2000": {
+   "citation": "David Kaplan, \"The Darker Side of the 'Original Affluent Society'\", Journal of Anthropological Research 56 (2000)",
+   "url": "https://Www.Gwern.net/doc/sociology/2000-kaplan.pdf"
+  },
+  "dyble2019": {
+   "citation": "Phys.org on Dyble et al., Nature Human Behaviour (2019)",
+   "url": "https://phys.org/news/2019-05-farmers-leisure-hunter-gatherers.pdf"
+  },
+  "lee-hg": {
+   "citation": "Richard B. Lee, \"Hunter-Gatherers and Human Evolution: New Light on Old Debates\" (reprint)",
+   "url": "https://theanarchistlibrary.org/library/richard-b-lee-hunter-gatherers-and-human-evolution.html"
+  },
+  "si-afarensis": {
+   "citation": "Smithsonian Human Origins, \"Australopithecus afarensis\"",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-afarensis"
+  },
+  "si-habilis": {
+   "citation": "Smithsonian Human Origins, \"Homo habilis\"",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-habilis"
+  },
+  "si-erectus": {
+   "citation": "Smithsonian Human Origins, \"Homo erectus\"",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-erectus"
+  },
+  "si-heidelbergensis": {
+   "citation": "Smithsonian Human Origins, \"Homo heidelbergensis\"",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-heidelbergensis"
+  },
+  "si-neanderthal": {
+   "citation": "Smithsonian Human Origins, \"Homo neanderthalensis\"",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis"
+  },
+  "am-denisovans": {
+   "citation": "Australian Museum, \"The Denisovans\"",
+   "url": "https://australian.museum/learn/science/human-evolution/the-denisovans/"
+  },
+  "cas-yunxian": {
+   "citation": "Chinese Academy of Sciences on the Yunxian 2 skull, Science (2025)",
+   "url": "https://english.cas.cn/newsroom/cas_media/202509/t20250929_1059026.shtml"
+  },
+  "si-floresiensis": {
+   "citation": "Smithsonian Human Origins, \"Homo floresiensis\"",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-floresiensis"
+  },
+  "si-naledi": {
+   "citation": "Smithsonian Human Origins, \"Homo naledi\"",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-naledi"
+  },
+  "si-sapiens": {
+   "citation": "Smithsonian Human Origins, \"Homo sapiens\"",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens"
+  },
+  "harmand2015": {
+   "citation": "ScienceDaily on Harmand et al., Lomekwi 3, Nature (2015)",
+   "url": "https://sciencedaily.com/releases/2015/05/150520131659.htm"
+  },
+  "plummer2023": {
+   "citation": "Queens College on Plummer et al., Nyayanga, Science (2023)",
+   "url": "https://www.qc.cuny.edu/communications/press-release-march-3/"
+  },
+  "villmoare2026": {
+   "citation": "ScienceDaily on Villmoare et al., Ledi-Geraru, Nature (2025)",
+   "url": "https://sciencedaily.com/releases/2026/05/260515234644.htm"
+  },
+  "nature-fire": {
+   "citation": "Nature news, \"Earliest evidence of controlled fire\" (2012)",
+   "url": "https://www.nature.com/articles/nature.2012.10372"
+  },
+  "ashton2025": {
+   "citation": "UCL on Ashton et al., fire-making at Barnham, Nature (2025)",
+   "url": "https://www.ucl.ac.uk/social-historical-sciences/news/2025/dec/british-discovery-shows-earliest-evidence-humans-making-fire"
+  },
+  "harbin2025": {
+   "citation": "Science News on the Harbin skull, Science and Cell (2025)",
+   "url": "https://www.sciencenews.org/?p=3156116"
+  },
+  "penghu2025": {
+   "citation": "University of Copenhagen on the Penghu 1 jaw (2025)",
+   "url": "https://archaeology.ku.dk/news/a-male-denisovan-jawbone-from-taiwan-expands-the-known-geographic-range-of-this-extinct-human-group/"
+  },
+  "elife-naledi": {
+   "citation": "eLife reviews of Berger et al. on Homo naledi burials",
+   "url": "https://elifesciences.org/reviewed-preprints/89125/reviews"
+  },
+  "bizmoune2021": {
+   "citation": "ScienceDaily on Bizmoune Cave beads, Science Advances (2021)",
+   "url": "https://sciencedaily.com/releases/2021/09/210922143305.htm"
+  },
+  "uib-blombos": {
+   "citation": "University of Bergen on the Blombos drawing, Nature (2018)",
+   "url": "https://uib.no/node/140042"
+  },
+  "blombos-beads": {
+   "citation": "ScienceDaily on Blombos shell beads (2004)",
+   "url": "https://www.sciencedaily.com/releases/2004/04/040416014444.htm"
+  },
+  "griffith2024": {
+   "citation": "Griffith University on Leang Karampuang, Nature (2024)",
+   "url": "https://news.griffith.edu.au/2024/07/04/cave-painting-in-indonesia-is-the-oldest-known-picture-story/"
+  },
+  "scu2026": {
+   "citation": "Southern Cross University on Oktaviana et al., Nature (2026)",
+   "url": "https://www.scu.edu.au/news/2026/worlds-oldest-rock-art-holds-clues-to-early-human-migration-to-australia/"
+  },
+  "sn-pasiega": {
+   "citation": "Science News, \"Dating questions challenge whether Neandertals drew Spanish cave art\"",
+   "url": "https://sciencenews.org/article/dating-questions-challenge-whether-neandertals-drew-spanish-cave-art"
+  },
+  "quiles2016": {
+   "citation": "Popular Archaeology on Quiles et al., Chauvet chronology, PNAS (2016)",
+   "url": "https://popular-archaeology.com/article/reconstructing-the-history-of-chauvet-pont-darc-cave/"
+  },
+  "brit-lascaux": {
+   "citation": "Encyclopaedia Britannica, \"Lascaux\"",
+   "url": "https://www.britannica.com/place/Lascaux"
+  },
+  "bm-lionman": {
+   "citation": "British Museum, \"Lion man: an Ice Age masterpiece\"",
+   "url": "https://www.britishmuseum.org/blog/lion-man-ice-age-masterpiece"
+  },
+  "higham2012": {
+   "citation": "Sci.News on Higham, Conard et al., Geissenklösterle, Journal of Human Evolution (2012)",
+   "url": "https://www.sci.news/archaeology/article00343.html"
+  },
+  "unesco-swabian": {
+   "citation": "UNESCO World Heritage, \"Caves and Ice Age Art in the Swabian Jura\"",
+   "url": "https://whc.unesco.org/en/list/1527/"
+  },
+  "mcbrearty2000": {
+   "citation": "McBrearty and Brooks, \"The revolution that wasn't\", Journal of Human Evolution 39 (2000)",
+   "url": "https://paleocore.org/references/17/"
+  },
+  "klein-mg": {
+   "citation": "Mail & Guardian on Richard Klein's \"mutant gene\" hypothesis (2003)",
+   "url": "https://mg.co.za/article/2003-02-17-mutant-gene-sparked-art-and-culture"
+  },
+  "clark2009": {
+   "citation": "Clark et al., \"The Last Glacial Maximum\", Science 325 (2009)",
+   "url": "https://pubs.usgs.gov/publication/70036965"
+  },
+  "lambeck2014": {
+   "citation": "Lambeck et al., \"Sea level and global ice volumes from the Last Glacial Maximum to the Holocene\", PNAS 111 (2014)",
+   "url": "https://core.ac.uk/download/156679185.pdf"
+  },
+  "brit-laurentide": {
+   "citation": "Encyclopaedia Britannica, \"Laurentide Ice Sheet\"",
+   "url": "https://www.britannica.com/place/Laurentide-Ice-Sheet"
+  },
+  "lowell1990": {
+   "citation": "Lowell et al., \"Radiocarbon analyses from Cincinnati, Ohio, and their implications for glacial stratigraphic interpretations\", Quaternary Research 34 (1990), USGS record",
+   "url": "https://pubs.usgs.gov/publication/70016298"
+  },
+  "roberts2018": {
+   "citation": "Roberts et al., \"Ice marginal dynamics of the last British-Irish Ice Sheet in the southern North Sea\", Quaternary Science Reviews 198 (2018)",
+   "url": "https://nora.nerc.ac.uk/521836/1/1-s2.0-S0277379117310612-main.pdf"
+  },
+  "brit-scandinavian": {
+   "citation": "Encyclopaedia Britannica, \"Scandinavian Ice Sheet\"",
+   "url": "https://www.britannica.com/print/article/526520"
+  },
+  "brit-beringia": {
+   "citation": "Encyclopaedia Britannica, \"Beringia\"",
+   "url": "https://www.britannica.com/place/Beringia"
+  },
+  "nps-beringia": {
+   "citation": "US National Park Service, \"Beringia\"",
+   "url": "https://www.nps.gov/bela/learn/beringia.htm"
+  },
+  "farmer2022": {
+   "citation": "Princeton University on Farmer, Pico et al., PNAS (2022)",
+   "url": "https://research.princeton.edu/news/bering-land-bridge-formed-surprisingly-late-during-last-ice-age"
+  },
+  "norman2023": {
+   "citation": "Phys.org on Norman et al., Quaternary Science Reviews (2023)",
+   "url": "https://phys.org/news/2023-12-people-vast-region-north-western-australiaand.pdf"
+  },
+  "walker2020": {
+   "citation": "Walker et al., \"A great wave: the Storegga tsunami and the end of Doggerland?\", Antiquity 94 (2020)",
+   "url": "https://biotech.law.lsu.edu/blog/a-great-wave-the-storegga-tsunami-and-the-end-of-doggerland.pdf"
+  },
+  "gilligan2024": {
+   "citation": "ScienceDaily on Gilligan et al., eyed needles, Science Advances (2024)",
+   "url": "https://sciencedaily.com/releases/2024/06/240628160129.htm"
+  },
+  "sikora2017": {
+   "citation": "University of Cambridge on Sikora et al., Sunghir genomes, Science (2017)",
+   "url": "https://www.cam.ac.uk/research/news/prehistoric-humans-are-likely-to-have-formed-mating-networks-to-avoid-inbreeding"
+  },
+  "pryor2020": {
+   "citation": "Science News on Pryor et al., Kostenki 11, Antiquity (2020)",
+   "url": "https://sciencenews.org/?p=3086126"
+  },
+  "owid-megafauna": {
+   "citation": "Our World in Data, \"Quaternary megafauna extinction\" (Hannah Ritchie)",
+   "url": "https://ourworldindata.org/quaternary-megafauna-extinction"
+  },
+  "monash2017": {
+   "citation": "Monash University on van der Kaars et al., Nature Communications (2017)",
+   "url": "https://monash.edu/news/articles/humans-caused-australias-megafaunal-extinction"
+  },
+  "am-diprotodon": {
+   "citation": "Australian Museum, \"Diprotodon optatum\"",
+   "url": "https://australian.museum/learn/australia-over-time/extinct-animals/diprotodon-optatum/"
+  },
+  "sn-moa": {
+   "citation": "Science News on Holdaway et al., Nature Communications (2014)",
+   "url": "https://www.sciencenews.org/blog/wild-things/few-humans-were-needed-wipe-out-new-zealands-moa"
+  },
+  "su-wrangel": {
+   "citation": "Stockholm University on Dehasque et al., Cell (2024)",
+   "url": "https://su.se/english/news/new-genetic-study-reveals-the-woolly-mammoths-journey-towards-extinction-1.746552"
+  },
+  "fordham2024": {
+   "citation": "Sci.News on Fordham et al., woolly rhinoceros, PNAS (2024)",
+   "url": "https://www.sci.news/paleontology/woolly-rhinoceros-extinction-12988.html"
+  },
+  "andermann2020": {
+   "citation": "University of Fribourg on Andermann et al., Science Advances (2020)",
+   "url": "https://www.unifr.ch/news/en/23844/humans-not-climate-have-driven-rapidly-rising-mammal-extinction-rate/?cat=5"
+  },
+  "svenning2024": {
+   "citation": "Sci.News on Svenning et al., Cambridge Prisms: Extinction (2024)",
+   "url": "https://www.sci.news/paleontology/humans-megafauna-extinctions-13068.html"
+  },
+  "wang2021": {
+   "citation": "St John's College, Cambridge, on Wang et al., Nature (2021)",
+   "url": "https://www.joh.cam.ac.uk/node/11099"
+  },
+  "seersholm2020": {
+   "citation": "Seersholm et al., \"Rapid range shifts and megafaunal extinctions associated with late Pleistocene climate change\", Nature Communications (2020)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7265304/"
+  },
+  "rasmussen2006": {
+   "citation": "Rasmussen et al., \"A new Greenland ice core chronology for the last glacial termination\", Journal of Geophysical Research (2006)",
+   "url": "https://data.zhenzhi.com/details/1/859659414/1/6"
+  },
+  "walker2009": {
+   "citation": "Walker et al., \"Formal definition and dating of the GSSP for the base of the Holocene\", Journal of Quaternary Science 24 (2009)",
+   "url": "https://timescalefoundation.org/references/HoloceneGSSP_JQuatSci090.pdf"
+  },
+  "grosman2008": {
+   "citation": "Grosman, Munro and Belfer-Cohen, \"A 12,000-year-old Shaman burial from the southern Levant\", PNAS (2008)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2584673"
+  },
+  "harvard-eynan": {
+   "citation": "Harvard University, White-Levy Program, \"Natufian site of Eynan ('Ain Mallaha)\"",
+   "url": "https://whitelevy.fas.harvard.edu/natufian-site-eynan-ain-mallaha-galilee-israel-excavations-1996-2005"
+  },
+  "davis1978": {
+   "citation": "Davis and Valla, \"Evidence for domestication of the dog 12,000 years ago in the Natufian of Israel\", Nature 276 (1978)",
+   "url": "https://www.nature.com/articles/276608a0"
+  },
+  "arranz2018": {
+   "citation": "Arranz-Otaegui et al., \"Archaeobotanical evidence reveals the origins of bread 14,400 years ago\", PNAS (2018)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6077754"
+  },
+  "stanford-beer": {
+   "citation": "Stanford University on Liu et al., Raqefet Cave, Journal of Archaeological Science: Reports (2018)",
+   "url": "https://news.stanford.edu/stories/2018/09/crafting-beer-lead-cereal-cultivation"
+  },
+  "haifa-beer": {
+   "citation": "University of Haifa, reply in the Raqefet beer debate (2019)",
+   "url": "https://sdg.haifa.ac.il/?p=11564"
+  },
+  "hillman2001": {
+   "citation": "Hillman et al., \"New evidence of Lateglacial cereal cultivation at Abu Hureyra on the Euphrates\", The Holocene (2001)",
+   "url": "https://durham-repository.worktribe.com/output/1532728/new-evidence-of-late-glacial-cereal-cultivation-at-abu-hureyra-on-the-euphrates"
+  },
+  "roberts2017": {
+   "citation": "Roberts et al., \"The Late Natufian and the Younger Dryas\", Quaternary Science Reviews (2017)",
+   "url": "https://core.ac.uk/download/131015449.pdf"
+  },
+  "unesco-gobekli": {
+   "citation": "UNESCO World Heritage, \"Göbekli Tepe\"",
+   "url": "https://whc.unesco.org/en/list/1572/"
+  },
+  "clare2020": {
+   "citation": "Lee Clare, \"Göbekli Tepe, Turkey: a brief summary of research at a new World Heritage Site (2015-2019)\", DAI e-Forschungsberichte (2020)",
+   "url": "https://publications.dainst.org/journals/efb/article/view/2596/7095"
+  },
+  "newsweek2010": {
+   "citation": "Newsweek, \"History in the Remaking\" (2010), on Klaus Schmidt",
+   "url": "https://newsweek.com/turkey-archeological-dig-reshaping-human-history-75101"
+  },
+  "smithsonian-gobekli": {
+   "citation": "Smithsonian Magazine, \"Göbekli Tepe: The World's First Temple?\"",
+   "url": "https://www.smithsonianmag.com/history/gobekli-tepe-the-worlds-first-temple-83613665/"
+  },
+  "banning2011": {
+   "citation": "ScienceDaily on E. B. Banning, Current Anthropology 52 (2011)",
+   "url": "https://sciencedaily.com/releases/2011/10/111006162535.htm"
+  },
+  "dietrich2019": {
+   "citation": "Dietrich et al., \"Cereal processing at Early Neolithic Göbekli Tepe\", PLOS ONE (2019)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214"
+  },
+  "karul2021": {
+   "citation": "Necmi Karul, \"Buried Buildings at Pre-Pottery Neolithic Karahantepe\" (2021)",
+   "url": "https://dergipark.org.tr/en/pub/arkeolojiveetnografya/issue/63476/909296"
+  },
+  "aa-karahan2025": {
+   "citation": "Anatolian Archaeology, \"Daily Life Unearthed at Karahantepe: Over 30 Neolithic Dwellings Discovered\" (17 October 2025)",
+   "url": "https://www.anatolianarchaeology.net/?p=8148"
+  },
+  "arkeonews-tastepeler": {
+   "citation": "Arkeonews, \"Ancient settlements that challenge traditional thinking: Karahantepe and Taş Tepeler\" (2021)",
+   "url": "https://arkeonews.net/ancient-settlements-that-challenge-traditional-thinking-karahantepe-and-tas-tepeler/"
+  },
+  "smithsonian-karahan": {
+   "citation": "Smithsonian Magazine on the Karahan Tepe face pillar (2025)",
+   "url": "https://www.smithsonianmag.com/smart-news/a-human-face-was-carved-into-this-stone-pillar-in-turkey-11000-years-ago-180987489/"
+  },
+  "dai-astro": {
+   "citation": "German Archaeological Institute, Tepe Telegrams, on astronomical claims",
+   "url": "https://www.dainst.blog/the-tepe-telegrams/tag/astronomy/"
+  },
+  "fuller2007": {
+   "citation": "Dorian Fuller, \"Contrasting patterns in crop domestication and domestication rates\", Annals of Botany 100 (2007)",
+   "url": "https://ora.ox.ac.uk/objects/uuid:33c944eb-5c9b-44da-ba60-173b8c59a66f"
+  },
+  "tanno2006": {
+   "citation": "Science News on Tanno and Willcox, Science (2006)",
+   "url": "https://www.sciencenews.org/?p=656"
+  },
+  "fuller-reply": {
+   "citation": "Fuller et al., reply to Abbo and Gopher on protracted domestication",
+   "url": "https://discovery.ucl.ac.uk/10158703/1/Fuller_Reply%20to%20Abbo_v3.3.pdf"
+  },
+  "abbo2012": {
+   "citation": "Abbo, Lev-Yadun and Gopher, \"Plant domestication and crop evolution in the Near East\", Critical Reviews in Plant Sciences (2012)",
+   "url": "https://cris.huji.ac.il/en/publications/plant-domestication-and-crop-evolution-in-the-near-east-on-events/"
+  },
+  "weiss2011": {
+   "citation": "Weiss and Zohary, \"The Neolithic Southwest Asian Founder Crops\", Current Anthropology (2011)",
+   "url": "https://cris.biu.ac.il/en/publications/the-neolithic-southwest-asian-founder-crops/"
+  },
+  "arranz2023": {
+   "citation": "Arranz-Otaegui and Roe, \"Revisiting the concept of the 'Neolithic Founder Crops'\", Vegetation History and Archaeobotany 32 (2023)",
+   "url": "https://addi.ehu.es/handle/10810/67728?show=full"
+  },
+  "heun-arch": {
+   "citation": "Archaeology magazine on Heun et al., einkorn, Science (1997)",
+   "url": "https://archive.archaeology.org/9801/newsbriefs/einkorn.html"
+  },
+  "daly2021": {
+   "citation": "Trinity College Dublin on Daly et al., goats, PNAS (2021)",
+   "url": "https://www.tcd.ie/news_events/articles/10000-year-old-dna-pens-the-first-tales-of-the-earliest-domesticated-goats/"
+  },
+  "zeder2008": {
+   "citation": "History News Network on Melinda Zeder, PNAS (2008)",
+   "url": "https://www.historynewsnetwork.org/article/how-the-first-farmers-colonized-the-mediterranean"
+  },
+  "kumar2003": {
+   "citation": "Kumar et al., \"Admixture analysis of South Asian cattle\", Heredity 91 (2003)",
+   "url": "https://www.nature.com/articles/6800277"
+  },
+  "bollongino2012": {
+   "citation": "ScienceDaily on Bollongino et al., cattle, Molecular Biology and Evolution (2012)",
+   "url": "https://www.sciencedaily.com/releases/2012/03/120327124243.htm"
+  },
+  "frantz2019": {
+   "citation": "Frantz et al., \"Ancient pigs reveal a near-complete genomic turnover\", PNAS 116 (2019)",
+   "url": "https://refubium.fu-berlin.de/handle/fub188/25533?show=full"
+  },
+  "oxford-dogs2026": {
+   "citation": "University of Oxford, \"Oldest genetic evidence of domestic dogs identified in Europe and Türkiye\" (2026)",
+   "url": "https://www.ox.ac.uk/news/2026-03-25-oldest-genetic-evidence-domestic-dogs-identified-europe-and-t-rkiye"
+  },
+  "natasia-dogs2026": {
+   "citation": "Nature Asia press release on the 2026 Nature papers on ancient dog genomes",
+   "url": "https://www.natureasia.com/en/info/press-releases/detail/9280"
+  },
+  "bergstrom2022": {
+   "citation": "Bergström et al., \"Grey wolf genomic history reveals a dual ancestry of dogs\", Nature 607 (2022)",
+   "url": "https://ueaeprints.uea.ac.uk/id/eprint/93420"
+  },
+  "natgeo-cat": {
+   "citation": "National Geographic on Vigne et al., the Cyprus cat burial, Science (2004)",
+   "url": "https://www.nationalgeographic.com/animals/article/oldest-known-pet-cat-9500-year-old-burial-found-on-cyprus"
+  },
+  "snsb-cats": {
+   "citation": "SNSB on De Martino et al., Science 390 (2025)",
+   "url": "https://snsb.de/en/ausbreitung-hauskatze/"
+  },
+  "unesco-jericho": {
+   "citation": "UNESCO World Heritage, \"Ancient Jericho/Tell es-Sultan\"",
+   "url": "https://whc.unesco.org/en/list/1687/"
+  },
+  "sd-jericho": {
+   "citation": "ScienceDaily on Liran and Barkai, \"Casting a shadow on Neolithic Jericho\", Antiquity (2011)",
+   "url": "https://sciencedaily.com/releases/2011/02/110217125205.htm"
+  },
+  "yuncu2025": {
+   "citation": "Yüncü et al., \"Female lineages and changing kinship patterns in Neolithic Çatalhöyük\", Science (2025)",
+   "url": "https://research.hub.ku.edu.tr/entities/publication/1a9819a8-c469-4fc9-aa73-50876353a431/full"
+  },
+  "bonn-catal": {
+   "citation": "University of Bonn, \"Was the Neolithic settlement at Çatalhöyük a matriarchate?\" (2025)",
+   "url": "https://www.uni-bonn.de/en/news/was-the-neolithic-settlement-at-catalhoyuk-a-matriarchate"
+  },
+  "catal-guide": {
+   "citation": "Çatalhöyük Research Project, Çatalhöyük Guidebook (Koç University)",
+   "url": "https://catalhoyuk.ku.edu.tr/sites/default/files/Catalhoyuk-Guidebook-ENGLISH.pdf"
+  },
+  "osu-larsen": {
+   "citation": "Ohio State University on Larsen et al., PNAS (2019)",
+   "url": "https://news.osu.edu/9000-years-ago-a-community-with-modern-urban-problems/"
+  },
+  "stanford-hodder": {
+   "citation": "Stanford University, Ian Hodder on Çatalhöyük (2015)",
+   "url": "https://news.stanford.edu/stories/2015/08/hodder-neolithic-dig-080715"
+  },
+  "dsb-aingh": {
+   "citation": "Denise Schmandt-Besserat, \"'Ain Ghazal 'Monumental' Figures\" (University of Texas)",
+   "url": "https://sites.utexas.edu/dsb/files/2018/07/Monumental-Figures.pdf"
+  },
+  "brit-aingh": {
+   "citation": "Encyclopaedia Britannica, \"'Ain Ghazal\"",
+   "url": "https://www.britannica.com/place/Ain-Ghazal"
+  },
+  "si-aingh": {
+   "citation": "Smithsonian Museum Conservation Institute, \"'Ain Ghazal Statues\"",
+   "url": "https://mci.si.edu/ain-ghazal-statues"
+  },
+  "zielhofer2012": {
+   "citation": "Zielhofer et al., \"The decline of the early Neolithic population center of 'Ain Ghazal\", Quaternary Research (2012)",
+   "url": "https://www.cambridge.org/core/journals/quaternary-research/article/decline-of-the-early-neolithic-population-center-of-ain-ghazal-and-corresponding-earthsurface-processes-jordan-rift-valley/A85EB4EEFBB2E10F9C11DD6161813B9E"
+  },
+  "bocquet2011": {
+   "citation": "Jean-Pierre Bocquet-Appel, \"The Agricultural Demographic Transition during and after the Agriculture Inventions\", Current Anthropology 52 (2011)",
+   "url": "https://www.journals.uchicago.edu/doi/full/10.1086/659243"
+  },
+  "mummert2011": {
+   "citation": "Mummert et al., \"Stature and robusticity during the agricultural transition\", Economics & Human Biology 9 (2011)",
+   "url": "https://econpapers.repec.org/RePEc:eee:ehbiol:v:9:y:2011:i:3:p:284-301"
+  },
+  "stock2023": {
+   "citation": "Stock et al., \"Long-term trends in human body size track regional variation in subsistence transitions\", PNAS (2023)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9942808"
+  },
+  "diamond1987": {
+   "citation": "Jared Diamond, \"The Worst Mistake in the History of the Human Race\", Discover (1987)",
+   "url": "https://www.discovermagazine.com/the-worst-mistake-in-the-history-of-the-human-race-12157"
+  },
+  "sikora2025": {
+   "citation": "University of Cambridge on Sikora et al., Nature (2025)",
+   "url": "https://www.cam.ac.uk/research/news/large-scale-dna-study-maps-37000-years-of-human-disease-history"
+  },
+  "richerson2001": {
+   "citation": "Richerson, Boyd and Bettinger, \"Was agriculture impossible during the Pleistocene but mandatory during the Holocene?\", American Antiquity 66 (2001)",
+   "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0002731600042566"
+  },
+  "brit-agri": {
+   "citation": "Encyclopaedia Britannica, \"How agriculture and domestication began\"",
+   "url": "https://www.britannica.com/topic/agriculture/How-agriculture-and-domestication-began"
+  },
+  "hayden2009": {
+   "citation": "Brian Hayden, \"The Proof Is in the Pudding: Feasting and the Origins of Domestication\", Current Anthropology 50 (2009)",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/605110"
+  },
+  "bowles2013": {
+   "citation": "Phys.org on Bowles and Choi, PNAS (2013)",
+   "url": "https://phys.org/news/2013-05-simulations-early-farming-caught-due.html"
+  },
+  "hofmanova2016": {
+   "citation": "University of Mainz on Hofmanová et al., PNAS (2016)",
+   "url": "https://press.uni-mainz.de/early-farmers-from-across-europe-were-direct-descendants-of-aegeans"
+  },
+  "haak2015": {
+   "citation": "Haak et al., \"Massive migration from the steppe was a source for Indo-European languages in Europe\", Nature (2015)",
+   "url": "https://www.nature.com/articles/nature14317"
+  },
+  "allentoft2024": {
+   "citation": "Allentoft et al., \"Population genomics of post-glacial western Eurasia\", Nature (2024)",
+   "url": "https://www.nature.com/articles/s41586-023-06865-0"
+  },
+  "rivollat2020": {
+   "citation": "ScienceDaily on Rivollat et al., Science Advances (2020)",
+   "url": "https://sciencedaily.com/releases/2020/05/200529150654.htm"
+  },
+  "brit-lbk": {
+   "citation": "Encyclopaedia Britannica, \"LBK culture\"",
+   "url": "https://www.britannica.com/topic/LBK-culture"
+  },
+  "brace2019": {
+   "citation": "Brace et al., \"Ancient genomes indicate population replacement in Early Neolithic Britain\", Nature Ecology & Evolution (2019)",
+   "url": "https://discovery.ucl.ac.uk/id/eprint/10073386/"
+  },
+  "pinhasi2005": {
+   "citation": "Pinhasi, Fort and Ammerman, \"Tracing the origin and spread of agriculture in Europe\", PLoS Biology (2005)",
+   "url": "https://doaj.org/article/f8a131c290cf4139a63eb7ec37809a3e"
+  },
+  "fortes2024": {
+   "citation": "Fortes-Lima et al., \"The genetic legacy of the expansion of Bantu-speaking peoples in Africa\", Nature (2024)",
+   "url": "https://ideas.repec.org/a/nat/nature/v625y2024i7995d10.1038_s41586-023-06770-6.html"
+  },
+  "almeida2025": {
+   "citation": "Almeida et al., Austronesian expansion, Scientific Reports (2025)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12550076"
+  },
+  "radivojevic2010": {
+   "citation": "Radivojević et al., \"On the origins of extractive metallurgy\", Journal of Archaeological Science 37 (2010)",
+   "url": "https://www.academia.edu/1957412"
+  },
+  "varna-city": {
+   "citation": "Varna municipality, \"Varna: the oldest gold treasure in the world\"",
+   "url": "https://visit.varna.bg/en/varna_oldest_gold_treasure_in_the_world.html"
+  },
+  "higham2007": {
+   "citation": "Higham et al., \"New perspectives on the Varna cemetery\", Antiquity (2007)",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/new-perspectives-on-the-varna-cemetery-bulgaria-ams-dates-and-social-implications/0D02E895D9732774C4ED192C4D199417"
+  },
+  "penn-otzi": {
+   "citation": "Penn Museum, Expedition magazine, on Ötzi",
+   "url": "https://www.penn.museum/sites/expedition/?p=23809"
+  },
+  "iceman": {
+   "citation": "South Tyrol Museum of Archaeology, \"The Iceman\"",
+   "url": "https://www.iceman.it/en/the-iceman/"
+  },
+  "iceman-dna": {
+   "citation": "South Tyrol Museum of Archaeology on Ötzi's genome, Cell Genomics (2023)",
+   "url": "https://www.iceman.it/en/pr_dna_oetzi_2023/"
+  },
+  "mgml-wheel": {
+   "citation": "City Museum of Ljubljana on the oldest wooden wheel",
+   "url": "https://mgml.si/en/city-museum/news/667/replica-of-the-oldest-wooden-wheel-with-an-axle-for-the-winner-of-the-26th-tour-of-slovenia/"
+  },
+  "brit-wheel": {
+   "citation": "Encyclopaedia Britannica, \"Wheel\"",
+   "url": "https://www.britannica.com/technology/wheel"
+  },
+  "gatech-wheel": {
+   "citation": "Georgia Tech on Alacoque, Bulliet and James, Royal Society Open Science (2024)",
+   "url": "https://ae.gatech.edu/news/2024/11/engineering-origin-wheel"
+  },
+  "cnrs-botai": {
+   "citation": "CNRS on Gaunitz et al., Science (2018)",
+   "url": "https://www.cnrs.fr/en/unsaddling-old-theory-origin-horses"
+  },
+  "librado2021": {
+   "citation": "Librado et al., \"The origins and spread of domestic horses from the Western Eurasian steppes\", Nature (2021)",
+   "url": "https://www.nature.com/articles/s41586-021-04018-9"
+  },
+  "librado2024": {
+   "citation": "Sci.News on Librado et al., Nature (2024)",
+   "url": "https://www.sci.news/genetics/modern-horse-domestication-13000.html"
+  },
+  "lazaridis2025": {
+   "citation": "Lazaridis et al., \"The genetic origin of the Indo-Europeans\", Nature (2025)",
+   "url": "https://ideas.repec.org/a/nat/nature/v639y2025i8053d10.1038_s41586-024-08531-5.html"
+  },
+  "bouckaert2012": {
+   "citation": "ScienceDaily on Bouckaert et al., Science (2012)",
+   "url": "https://www.sciencedaily.com/releases/2012/08/120823175406.htm"
+  },
+  "heggarty2023": {
+   "citation": "University of Jena on Heggarty et al., Science (2023)",
+   "url": "https://www.uni-jena.de/en/230728-indogermanistik"
+  },
+  "met-uruk2": {
+   "citation": "The Met, \"Uruk: The First City\"",
+   "url": "https://www.metmuseum.org/toah/hd/uruk/hd_uruk.html"
+  }
+ },
+ "claims": {
+  "c-ever-lived": {
+   "text": "The Population Reference Bureau estimates that about 117 billion members of our species have ever been born.",
+   "label": "approx",
+   "sources": [
+    "prb"
+   ],
+   "show": true,
+   "note": "A modelled figure, not a count: it starts from two people in 190,000 BCE and assumes steady growth. The Bureau itself warns that almost nothing is known about population before 1 CE."
+  },
+  "c-births-before-farming": {
+   "text": "By the same estimate, only about 9 billion of those births came before 8000 BCE, about 8 percent of the total, although that period is about 95 percent of the time span.",
+   "label": "approx",
+   "sources": [
+    "prb"
+   ],
+   "show": true,
+   "note": "The 8 percent and 95 percent are arithmetic on the Bureau's table (8.99 of 117 billion births; 182,000 of about 192,000 years). People who still foraged after 8000 BCE would raise the forager share somewhat."
+  },
+  "c-hadza": {
+   "text": "Hadza camps in Tanzania average about 30 people and move every few weeks; meat supplies roughly a quarter to a third of calories.",
+   "label": "approx",
+   "sources": [
+    "hgp-hadza",
+    "konner2011"
+   ],
+   "show": false,
+   "note": "Camp size changes with the season; the Hadza number about 1,000 people today."
+  },
+  "c-coresidence": {
+   "text": "In a worldwide sample of 32 forager societies, most members of a band were not close genetic relatives.",
+   "label": "consensus",
+   "sources": [
+    "hill2011"
+   ],
+   "show": false
+  },
+  "c-networks": {
+   "text": "Hadza friendship and sharing networks have the same structure as modern social networks.",
+   "label": "consensus",
+   "sources": [
+    "apicella2012"
+   ],
+   "show": false
+  },
+  "c-women-hunt": {
+   "text": "A 2023 study reported that women hunt in 79 percent of 63 recent forager societies; a 2024 rebuttal found coding errors and argued that labour is still strongly divided by sex.",
+   "label": "debated",
+   "sources": [
+    "anderson2023",
+    "venkataraman2024"
+   ],
+   "show": true,
+   "note": "Anderson and colleagues say 'man the hunter' is a myth. Venkataraman and colleagues agree that women sometimes hunt but say the evidence for a gendered division of labour stands."
+  },
+  "c-affluent": {
+   "text": "Marshall Sahlins called foragers 'the original affluent society' (1966), meeting modest wants with a few hours of work a day; critics showed that counting food processing, tool-making and housework raises the !Kung working week to about 40-45 hours.",
+   "label": "debated",
+   "sources": [
+    "kaplan2000",
+    "dyble2019"
+   ],
+   "show": true,
+   "note": "David Kaplan (2000) also notes the original Arnhem Land study lasted two weeks. On the other side, a 2019 study of the Agta of the Philippines found that adults who farm work about 30 hours a week, against about 20 for those who only forage."
+  },
+  "c-analogy": {
+   "text": "Recent foragers are not living fossils: they have long been shaped by contact with farmers, states and colonial powers, so they are imperfect models of the deep past.",
+   "label": "consensus",
+   "sources": [
+    "lee-hg",
+    "venkataraman2024"
+   ],
+   "show": false
+  },
+  "c-species-dates": {
+   "text": "Smithsonian date ranges: Australopithecus afarensis 3.85-2.95 million years ago; Homo habilis 2.4-1.4 million; Homo erectus 1.89 million-110,000 years ago; Homo heidelbergensis 700,000-200,000; Neanderthals 400,000-40,000; Homo naledi 335,000-236,000; Homo floresiensis 100,000-50,000; Homo sapiens from about 300,000 years ago.",
+   "label": "approx",
+   "sources": [
+    "si-afarensis",
+    "si-habilis",
+    "si-erectus",
+    "si-heidelbergensis",
+    "si-neanderthal",
+    "si-naledi",
+    "si-floresiensis",
+    "si-sapiens"
+   ],
+   "show": true,
+   "note": "Ranges are set by the oldest and youngest fossils found so far and shift with new finds; the Smithsonian's own pages sometimes give slightly different end dates."
+  },
+  "c-denisovan-dates": {
+   "text": "Denisovans lived from at least several hundred thousand years ago until perhaps 30,000 years ago.",
+   "label": "approx",
+   "sources": [
+    "am-denisovans",
+    "cas-yunxian"
+   ],
+   "show": true,
+   "note": "Sources give a start of at least 400,000, perhaps 500,000, years ago. Denisovans are known mostly from DNA and a handful of bones."
+  },
+  "c-coexist": {
+   "text": "Around 50,000 years ago at least four kinds of human were alive at once: Homo sapiens, Neanderthals, Denisovans and Homo floresiensis.",
+   "label": "approx",
+   "sources": [
+    "si-neanderthal",
+    "si-floresiensis",
+    "am-denisovans",
+    "si-sapiens"
+   ],
+   "show": true,
+   "note": "This follows from the date ranges; Homo floresiensis may have died out around that time."
+  },
+  "c-lomekwi": {
+   "text": "Stone tools from Lomekwi 3 in Kenya are about 3.3 million years old, older than any known fossil of the genus Homo.",
+   "label": "debated",
+   "sources": [
+    "harmand2015"
+   ],
+   "show": true,
+   "note": "The date and the tools are widely cited; some researchers have questioned how securely the tools are tied to the dated layers."
+  },
+  "c-oldowan": {
+   "text": "The oldest known Oldowan tools, at Nyayanga in Kenya, are about 2.9 million years old and were found with teeth of Paranthropus, a non-Homo hominin.",
+   "label": "debated",
+   "sources": [
+    "plummer2023"
+   ],
+   "show": true,
+   "note": "The find reopens the question of whether only Homo made Oldowan tools."
+  },
+  "c-bushy": {
+   "text": "Finds published in 2025 show early Homo and at least one species of Australopithecus living in the same part of Ethiopia about 2.6-2.8 million years ago.",
+   "label": "approx",
+   "sources": [
+    "villmoare2026"
+   ],
+   "show": true,
+   "note": "The finds are teeth; how many species they represent is still being worked out."
+  },
+  "c-fire": {
+   "text": "People were using fire by about a million years ago, and the earliest evidence of making fire, with flint and iron pyrite, is about 400,000 years old.",
+   "label": "debated",
+   "sources": [
+    "nature-fire",
+    "ashton2025"
+   ],
+   "show": true,
+   "note": "Burned material at Wonderwerk Cave in South Africa dates to about 1 million years ago. Some researchers argue that occasional use is not the same as habitual control; the 2025 Barnham study in England is the first to show fire being made."
+  },
+  "c-neanderthal-life": {
+   "text": "Neanderthals buried their dead, made sophisticated stone tools, controlled fire and worked hides.",
+   "label": "consensus",
+   "sources": [
+    "si-neanderthal"
+   ],
+   "show": false
+  },
+  "c-denisovans": {
+   "text": "Denisovans are known mainly from DNA: a finger bone, teeth and skull fragments from Siberia, a jaw from the Tibetan Plateau and, since 2025, a jaw from the Taiwan Strait; Tibetans, Melanesians and Aboriginal Australians carry their DNA.",
+   "label": "consensus",
+   "sources": [
+    "am-denisovans",
+    "penghu2025"
+   ],
+   "show": false
+  },
+  "c-harbin": {
+   "text": "In 2025 ancient proteins and mitochondrial DNA linked the Harbin skull from northeast China, at least 146,000 years old, to the Denisovans, giving the group its first known face.",
+   "label": "debated",
+   "sources": [
+    "harbin2025"
+   ],
+   "show": true,
+   "note": "Most specialists accepted the link; the scientist who first named the skull Homo longi suspects the DNA is contaminated and wants more evidence."
+  },
+  "c-naledi": {
+   "text": "Claims that Homo naledi deliberately buried its dead and engraved cave walls were judged incomplete by reviewers.",
+   "label": "debated",
+   "sources": [
+    "elife-naledi"
+   ],
+   "show": true,
+   "note": "Lee Berger's team argues for burial; reviewers cited weak evidence about how the bodies came to lie where they were found."
+  },
+  "c-bizmoune": {
+   "text": "Shell beads from Bizmoune Cave in Morocco, 142,000-150,000 years old, are the oldest known ornaments.",
+   "label": "approx",
+   "sources": [
+    "bizmoune2021"
+   ],
+   "show": false
+  },
+  "c-blombos": {
+   "text": "At Blombos Cave in South Africa, people engraved patterns on ochre about 75,000 years ago and drew a crosshatched pattern on stone about 73,000 years ago.",
+   "label": "approx",
+   "sources": [
+    "uib-blombos",
+    "blombos-beads"
+   ],
+   "show": true,
+   "note": "That the patterns were symbols is a widely held interpretation, not a proof."
+  },
+  "c-sulawesi": {
+   "text": "A painted hand stencil in Liang Metanduno cave, on Muna island off Sulawesi, is at least 67,800 years old, the oldest reliably dated rock art; a scene at Leang Karampuang in southwest Sulawesi of human figures and a pig is at least 51,200 years old.",
+   "label": "approx",
+   "sources": [
+    "scu2026",
+    "griffith2024"
+   ],
+   "show": true,
+   "note": "Both are minimum ages from uranium-series dating of mineral crusts over the paint. The hand stencil was published in January 2026."
+  },
+  "c-pasiega": {
+   "text": "Dates of about 65,000 years for paintings in Spanish caves such as La Pasiega would make them the work of Neanderthals.",
+   "label": "debated",
+   "sources": [
+    "sn-pasiega"
+   ],
+   "show": true,
+   "note": "Critics say the uranium-thorium method can give ages that are too old if uranium leached out of the crusts; the original team says the dates grow steadily older toward the paint, which argues against that."
+  },
+  "c-chauvet": {
+   "text": "Chauvet Cave in France was used in two phases, about 37,000-33,500 and 31,000-28,000 years ago.",
+   "label": "approx",
+   "sources": [
+    "quiles2016"
+   ],
+   "show": false
+  },
+  "c-lascaux": {
+   "text": "The paintings of Lascaux are usually dated to about 17,000 years ago.",
+   "label": "approx",
+   "sources": [
+    "brit-lascaux"
+   ],
+   "show": true,
+   "note": "Britannica notes that Lascaux is poorly dated and its art may span a longer period."
+  },
+  "c-swabian": {
+   "text": "In the Swabian Jura of Germany, the ivory Lion-man (about 40,000 years old) and flutes of bird bone and ivory (about 42,000-43,000 years old) are among the oldest known figurative carvings and musical instruments.",
+   "label": "approx",
+   "sources": [
+    "bm-lionman",
+    "higham2012",
+    "unesco-swabian"
+   ],
+   "show": false
+  },
+  "c-modernity": {
+   "text": "Some scholars argued that modern behaviour appeared suddenly about 50,000 years ago; others that it was assembled gradually in Africa over the previous 250,000 years.",
+   "label": "debated",
+   "sources": [
+    "mcbrearty2000",
+    "klein-mg"
+   ],
+   "show": true,
+   "note": "Richard Klein proposed a sudden change, possibly genetic; Sally McBrearty and Alison Brooks argued for a gradual African origin. Beads and engraved ochre from 150,000-73,000 years ago have strengthened the gradual view."
+  },
+  "c-lgm": {
+   "text": "The ice sheets were at their largest between about 26,500 and 19,000-20,000 years ago, the Last Glacial Maximum.",
+   "label": "approx",
+   "sources": [
+    "clark2009"
+   ],
+   "show": false
+  },
+  "c-sealevel": {
+   "text": "At the Last Glacial Maximum, sea level was about 120-134 metres lower than today.",
+   "label": "approx",
+   "sources": [
+    "lambeck2014",
+    "brit-beringia"
+   ],
+   "show": true,
+   "note": "Lambeck and colleagues estimate a low of about 134 m between 29,000 and 21,000 years ago; Britannica gives about 120 m."
+  },
+  "c-sealevel-rise": {
+   "text": "Between about 16,500 and 8,200 years ago, sea level rose by roughly 12 metres every thousand years.",
+   "label": "approx",
+   "sources": [
+    "lambeck2014"
+   ],
+   "show": false
+  },
+  "c-laurentide": {
+   "text": "The Laurentide ice sheet covered more than 13 million km² of North America, was up to about 3 km thick; at the Last Glacial Maximum its southern edge lay near 39° N, and earlier glaciations reached about 37° N.",
+   "label": "approx",
+   "sources": [
+    "brit-laurentide",
+    "lowell1990"
+   ],
+   "show": false
+  },
+  "c-scandinavian": {
+   "text": "The Scandinavian ice sheet covered about 6.6 million km² and reached into Britain, Germany and Poland; in the North Sea it merged with the British-Irish ice sheet, by most reconstructions between about 30,000 and 24,000 years ago.",
+   "label": "approx",
+   "sources": [
+    "brit-scandinavian",
+    "roberts2018"
+   ],
+   "show": false
+  },
+  "c-beringia": {
+   "text": "At its largest, about 20,000 years ago, Beringia joined Siberia and Alaska with land about 1,600 km wide from north to south.",
+   "label": "approx",
+   "sources": [
+    "brit-beringia",
+    "nps-beringia"
+   ],
+   "show": false
+  },
+  "c-beringia-late": {
+   "text": "A 2022 study argued that the Bering land bridge emerged only about 35,700 years ago, not about 70,000 as had been thought.",
+   "label": "debated",
+   "sources": [
+    "farmer2022"
+   ],
+   "show": true,
+   "note": "A new reconstruction of sea level; it fits genetic estimates that the ancestors of Native Americans split from Asian populations about 36,000 years ago."
+  },
+  "c-sahul-shelf": {
+   "text": "Low seas exposed a shelf of about 390,000 km² off northwest Australia; other exposed shelves joined Australia to New Guinea and Tasmania as one continent, Sahul.",
+   "label": "approx",
+   "sources": [
+    "norman2023"
+   ],
+   "show": false
+  },
+  "c-doggerland": {
+   "text": "Doggerland, the plain that joined Britain to Europe, shrank as the seas rose; by about 8,150 years ago, when the Storegga tsunami struck, it was a small island, and it was gone by about 7,000 years ago.",
+   "label": "approx",
+   "sources": [
+    "walker2020"
+   ],
+   "show": true,
+   "note": "Walker and colleagues argue that rising sea level, not the tsunami, was what finally ended it."
+  },
+  "c-needles": {
+   "text": "Eyed needles appear about 40,000 years ago in Siberia, perhaps evidence of layered or decorated clothing.",
+   "label": "approx",
+   "sources": [
+    "gilligan2024"
+   ],
+   "show": false
+  },
+  "c-sunghir": {
+   "text": "At Sunghir in Russia, about 34,000 years ago, people were buried with thousands of beads; their genomes show they were not close relatives, which suggests wide mating networks.",
+   "label": "approx",
+   "sources": [
+    "sikora2017"
+   ],
+   "show": false
+  },
+  "c-kostenki": {
+   "text": "At Kostenki 11 in Russia, about 25,000 years ago, people built a ring 12.5 m across from the bones of at least 60 mammoths.",
+   "label": "debated",
+   "sources": [
+    "pryor2020"
+   ],
+   "show": true,
+   "note": "Its use is debated: a house, a store or a ritual place. Light traces of activity argue against a long-term dwelling."
+  },
+  "c-genera-lost": {
+   "text": "Since about 50,000 years ago, Australia lost about 88 percent of its genera of large mammals, South America 83 percent, North America 72, Eurasia 35 and Africa 21.",
+   "label": "approx",
+   "sources": [
+    "owid-megafauna"
+   ],
+   "show": true,
+   "note": "Counts of genera, not species, from Barnosky (2008) and Koch and Barnosky (2006)."
+  },
+  "c-extinction-timing": {
+   "text": "The losses came at different times on different continents: in Australia mostly before about 40,000 years ago, in North America mostly between 13,500 and 11,500 years ago, and in South America about 12,000-8,000 years ago.",
+   "label": "approx",
+   "sources": [
+    "owid-megafauna"
+   ],
+   "show": true,
+   "note": "South American dates are the least well worked out."
+  },
+  "c-sw-australia": {
+   "text": "In southwest Australia the megafauna died out about 45,000-43,000 years ago, within about 2,000 years of people arriving and without a matching change in climate or fire.",
+   "label": "debated",
+   "sources": [
+    "monash2017"
+   ],
+   "show": true,
+   "note": "Evidence from a single marine core; other studies argue that some giants, such as Diprotodon, survived for many thousands of years alongside people."
+  },
+  "c-diprotodon": {
+   "text": "Diprotodon, a marsupial of up to about 2,700 kg, probably lived alongside Aboriginal people for more than 20,000 years before dying out about 25,000 years ago.",
+   "label": "debated",
+   "sources": [
+    "am-diprotodon"
+   ],
+   "show": true,
+   "note": "The cause is unclear: fire, hunting of young animals and drought have all been proposed."
+  },
+  "c-moa": {
+   "text": "In New Zealand, where people arrived around 1300, all moa were gone within about 120 years, killed by a population of perhaps 2,000 people at most.",
+   "label": "approx",
+   "sources": [
+    "sn-moa"
+   ],
+   "show": false
+  },
+  "c-wrangel": {
+   "text": "Woolly mammoths survived on Wrangel Island, off Siberia, until about 4,000 years ago, descended from fewer than ten animals cut off by rising seas.",
+   "label": "approx",
+   "sources": [
+    "su-wrangel"
+   ],
+   "show": true,
+   "note": "Why they finally died out is unknown; the population was small and inbred but stable for thousands of years."
+  },
+  "c-rhino": {
+   "text": "Fossils of the woolly rhinoceros end about 14,000 years ago; a 2024 study using DNA in sediments suggests it survived until about 9,800 years ago, after a long decline under cooling climate and low but persistent hunting.",
+   "label": "debated",
+   "sources": [
+    "fordham2024"
+   ],
+   "show": true,
+   "note": "The younger date comes from sediment DNA and is disputed."
+  },
+  "c-overkill": {
+   "text": "Some researchers argue that people caused most late megafaunal extinctions, pointing to losses that followed human arrival and hit even regions where the climate was stable.",
+   "label": "debated",
+   "sources": [
+    "andermann2020",
+    "svenning2024"
+   ],
+   "show": true,
+   "note": "Andermann and colleagues (2020) attribute about 96 percent of mammal extinctions in the last 100,000 years to humans; Svenning and colleagues (2024) note that only 11 of 57 megaherbivore species survive."
+  },
+  "c-climate": {
+   "text": "Others emphasise climate: ancient DNA from the Arctic shows wetter conditions turning mammoth steppe into wetland and forest.",
+   "label": "debated",
+   "sources": [
+    "wang2021",
+    "seersholm2020"
+   ],
+   "show": true,
+   "note": "Wang and colleagues (2021) found no clear human signal in their models. A 2020 study from Texas concludes that climate change on its own may not explain the losses."
+  },
+  "c-combination": {
+   "text": "Many studies now favour a combination: climate change stressed the animals, and human hunting tipped them over.",
+   "label": "debated",
+   "sources": [
+    "seersholm2020",
+    "fordham2024"
+   ],
+   "show": true,
+   "note": "This is a common middle position rather than a settled conclusion."
+  },
+  "c-bolling": {
+   "text": "The Greenland ice cores date a sharp warming, the Bølling, to about 14,700 years ago.",
+   "label": "approx",
+   "sources": [
+    "rasmussen2006"
+   ],
+   "show": false
+  },
+  "c-yd": {
+   "text": "The Younger Dryas, a return to near-glacial cold, lasted from about 12,900 to 11,700 years ago.",
+   "label": "approx",
+   "sources": [
+    "walker2009"
+   ],
+   "show": true,
+   "note": "Dates differ by a century or two between records."
+  },
+  "c-holocene": {
+   "text": "The Holocene, the warm period we still live in, officially begins 11,700 years before 2000 CE, a boundary fixed in a Greenland ice core in 2008.",
+   "label": "consensus",
+   "sources": [
+    "walker2009"
+   ],
+   "show": false
+  },
+  "c-natufian": {
+   "text": "The Natufian culture of the Levant, about 15,000-11,600 years ago, was among the first to settle in one place year-round or for much of the year, while still living from wild foods.",
+   "label": "debated",
+   "sources": [
+    "grosman2008",
+    "harvard-eynan"
+   ],
+   "show": true,
+   "note": "The dates are well established; how fully sedentary Natufians were is debated."
+  },
+  "c-mallaha": {
+   "text": "At 'Ain Mallaha (Eynan), Natufian foragers built round, semi-subterranean houses and buried their dead among them, about 14,500-11,700 years ago.",
+   "label": "approx",
+   "sources": [
+    "harvard-eynan"
+   ],
+   "show": false
+  },
+  "c-puppy": {
+   "text": "At 'Ain Mallaha a person was buried with a puppy, wolf or dog.",
+   "label": "debated",
+   "sources": [
+    "davis1978"
+   ],
+   "show": true,
+   "note": "The burial is not in doubt; whether the puppy was a wolf or a dog cannot be settled from its bones."
+  },
+  "c-shaman": {
+   "text": "At Hilazon Tachtit, about 12,000 years ago, an elderly, disabled woman was buried with 50 tortoise shells and animal parts, often interpreted as a shaman.",
+   "label": "debated",
+   "sources": [
+    "grosman2008"
+   ],
+   "show": true,
+   "note": "The burial is not in doubt; the word 'shaman' is an interpretation."
+  },
+  "c-bread": {
+   "text": "At Shubayqa 1 in Jordan, foragers baked flatbread-like food from wild einkorn and tubers about 14,400 years ago, at least 4,000 years before farming became a way of life.",
+   "label": "approx",
+   "sources": [
+    "arranz2018"
+   ],
+   "show": true,
+   "note": "The authors suggest it was a special food, not a staple."
+  },
+  "c-beer": {
+   "text": "Residues in stone mortars at Raqefet Cave, about 13,000 years old, have been read as evidence of brewing.",
+   "label": "debated",
+   "sources": [
+    "stanford-beer",
+    "haifa-beer"
+   ],
+   "show": true,
+   "note": "Critics doubt that fermentation can be shown from the residues; the authors have replied."
+  },
+  "c-yd-push": {
+   "text": "Whether the Younger Dryas cold pushed people to cultivate is debated.",
+   "label": "debated",
+   "sources": [
+    "hillman2001",
+    "roberts2017"
+   ],
+   "show": true,
+   "note": "Hillman and colleagues argued that at Abu Hureyra wild foods declined in the cold and people began to cultivate rye; that claim is contested. Roberts and colleagues (2017) found no major cultural shift when the cold began and suggest the warmth after it mattered more."
+  },
+  "c-gobekli": {
+   "text": "Göbekli Tepe in southeastern Turkey was built from about 9600 to 8200 BCE by hunter-gatherers; its enclosures hold limestone T-shaped pillars up to 5.5 metres tall, many carved with animals and with arms and belts that make them human figures.",
+   "label": "consensus",
+   "sources": [
+    "unesco-gobekli",
+    "clare2020"
+   ],
+   "show": false
+  },
+  "c-schmidt": {
+   "text": "Its excavator, Klaus Schmidt, called it a sanctuary built by hunter-gatherers: 'First the temple, then the city.'",
+   "label": "tradition",
+   "sources": [
+    "newsweek2010",
+    "smithsonian-gobekli"
+   ],
+   "show": false,
+   "note": "Schmidt's interpretation, influential in the press, has since been revised by the excavators themselves."
+  },
+  "c-gobekli-houses": {
+   "text": "Excavations from 2015 to 2019 found houses with hearths, a large rock-cut pit that may have been a cistern and channels to collect water, which undermines the idea that Göbekli Tepe was only a place of temples.",
+   "label": "debated",
+   "sources": [
+    "clare2020",
+    "banning2011"
+   ],
+   "show": true,
+   "note": "The German Archaeological Institute's team now describes special buildings within a settlement. Ted Banning had argued as early as 2011 that the enclosures could be large communal houses. The excavators now think the fill around the pillars came at least partly from slope slides; how much was deliberate backfill is debated."
+  },
+  "c-grinding": {
+   "text": "More than 7,000 grinding tools show that wild cereals were processed on a large scale, perhaps for feasts that fed the builders.",
+   "label": "approx",
+   "sources": [
+    "dietrich2019"
+   ],
+   "show": true,
+   "note": "The cereals were wild einkorn and barley; one possible trace of domestic barley is tentative."
+  },
+  "c-gobekli-wild": {
+   "text": "The animal bones at Göbekli Tepe are all of wild species, with gazelle the most common.",
+   "label": "consensus",
+   "sources": [
+    "smithsonian-gobekli"
+   ],
+   "show": false
+  },
+  "c-karahan": {
+   "text": "Nearby Karahan Tepe, of the 10th millennium BCE, has special buildings that were deliberately filled in and, as of 2025, more than 30 houses; it is one of about a dozen 'Taş Tepeler' sites now being explored.",
+   "label": "approx",
+   "sources": [
+    "karul2021",
+    "smithsonian-karahan",
+    "aa-karahan2025",
+    "arkeonews-tastepeler"
+   ],
+   "show": false
+  },
+  "c-comet": {
+   "text": "Claims that carvings at Göbekli Tepe record a comet strike or a calendar have been rejected by the excavators.",
+   "label": "debated",
+   "sources": [
+    "dai-astro"
+   ],
+   "show": true,
+   "note": "Martin Sweatman made these claims in 2017 and 2024; the excavators note that pillars were moved and reused, and that the argument rests on a few selected carvings."
+  },
+  "c-syndrome": {
+   "text": "Domestic cereals differ from wild ones in a few ways: bigger seeds, ears that no longer shatter to scatter their seed, and seeds that sprout as soon as they are sown.",
+   "label": "consensus",
+   "sources": [
+    "fuller2007"
+   ],
+   "show": false
+  },
+  "c-protracted": {
+   "text": "Domestication was slow: in early sites the share of non-shattering wheat rose gradually over some 3,000 years.",
+   "label": "debated",
+   "sources": [
+    "tanno2006",
+    "fuller-reply",
+    "abbo2012"
+   ],
+   "show": true,
+   "note": "Most archaeobotanists, such as Dorian Fuller, see a protracted process measured in millennia. Shahal Abbo and colleagues argue for a brief, deliberate domestication followed by long crop improvement."
+  },
+  "c-founders": {
+   "text": "The 'founder crops' of Southwest Asia, domesticated about 11,000-10,000 years ago, are usually listed as einkorn, emmer, barley, lentil, pea, chickpea, bitter vetch and flax.",
+   "label": "debated",
+   "sources": [
+    "weiss2011",
+    "arranz2023"
+   ],
+   "show": true,
+   "note": "Weiss and Zohary list seven of these; a 2023 reappraisal argues that 'founder' means different things and gives different lists."
+  },
+  "c-einkorn": {
+   "text": "Cultivated einkorn is genetically closest to wild einkorn of the Karacadağ hills in southeastern Turkey.",
+   "label": "approx",
+   "sources": [
+    "heun-arch"
+   ],
+   "show": false
+  },
+  "c-goats-sheep": {
+   "text": "Goats and sheep were domesticated in Southwest Asia about 11,000-10,000 years ago, with cattle and pigs soon after; farmers carried all four to Cyprus by boat by about 10,500 years ago.",
+   "label": "approx",
+   "sources": [
+    "zeder2008",
+    "daly2021",
+    "bollongino2012",
+    "frantz2019"
+   ],
+   "show": false
+  },
+  "c-cattle": {
+   "text": "Taurine (humpless) cattle descend from as few as about 80 wild aurochs tamed in the Near East about 10,500 years ago; humped zebu cattle were domesticated separately in South Asia.",
+   "label": "approx",
+   "sources": [
+    "bollongino2012",
+    "kumar2003"
+   ],
+   "show": false
+  },
+  "c-dog": {
+   "text": "The dog was the first domestic animal: genomes published in 2026 show dogs living with hunter-gatherers in Turkey, Britain and Switzerland 15,800-14,200 years ago.",
+   "label": "approx",
+   "sources": [
+    "oxford-dogs2026",
+    "natasia-dogs2026",
+    "bergstrom2022"
+   ],
+   "show": true,
+   "note": "Where dogs were first domesticated is still unknown; some geneticists suspect eastern Eurasia."
+  },
+  "c-cat": {
+   "text": "A cat buried beside a person at Shillourokambos on Cyprus, about 9,500 years ago, shows people already living with cats; domestic cats reached Europe only about 2,000 years ago.",
+   "label": "debated",
+   "sources": [
+    "natgeo-cat",
+    "snsb-cats"
+   ],
+   "show": true,
+   "note": "Whether the Cyprus cat was tame or domestic is unknown; the 2025 study of cat genomes overturned the idea that Neolithic farmers brought cats to Europe."
+  },
+  "c-jericho": {
+   "text": "Neolithic Jericho had a wall with a ditch and a stone tower; by the 9th-8th millennium BCE it was a sizeable permanent settlement.",
+   "label": "consensus",
+   "sources": [
+    "unesco-jericho"
+   ],
+   "show": false
+  },
+  "c-jericho-tower": {
+   "text": "The Jericho tower, about 8.5 metres high, was built roughly 11,000 years ago and would have taken years of labour.",
+   "label": "approx",
+   "sources": [
+    "sd-jericho"
+   ],
+   "show": true,
+   "note": "The date is from radiocarbon; older books give about 8000 BCE, from earlier dating."
+  },
+  "c-jericho-purpose": {
+   "text": "What the tower was for is debated: defence or a flood barrier, a sign of the village's standing, or a monument tied to the summer solstice that drew people into communal life.",
+   "label": "debated",
+   "sources": [
+    "sd-jericho"
+   ],
+   "show": true,
+   "note": "Ran Barkai and Roy Liran (2011) note that the line of its staircase points to the solstice sunset behind a nearby mountain."
+  },
+  "c-catal": {
+   "text": "Çatalhöyük in central Turkey was occupied from about 7100 to 5950 BCE and covered about 13.5 hectares.",
+   "label": "approx",
+   "sources": [
+    "yuncu2025",
+    "catal-guide"
+   ],
+   "show": false
+  },
+  "c-catal-houses": {
+   "text": "Its houses had no streets between them and no doors: people entered through the roof, and buried their dead beneath the floors.",
+   "label": "consensus",
+   "sources": [
+    "catal-guide"
+   ],
+   "show": false
+  },
+  "c-catal-pop": {
+   "text": "At its peak Çatalhöyük had perhaps 3,500-8,000 people.",
+   "label": "approx",
+   "sources": [
+    "osu-larsen",
+    "catal-guide",
+    "stanford-hodder"
+   ],
+   "show": true,
+   "note": "Estimates depend on how many houses were lived in at once; Ian Hodder has suggested as many as 10,000."
+  },
+  "c-catal-equal": {
+   "text": "Çatalhöyük shows no palace, temple or elite quarter, and men and women ate similar diets; ancient DNA (2025) shows kinship ran mainly through mothers.",
+   "label": "debated",
+   "sources": [
+    "stanford-hodder",
+    "catal-guide",
+    "yuncu2025",
+    "bonn-catal"
+   ],
+   "show": true,
+   "note": "Hodder reads it as a broadly egalitarian society. The 2025 genomes show maternal links and more grave goods for girls, but the researchers caution that this was not a matriarchy."
+  },
+  "c-catal-health": {
+   "text": "Life at Çatalhöyük was hard: 10-13 percent of adult teeth had cavities, infection was common, and healed head injuries became more frequent as the town grew more crowded.",
+   "label": "approx",
+   "sources": [
+    "osu-larsen"
+   ],
+   "show": false
+  },
+  "c-aingh": {
+   "text": "At 'Ain Ghazal in Jordan, people buried caches of lime-plaster human statues and busts, about 9,000 years old.",
+   "label": "approx",
+   "sources": [
+    "dsb-aingh",
+    "si-aingh"
+   ],
+   "show": false
+  },
+  "c-megasite": {
+   "text": "'Ain Ghazal grew to about 10-12 hectares by about 9,500-9,000 years ago; after about 8,900 years ago its population fell sharply, perhaps because the climate became drier.",
+   "label": "debated",
+   "sources": [
+    "zielhofer2012",
+    "brit-aingh"
+   ],
+   "show": true,
+   "note": "Zielhofer and colleagues point to aridity; others have argued that people exhausted the land around the site."
+  },
+  "c-ndt": {
+   "text": "When people began to farm, birth rates rose: cemeteries show a sharp rise in the share of children, which Jean-Pierre Bocquet-Appel called the Neolithic Demographic Transition.",
+   "label": "approx",
+   "sources": [
+    "bocquet2011"
+   ],
+   "show": true,
+   "note": "The pattern is widely accepted; its size is model-dependent. In the Levant the rise took 2,600-3,000 years, on the edges of Europe and North Africa 400-800 years."
+  },
+  "c-stature": {
+   "text": "Most studies find that adult height fell as people came to rely on farming.",
+   "label": "consensus",
+   "sources": [
+    "mummert2011"
+   ],
+   "show": false
+  },
+  "c-stock": {
+   "text": "A 2023 study of 3,507 skeletons found that in most regions height began to fall before the earliest signs of farming, reaching its lowest about 8,000-6,000 years ago.",
+   "label": "debated",
+   "sources": [
+    "stock2023"
+   ],
+   "show": true,
+   "note": "This complicates the simple story that farming made people shorter; the Levant and China were relatively stable."
+  },
+  "c-diamond": {
+   "text": "In 1987 Jared Diamond called agriculture 'the worst mistake in the history of the human race'.",
+   "label": "consensus",
+   "sources": [
+    "diamond1987"
+   ],
+   "show": false
+  },
+  "c-zoonoses": {
+   "text": "In more than 1,300 ancient genomes, diseases caught from animals first appear about 6,500 years ago and are widespread by about 5,000.",
+   "label": "approx",
+   "sources": [
+    "sikora2025"
+   ],
+   "show": true,
+   "note": "A 2025 study; the timing reflects when such pathogens can be detected in ancient DNA."
+  },
+  "c-why-farm": {
+   "text": "Why people began to farm anyway is debated: a warmer, more stable climate, population pressure, feasting, and new forms of property have all been proposed.",
+   "label": "debated",
+   "sources": [
+    "richerson2001",
+    "brit-agri",
+    "hayden2009",
+    "bowles2013"
+   ],
+   "show": true,
+   "note": "Richerson and colleagues argue farming was impossible in the Ice Age and almost inevitable after it. Britannica notes populations grew after food production, not before. Brian Hayden proposes feasting; Samuel Bowles and Jung-Kyoo Choi argue that early farming was not more productive but spread together with private property."
+  },
+  "c-europe-farmers": {
+   "text": "Farming spread into Europe mainly with farmers whose ancestors came from Anatolia and the Aegean, reaching Greece about 8,500 years ago, central Europe about 7,500 and Britain about 6,000.",
+   "label": "consensus",
+   "sources": [
+    "hofmanova2016",
+    "haak2015",
+    "brace2019"
+   ],
+   "show": false
+  },
+  "c-replacement": {
+   "text": "In much of western and central Europe the newcomers almost entirely replaced the earlier hunter-gatherers' ancestry; the farmers took more than 3,000 years to cross the continent.",
+   "label": "approx",
+   "sources": [
+    "allentoft2024"
+   ],
+   "show": true,
+   "note": "Hunter-gatherer ancestry survived better in some regions, especially east of a line from the Black Sea to the Baltic."
+  },
+  "c-routes": {
+   "text": "Farmers followed two routes, along the Danube and along the Mediterranean coast, and mixed with local foragers to different degrees: about 3 percent hunter-gatherer ancestry in central Europe, about 31 percent in southern France.",
+   "label": "approx",
+   "sources": [
+    "rivollat2020"
+   ],
+   "show": false
+  },
+  "c-lbk": {
+   "text": "The Linear Pottery (LBK) farmers settled the loess soils of central Europe from Slovakia to the Netherlands, growing emmer and barley and living in long rectangular houses.",
+   "label": "consensus",
+   "sources": [
+    "brit-lbk"
+   ],
+   "show": false
+  },
+  "c-spread-rate": {
+   "text": "Averaged over the whole continent, farming spread at roughly 0.6-1.3 km a year.",
+   "label": "approx",
+   "sources": [
+    "pinhasi2005"
+   ],
+   "show": false
+  },
+  "c-bantu": {
+   "text": "Later, Bantu-speaking farmers spread from western Africa across much of the continent, beginning about 6,000-4,000 years ago, and Austronesian-speaking farmers spread from Taiwan into Island Southeast Asia and the Pacific from about 4,200 years ago.",
+   "label": "approx",
+   "sources": [
+    "fortes2024",
+    "almeida2025"
+   ],
+   "show": true,
+   "note": "Dates for both expansions vary between studies by several centuries."
+  },
+  "c-belovode": {
+   "text": "Copper smelting at Belovode in Serbia, about 5000 BCE, is the earliest securely dated metal extraction from ore.",
+   "label": "debated",
+   "sources": [
+    "radivojevic2010"
+   ],
+   "show": true,
+   "note": "Its excavators argue metallurgy was invented independently in the Balkans; the traditional view is that it spread from the Near East, where a site in Iran may be as old but is poorly dated. People had worked native copper since about 9000 BCE."
+  },
+  "c-varna": {
+   "text": "The cemetery at Varna in Bulgaria, used about 4560-4450 BCE, held about 3,000 gold objects weighing some 6 kg, the oldest worked gold treasure known, concentrated in a few lavish graves.",
+   "label": "approx",
+   "sources": [
+    "varna-city",
+    "higham2007"
+   ],
+   "show": false
+  },
+  "c-otzi": {
+   "text": "Ötzi, the 'Iceman', died high in the Alps about 3250 BCE carrying a copper axe, a bow, arrows and a flint dagger; an arrow wound in his shoulder probably killed him.",
+   "label": "approx",
+   "sources": [
+    "penn-otzi",
+    "iceman"
+   ],
+   "show": true,
+   "note": "His body was found in 1991; a minority of researchers argue the find was a deliberate burial."
+  },
+  "c-otzi-dna": {
+   "text": "Ötzi's genome (2023) shows mostly Anatolian-farmer ancestry, dark skin and no steppe ancestry.",
+   "label": "consensus",
+   "sources": [
+    "iceman-dna"
+   ],
+   "show": false
+  },
+  "c-wheel": {
+   "text": "The wheel appears around 3500 BCE; the oldest surviving wheel with its axle, from the Ljubljana Marshes in Slovenia, is about 5,200 years old.",
+   "label": "debated",
+   "sources": [
+    "mgml-wheel",
+    "brit-wheel",
+    "gatech-wheel"
+   ],
+   "show": true,
+   "note": "Where it was invented is uncertain. A Sumerian sign for a wheeled sledge dates to about 3500 BCE; a 2024 study proposes copper miners in the Carpathians."
+  },
+  "c-horse": {
+   "text": "Horses at Botai in Kazakhstan, about 3500 BCE, were exploited intensively and perhaps tamed, but they were ancestors of Przewalski's horses; modern domestic horses come from the lower Volga-Don and spread only after about 2200 BCE.",
+   "label": "debated",
+   "sources": [
+    "cnrs-botai",
+    "librado2021",
+    "librado2024"
+   ],
+   "show": true,
+   "note": "The genetic findings are widely accepted. Whether Botai horses were domesticated at all is debated: some researchers see herding and perhaps riding, others only intensive hunting."
+  },
+  "c-yamnaya": {
+   "text": "The Yamnaya herders appeared on the steppe about 3300 BCE and by 3000 BCE ranged from Hungary to Kazakhstan; their ancestry reached most of Europe within about a thousand years.",
+   "label": "approx",
+   "sources": [
+    "lazaridis2025",
+    "allentoft2024",
+    "haak2015"
+   ],
+   "show": false
+  },
+  "c-pie": {
+   "text": "Where the Indo-European languages began is debated: on the Pontic-Caspian steppe, in Anatolia with the first farmers, or south of the Caucasus with the steppe as a second homeland.",
+   "label": "debated",
+   "sources": [
+    "haak2015",
+    "lazaridis2025",
+    "bouckaert2012",
+    "heggarty2023"
+   ],
+   "show": true,
+   "note": "Ancient DNA has strengthened the steppe view for most European branches; Heggarty and colleagues (2023) propose a hybrid; Lazaridis and colleagues (2025) trace an earlier 'Indo-Anatolian' source to the Caucasus-lower Volga region."
+  },
+  "c-uruk-eve": {
+   "text": "By about 3200 BCE, Uruk in southern Mesopotamia was the largest settlement in the region, perhaps in the world.",
+   "label": "approx",
+   "sources": [
+    "met-uruk2"
+   ],
+   "show": false
+  }
+ },
+ "pages": [
+  {
+   "title": "Before history",
+   "sub": "foragers, and the turn to farming",
+   "lede": "For almost the whole human story, people lived by gathering, hunting and fishing, in small groups that moved with the seasons. This chapter follows that world and the slow turn, in a few places, to farming.",
+   "body": [
+    "No one wrote any of it down. What we know comes from bones, tools, hearths, art, ancient DNA and, with care, from foragers who lived recently enough to be studied. [[c-analogy]]",
+    "Those recent foragers suggest how such societies worked. Hadza camps in Tanzania hold about 30 people and move every few weeks. [[c-hadza]] Bands were not simply families: in a sample of 32 forager societies, most band members were not close relatives, and people moved between camps through wide networks of friends and in-laws. [[c-coresidence]] [[c-networks]]",
+    "Two old ideas about foragers are still argued over. One is that men hunted and women gathered: a 2023 study said women hunt in most forager societies, and a 2024 reply said the division of labour by sex is still real. [[c-women-hunt]] The other is that foragers were the 'original affluent society', working only a few hours a day; critics counter that once food processing and chores are counted, the working week was about as long as ours. [[c-affluent]]",
+    {
+     "table": {
+      "head": [
+       "",
+       "Before 8000 BCE",
+       "Since 8000 BCE"
+      ],
+      "rows": [
+       [
+        "share of the time since 190,000 BCE",
+        "about 95%",
+        "about 5%"
+       ],
+       [
+        "people born",
+        "about 9 billion",
+        "about 108 billion"
+       ]
+      ],
+      "note": "Population Reference Bureau model; the shares are arithmetic on its figures. 8000 BCE and 190,000 BCE are the Bureau's benchmarks: cultivation began about 1,500 years earlier (1.3), and Chapter 1 counts our species from about 300,000 years ago. [[c-births-before-farming]]"
+     }
+    },
+    "One number puts this in proportion. About 117 billion people have ever been born, [[c-ever-lived]] but because forager populations were tiny, only about 9 billion of them lived before 8000 BCE. Foraging fills most of the human timeline, yet most humans were born after farming took hold.",
+    {
+     "compare": "Chapter 1 showed this span from far away (1.1). Here we walk through it: the human family (2.1), minds and art (2.2), the Ice Age (2.3), and then the turn to farming (2.5-2.10)."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "split",
+    "caption": "Time and people, before and after farming",
+    "title": "Since 190,000 BCE: the share of time, and the share of people born",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "Share of the time",
+      "parts": [
+       {
+        "v": 94.8,
+        "lab": "before 8000 BCE: about 95%",
+        "name": "Before 8000 BCE",
+        "tip": "190,000 to 8000 BCE: about 182,000 years"
+       },
+       {
+        "v": 5.2,
+        "lab": "after: about 5%",
+        "acc": true,
+        "name": "Since 8000 BCE",
+        "tip": "about 10,000 years"
+       }
+      ]
+     },
+     {
+      "t": "Share of people ever born",
+      "parts": [
+       {
+        "v": 7.7,
+        "lab": "before: about 8%",
+        "name": "Before 8000 BCE",
+        "tip": "about 9 billion births"
+       },
+       {
+        "v": 92.3,
+        "lab": "since 8000 BCE: about 92%",
+        "acc": true,
+        "name": "Since 8000 BCE",
+        "tip": "about 108 billion births"
+       }
+      ]
+     }
+    ],
+    "notes": [
+     "Source: Population Reference Bureau (2022), modelled estimates."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Foraging was the human way of life for about 95 percent of the time since 190,000 BCE. Why were most people ever born nevertheless born after farming began?",
+     "choices": [
+      "Most foragers left no bones for scholars to count",
+      "Forager populations were tiny, so births were few",
+      "The estimate leaves out people without written records",
+      "Foragers had far fewer children per mother than farmers"
+     ],
+     "answer": 1,
+     "why": "Births follow population size, not elapsed time: a few million foragers produced far fewer births than hundreds of millions of later people.",
+     "wrong": {
+      "0": "The figure is modelled from population size, not counted from remains.",
+      "2": "The estimate models births from two people in 190,000 BCE, long before writing.",
+      "3": "The estimate is driven by how few people were alive, not by family size."
+     }
+    },
+    {
+     "q": "What is the main objection of Venkataraman and colleagues (2024) to the 2023 claim that women hunted in most forager societies?",
+     "choices": [
+      "The 2023 study was right, though its sample was too small",
+      "Women sometimes hunt, yet labour is still divided by sex",
+      "Labour is divided by sex among farmers, not foragers",
+      "Women hunted in 79 percent of the societies, as claimed"
+     ],
+     "answer": 1,
+     "why": "Venkataraman and colleagues agree that women sometimes hunt, but they found coding errors in the 2023 study and argue that the evidence for a gendered division of labour stands.",
+     "wrong": {
+      "0": "They argue its conclusion is wrong: they found coding errors, and say labour is still strongly divided by sex.",
+      "2": "Their argument is about forager societies, where they say labour is still strongly divided by sex.",
+      "3": "That is the 2023 claim they dispute, citing coding errors."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The human family",
+   "sub": "many kinds of human, one survivor",
+   "lede": "For most of the last few million years, several kinds of human lived on Earth at once. We are the last of a large and branching family.",
+   "body": [
+    "The oldest members of the family in this chart, such as <i>Australopithecus afarensis</i>, walked upright more than three million years ago but had brains not much larger than a chimpanzee's. [[c-species-dates]] Stone tools are older than any known fossil of our own genus, <i>Homo</i>: the Lomekwi tools from Kenya are about 3.3 million years old. [[c-lomekwi]] The oldest tools of the long-lived Oldowan tradition, about 2.9 million years old, were found beside teeth of <i>Paranthropus</i>, a different branch altogether. [[c-oldowan]]",
+    "The family was bushy, not a ladder. Around 2.6-2.8 million years ago, early <i>Homo</i> and at least one kind of <i>Australopithecus</i> lived in the same part of Ethiopia. [[c-bushy]] <i>Homo erectus</i>, which appeared about 1.9 million years ago, was the first known species to spread far beyond Africa and survived in Asia until about 110,000 years ago.",
+    "Fire changed what people could eat and where they could live. Burned material shows fire in use about a million years ago, and in 2025 a site in England gave the first evidence of fire being made, with flint and iron pyrite, about 400,000 years ago. [[c-fire]]",
+    {
+     "table": {
+      "head": [
+       "Around 50,000 years ago",
+       "Where",
+       "Known from"
+      ],
+      "rows": [
+       [
+        "Homo sapiens",
+        "Africa, spreading to Asia and Australia",
+        "fossils, DNA, tools"
+       ],
+       [
+        "Neanderthals",
+        "Europe, western and central Asia",
+        "hundreds of fossils, genomes"
+       ],
+       [
+        "Denisovans",
+        "Siberia to Tibet and the Taiwan Strait",
+        "a few bones, DNA, proteins"
+       ],
+       [
+        "Homo floresiensis",
+        "Flores, Indonesia",
+        "fossils; dying out by about then"
+       ]
+      ],
+      "note": "[[c-coexist]] [[c-denisovan-dates]]"
+     }
+    },
+    "Neanderthals buried their dead, controlled fire and made refined tools. [[c-neanderthal-life]] The Denisovans are known mostly from DNA, [[c-denisovans]] but in 2025 proteins and DNA linked a skull from Harbin in China to them, giving the group its first known face. [[c-harbin]] Our ancestors met and had children with both groups: their DNA survives in billions of people today."
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "When each kind of human lived",
+    "title": "Selected human species, by the oldest and youngest fossils found so far",
+    "scale": "log",
+    "max": 4000000,
+    "min": 10000,
+    "unit": "Ma",
+    "ticks": [
+     4000000,
+     1000000,
+     300000,
+     100000,
+     30000,
+     10000
+    ],
+    "tickLabels": [
+     "4 million",
+     "1 million",
+     "300,000",
+     "100,000",
+     "30,000",
+     "10,000"
+    ],
+    "axis": "years ago (log scale: each step to the right covers less time)",
+    "hint": "Hover or click a species",
+    "marks": [
+     {
+      "ya": 3300000,
+      "t": "first stone tools"
+     },
+     {
+      "ya": 400000,
+      "t": "fire-making",
+      "anchor": "end"
+     }
+    ],
+    "rows": [
+     {
+      "t": "Australopithecus afarensis",
+      "from": 3850000,
+      "to": 2950000,
+      "lab": "3.85-2.95 million",
+      "tip": "'Lucy's' species; walked upright",
+      "plate": {
+       "kicker": "2.1 · the human family",
+       "title": "Australopithecus afarensis",
+       "sub": "3.85 to 2.95 million years ago",
+       "text": "[[c-species-dates]]",
+       "sources": [
+        "si-afarensis"
+       ]
+      }
+     },
+     {
+      "t": "Homo habilis",
+      "from": 2400000,
+      "to": 1400000,
+      "lab": "2.4-1.4 million",
+      "tip": "early Homo"
+     },
+     {
+      "t": "Homo erectus",
+      "from": 1890000,
+      "to": 110000,
+      "lab": "1.89 million-110,000",
+      "tip": "first to spread widely beyond Africa",
+      "plate": {
+       "kicker": "2.1 · the human family",
+       "title": "Homo erectus",
+       "sub": "1.89 million to about 110,000 years ago",
+       "text": "The longest-lived human species known, found from Africa to Java. [[c-species-dates]]",
+       "sources": [
+        "si-erectus"
+       ]
+      }
+     },
+     {
+      "t": "Homo heidelbergensis",
+      "from": 700000,
+      "to": 200000,
+      "lab": "700,000-200,000"
+     },
+     {
+      "t": "Neanderthals",
+      "from": 400000,
+      "to": 40000,
+      "lab": "400,000-40,000",
+      "tip": "Europe and western Asia",
+      "plate": {
+       "kicker": "2.1 · the human family",
+       "title": "Neanderthals",
+       "sub": "about 400,000 to 40,000 years ago",
+       "text": "[[c-neanderthal-life]] People outside Africa today carry about 2 percent Neanderthal DNA.",
+       "sources": [
+        "si-neanderthal"
+       ]
+      }
+     },
+     {
+      "t": "Denisovans",
+      "from": 400000,
+      "to": 30000,
+      "lab": "c. 400,000+-30,000",
+      "open": true,
+      "tip": "known mostly from DNA",
+      "plate": {
+       "kicker": "2.1 · the human family",
+       "title": "Denisovans",
+       "sub": "from at least 400,000 to perhaps 30,000 years ago",
+       "text": "[[c-denisovans]] [[c-harbin]] [[c-denisovan-dates]]",
+       "sources": [
+        "am-denisovans",
+        "harbin2025",
+        "penghu2025"
+       ]
+      }
+     },
+     {
+      "t": "Homo naledi",
+      "from": 335000,
+      "to": 236000,
+      "lab": "335,000-236,000",
+      "tip": "South Africa; small brain, late date",
+      "plate": {
+       "kicker": "2.1 · the human family",
+       "title": "Homo naledi",
+       "sub": "335,000 to 236,000 years ago",
+       "text": "A small-brained species that lived at the same time as early Homo sapiens elsewhere in Africa. [[c-naledi]]",
+       "sources": [
+        "si-naledi",
+        "elife-naledi"
+       ]
+      }
+     },
+     {
+      "t": "Homo floresiensis",
+      "from": 100000,
+      "to": 50000,
+      "lab": "100,000-50,000",
+      "tip": "Flores, Indonesia; about a metre tall"
+     },
+     {
+      "t": "Homo sapiens",
+      "from": 300000,
+      "to": 10000,
+      "lab": "300,000-today",
+      "acc": true,
+      "tip": "us"
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "The Lomekwi tools are about 3.3 million years old; the oldest fossils of Homo are younger. What follows?",
+     "choices": [
+      "Homo habilis must have made the tools at Lomekwi",
+      "Stone tools were made before any known Homo lived",
+      "The Oldowan tradition is older than the Lomekwi tools",
+      "People were already making fire 3.3 million years ago"
+     ],
+     "answer": 1,
+     "why": "Toolmaking is older than any known Homo fossil, so another hominin, or an undiscovered early Homo, made them.",
+     "wrong": {
+      "0": "Homo habilis first appears about 2.4 million years ago, some 900,000 years later.",
+      "2": "The oldest Oldowan tools, at Nyayanga, are about 2.9 million years old.",
+      "3": "The earliest evidence of fire-making is about 400,000 years old."
+     }
+    },
+    {
+     "q": "What was the main basis for linking the Harbin skull to the Denisovans in 2025?",
+     "choices": [
+      "Its likeness to a complete Denisovan skeleton",
+      "A full nuclear genome from the skull",
+      "Ancient proteins and mitochondrial DNA",
+      "Its discovery inside Denisova Cave"
+     ],
+     "answer": 2,
+     "why": "Ancient proteins and mitochondrial DNA from the skull matched known Denisovans. Most specialists accepted the link; the scientist who first named the skull Homo longi wants more evidence.",
+     "wrong": {
+      "0": "Denisovans are known from a finger bone, teeth, jaws and skull fragments, not from a skeleton.",
+      "1": "The link rests on proteins and mitochondrial DNA, not on a nuclear genome.",
+      "3": "The skull comes from Harbin in northeast China, not from Denisova Cave in Siberia."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Minds and symbols",
+   "sub": "beads, ochre, paint and music",
+   "lede": "Long before writing, people marked themselves and their world with symbols: beads, engraved patterns, paintings and carvings. When this began, and how suddenly, is one of the great questions about the human mind.",
+   "body": [
+    "The oldest known ornaments are shell beads from Bizmoune Cave in Morocco, about 142,000-150,000 years old. [[c-bizmoune]] At Blombos Cave in South Africa, people engraved patterns on lumps of ochre about 75,000 years ago, drew a crosshatched design on stone about 73,000 years ago and strung shell beads. [[c-blombos]]",
+    "The oldest known paintings are not in Europe. In January 2026, a hand stencil in a cave on Muna, an island off Sulawesi in Indonesia, was dated to at least 67,800 years ago; elsewhere on Sulawesi, a painted scene of human figures with a pig is at least 51,200 years old. [[c-sulawesi]] Paintings in Spanish caves have been dated to about 65,000 years ago, which would make them the work of Neanderthals; the method behind those dates is disputed. [[c-pasiega]]",
+    {
+     "table": {
+      "head": [
+       "Find",
+       "Where",
+       "Age (years ago)"
+      ],
+      "rows": [
+       [
+        "Shell beads",
+        "Bizmoune, Morocco",
+        "142,000-150,000"
+       ],
+       [
+        "Engraved ochre, drawing",
+        "Blombos, South Africa",
+        "c. 75,000-73,000"
+       ],
+       [
+        "Hand stencil",
+        "Liang Metanduno, Sulawesi",
+        "at least 67,800"
+       ],
+       [
+        "Flutes, Lion-man",
+        "Swabian Jura, Germany",
+        "c. 43,000-40,000"
+       ],
+       [
+        "Cave paintings",
+        "Chauvet, France",
+        "c. 37,000-28,000"
+       ],
+       [
+        "Cave paintings",
+        "Lascaux, France",
+        "c. 17,000 [[c-lascaux]]"
+       ]
+      ],
+      "note": "[[c-swabian]] [[c-chauvet]]"
+     }
+    },
+    "In Europe, the ivory Lion-man and flutes of bird bone from the caves of the Swabian Jura are 40,000-43,000 years old, among the oldest known figurative carvings and musical instruments. The great painted caves come later: Chauvet about 37,000-28,000 years ago, Lascaux about 17,000.",
+    "These finds have shifted an old argument. Some scholars held that modern behaviour appeared suddenly about 50,000 years ago; beads and engraved ochre from Africa tens of thousands of years earlier support the view that it was assembled gradually. [[c-modernity]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 55,
+     "lat": 15,
+     "zoom": 1.4
+    },
+    "caption": "Early symbols and art (dates in years ago)",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "pt",
+      "site"
+     ]
+    ],
+    "seaLabels": [
+     {
+      "t": "INDIAN OCEAN",
+      "ll": [
+       75,
+       -20
+      ]
+     },
+     {
+      "t": "ATLANTIC OCEAN",
+      "ll": [
+       -25,
+       5
+      ]
+     }
+    ],
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         -9.5,
+         31.5
+        ],
+        "label": "Bizmoune",
+        "date": "beads, 142,000-150,000",
+        "anchor": "end",
+        "dy": 12,
+        "plate": {
+         "kicker": "2.2 · symbols",
+         "title": "Bizmoune Cave",
+         "sub": "Morocco",
+         "text": "[[c-bizmoune]]",
+         "sources": [
+          "bizmoune2021"
+         ]
+        }
+       },
+       {
+        "ll": [
+         21.22,
+         -34.41
+        ],
+        "label": "Blombos",
+        "date": "c. 75,000-73,000",
+        "plate": {
+         "kicker": "2.2 · symbols",
+         "title": "Blombos Cave",
+         "sub": "South Africa",
+         "text": "[[c-blombos]]",
+         "facts": [
+          [
+           "ochre kit",
+           "c. 100,000"
+          ],
+          [
+           "engraved ochre",
+           "c. 75,000"
+          ],
+          [
+           "drawing on stone",
+           "c. 73,000"
+          ]
+         ],
+         "sources": [
+          "uib-blombos",
+          "blombos-beads"
+         ]
+        }
+       },
+       {
+        "ll": [
+         122.5,
+         -5.0
+        ],
+        "label": "Sulawesi",
+        "date": "at least 67,800",
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "2.2 · art",
+         "title": "The caves of Sulawesi",
+         "sub": "the oldest dated rock art",
+         "text": "[[c-sulawesi]]",
+         "sources": [
+          "scu2026",
+          "griffith2024"
+         ]
+        }
+       },
+       {
+        "ll": [
+         2.0,
+         44.7
+        ],
+        "label": "Painted caves of France and Spain",
+        "date": "Chauvet, Lascaux, La Pasiega",
+        "anchor": "end",
+        "dy": 4,
+        "plate": {
+         "kicker": "2.2 · art",
+         "title": "The painted caves",
+         "sub": "France and northern Spain",
+         "text": "[[c-chauvet]] [[c-lascaux]] [[c-pasiega]]",
+         "facts": [
+          [
+           "Chauvet",
+           "c. 37,000-28,000 years ago"
+          ],
+          [
+           "Lascaux",
+           "c. 17,000"
+          ],
+          [
+           "La Pasiega",
+           "c. 65,000? (disputed)"
+          ]
+         ],
+         "sources": [
+          "quiles2016",
+          "brit-lascaux",
+          "sn-pasiega"
+         ]
+        }
+       },
+       {
+        "ll": [
+         10.0,
+         48.5
+        ],
+        "label": "Swabian Jura",
+        "date": "Lion-man, flutes",
+        "dy": -10,
+        "plate": {
+         "kicker": "2.2 · art",
+         "title": "The Swabian Jura",
+         "sub": "Germany, c. 43,000 to 40,000 years ago",
+         "text": "[[c-swabian]]",
+         "sources": [
+          "bm-lionman",
+          "higham2012",
+          "unesco-swabian"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why is the claim that Neanderthals painted La Pasiega contested?",
+     "choices": [
+      "Radiocarbon dates the paint to about 15,000 years ago",
+      "Uranium leaching could make the crust ages too old",
+      "Critics say leaching makes the ages too young, not old",
+      "The dates get younger toward the paint, the team admits"
+     ],
+     "answer": 1,
+     "why": "The ages come from mineral crusts over the paint; critics say that if uranium leached out, the method gives ages that are too old. The original team says the dates grow steadily older toward the paint, which argues against that.",
+     "wrong": {
+      "0": "The ages come from uranium-thorium dating of crusts over the paint, not from radiocarbon.",
+      "2": "Reversed: critics say leaching can make the ages too old.",
+      "3": "Reversed: the team says the dates grow steadily older toward the paint, which argues against leaching."
+     }
+    },
+    {
+     "q": "Which evidence most weakens the idea of a sudden 'revolution' in human behaviour about 50,000 years ago?",
+     "choices": [
+      "The painted caves of Chauvet and Lascaux in France",
+      "Beads at Bizmoune and engraved ochre at Blombos",
+      "The bone and ivory flutes of the Swabian Jura",
+      "The ivory Lion-man figure from the Swabian Jura"
+     ],
+     "answer": 1,
+     "why": "Beads at Bizmoune (142,000-150,000 years old) and engraved ochre at Blombos (about 75,000) show symbolic objects in Africa long before 50,000 years ago, which points to a gradual development.",
+     "wrong": {
+      "0": "Chauvet, about 37,000-28,000 years old, and Lascaux, about 17,000, both come long after 50,000.",
+      "2": "At 42,000-43,000 years old, the flutes fit a post-50,000 picture.",
+      "3": "At about 40,000 years old, the Lion-man also comes after 50,000."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Ice Age world",
+   "sub": "a colder planet, with more land",
+   "lede": "Twenty thousand years ago, ice two or three kilometres thick covered much of North America and northern Europe, and the seas were so low that people could walk from Siberia to Alaska.",
+   "body": [
+    "The ice sheets were at their largest between about 26,500 and 20,000 years ago, the Last Glacial Maximum. [[c-lgm]] The Laurentide ice sheet covered more than 13 million km² of North America and reached south to about 39° N, near today's Cincinnati; the Scandinavian ice sheet merged with British ice over the North Sea and reached Germany and Poland. [[c-laurentide]] [[c-scandinavian]]",
+    "So much water was locked in ice that sea level was about 120-134 metres lower than today. [[c-sealevel]] Continental shelves became plains. Beringia joined Siberia to Alaska; Sunda joined Sumatra, Java and Borneo to Asia; Sahul joined Australia to New Guinea and Tasmania; and Doggerland joined Britain to Europe. [[c-beringia]] [[c-sahul-shelf]] A 2022 study argues the Bering land bridge appeared only about 35,700 years ago. [[c-beringia-late]]",
+    "People adapted. Eyed needles appear about 40,000 years ago, perhaps evidence of layered or decorated clothing. [[c-needles]] At Sunghir in Russia, about 34,000 years ago, people were buried with thousands of beads, and their genomes show they were not close kin. [[c-sunghir]] At Kostenki, about 25,000 years ago, people built a ring of the bones of at least 60 mammoths, whether as a house, a store or a ritual place. [[c-kostenki]]",
+    {
+     "table": {
+      "head": [
+       "",
+       "c. 20,000 years ago",
+       "today"
+      ],
+      "rows": [
+       [
+        "sea level",
+        "about 120-134 m lower",
+        "0"
+       ],
+       [
+        "Laurentide ice",
+        "> 13 million km²",
+        "gone"
+       ],
+       [
+        "Scandinavian ice",
+        "c. 6.6 million km²",
+        "gone"
+       ],
+       [
+        "Britain",
+        "joined to Europe",
+        "an island"
+       ]
+      ]
+     }
+    },
+    "Then the ice melted. Between about 16,500 and 8,200 years ago, the seas rose roughly 12 metres every thousand years, drowning the coasts where many people had lived. [[c-sealevel-rise]] Doggerland shrank to an island and was gone by about 7,000 years ago. [[c-doggerland]] Much of the archaeology of the Ice Age now lies under the sea."
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": -15,
+     "lat": 30,
+     "zoom": 1.08
+    },
+    "caption": "Ice and exposed land, about 20,000 years ago (schematic)",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "ice",
+      "ice sheet (approximate)"
+     ],
+     [
+      "bridge",
+      "land now under the sea (schematic)"
+     ],
+     [
+      "pt",
+      "site"
+     ]
+    ],
+    "seaLabels": [
+     {
+      "t": "ATLANTIC OCEAN",
+      "ll": [
+       -35,
+       25
+      ]
+     },
+     {
+      "t": "INDIAN OCEAN",
+      "ll": [
+       75,
+       -22
+      ]
+     },
+     {
+      "t": "PACIFIC OCEAN",
+      "ll": [
+       160,
+       15
+      ]
+     }
+    ],
+    "layers": [
+     {
+      "type": "poly",
+      "items": [
+       {
+        "ring": [
+         [
+          -148,
+          61
+         ],
+         [
+          -140,
+          62
+         ],
+         [
+          -132,
+          64
+         ],
+         [
+          -125,
+          68
+         ],
+         [
+          -120,
+          72
+         ],
+         [
+          -100,
+          78
+         ],
+         [
+          -80,
+          82
+         ],
+         [
+          -62,
+          82
+         ],
+         [
+          -60,
+          75
+         ],
+         [
+          -64,
+          66
+         ],
+         [
+          -55,
+          58
+         ],
+         [
+          -58,
+          48
+         ],
+         [
+          -66,
+          43
+         ],
+         [
+          -72,
+          41
+         ],
+         [
+          -80,
+          40.5
+         ],
+         [
+          -86,
+          39.3
+         ],
+         [
+          -89,
+          39.5
+         ],
+         [
+          -90,
+          40.6
+         ],
+         [
+          -93.6,
+          41.6
+         ],
+         [
+          -96,
+          42.5
+         ],
+         [
+          -100,
+          46
+         ],
+         [
+          -110,
+          48.5
+         ],
+         [
+          -120,
+          47.5
+         ],
+         [
+          -124,
+          48
+         ],
+         [
+          -132,
+          54
+         ],
+         [
+          -140,
+          59
+         ]
+        ],
+        "kind": "ice",
+        "label": "LAURENTIDE AND CORDILLERAN ICE",
+        "lab": [
+         -95,
+         58
+        ],
+        "size": 10
+       },
+       {
+        "ring": [
+         [
+          -73,
+          78
+         ],
+         [
+          -60,
+          82
+         ],
+         [
+          -30,
+          83
+         ],
+         [
+          -20,
+          76
+         ],
+         [
+          -22,
+          70
+         ],
+         [
+          -40,
+          61
+         ],
+         [
+          -50,
+          62
+         ],
+         [
+          -55,
+          70
+         ]
+        ],
+        "kind": "ice"
+       },
+       {
+        "ring": [
+         [
+          -11,
+          52
+         ],
+         [
+          -10,
+          58
+         ],
+         [
+          -5,
+          60
+         ],
+         [
+          5,
+          62
+         ],
+         [
+          5,
+          70
+         ],
+         [
+          15,
+          75
+         ],
+         [
+          30,
+          80
+         ],
+         [
+          60,
+          80
+         ],
+         [
+          65,
+          72
+         ],
+         [
+          55,
+          68
+         ],
+         [
+          45,
+          65
+         ],
+         [
+          38,
+          60
+         ],
+         [
+          32,
+          56
+         ],
+         [
+          25,
+          53
+         ],
+         [
+          15,
+          52.5
+         ],
+         [
+          13,
+          53.2
+         ],
+         [
+          10.5,
+          54
+         ],
+         [
+          9,
+          55
+         ],
+         [
+          6,
+          55.6
+         ],
+         [
+          2,
+          54.6
+         ],
+         [
+          -0.5,
+          53.6
+         ],
+         [
+          -3,
+          52
+         ],
+         [
+          -6,
+          51.8
+         ],
+         [
+          -10,
+          51.5
+         ]
+        ],
+        "kind": "ice",
+        "label": "SCANDINAVIAN AND BRITISH ICE",
+        "lab": [
+         28,
+         66
+        ],
+        "size": 10
+       },
+       {
+        "ring": [
+         [
+          170,
+          62
+         ],
+         [
+          178,
+          66
+         ],
+         [
+          -178,
+          70
+         ],
+         [
+          -165,
+          72
+         ],
+         [
+          -158,
+          70
+         ],
+         [
+          -162,
+          66
+         ],
+         [
+          -165,
+          60
+         ],
+         [
+          -170,
+          57
+         ],
+         [
+          -178,
+          60
+         ]
+        ],
+        "kind": "bridge",
+        "label": "BERINGIA",
+        "lab": [
+         -172,
+         66
+        ],
+        "size": 10
+       },
+       {
+        "ring": [
+         [
+          95,
+          6
+         ],
+         [
+          100,
+          10
+         ],
+         [
+          106,
+          12
+         ],
+         [
+          110,
+          8
+         ],
+         [
+          117,
+          7
+         ],
+         [
+          117.8,
+          1.5
+         ],
+         [
+          117,
+          -4
+         ],
+         [
+          114,
+          -8
+         ],
+         [
+          106,
+          -7
+         ],
+         [
+          101,
+          -3
+         ],
+         [
+          96,
+          4
+         ]
+        ],
+        "kind": "bridge",
+        "label": "SUNDA",
+        "lab": [
+         108,
+         2
+        ],
+        "size": 10
+       },
+       {
+        "ring": [
+         [
+          122,
+          -14
+         ],
+         [
+          128,
+          -11
+         ],
+         [
+          135,
+          -6
+         ],
+         [
+          141,
+          -8
+         ],
+         [
+          146,
+          -9
+         ],
+         [
+          142,
+          -12
+         ],
+         [
+          136,
+          -12
+         ],
+         [
+          130,
+          -12
+         ],
+         [
+          125,
+          -16
+         ]
+        ],
+        "kind": "bridge",
+        "label": "SAHUL",
+        "lab": [
+         133,
+         -10
+        ],
+        "size": 10
+       },
+       {
+        "ring": [
+         [
+          -5,
+          49.5
+         ],
+         [
+          -2,
+          51
+         ],
+         [
+          0,
+          53.5
+         ],
+         [
+          2,
+          54.6
+         ],
+         [
+          6,
+          55.6
+         ],
+         [
+          8,
+          54.5
+         ],
+         [
+          5,
+          53
+         ],
+         [
+          2,
+          51.5
+         ],
+         [
+          1.5,
+          50
+         ]
+        ],
+        "kind": "bridge"
+       },
+       {
+        "ring": [
+         [
+          144,
+          -38.5
+         ],
+         [
+          149,
+          -38.5
+         ],
+         [
+          148,
+          -41
+         ],
+         [
+          144,
+          -41
+         ]
+        ],
+        "kind": "bridge"
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         40.5,
+         56.18
+        ],
+        "label": "Sunghir",
+        "date": "c. 34,000",
+        "plate": {
+         "kicker": "2.3 · the Ice Age",
+         "title": "Sunghir",
+         "sub": "Russia, c. 34,000 years ago",
+         "text": "[[c-sunghir]]",
+         "sources": [
+          "sikora2017"
+         ]
+        }
+       },
+       {
+        "ll": [
+         39.03,
+         51.4
+        ],
+        "label": "Kostenki",
+        "date": "c. 25,000",
+        "dy": 16,
+        "plate": {
+         "kicker": "2.3 · the Ice Age",
+         "title": "Kostenki 11",
+         "sub": "Russia, c. 25,000 years ago",
+         "text": "[[c-kostenki]]",
+         "sources": [
+          "pryor2020"
+         ]
+        }
+       },
+       {
+        "ll": [
+         3.0,
+         54.0
+        ],
+        "label": "Doggerland",
+        "date": "gone by c. 7,000 years ago",
+        "anchor": "end",
+        "dy": -6,
+        "plate": {
+         "kicker": "2.3 · the Ice Age",
+         "title": "Doggerland",
+         "sub": "the drowned plain of the North Sea",
+         "text": "[[c-doggerland]]",
+         "sources": [
+          "walker2020"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -168.98,
+         65.75
+        ],
+        "label": "Bering land bridge",
+        "anchor": "end",
+        "dy": 22,
+        "plate": {
+         "kicker": "2.3 · the Ice Age",
+         "title": "Beringia",
+         "sub": "Siberia and Alaska joined",
+         "text": "[[c-beringia]] [[c-beringia-late]]",
+         "sources": [
+          "brit-beringia",
+          "nps-beringia",
+          "farmer2022"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "According to Walker and colleagues (2020), what finally ended Doggerland?",
+     "choices": [
+      "The Storegga tsunami, which drowned it within a single day",
+      "Rising seas, with the tsunami striking a shrunken island",
+      "The advance of the Scandinavian ice sheet across it",
+      "Land sinking under the North Sea, not rising water"
+     ],
+     "answer": 1,
+     "why": "The plain had been shrinking for thousands of years as the seas rose; by about 8,150 years ago, when the Storegga tsunami struck, it was a small island, and it was gone by about 7,000 years ago.",
+     "wrong": {
+      "0": "They argue that rising sea level, not the tsunami, finally ended it; the tsunami struck an island that was already small.",
+      "2": "By then the ice was melting; its melting is what raised the sea.",
+      "3": "They attribute the loss to rising seas."
+     }
+    },
+    {
+     "q": "Why do Pryor and colleagues doubt that the Kostenki mammoth-bone ring was a long-term dwelling?",
+     "choices": [
+      "It contains too few mammoth bones for a house",
+      "Traces of activity inside the ring are light",
+      "It was built after the Ice Age had ended",
+      "Its ring is too small for people to live in"
+     ],
+     "answer": 1,
+     "why": "A long-lived dwelling would leave more debris, so the light traces of activity argue against one; the ring may have been a store or a ritual place.",
+     "wrong": {
+      "0": "It holds the bones of at least 60 mammoths.",
+      "2": "It dates to about 25,000 years ago, during the Last Glacial Maximum.",
+      "3": "The ring is 12.5 metres across, large rather than small."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Lost giants",
+   "sub": "the end of the megafauna",
+   "lede": "Fifty thousand years ago the world was full of giants: mammoths, giant ground sloths, wombat-like beasts the size of a car. Most were gone by the end of the Ice Age. Whether people or climate killed them is one of the long arguments of science.",
+   "body": [
+    "The losses were heaviest on continents whose animals had never met earlier kinds of human. Australia lost about 88 percent of its genera of large mammals, the Americas 72-83 percent; Africa, where people had lived alongside large animals for hundreds of thousands of years, lost about 21 percent. [[c-genera-lost]]",
+    "The timing differed from continent to continent, and in several places it followed soon after people arrived: in Australia, mostly before about 40,000 years ago; in North America, mostly between 13,500 and 11,500 years ago. [[c-extinction-timing]] In southwest Australia the die-off came within about 2,000 years of human arrival, [[c-sw-australia]] though some giants, such as Diprotodon, seem to have lived alongside people far longer. [[c-diprotodon]]",
+    {
+     "table": {
+      "head": [
+       "Animal",
+       "Where",
+       "Last known"
+      ],
+      "rows": [
+       [
+        "Diprotodon",
+        "Australia",
+        "c. 25,000 years ago"
+       ],
+       [
+        "Woolly rhinoceros",
+        "northern Eurasia",
+        "c. 14,000 (fossils); perhaps 9,800 [[c-rhino]]"
+       ],
+       [
+        "Woolly mammoth",
+        "Wrangel Island",
+        "c. 4,000 years ago"
+       ],
+       [
+        "Moa",
+        "New Zealand",
+        "c. 1400 CE"
+       ]
+      ]
+     }
+    },
+    "Islands give the sharpest cases. In New Zealand, all moa were gone within about 120 years of the first Polynesian settlers. [[c-moa]] The last woolly mammoths survived on Wrangel Island, off Siberia, until about 4,000 years ago, when the pyramids of Egypt were already standing. [[c-wrangel]]",
+    "The argument goes on. Some researchers blame people almost entirely, [[c-overkill]] others point to the changing climate, [[c-climate]] and many now think it was both: climate stressed the animals and hunting finished them. [[c-combination]]"
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "split",
+    "caption": "Large-mammal genera lost since about 50,000 years ago",
+    "title": "Share of large-mammal genera lost, by continent",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "Australia (people by c. 65,000 or 50,000 years ago)",
+      "parts": [
+       {
+        "v": 88,
+        "lab": "88% lost",
+        "acc": true,
+        "name": "Australia",
+        "tip": "14 genera extinct, 2 survived"
+       },
+       {
+        "v": 12,
+        "lab": "survived",
+        "name": "survived"
+       }
+      ]
+     },
+     {
+      "t": "South America (people by c. 14,500?; Monte Verde date challenged)",
+      "parts": [
+       {
+        "v": 83,
+        "lab": "83% lost",
+        "acc": true
+       },
+       {
+        "v": 17,
+        "lab": "survived"
+       }
+      ]
+     },
+     {
+      "t": "North America (people by c. 16,000, perhaps 23,000)",
+      "parts": [
+       {
+        "v": 72,
+        "lab": "72% lost",
+        "acc": true
+       },
+       {
+        "v": 28,
+        "lab": "survived"
+       }
+      ]
+     },
+     {
+      "t": "Eurasia (modern humans by c. 60,000-45,000)",
+      "parts": [
+       {
+        "v": 35,
+        "lab": "35%",
+        "acc": true
+       },
+       {
+        "v": 65,
+        "lab": "survived: 65%"
+       }
+      ]
+     },
+     {
+      "t": "Africa (where humans evolved)",
+      "parts": [
+       {
+        "v": 21,
+        "lab": "21%",
+        "acc": true
+       },
+       {
+        "v": 79,
+        "lab": "survived: 79%"
+       }
+      ]
+     }
+    ],
+    "notes": [
+     "Genera, not species. Source: Our World in Data, from Barnosky (2008) and Koch and Barnosky (2006); arrival dates as in 1.2."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Which pattern most supports a major human role in the megafaunal extinctions?",
+     "choices": [
+      "Each continent lost about the same share at once",
+      "Losses often followed soon after people first arrived",
+      "Africa, home to the earliest humans, lost the most genera",
+      "The extinctions mostly struck small rather than large mammals"
+     ],
+     "answer": 1,
+     "why": "In Australia the losses came mostly before about 40,000 years ago, in North America mostly between 13,500 and 11,500 years ago; in several places they followed soon after people arrived, and they were heaviest where animals had never met earlier kinds of human.",
+     "wrong": {
+      "0": "Losses ranged from about 88 percent of genera in Australia to 21 percent in Africa, at different times.",
+      "2": "Africa lost the fewest, about 21 percent.",
+      "3": "The losses were of large mammals: Australia lost about 88 percent of its genera of large mammals."
+     }
+    },
+    {
+     "q": "What does the case of the Wrangel Island mammoths show?",
+     "choices": [
+      "Inbreeding has been proven to be the cause of their extinction",
+      "A tiny herd lasted for millennia, then died out for unknown reasons",
+      "They died out at the very end of the Ice Age, like the rest",
+      "The island herd was founded by thousands of mainland animals"
+     ],
+     "answer": 1,
+     "why": "Descended from fewer than ten animals cut off by rising seas, the population was small and inbred but stable for thousands of years, until about 4,000 years ago. Why it finally died out is unknown.",
+     "wrong": {
+      "0": "The population was inbred but stable for thousands of years; why it died out is unknown.",
+      "2": "They survived until about 4,000 years ago, long after the end of the Ice Age.",
+      "3": "Fewer than ten animals founded the population."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Warming, and people who settled down",
+   "sub": "the end of the Ice Age in the Levant",
+   "lede": "As the Ice Age ended, the climate lurched between warm and cold. In the Levant, some foragers stopped moving: they built houses, buried their dead beside them and harvested wild grain, thousands of years before anyone farmed.",
+   "body": [
+    "The end of the Ice Age was not smooth. About 14,700 years ago, Greenland warmed abruptly. [[c-bolling]] Then, about 12,900 years ago, the cold returned for some twelve centuries, the Younger Dryas, [[c-yd]] before the warm, stable Holocene began 11,700 years ago. [[c-holocene]]",
+    "In the warm interval, the Natufian people of the Levant began to stay put for much of the year. [[c-natufian]] At 'Ain Mallaha in Galilee they built round houses sunk into the ground and buried their dead among them; [[c-mallaha]] one person was buried with a puppy, wolf or dog. [[c-puppy]] At Hilazon Tachtit, an elderly woman was buried with 50 tortoise shells, a grave often read as a shaman's. [[c-shaman]]",
+    "They ate wild cereals, and did more than boil them. At Shubayqa 1 in Jordan, people baked a flatbread from wild einkorn and tubers about 14,400 years ago, some 3,000 years before people began to cultivate cereals (1.3) and at least 4,000 years before farming became a way of life. [[c-bread]] At Raqefet Cave, residues in stone mortars have even been read as beer. [[c-beer]]",
+    "Did the Younger Dryas cold push them to cultivate, as wild foods failed? The idea is attractive and contested: some evidence suggests the cold brought little cultural change, and that it was the stable warmth afterwards that made farming possible. [[c-yd-push]]",
+    {
+     "compare": "Settling down came first; farming came later. Sedentary foragers like the Natufians show that villages did not need farming, though farming made villages much larger (2.8)."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "Climate and the Natufians, 16,000-9,000 years ago",
+    "title": "Climate (above) and human sites in the Levant (below)",
+    "max": 16000,
+    "min": 9000,
+    "unit": "ka",
+    "ticks": [
+     16000,
+     15000,
+     14000,
+     13000,
+     12000,
+     11000,
+     10000,
+     9000
+    ],
+    "tickLabels": [
+     "16,000",
+     "15,000",
+     "14,000",
+     "13,000",
+     "12,000",
+     "11,000",
+     "10,000",
+     "9,000"
+    ],
+    "axis": "years ago",
+    "hint": "Hover or click a row",
+    "rows": [
+     {
+      "t": "Bølling-Allerød",
+      "sub": "warm",
+      "from": 14700,
+      "to": 12900,
+      "lab": "14,700-12,900",
+      "tip": "abrupt warming"
+     },
+     {
+      "t": "Younger Dryas",
+      "sub": "cold",
+      "from": 12900,
+      "to": 11700,
+      "lab": "12,900-11,700",
+      "acc": true,
+      "tip": "a return to near-glacial cold",
+      "plate": {
+       "kicker": "2.5 · climate",
+       "title": "The Younger Dryas",
+       "sub": "about 12,900 to 11,700 years ago",
+       "text": "[[c-yd]] [[c-yd-push]]",
+       "sources": [
+        "walker2009",
+        "hillman2001",
+        "roberts2017"
+       ]
+      }
+     },
+     {
+      "t": "Holocene",
+      "sub": "warm and stable",
+      "from": 11700,
+      "to": 9000,
+      "lab": "from 11,700",
+      "open": true
+     },
+     {
+      "t": "Natufian culture",
+      "from": 15000,
+      "to": 11600,
+      "lab": "15,000-11,600",
+      "plate": {
+       "kicker": "2.5 · the Natufians",
+       "title": "The Natufian culture",
+       "sub": "the Levant, about 15,000 to 11,600 years ago",
+       "text": "[[c-natufian]] [[c-mallaha]] [[c-shaman]]",
+       "sources": [
+        "grosman2008",
+        "harvard-eynan"
+       ]
+      }
+     },
+     {
+      "t": "'Ain Mallaha",
+      "sub": "round houses",
+      "from": 14500,
+      "to": 11700,
+      "lab": "14,500-11,700"
+     },
+     {
+      "t": "Shubayqa 1",
+      "sub": "bread",
+      "from": 14400,
+      "to": 14200,
+      "lab": "c. 14,400",
+      "plate": {
+       "kicker": "2.5 · bread",
+       "title": "Shubayqa 1",
+       "sub": "Jordan, about 14,400 years ago",
+       "text": "[[c-bread]]",
+       "sources": [
+        "arranz2018"
+       ]
+      }
+     },
+     {
+      "t": "Hilazon Tachtit",
+      "sub": "'shaman' burial",
+      "from": 12400,
+      "to": 12000,
+      "lab": "c. 12,000"
+     },
+     {
+      "t": "Göbekli Tepe",
+      "sub": "see 2.6",
+      "from": 11600,
+      "to": 10200,
+      "lab": "11,600-10,200"
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What is the significance of the bread found at Shubayqa 1?",
+     "choices": [
+      "It proves the Natufians grew domesticated wheat",
+      "Foragers baked a bread-like food from wild plants",
+      "Bread had become the daily staple food of foragers",
+      "It was baked during the cold of the Younger Dryas"
+     ],
+     "answer": 1,
+     "why": "About 14,400 years ago, foragers at Shubayqa 1 baked flatbread-like food from wild einkorn and tubers, at least 4,000 years before farming became a way of life.",
+     "wrong": {
+      "0": "The einkorn was wild.",
+      "2": "The authors suggest it was a special food, not a staple.",
+      "3": "At 14,400 years old it falls in the earlier warm interval, before the Younger Dryas began about 12,900 years ago."
+     }
+    },
+    {
+     "q": "What is the strongest problem for the idea that the Younger Dryas forced people to farm?",
+     "choices": [
+      "The Younger Dryas was a warm phase, not a cold one",
+      "The cold's onset brought no major change in culture",
+      "The Natufian culture began after the Holocene did",
+      "Abu Hureyra produced no plant remains to study"
+     ],
+     "answer": 1,
+     "why": "Roberts and colleagues (2017) found no major cultural shift when the cold began, and suggest the warmth after it mattered more.",
+     "wrong": {
+      "0": "It was a return to near-glacial cold.",
+      "2": "The Natufian began about 15,000 years ago and ended near the start of the Holocene.",
+      "3": "The Abu Hureyra argument rests on its plant remains: wild foods declining and rye being cultivated."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Göbekli Tepe",
+   "sub": "monuments before farming",
+   "lede": "Eleven and a half thousand years ago, on a hill in southeastern Turkey, people who still lived by hunting and gathering raised circles of carved stone pillars taller than a person. It changed what archaeologists thought foragers could do.",
+   "body": [
+    "Göbekli Tepe was built from about 9600 to 8200 BCE. Its round and rectangular enclosures hold T-shaped limestone pillars up to 5.5 metres tall. Many have carved arms, hands and belts, so they are stylised human figures, and they are covered with foxes, boars, snakes, vultures and scorpions. [[c-gobekli]] Every animal bone found there comes from a wild species. [[c-gobekli-wild]]",
+    "Its excavator, Klaus Schmidt, saw it as a sanctuary that hunter-gatherers gathered to build: 'First the temple, then the city.' [[c-schmidt]] The idea was irresistible to the press. But excavations between 2015 and 2019 found ordinary houses with hearths, a large rock-cut basin that may have stored water, and channels to fill it. [[c-gobekli-houses]] More than 7,000 grinding stones show wild cereals were processed on a large scale, perhaps to feed work parties. [[c-grinding]]",
+    {
+     "table": {
+      "head": [
+       "",
+       "Schmidt's view (1990s-2014)",
+       "Current view"
+      ],
+      "rows": [
+       [
+        "what it was",
+        "a sanctuary, 'the first temple'",
+        "special buildings within a settlement"
+       ],
+       [
+        "who lived there",
+        "no one; people gathered to build",
+        "people lived there"
+       ],
+       [
+        "the fill",
+        "deliberate ritual burial",
+        "partly slope slides; how much was deliberate is debated"
+       ]
+      ],
+      "note": "[[c-gobekli-houses]]"
+     }
+    },
+    "Göbekli Tepe is not alone. Nearby Karahan Tepe has similar pillars and more than 30 houses, and about a dozen sites of the same culture are now being explored, the Taş Tepeler, 'stone hills'. [[c-karahan]] Popular claims that its carvings record a comet strike or a calendar have been rejected by the excavators. [[c-comet]]",
+    "What stays remarkable is the order of events. Monumental building, carving and large gatherings came before domesticated crops and animals, not after. Whatever the pillars meant, the effort of building them may have been one of the things that drew people into more settled lives."
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 38.9,
+     "lat": 36.8,
+     "zoom": 48
+    },
+    "caption": "Göbekli Tepe and its neighbours, southeastern Turkey",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "dot",
+      "monument sites"
+     ],
+     [
+      "pt",
+      "other sites"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         38.9217,
+         37.2236
+        ],
+        "label": "Göbekli Tepe",
+        "date": "c. 9600-8200 BCE",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "2.6 · Göbekli Tepe",
+         "title": "Göbekli Tepe",
+         "sub": "c. 9600 to 8200 BCE",
+         "text": "[[c-gobekli]] [[c-gobekli-houses]] [[c-grinding]]",
+         "facts": [
+          [
+           "pillars",
+           "T-shaped limestone, up to 5.5 m"
+          ],
+          [
+           "animals",
+           "all wild; gazelle commonest"
+          ],
+          [
+           "builders",
+           "hunter-gatherers"
+          ]
+         ],
+         "sources": [
+          "unesco-gobekli",
+          "clare2020",
+          "dietrich2019"
+         ]
+        }
+       },
+       {
+        "ll": [
+         39.3036,
+         37.0925
+        ],
+        "label": "Karahan Tepe",
+        "date": "10th millennium BCE",
+        "acc": true,
+        "plate": {
+         "kicker": "2.6 · Taş Tepeler",
+         "title": "Karahan Tepe",
+         "sub": "10th millennium BCE",
+         "text": "[[c-karahan]]",
+         "sources": [
+          "karul2021",
+          "smithsonian-karahan"
+         ]
+        }
+       },
+       {
+        "ll": [
+         38.6056,
+         37.5183
+        ],
+        "label": "Nevalı Çori",
+        "date": "T-pillars; now under a reservoir",
+        "acc": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         39.8,
+         37.7
+        ],
+        "label": "Karacadağ",
+        "date": "wild einkorn (2.7)",
+        "dy": -6
+       },
+       {
+        "ll": [
+         38.4,
+         35.866
+        ],
+        "label": "Abu Hureyra",
+        "date": "early cultivation? (2.5)",
+        "anchor": "end"
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why have Göbekli Tepe's excavators backed away from calling it a temple?",
+     "choices": [
+      "Bones of domesticated animals were found there",
+      "Digs found houses with hearths and water channels",
+      "The pillars turned out to be natural rock outcrops",
+      "New dates place its building after about 6000 BCE"
+     ],
+     "answer": 1,
+     "why": "Excavations from 2015 to 2019 found houses with hearths, a large rock-cut pit that may have been a cistern and channels to collect water; the team now describes special buildings within a settlement.",
+     "wrong": {
+      "0": "The animal bones are all from wild species.",
+      "2": "The pillars are carved limestone.",
+      "3": "The site dates to about 9600-8200 BCE."
+     }
+    },
+    {
+     "q": "Which finding most complicates 'first the temple, then the city'?",
+     "choices": [
+      "The pillars are carved as stylised human figures",
+      "The builders lived there and processed wild cereals",
+      "Its carvings record a comet strike rather than worship",
+      "The builders grew domesticated einkorn and barley"
+     ],
+     "answer": 1,
+     "why": "Houses with hearths and more than 7,000 grinding tools suggest people lived at the site, so monument and settlement came together rather than one after the other.",
+     "wrong": {
+      "0": "True, but it concerns what the pillars meant, not the order of temple and settlement.",
+      "2": "The excavators reject that claim, and it would say nothing about the order of temple and settlement.",
+      "3": "The cereals were wild einkorn and barley; one possible trace of domestic barley is tentative."
+     }
+    }
+   ]
+  },
+  {
+   "title": "How domestication worked",
+   "sub": "plants and animals that changed with us",
+   "lede": "Domestication was not a single invention. Over centuries and millennia, by harvesting, sowing and herding, people changed the plants and animals they lived with until some could no longer live without them.",
+   "body": [
+    "Wild wheat scatters its seeds as soon as they ripen; domestic wheat holds them until a person harvests them. Domestic cereals also have bigger seeds that sprout as soon as they are sown. [[c-syndrome]] Each trait spread because people unknowingly favoured it: they harvested the ears that had not yet shattered and sowed some of that grain the next year.",
+    "The change was slow. At early sites in Turkey and Syria, the share of non-shattering wheat rose over some 3,000 years, though a minority of scholars argue for a short, deliberate domestication. [[c-protracted]] The 'founder crops' of Southwest Asia were wheat (einkorn and emmer), barley, lentil, pea, chickpea, bitter vetch and flax. [[c-founders]] [[c-einkorn]]",
+    {
+     "table": {
+      "head": [
+       "Plant or animal",
+       "Where",
+       "When (years ago)"
+      ],
+      "rows": [
+       [
+        "Dog",
+        "western Eurasia (origin unknown)",
+        "by c. 15,800"
+       ],
+       [
+        "Goat, sheep",
+        "Southwest Asia",
+        "c. 11,000-10,000"
+       ],
+       [
+        "Founder crops",
+        "Southwest Asia",
+        "c. 11,000-10,000"
+       ],
+       [
+        "Cattle",
+        "Near East",
+        "c. 10,500"
+       ],
+       [
+        "Pig",
+        "Near East",
+        "by c. 10,500"
+       ],
+       [
+        "Cat (tamed?)",
+        "Cyprus",
+        "c. 9,500"
+       ]
+      ],
+      "note": "[[c-goats-sheep]] [[c-cattle]]"
+     }
+    },
+    "Goats and sheep were domesticated about 11,000-10,000 years ago, cattle and pigs soon after. All taurine (humpless) cattle descend from perhaps 80 wild aurochs; humped zebu cattle were domesticated separately in South Asia. Within a few centuries farmers carried all four to Cyprus by boat.",
+    "The dog came first, long before farming. Genomes published in 2026 show dogs living with hunter-gatherers in Turkey, Britain and Switzerland 15,800-14,200 years ago; where wolves first became dogs is still unknown. [[c-dog]] Cats have a different story: a cat was buried beside a person on Cyprus 9,500 years ago, but domestic cats reached Europe only about 2,000 years ago. [[c-cat]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 22,
+     "lat": 43,
+     "zoom": 3.2
+    },
+    "caption": "Some early domestic animals and crops, with dates in years ago",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "pt",
+      "site"
+     ],
+     [
+      "dot",
+      "dog"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         39.8,
+         37.7
+        ],
+        "label": "Karacadağ",
+        "date": "einkorn",
+        "dy": -6,
+        "plate": {
+         "kicker": "2.7 · crops",
+         "title": "Karacadağ",
+         "sub": "southeastern Turkey",
+         "text": "[[c-einkorn]] [[c-syndrome]] [[c-protracted]]",
+         "sources": [
+          "heun-arch",
+          "fuller2007",
+          "tanno2006"
+         ]
+        }
+       },
+       {
+        "ll": [
+         47.5,
+         34.4
+        ],
+        "label": "Zagros",
+        "date": "goats, c. 10,200",
+        "plate": {
+         "kicker": "2.7 · animals",
+         "title": "Goats in the Zagros",
+         "sub": "Ganj Dareh, Iran",
+         "text": "Herded goats at Ganj Dareh were on the path to domestication by about 10,200 years ago. [[c-goats-sheep]]",
+         "sources": [
+          "daly2021",
+          "zeder2008"
+         ]
+        }
+       },
+       {
+        "ll": [
+         33.16,
+         34.74
+        ],
+        "label": "Cyprus",
+        "date": "cat, c. 9,500",
+        "anchor": "end",
+        "dy": 14,
+        "plate": {
+         "kicker": "2.7 · animals",
+         "title": "Shillourokambos",
+         "sub": "Cyprus, about 9,500 years ago",
+         "text": "[[c-cat]] [[c-goats-sheep]]",
+         "sources": [
+          "natgeo-cat",
+          "snsb-cats",
+          "zeder2008"
+         ]
+        }
+       },
+       {
+        "ll": [
+         33.0,
+         37.5
+        ],
+        "label": "Pınarbaşı",
+        "date": "dog, c. 15,800",
+        "acc": true,
+        "anchor": "end",
+        "dy": -6,
+        "plate": {
+         "kicker": "2.7 · the first domestic animal",
+         "title": "The dog",
+         "sub": "by about 15,800 years ago",
+         "text": "[[c-dog]]",
+         "facts": [
+          [
+           "Pınarbaşı, Türkiye",
+           "c. 15,800 years ago"
+          ],
+          [
+           "Gough's Cave, Britain",
+           "c. 14,300"
+          ],
+          [
+           "Kesslerloch, Switzerland",
+           "c. 14,200"
+          ]
+         ],
+         "sources": [
+          "oxford-dogs2026",
+          "natasia-dogs2026",
+          "bergstrom2022"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -2.76,
+         51.28
+        ],
+        "label": "Gough's Cave",
+        "date": "dog, c. 14,300",
+        "acc": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         8.73,
+         47.73
+        ],
+        "label": "Kesslerloch",
+        "date": "dog, c. 14,200",
+        "acc": true,
+        "dy": -6
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why does an ear that does not shatter mark a cereal as domesticated?",
+     "choices": [
+      "It makes each grain larger and easier to grind",
+      "The plant now needs people to harvest and sow it",
+      "It makes the seed wait longer before sprouting",
+      "Wild stands have the trait as often as crops do"
+     ],
+     "answer": 1,
+     "why": "Wild wheat scatters its seeds as soon as they ripen; domestic wheat holds them until a person harvests them, so its seed spreads only when people sow it.",
+     "wrong": {
+      "0": "Grain size is a separate trait.",
+      "2": "Domestic cereals have seeds that sprout as soon as they are sown.",
+      "3": "Wild wheat scatters its seeds as soon as they ripen."
+     }
+    },
+    {
+     "q": "What do the dog genomes published in 2026 show?",
+     "choices": [
+      "Early farmers first domesticated dogs about 10,500 years ago",
+      "Dogs lived with hunter-gatherers before any farming",
+      "Turkey has now been proven to be where dogs began",
+      "Cats and dogs were domesticated at about the same time"
+     ],
+     "answer": 1,
+     "why": "Genomes from Turkey, Britain and Switzerland show dogs living with hunter-gatherers 15,800-14,200 years ago, long before farming; where wolves first became dogs is still unknown.",
+     "wrong": {
+      "0": "The dogs date to 15,800-14,200 years ago, when everyone foraged.",
+      "2": "Where dogs were first domesticated is still unknown.",
+      "3": "Cats came much later: a cat was buried beside a person on Cyprus about 9,500 years ago, and domestic cats reached Europe only about 2,000 years ago."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The first villages and towns",
+   "sub": "Jericho, 'Ain Ghazal and Çatalhöyük",
+   "lede": "As farming took hold, some settlements grew into places of thousands of people. They were not yet cities: no kings, no writing and, at the largest, no streets.",
+   "body": [
+    "At Jericho, by a spring in the Jordan valley, people built a stone wall and a tower about 8.5 metres high roughly 11,000 years ago, before pottery and before fully domesticated crops. [[c-jericho]] [[c-jericho-tower]] Why they built it is still argued: defence, a flood barrier, a statement of the village's standing, or a monument aligned with the midsummer sunset that bound the community together. [[c-jericho-purpose]]",
+    "Across the Jordan, 'Ain Ghazal grew to about 10-12 hectares, and its people buried caches of plaster statues with staring eyes, some of the oldest large human figures known. [[c-aingh]] Then, after about 8,900 years ago, it shrank, perhaps as the climate dried. [[c-megasite]]",
+    "Çatalhöyük, on the plain of central Turkey, was occupied for more than a thousand years, from about 7100 to 5950 BCE. [[c-catal]] Its houses were packed wall to wall with no streets; people walked across the rooftops and climbed down ladders into their homes, and buried their dead under the floors. [[c-catal-houses]] At its height it held perhaps 3,500-8,000 people. [[c-catal-pop]]",
+    {
+     "table": {
+      "head": [
+       "Settlement",
+       "Date",
+       "Size"
+      ],
+      "rows": [
+       [
+        "Jericho",
+        "tower c. 11,000 years ago",
+        "a village of round mud-brick houses"
+       ],
+       [
+        "'Ain Ghazal",
+        "from c. 10,200 years ago; shrank after c. 8,900",
+        "about 10-12 ha"
+       ],
+       [
+        "Çatalhöyük",
+        "c. 7100-5950 BCE",
+        "13.5 ha; perhaps 3,500-8,000 people"
+       ]
+      ]
+     }
+    },
+    "No palace or temple has been found there, and men and women ate much the same food. Ancient DNA published in 2025 shows that where people buried in the same house were related, the links ran mainly through mothers; in later phases many were not related at all. [[c-catal-equal]] Life was not easy: about 10-13 percent of adult teeth had cavities, infection was common, and healed head injuries became more frequent as the town grew more crowded. [[c-catal-health]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 35.3,
+     "lat": 34.8,
+     "zoom": 30
+    },
+    "caption": "Early villages and towns of the Levant and Anatolia",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "pt",
+      "site"
+     ]
+    ],
+    "seaLabels": [
+     {
+      "t": "MEDITERRANEAN SEA",
+      "ll": [
+       31.5,
+       34.2
+      ]
+     }
+    ],
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         35.444,
+         31.871
+        ],
+        "label": "Jericho",
+        "date": "tower c. 11,000 years ago",
+        "anchor": "end",
+        "plate": {
+         "kicker": "2.8 · villages",
+         "title": "Jericho",
+         "sub": "Tell es-Sultan, Jordan valley",
+         "text": "[[c-jericho]] [[c-jericho-tower]] [[c-jericho-purpose]]",
+         "sources": [
+          "unesco-jericho",
+          "sd-jericho"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.976,
+         31.988
+        ],
+        "label": "'Ain Ghazal",
+        "date": "statues c. 9,000 years ago",
+        "dy": -10,
+        "plate": {
+         "kicker": "2.8 · villages",
+         "title": "'Ain Ghazal",
+         "sub": "Amman, Jordan",
+         "text": "[[c-aingh]] [[c-megasite]]",
+         "sources": [
+          "dsb-aingh",
+          "si-aingh",
+          "zielhofer2012",
+          "brit-aingh"
+         ]
+        }
+       },
+       {
+        "ll": [
+         32.828,
+         37.667
+        ],
+        "label": "Çatalhöyük",
+        "date": "c. 7100-5950 BCE",
+        "big": true,
+        "plate": {
+         "kicker": "2.8 · towns",
+         "title": "Çatalhöyük",
+         "sub": "central Turkey, c. 7100 to 5950 BCE",
+         "text": "[[c-catal]] [[c-catal-houses]] [[c-catal-pop]] [[c-catal-equal]] [[c-catal-health]]",
+         "facts": [
+          [
+           "area",
+           "13.5 hectares"
+          ],
+          [
+           "entrance",
+           "through the roof"
+          ],
+          [
+           "burials",
+           "under the house floors"
+          ]
+         ],
+         "sources": [
+          "catal-guide",
+          "yuncu2025",
+          "osu-larsen"
+         ]
+        }
+       },
+       {
+        "ll": [
+         38.92,
+         37.22
+        ],
+        "label": "Göbekli Tepe",
+        "date": "see 2.6",
+        "dy": -8
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Which finding most weakens the idea that Çatalhöyük households were simply nuclear families?",
+     "choices": [
+      "Most of the dead were buried under house floors",
+      "In later phases, many buried together were unrelated",
+      "Around a tenth of adult teeth had cavities in them",
+      "People entered their houses by ladder through the roof"
+     ],
+     "answer": 1,
+     "why": "Ancient DNA published in 2025 shows that where people buried in the same house were related, the links ran mainly through mothers, and in later phases many were not related at all.",
+     "wrong": {
+      "0": "Floor burial shows where people were buried, not how they were related.",
+      "2": "Cavities reflect diet and health, not household make-up.",
+      "3": "Roof entry is a feature of the buildings with no bearing on kinship."
+     }
+    },
+    {
+     "q": "What did Liran and Barkai (2011) argue about the Jericho tower?",
+     "choices": [
+      "A flood barrier protecting the village",
+      "A granary for storing the village's grain",
+      "A monument aligned with the solstice sunset",
+      "A fortress added to the town in the Bronze Age"
+     ],
+     "answer": 2,
+     "why": "They noted that the line of its staircase points to the midsummer sunset behind a nearby mountain, and read the tower as a monument that drew people into communal life.",
+     "wrong": {
+      "0": "Flood defence is one of the other readings of the tower; they stressed its alignment with the solstice sunset.",
+      "1": "They did not propose a granary; they pointed to the alignment of its staircase with the solstice sunset.",
+      "3": "The tower was built roughly 11,000 years ago, before pottery and before fully domesticated crops."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Was farming a good deal?",
+   "sub": "more people, harder lives",
+   "lede": "Farming fed more people from the same land, and farming communities grew. But by many measures, early farmers were often shorter, sicker and harder-worked than the foragers before them.",
+   "body": [
+    "The clearest gain was in numbers. Cemeteries of the first farmers hold a much larger share of children than those of foragers, a sign that birth rates rose: the Neolithic Demographic Transition. [[c-ndt]] Settled women could have children more often, and grain could feed them.",
+    "The costs show in bones and teeth. Most studies find that adult height fell as people came to rely on farming, [[c-stature]] and grain-rich diets brought tooth decay. Living close to herds and to each other brought new diseases: in ancient genomes, diseases caught from animals appear about 6,500 years ago and are widespread by 5,000. [[c-zoonoses]]",
+    "In 1987 Jared Diamond called farming 'the worst mistake in the history of the human race'. [[c-diamond]] Few specialists put it so starkly. A 2023 study of 3,507 skeletons found that in most regions height had begun to fall before farming appeared, so farming was not the only cause. [[c-stock]]",
+    {
+     "table": {
+      "head": [
+       "Gains",
+       "Costs"
+      ],
+      "rows": [
+       [
+        "more food from less land",
+        "longer, harder work for many"
+       ],
+       [
+        "more children, faster growth",
+        "shorter adults in most regions"
+       ],
+       [
+        "stored surplus",
+        "tooth decay from grain"
+       ],
+       [
+        "settled villages",
+        "crowding and infection"
+       ],
+       [
+        "animals for milk, wool, traction",
+        "diseases caught from animals"
+       ]
+      ]
+     }
+    },
+    "If it was such a mixed bargain, why did people farm? The answers are debated: a warmer and more stable climate after the Ice Age, growing populations, feasts that rewarded those who could produce a surplus, and new ideas of property. [[c-why-farm]] Perhaps the simplest answer is demographic: farmers had more children, and in time there were simply more of them."
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ledger",
+    "caption": "The farming bargain",
+    "title": "What farming brought, and what it cost",
+    "left": {
+     "h": "Gains",
+     "items": [
+      {
+       "t": "More people",
+       "s": "birth rates rose",
+       "tip": "Cemeteries hold more children: the Neolithic Demographic Transition."
+      },
+      {
+       "t": "Surplus and storage",
+       "s": "food for lean seasons, and for feasts"
+      },
+      {
+       "t": "Settled villages",
+       "s": "Jericho, Çatalhöyük (2.8)"
+      },
+      {
+       "t": "Animals",
+       "s": "milk, wool, hides, traction"
+      }
+     ]
+    },
+    "right": {
+     "h": "Costs",
+     "items": [
+      {
+       "t": "Shorter adults",
+       "s": "in most regions, though not only from farming",
+       "tip": "Height began to fall before farming in many regions (Stock et al. 2023)."
+      },
+      {
+       "t": "Tooth decay",
+       "s": "10-13% of adult teeth at Çatalhöyük"
+      },
+      {
+       "t": "Crowding and infection",
+       "s": "and more injuries in crowded towns"
+      },
+      {
+       "t": "Diseases from animals",
+       "s": "widespread by about 5,000 years ago"
+      }
+     ]
+    }
+   },
+   "practice": [
+    {
+     "q": "Which observation best explains why farming spread despite its health costs?",
+     "choices": [
+      "Farmers were taller than the foragers around them",
+      "Farming communities had more children and grew faster",
+      "Farming removed the diseases people caught from animals",
+      "Farming began at the coldest point of the Ice Age"
+     ],
+     "answer": 1,
+     "why": "Higher birth rates meant farming populations outgrew and outnumbered foragers.",
+     "wrong": {
+      "0": "Most studies find that adult height fell as people came to rely on farming.",
+      "2": "Diseases caught from animals increased with herding and crowding.",
+      "3": "Farming began after the Ice Age; a warmer, more stable climate is one proposed reason."
+     }
+    },
+    {
+     "q": "How does Stock and colleagues' 2023 study complicate the case that farming made people shorter?",
+     "choices": [
+      "Early farmers were usually the healthier group",
+      "Height often began to fall before farming",
+      "Early farmers showed no signs of tooth decay",
+      "The sharpest fall in height came in the Levant"
+     ],
+     "answer": 1,
+     "why": "In most regions, stature began to decline before the earliest signs of agriculture, so farming was not the only cause.",
+     "wrong": {
+      "0": "It did not find farmers healthier; height reached its lowest about 8,000-6,000 years ago.",
+      "2": "Grain-rich diets brought tooth decay to early farmers.",
+      "3": "It found the Levant relatively stable."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Farming spreads",
+   "sub": "people on the move",
+   "lede": "Farming did not spread across Europe mainly as an idea. Ancient DNA shows it travelled with people: farmers whose ancestors came from Anatolia and the Aegean.",
+   "body": [
+    "Farmers reached Greece about 8,500 years ago, central Europe about 7,500 and Britain about 6,000. Their descendants carried the same ancestry, traceable back to the Aegean, all the way. [[c-europe-farmers]] Averaged over the continent, the frontier moved at roughly a kilometre a year. [[c-spread-rate]]",
+    "They came by two routes. One followed the Danube into central Europe, where the Linear Pottery farmers built long timber houses on the fertile loess soils. [[c-lbk]] The other followed the Mediterranean coast to Italy, southern France and Iberia, and from there, eventually, to Britain. [[c-routes]]",
+    {
+     "table": {
+      "head": [
+       "Region",
+       "Farming arrives",
+       "Hunter-gatherer ancestry"
+      ],
+      "rows": [
+       [
+        "Greece",
+        "c. 6500 BCE",
+        "low"
+       ],
+       [
+        "Central Europe (LBK)",
+        "c. 5500 BCE",
+        "about 3%"
+       ],
+       [
+        "Southern France",
+        "c. 5400 BCE",
+        "about 31%"
+       ],
+       [
+        "Iberia",
+        "after 5500 BCE",
+        "about 13%"
+       ],
+       [
+        "Britain",
+        "c. 4000 BCE",
+        "small"
+       ]
+      ],
+      "note": "[[c-routes]] [[c-replacement]]"
+     }
+    },
+    "In much of western Europe the newcomers almost entirely replaced the earlier hunter-gatherer population, though the two mixed to different degrees along the way. [[c-replacement]]",
+    "Farming spread with migrating farmers elsewhere too, later than this chapter: Bantu-speaking farmers across much of Africa, and Austronesian-speaking farmers from Taiwan out into the Pacific. [[c-bantu]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 11,
+     "lat": 46.5,
+     "zoom": 7
+    },
+    "caption": "Farmers enter Europe, c. 6500-4000 BCE (simplified)",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "acc",
+      "route of farmers"
+     ],
+     [
+      "pt",
+      "site"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          29.5,
+          40.4
+         ],
+         [
+          22.265,
+          40.604
+         ],
+         [
+          22.5,
+          44.6
+         ],
+         [
+          19.0,
+          47.0
+         ],
+         [
+          16.4,
+          48.2
+         ],
+         [
+          8.3,
+          50.0
+         ],
+         [
+          5.5,
+          51.5
+         ]
+        ],
+        "label": "Danube route",
+        "lab": [
+         12,
+         50.5
+        ],
+        "ldy": -8
+       },
+       {
+        "path": [
+         [
+          22.265,
+          40.604
+         ],
+         [
+          19.5,
+          39
+         ],
+         [
+          15.5,
+          41.5
+         ],
+         [
+          10.5,
+          43.5
+         ],
+         [
+          7.5,
+          43.79
+         ],
+         [
+          2.0,
+          41.4
+         ],
+         [
+          -2,
+          39
+         ]
+        ],
+        "label": "Mediterranean route",
+        "lab": [
+         8,
+         41
+        ],
+        "ldy": 18,
+        "delay": 0.4
+       },
+       {
+        "path": [
+         [
+          2.0,
+          41.4
+         ],
+         [
+          0,
+          45
+         ],
+         [
+          -1.5,
+          48
+         ],
+         [
+          -1.93,
+          51.86
+         ]
+        ],
+        "delay": 0.9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         22.265,
+         40.604
+        ],
+        "label": "Nea Nikomedeia",
+        "date": "c. 6200 BCE",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         16.4,
+         48.2
+        ],
+        "label": "Middle Danube",
+        "date": "LBK, c. 5500 BCE",
+        "dy": -8,
+        "plate": {
+         "kicker": "2.10 · farmers",
+         "title": "The Linear Pottery farmers",
+         "sub": "central Europe, from c. 5500 BCE",
+         "text": "[[c-lbk]] [[c-routes]]",
+         "sources": [
+          "brit-lbk",
+          "rivollat2020"
+         ]
+        }
+       },
+       {
+        "ll": [
+         7.5,
+         43.79
+        ],
+        "label": "Pendimoun",
+        "date": "c. 5400 BCE",
+        "anchor": "end",
+        "dy": 14,
+        "plate": {
+         "kicker": "2.10 · farmers",
+         "title": "Pendimoun",
+         "sub": "Provence, c. 5480 to 5360 BCE",
+         "text": "[[c-routes]]",
+         "sources": [
+          "rivollat2020"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -1.93,
+         51.86
+        ],
+        "label": "Britain",
+        "date": "c. 4000 BCE",
+        "anchor": "end",
+        "plate": {
+         "kicker": "2.10 · farmers",
+         "title": "Farmers reach Britain",
+         "sub": "c. 4000 BCE",
+         "text": "[[c-europe-farmers]] [[c-replacement]]",
+         "sources": [
+          "brace2019",
+          "allentoft2024"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does ancient DNA show about how farming spread into Europe?",
+     "choices": [
+      "Local foragers took up farming without any migration",
+      "Farmers of Anatolian and Aegean descent moved in",
+      "Herders from the steppe first brought farming west",
+      "Farmers from North Africa crossed into Iberia first"
+     ],
+     "answer": 1,
+     "why": "Early European farmers' ancestry traces back to Anatolia and the Aegean; the newcomers mixed with local foragers to different degrees, and in much of the west almost entirely replaced them.",
+     "wrong": {
+      "0": "In much of western and central Europe the newcomers almost entirely replaced hunter-gatherer ancestry.",
+      "2": "Early European farmers' ancestry traces back to Anatolia and the Aegean, not the steppe.",
+      "3": "Farmers reached Greece first, about 8,500 years ago, and those who reached Iberia came along the Mediterranean coast."
+     }
+    },
+    {
+     "q": "Why do early farmers of southern France carry more hunter-gatherer ancestry than those of central Europe?",
+     "choices": [
+      "Farming was invented separately in southern France",
+      "Mediterranean-route farmers mixed more with foragers",
+      "Central European farmers had no contact with foragers",
+      "Foragers in France had migrated there from Anatolia"
+     ],
+     "answer": 1,
+     "why": "About 31 percent hunter-gatherer ancestry in southern France against about 3 percent in central Europe reflects more mixing along the Mediterranean route.",
+     "wrong": {
+      "0": "Farming reached France with farmers who followed the Mediterranean coast.",
+      "2": "Central European farmers did mix a little: about 3 percent of their ancestry is from hunter-gatherers.",
+      "3": "Anatolian and Aegean ancestry is what the farmers carried; the extra ancestry in southern France came from local hunter-gatherers."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Copper, horses and the eve of cities",
+   "sub": "c. 5000 to 3500 BCE",
+   "lede": "In the last two thousand years before writing, people learned to smelt metal, buried their chiefs in gold, and put wheels under carts. Then, in southern Mesopotamia, the first city rose.",
+   "body": [
+    "People had hammered native copper for thousands of years. Smelting it from ore was new: the earliest securely dated evidence comes from Belovode in Serbia, about 5000 BCE. [[c-belovode]] At Varna on the Black Sea, about 4500 BCE, a few graves held most of some 3,000 gold objects, the oldest worked-gold treasure known, and a sign that some people now held far more than others. [[c-varna]]",
+    "Ötzi, the 'Iceman', died high in the Alps around 3250 BCE carrying a copper-bladed axe, a bow and a flint dagger; an arrow in his shoulder probably killed him. [[c-otzi]] His genome shows he descended mainly from Anatolian farmers, with no ancestry from the steppe. [[c-otzi-dna]]",
+    "Wheels appear around 3500 BCE; where they were invented is uncertain. [[c-wheel]] People at Botai in Kazakhstan relied heavily on horses about 3500 BCE and may have tamed them, but those horses were not the ancestors of today's: modern domestic horses spread only after about 2200 BCE. [[c-horse]] On the steppe, the Yamnaya herders appeared about 3300 BCE, and their descendants changed the ancestry of most of Europe within a thousand years. [[c-yamnaya]] They may have spread the Indo-European languages; where those languages began is still argued. [[c-pie]]",
+    {
+     "table": {
+      "head": [
+       "",
+       "Where",
+       "When"
+      ],
+      "rows": [
+       [
+        "Copper smelted from ore",
+        "Belovode, Serbia",
+        "c. 5000 BCE"
+       ],
+       [
+        "Gold treasure",
+        "Varna, Bulgaria",
+        "c. 4500 BCE"
+       ],
+       [
+        "Wheel",
+        "uncertain; oldest surviving in Slovenia",
+        "c. 3500 BCE"
+       ],
+       [
+        "Ötzi",
+        "Ötztal Alps",
+        "c. 3250 BCE"
+       ],
+       [
+        "First city",
+        "Uruk, Mesopotamia",
+        "c. 3200 BCE"
+       ]
+      ]
+     }
+    },
+    "Meanwhile, on the floodplain of southern Mesopotamia, Uruk was growing into the largest settlement in the region, perhaps in the world. [[c-uruk-eve]] There, around 3200 BCE, someone began to keep accounts on clay. History, in the narrow sense, was about to begin.",
+    {
+     "compare": "Chapter 3 begins here, at Uruk."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 38,
+     "lat": 43,
+     "zoom": 4.2
+    },
+    "caption": "Metal, wheels and herders, c. 5000-3200 BCE",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "pt",
+      "site"
+     ],
+     [
+      "dot",
+      "the first city"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "zone",
+      "items": [
+       {
+        "ll": [
+         40,
+         48
+        ],
+        "r": 6,
+        "label": "YAMNAYA",
+        "lab": [
+         40,
+         53
+        ]
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         21.4,
+         44.32
+        ],
+        "label": "Belovode",
+        "date": "copper, c. 5000 BCE",
+        "dy": -10,
+        "plate": {
+         "kicker": "2.11 · metal",
+         "title": "Belovode",
+         "sub": "Serbia, c. 5000 BCE",
+         "text": "[[c-belovode]]",
+         "sources": [
+          "radivojevic2010"
+         ]
+        }
+       },
+       {
+        "ll": [
+         27.86,
+         43.21
+        ],
+        "label": "Varna",
+        "date": "gold, c. 4500 BCE",
+        "dy": 14,
+        "plate": {
+         "kicker": "2.11 · metal",
+         "title": "The Varna cemetery",
+         "sub": "Bulgaria, c. 4560 to 4450 BCE",
+         "text": "[[c-varna]]",
+         "facts": [
+          [
+           "graves",
+           "294"
+          ],
+          [
+           "gold objects",
+           "about 3,000 (about 6 kg)"
+          ]
+         ],
+         "sources": [
+          "varna-city",
+          "higham2007"
+         ]
+        }
+       },
+       {
+        "ll": [
+         10.84,
+         46.78
+        ],
+        "label": "Ötzi",
+        "date": "c. 3250 BCE",
+        "anchor": "end",
+        "dy": -10,
+        "plate": {
+         "kicker": "2.11 · the Iceman",
+         "title": "Ötzi",
+         "sub": "Ötztal Alps, c. 3250 BCE",
+         "text": "[[c-otzi]] [[c-otzi-dna]]",
+         "facts": [
+          [
+           "found",
+           "1991, at about 3,200 m"
+          ],
+          [
+           "carried",
+           "copper axe, bow, arrows, flint dagger"
+          ]
+         ],
+         "sources": [
+          "penn-otzi",
+          "iceman",
+          "iceman-dna"
+         ]
+        }
+       },
+       {
+        "ll": [
+         14.36,
+         45.98
+        ],
+        "label": "Ljubljana Marshes",
+        "date": "wheel, c. 3200 BCE",
+        "anchor": "end",
+        "dy": 18,
+        "plate": {
+         "kicker": "2.11 · the wheel",
+         "title": "The Ljubljana Marshes wheel",
+         "sub": "Slovenia, about 5,200 years old",
+         "text": "[[c-wheel]]",
+         "sources": [
+          "mgml-wheel",
+          "brit-wheel",
+          "gatech-wheel"
+         ]
+        }
+       },
+       {
+        "ll": [
+         67.645,
+         53.303
+        ],
+        "label": "Botai",
+        "date": "horses, c. 3500 BCE",
+        "anchor": "end",
+        "plate": {
+         "kicker": "2.11 · horses",
+         "title": "Botai",
+         "sub": "Kazakhstan, c. 3500 BCE",
+         "text": "[[c-horse]]",
+         "sources": [
+          "cnrs-botai",
+          "librado2021",
+          "librado2024"
+         ]
+        }
+       },
+       {
+        "ll": [
+         45.64,
+         31.32
+        ],
+        "label": "Uruk",
+        "date": "c. 3200 BCE",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "2.11 · the threshold",
+         "title": "Uruk",
+         "sub": "southern Mesopotamia, c. 3200 BCE",
+         "text": "[[c-uruk-eve]] Chapter 3 begins here.",
+         "sources": [
+          "met-uruk2"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What did horse genomics (2021-2024) imply about the Yamnaya expansion around 3000 BCE?",
+     "choices": [
+      "It probably relied on the horses tamed at Botai",
+      "It probably did not rely on modern domestic horses",
+      "It carried horse-drawn chariots west into Europe",
+      "It spread horses that were first domesticated in Iberia"
+     ],
+     "answer": 1,
+     "why": "Modern domestic horses come from the lower Volga-Don and spread only after about 2200 BCE, centuries after the Yamnaya ranged from Hungary to Kazakhstan by 3000 BCE.",
+     "wrong": {
+      "0": "Botai horses were ancestors of Przewalski's horses, not of modern domestic horses.",
+      "2": "Modern domestic horses spread only after about 2200 BCE, long after the expansion began.",
+      "3": "Modern domestic horses come from the lower Volga-Don region."
+     }
+    },
+    {
+     "q": "Why is Belovode in Serbia significant?",
+     "choices": [
+      "It holds the oldest worked-gold treasure known",
+      "It has the earliest securely dated copper smelting",
+      "The oldest surviving wheel and axle came from there",
+      "It is where people first hammered native copper"
+     ],
+     "answer": 1,
+     "why": "Smelting copper from ore, not just hammering native copper, began true metallurgy; Belovode, about 5000 BCE, has its earliest securely dated evidence. Its excavators argue metallurgy was invented independently in the Balkans.",
+     "wrong": {
+      "0": "The oldest worked-gold treasure is at Varna, about 4500 BCE.",
+      "2": "The oldest surviving wheel with its axle is from the Ljubljana Marshes in Slovenia.",
+      "3": "People had hammered native copper for thousands of years before; what was new at Belovode was smelting it from ore."
+     }
+    }
+   ]
+  }
+ ]
+}

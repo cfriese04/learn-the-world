@@ -1,0 +1,3948 @@
+{
+ "id": "ch05",
+ "no": "05",
+ "title": "The Indus and early China",
+ "sub": "two river civilizations, one still unread",
+ "sources": {
+  "kenoyer1998": {
+   "citation": "J. M. Kenoyer, \"Indus Civilization\", Archaeology (1998)",
+   "url": "https://archive.archaeology.org/9801/abstracts/indus.html"
+  },
+  "brit-india-indus": {
+   "citation": "Encyclopaedia Britannica, \"India: the Indus civilization\"",
+   "url": "https://www.britannica.com/place/India/The-Indus-civilization"
+  },
+  "brit-indus": {
+   "citation": "Encyclopaedia Britannica, \"Indus civilization\"",
+   "url": "https://www.britannica.com/topic/Indus-civilization"
+  },
+  "brit-mohenjo": {
+   "citation": "Encyclopaedia Britannica, \"Mohenjo-daro\"",
+   "url": "https://www.britannica.com/place/Mohenjo-daro"
+  },
+  "giosan2012": {
+   "citation": "Giosan et al., \"Fluvial landscapes of the Harappan civilization\", PNAS (2012)",
+   "url": "https://www.pnas.org/doi/10.1073/pnas.1112743109"
+  },
+  "singh2017": {
+   "citation": "Imperial College London on Singh et al., Nature Communications (2017)",
+   "url": "https://imperial.ac.uk/news/183368/scientists-show-himalayan-river-system-influenced"
+  },
+  "chatterjee2019": {
+   "citation": "Chatterjee et al., \"Himalayan-sourced river flow in the Ghaggar-Hakra\", Scientific Reports (2019)",
+   "url": "https://link.springer.com/10.1038/s41598-019-53489-4"
+  },
+  "giosan2018": {
+   "citation": "Giosan et al., \"Neoglacial climate anomalies and the Harappan metamorphosis\", Climate of the Past (2018)",
+   "url": "https://cp.copernicus.org/articles/14/1669/2018/"
+  },
+  "giesche2019": {
+   "citation": "Giesche et al., \"Indian winter and summer monsoon strength over the 4.2 ka BP event\", Climate of the Past (2019)",
+   "url": "https://cp.copernicus.org/articles/15/73/2019/"
+  },
+  "harp-phases": {
+   "citation": "Harappa Archaeological Research Project, chronology at Harappa",
+   "url": "https://www.harappa.com/indus4/e1.html"
+  },
+  "unesco-harappa": {
+   "citation": "UNESCO Tentative List, \"Archaeological Ruins at Harappa\"",
+   "url": "https://whc.unesco.org/en/tentativelists/1878"
+  },
+  "unesco-mehrgarh": {
+   "citation": "UNESCO Tentative List, \"Archaeological Site of Mehrgarh\"",
+   "url": "https://whc.unesco.org/en/tentativelists/1876"
+  },
+  "tribune-discovery": {
+   "citation": "The Tribune (India), on the discovery of Harappa and Mohenjo-daro (2021)",
+   "url": "https://www.tribuneindia.com/news/wonder-land-discovery-of-harappa-and-mohenjodaro-100-years-ago"
+  },
+  "harappa-1924": {
+   "citation": "Harappa.com, \"The discovery of the ancient Indus civilization\"",
+   "url": "https://www.harappa.com/slideshows/discovery-ancient-indus-civilization"
+  },
+  "unesco-mohenjo": {
+   "citation": "UNESCO World Heritage, \"Archaeological Ruins at Moenjodaro\"",
+   "url": "https://whc.unesco.org/en/list/138/"
+  },
+  "harappa-bath": {
+   "citation": "Harappa.com, \"Great Bath, Mohenjo-daro\"",
+   "url": "https://www.harappa.com/slide/great-bath-mohenjo-daro-0"
+  },
+  "unesco-dholavira": {
+   "citation": "UNESCO World Heritage, \"Dholavira: a Harappan City\"",
+   "url": "https://whc.unesco.org/en/list/1645/"
+  },
+  "ashoka-rakhigarhi": {
+   "citation": "Ashoka University, \"The Harappan city of Rakhigarhi\"",
+   "url": "https://www.ashoka.edu.in/the-harappan-city-of-rakhigarhi/"
+  },
+  "shinde2019": {
+   "citation": "Shinde et al., \"An ancient Harappan genome lacks ancestry from steppe pastoralists or Iranian farmers\", Cell (2019)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6800651"
+  },
+  "unesco-lothal": {
+   "citation": "UNESCO Tentative List, \"Lothal\"",
+   "url": "https://whc.unesco.org/en/tentativelists/5918"
+  },
+  "archmag-lothal": {
+   "citation": "Archaeology Magazine (Greece) on Gupta, Prabhakar and Jain, Journal of Archaeological Science (2024)",
+   "url": "https://archaeologymag.com/2024/09/ancient-harappan-dockyard-at-lothal-india"
+  },
+  "green2021": {
+   "citation": "Adam S. Green, \"Killing the Priest-King: addressing egalitarianism in the Indus civilization\", Journal of Archaeological Research (2021)",
+   "url": "https://link.springer.com/10.1007/s10814-020-09147-9"
+  },
+  "harappa-weights": {
+   "citation": "Harappa.com, \"Cubical weights\"",
+   "url": "https://www.harappa.com/blog/cubical-weights"
+  },
+  "bibby1970": {
+   "citation": "Geoffrey Bibby, \"Efter Dilmun norm\", Kuml (1970)",
+   "url": "https://tidsskrift.dk/kuml/article/view/105436"
+  },
+  "harappa-unicorn": {
+   "citation": "Harappa.com, \"Unicorn seal\"",
+   "url": "https://www.harappa.com/blog/unicorn-seal"
+  },
+  "cdli-sargon": {
+   "citation": "Cuneiform Digital Library Initiative, Sargon inscription (RIME 2.01.01.11)",
+   "url": "https://cdli.earth/artifacts/461937"
+  },
+  "possehl-shuilishu": {
+   "citation": "Gregory Possehl, \"Shu-ilishu's cylinder seal\", Expedition (Penn Museum)",
+   "url": "https://www.penn.museum/sites/expedition/shu-ilishus-cylinder-seal/"
+  },
+  "bm-ur-seal": {
+   "citation": "British Museum, Indus-style seal from Ur (1928,1009.56)",
+   "url": "https://www.britishmuseum.org/collection/object/W_1928-1009-56"
+  },
+  "harappa-ur-beads": {
+   "citation": "Harappa.com, carnelian beads from Ur",
+   "url": "https://www.harappa.com/node/3676"
+  },
+  "harappa-salut": {
+   "citation": "Harappa.com, \"New Indus finds from Salut, Oman\"",
+   "url": "https://www.harappa.com/blog/new-indus-finds-salut-oman"
+  },
+  "unesco-bahrain": {
+   "citation": "UNESCO World Heritage, \"Qal'at al-Bahrain\"",
+   "url": "https://whc.unesco.org/en/list/1192/"
+  },
+  "rao-script": {
+   "citation": "Rajesh Rao, \"Computational linguistics and the Indus script\"",
+   "url": "https://homes.cs.washington.edu/~rao/IndusCompLing.html"
+  },
+  "revesz2021": {
+   "citation": "Revesz and Daggumati, on Indus sign lists, Humanities and Social Sciences Communications (2021)",
+   "url": "https://www.nature.com/articles/s41599-021-00713-0"
+  },
+  "harappa-script": {
+   "citation": "Harappa.com, \"Introduction to the study of the Indus script\"",
+   "url": "https://www.harappa.com/content/introduction-study-indus-script"
+  },
+  "farmer2004": {
+   "citation": "Farmer, Sproat and Witzel, \"The collapse of the Indus-script thesis\", Electronic Journal of Vedic Studies (2004)",
+   "url": "https://etana.org/node/7709"
+  },
+  "rao2009": {
+   "citation": "Rao et al., \"Entropic evidence for linguistic structure in the Indus script\", Science (2009)",
+   "url": "https://ui.adsabs.harvard.edu/abs/2009Sci...324.1165R/abstract"
+  },
+  "rao2015": {
+   "citation": "Rao et al., \"On statistical measures and ancient writing systems\", Language (2015)",
+   "url": "https://www.cambridge.org/core/journals/language/article/abs/on-statistical-measures-and-ancient-writing-systems/D75CB72F35D752E4848CA69AE8E32888"
+  },
+  "etv-prize": {
+   "citation": "ETV Bharat, Tamil Nadu prize for decoding the Indus script (2025)",
+   "url": "https://www.etvbharat.com/en/!state/tn-cm-stalin-announces-prize-for-decoding-indus-valley-script-enn25010503182"
+  },
+  "archmag-prize": {
+   "citation": "Archaeology Magazine (Greece), \"Prize offered to decipher Indus Valley script\" (2025)",
+   "url": "https://archaeologymag.com/2025/01/prize-offered-to-decipher-indus-valley-script/"
+  },
+  "narasimhan2019": {
+   "citation": "Narasimhan et al., \"The formation of human populations in South and Central Asia\", Science (2019)",
+   "url": "https://pure.psu.edu/en/publications/the-formation-of-human-populations-in-south-and-central-asia/"
+  },
+  "theweek2019": {
+   "citation": "The Week, on reactions to the Rakhigarhi genome (2019)",
+   "url": "https://www.theweek.in/news/india/2019/09/06/new-study-debunks-aryan-invasion-theory.html"
+  },
+  "scroll2017": {
+   "citation": "Scroll.in, on the politics of the Aryan migration debate (2017)",
+   "url": "https://scroll.in/article/841740/blood-nationalism-why-does-hindutva-perceive-a-mortal-danger-from-the-aryan-migration-theory"
+  },
+  "bryant2001": {
+   "citation": "Edwin Bryant, The Quest for the Origins of Vedic Culture (Oxford, 2001)",
+   "url": "https://academic.oup.com/book/9484"
+  },
+  "solanki2025": {
+   "citation": "Nature Asia press release on Solanki et al., Communications Earth & Environment (2025)",
+   "url": "https://www.natureasia.com/en/info/press-releases/detail/9165"
+  },
+  "harappa-massacre": {
+   "citation": "Harappa.com, \"Who were the 'massacre victims' at Mohenjo-daro?\"",
+   "url": "https://www.harappa.com/content/who-were-%E2%80%98massacre-victims%E2%80%99-mohenjo-daro-craniometric-investigation"
+  },
+  "dales1964": {
+   "citation": "George Dales, \"The mythical massacre at Mohenjo-daro\", Expedition 6 (1964), catalogue record",
+   "url": "https://keibi.uni-tuebingen.de/Record/KEI00116372"
+  },
+  "brit-yangshao": {
+   "citation": "Encyclopaedia Britannica, \"Yangshao culture\"",
+   "url": "https://www.britannica.com/topic/Yangshao-culture"
+  },
+  "brit-banpo": {
+   "citation": "Encyclopaedia Britannica, \"Banpo site\"",
+   "url": "https://www.britannica.com/place/Banpo-site"
+  },
+  "unesco-liangzhu": {
+   "citation": "UNESCO World Heritage, \"Archaeological Ruins of Liangzhu City\"",
+   "url": "https://whc.unesco.org/en/list/1592/"
+  },
+  "chinadaily-liangzhu": {
+   "citation": "China Daily, \"Ancient site stands the test of time\" (2019)",
+   "url": "https://www.chinadaily.com.cn/global/2019-07/08/content_37489051.htm"
+  },
+  "phys-liangzhu": {
+   "citation": "Phys.org on Liu Bin et al., \"Earliest hydraulic enterprise in China\", PNAS (2017)",
+   "url": "https://phys.org/news/2017-12-earliest-large-hydraulic-enterprise-excavated.html"
+  },
+  "renfrew-liu2018": {
+   "citation": "Renfrew and Liu, \"The emergence of complex society in China: the case of Liangzhu\", Antiquity (2018)",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/emergence-of-complex-society-in-china-the-case-of-liangzhu/0D4FD61E9460755CED69047FAD7FA2AD"
+  },
+  "smarthistory-cong": {
+   "citation": "Smarthistory, \"Cong\" (with British Museum)",
+   "url": "https://smarthistory.org/?p=4777"
+  },
+  "brit-longshan": {
+   "citation": "Encyclopaedia Britannica, \"Longshan culture\"",
+   "url": "https://www.britannica.com/topic/Longshan-culture"
+  },
+  "icomos-taosi": {
+   "citation": "ICOMOS-IAU Astronomical Heritage thematic study, \"Taosi\"",
+   "url": "https://web.astronomicalheritage.org/images/astronomicalheritage.org/thematic-study/ch05cs1.pdf"
+  },
+  "wu2009-taosi": {
+   "citation": "Wu, Chen and Liu, \"Astronomical function and date of the Taosi observatory\", Science in China G (2009)",
+   "url": "https://link.springer.com/doi/10.1007/s11433-009-0017-1"
+  },
+  "natgeo-shimao": {
+   "citation": "National Geographic on carvings and sacrifice at Shimao",
+   "url": "https://www.nationalgeographic.com/history/article/mysterious-carvings-evidence-human-sacrifice-uncovered-ancient-city-china"
+  },
+  "nature-shimao2025": {
+   "citation": "Chen et al., ancient genomes from Shimao, Nature (2025)",
+   "url": "https://www.nature.com/articles/s41586-025-09799-x"
+  },
+  "jaang2018": {
+   "citation": "Jaang et al., \"When peripheries were centres: the Shimao-centred polity\", Antiquity (2018)",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/when-peripheries-were-centres-a-preliminary-study-of-the-shimaocentred-polity-in-the-loess-highland-china/EA48B7FEF5512D41D615DC3480DE0DDC"
+  },
+  "newschina-origins": {
+   "citation": "NewsChina, \"All Points of Origin\" (2022)",
+   "url": "https://www.pressreader.com/china/newschina/20221124/281934546812534"
+  },
+  "zhang2019": {
+   "citation": "Zhang, Pollard, Rawson et al., \"China's major Late Neolithic centres and the rise of Erlitou\", Antiquity (2019)",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/chinas-major-late-neolithic-centres-and-the-rise-of-erlitou/F24DD8C8A86BF6FA5953A9045A0223CD"
+  },
+  "lawler2009b": {
+   "citation": "Andrew Lawler, \"Founding Dynasty or Myth?\", Science 325 (2009)",
+   "url": "https://www.andrewlawler.com/?p=1193"
+  },
+  "gt-erlitou": {
+   "citation": "Global Times on the Erlitou site museum (2023)",
+   "url": "https://globaltimes.cn/page/202303/1287035.shtml"
+  },
+  "stonepages-dragon": {
+   "citation": "Stone Pages, the Erlitou turquoise dragon",
+   "url": "https://www.stonepages.com/news/archives/002011.html"
+  },
+  "brit-xia": {
+   "citation": "Encyclopaedia Britannica, \"Xia dynasty\"",
+   "url": "https://www.britannica.com/topic/Xia-dynasty"
+  },
+  "liu-xu2007": {
+   "citation": "Liu Li and Xu Hong, \"Rethinking Erlitou: legend, history and Chinese archaeology\", Antiquity (2007)",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/rethinking-erlitou-legend-history-and-chinese-archaeology/FDBD0E8E7C661FC180CAD54AD9742E31"
+  },
+  "scinews-flood": {
+   "citation": "Sci.News on Wu Qinglong et al., Science (2016)",
+   "url": "https://www.sci.news/archaeology/geological-evidence-chinas-great-flood-04083.html"
+  },
+  "science-flood-comment": {
+   "citation": "Comment on the Jishi Gorge flood claim, Science (2017)",
+   "url": "https://ui.adsabs.harvard.edu/abs/2017Sci...355Q1382W"
+  },
+  "brit-shang": {
+   "citation": "Encyclopaedia Britannica, \"Shang dynasty\"",
+   "url": "https://www.britannica.com/topic/Shang-dynasty"
+  },
+  "met-shangzhou": {
+   "citation": "The Met, \"Shang and Zhou Dynasties: The Bronze Age of China\"",
+   "url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china"
+  },
+  "brit-china-shang": {
+   "citation": "Encyclopaedia Britannica, \"China: the Shang dynasty\"",
+   "url": "https://www.britannica.com/place/China/The-Shang-dynasty"
+  },
+  "unesco-yinxu": {
+   "citation": "UNESCO World Heritage, \"Yin Xu\"",
+   "url": "https://whc.unesco.org/en/list/1114/"
+  },
+  "sapiens-oracle": {
+   "citation": "Christina Cheung, SAPIENS, on Shang sacrifice and oracle bones (2018)",
+   "url": "https://www.sapiens.org/archaeology/chinese-oracle-bones-history/"
+  },
+  "smarthistory-fuhao": {
+   "citation": "Smarthistory, \"Who was Fu Hao?\"",
+   "url": "https://smarthistory.org/?p=59817"
+  },
+  "hunan-ding": {
+   "citation": "Hunan Museum, the Si Mu Wu (Houmuwu) ding",
+   "url": "https://web.hnmuseum.com/en/node/6744"
+  },
+  "rawson2020": {
+   "citation": "Rawson et al., on chariots and Anyang (2020)",
+   "url": "https://libmast.utm.my/Record/oxford-uuid:51b8bf31-edcf-408d-a149-4bff736dcd89"
+  },
+  "brit-shangdi": {
+   "citation": "Encyclopaedia Britannica, \"Shangdi\"",
+   "url": "https://www.britannica.com/topic/Shangdi"
+  },
+  "whe-oracle": {
+   "citation": "World History Encyclopedia, \"Oracle Bones\"",
+   "url": "https://www.worldhistory.org/Oracle_Bones/"
+  },
+  "tencent-oracle": {
+   "citation": "Tencent, oracle bone corpus project (2024)",
+   "url": "https://www.tencent.com/en-us/articles/2201854.html"
+  },
+  "brit-oraclebone": {
+   "citation": "Encyclopaedia Britannica, \"Oracle bone\"",
+   "url": "https://www.britannica.com/topic/oracle-bone"
+  },
+  "hyperallergic-oracle": {
+   "citation": "Hyperallergic, \"Oracle bones: a 3,000-year-old voice of the dead\"",
+   "url": "https://hyperallergic.com/oracle-bones-a-3000-year-old-voice-of-the-dead"
+  },
+  "hust-oracle": {
+   "citation": "Huazhong University of Science and Technology, AI and oracle-bone decipherment (2024)",
+   "url": "https://english.hust.edu.cn/info/1106/3917.htm"
+  },
+  "cam-oracle": {
+   "citation": "Cambridge University Library, \"Inscriptions on bone\"",
+   "url": "https://exhibitions.lib.cam.ac.uk/linesofthought/artifacts/inscriptions-on-bone/"
+  },
+  "li2003-jiahu": {
+   "citation": "Li, Harbottle, Zhang and Wang, \"The earliest writing? Sign use in the seventh millennium BC at Jiahu\", Antiquity (2003)",
+   "url": "https://www.cambridge.org/core/product/6DDB3E0583ACB6896B3DBCAC143FA846"
+  },
+  "antiquity2023-sxd": {
+   "citation": "Li, Qiu, Guo and Li, \"New discoveries at the Sanxingdui Bronze Age site in south-west China\", Antiquity (2023)",
+   "url": "https://core-prod.cambridgecore.org/core/services/aop-cambridge-core/content/view/D96494368471CF7CBA817690CDCA5A75/S0003598X22001508a.pdf/new_discoveries_at_the_sanxingdui_bronze_age_site_in_southwest_china.pdf"
+  },
+  "unesco-shu": {
+   "citation": "UNESCO Tentative List, \"Archaeological Sites of the Ancient Shu State\"",
+   "url": "https://whc.unesco.org/en/tentativelists/5816/"
+  },
+  "wsj-sxd": {
+   "citation": "Wall Street Journal, \"A lost civilization is baffling experts and rewriting China's origin story\" (republished by To Vima)",
+   "url": "https://www.tovima.com/wsj/a-lost-civilization-is-baffling-experts-and-rewriting-chinas-origin-story/"
+  },
+  "livescience-sxd": {
+   "citation": "Live Science, on the new Sanxingdui pits (2021)",
+   "url": "https://www.livescience.com/ancient-china-city-treasure-artifacts-saxingdui.html"
+  },
+  "cgtn-sxd2021": {
+   "citation": "CGTN, \"Wonders of Sanxingdui: the bronze wares\" (2021)",
+   "url": "https://news.cgtn.com/news/2021-03-18/Wonders-of-Sanxingdui-The-bronze-wares-from-the-mysterious-culture-YJupHzSd1K/index.html"
+  },
+  "thecover-mask": {
+   "citation": "The Cover (Sichuan), on the largest Sanxingdui bronze mask",
+   "url": "https://www.thecover.cn/news/7246314"
+  },
+  "cgtn-sxd2025": {
+   "citation": "CGTN, \"Exact dating of Sanxingdui sacrificial pits announced\" (2025)",
+   "url": "https://news.cgtn.com/news/2025-09-27/New-findings-Exact-dating-of-Sanxingdui-sacrificial-pits-announced-1H0y9ZAloM8/index.html"
+  },
+  "scmp-sxd": {
+   "citation": "South China Morning Post, on 'alien' theories about Sanxingdui (2021)",
+   "url": "https://www.scmp.com/culture/article/3126720/historical-discovery-revives-wild-theories-alien-civilisation-ancient-china"
+  },
+  "cgtn-jinsha": {
+   "citation": "CGTN, \"Jinsha Site: a glimpse into China's ancient Shu civilization\" (2025)",
+   "url": "https://news.cgtn.com/news/2025-09-14/Jinsha-Site-A-glimpse-into-China-s-ancient-Shu-civilization-1GF6Jtjriw0/share_amp.html"
+  },
+  "shaughnessy1981": {
+   "citation": "Edward Shaughnessy, \"'New' evidence on the Zhou conquest\", Early China 6 (1981)",
+   "url": "https://www.cambridge.org/core/journals/early-china/article/abs/new-evidence-on-the-zhou-conquest/CBE3E11961D44DC8638B145BD678FA28"
+  },
+  "cgtn-ligui": {
+   "citation": "CGTN, on the Li gui and the date of the Zhou conquest",
+   "url": "https://news.cgtn.com/news/3445544d356b7a6333566d54/index.html"
+  },
+  "pankenier1981": {
+   "citation": "David Pankenier, \"Astronomical dates in Shang and Western Zhou\", Early China 7 (1981)",
+   "url": "https://www.cambridge.org/core/journals/early-china/article/astronomical-dates-in-shang-and-western-zhou/515F9D0434AD981B6756F8ECC3A9A1B4"
+  },
+  "shaughnessy1985": {
+   "citation": "Edward Shaughnessy, \"The 'current' Bamboo Annals and the date of the Zhou conquest of Shang\", Early China (1985)",
+   "url": "https://core-prod.cambridgecore.org/core/journals/early-china/article/current-bamboo-annals-and-the-date-of-the-zhou-conquest-of-shang/5B7D1EF7B2122C32988C57E066445991"
+  },
+  "nivison1999": {
+   "citation": "David Nivison, \"The key to the chronology of the Three Dynasties\", Sino-Platonic Papers 93 (1999)",
+   "url": "https://sino-platonic.org/abstracts/spp093_three_dynasties.html"
+  },
+  "sep-mencius": {
+   "citation": "Stanford Encyclopedia of Philosophy, \"Mencius\"",
+   "url": "https://plato.stanford.edu/entries/mencius/"
+  },
+  "lundu2017": {
+   "citation": "Lun Du, on the Mandate of Heaven in early Zhou thought, Asian Studies 5 (2017)",
+   "url": "https://doaj.org/article/f8efd6efd0e74f3aafb5bb57172d26d9"
+  },
+  "chinadaily-hezun": {
+   "citation": "China Daily, \"Bronze vessel from Shaanxi bears the first record of China's name\" (2022)",
+   "url": "https://govt.chinadaily.com.cn/s/202205/05/WS62737fef498e6a12c122b5cf/bronze-vessel-from-shaanxi-bears-the-first-record-of-chinas-name.html"
+  },
+  "hou2007": {
+   "citation": "Hou Jianxin, on 'feudalism' and fengjian, Frontiers of History in China 2 (2007)",
+   "url": "https://journal.hep.com.cn/fhc/EN/10.1007/s11462-007-0001-0"
+  },
+  "iu-zhou": {
+   "citation": "Robert Eno, Indiana University, \"Western Zhou\" course topics",
+   "url": "https://chinatxt.sitehost.iu.edu/History/WZhou-Topics-2012.html"
+  },
+  "lifeng2006": {
+   "citation": "Li Feng, Landscape and Power in Early China (Cambridge, 2006), chapter on the fall of the Western Zhou",
+   "url": "https://www.cambridge.org/core/books/landscape-and-power-in-early-china/fall-of-the-western-zhou-partisan-struggle-and-spatial-collapse/9ED3767010631C65EBB52B4BAF9E5766"
+  },
+  "khayutina2008": {
+   "citation": "Maria Khayutina, on the fall of the Western Zhou, Oriens Extremus 47 (2008)",
+   "url": "https://archiv.oriens-extremus.org/47/OE47-02.pdf"
+  },
+  "ebsco-mandate": {
+   "citation": "EBSCO Research Starters, \"Mandate of Heaven\" (2020)",
+   "url": "https://www.ebsco.com/research-starters/history/mandate-heaven"
+  },
+  "shaughnessy2023": {
+   "citation": "Edward Shaughnessy, review of the Xia-Shang-Zhou Chronology Project report, Early China 46 (2023)",
+   "url": "https://knowledge.uchicago.edu/record/12754/files/Xia-shang-zhou-duandai-gongcheng-baogao.pdf"
+  },
+  "nyt2000": {
+   "citation": "Erik Eckholm, \"In China, ancient history kindles modern doubts\", New York Times, 10 November 2000 (reposted text)",
+   "url": "https://hcsstt.blogspot.com/2010/12/in-china-ancient-history-kindles-modern.html?m=0"
+  },
+  "cgtn-origins": {
+   "citation": "CGTN, on the Chinese Civilization Origins Project (2018)",
+   "url": "https://news.cgtn.com/news/3d3d774d77597a4e77457a6333566d54/index.html"
+  },
+  "chinadaily-xi2022": {
+   "citation": "China Daily, on Xi Jinping's Politburo study session on Chinese civilization (2022)",
+   "url": "https://subsites.chinadaily.com.cn/npc/2022-05/30/c_757762.htm"
+  },
+  "bachner2017": {
+   "citation": "Andrea Bachner, \"Oracle bones: that dangerous supplement\", via China Heritage",
+   "url": "https://chinaheritage.net/journal/oracle-bones-that-dangerous-supplement/"
+  },
+  "chinadaily-kings": {
+   "citation": "China Daily, \"Discoveries beyond doubt\" (2025)",
+   "url": "https://govt.chinadaily.com.cn/s/202506/18/WS68521979498eec7e1f73a101/discoveries-beyond-doubt.html"
+  },
+  "liu2021-c14": {
+   "citation": "Liu et al., radiocarbon dating of Shang oracle bones, Radiocarbon 63 (2021)",
+   "url": "https://www.cambridge.org/core/product/38A7B64D6D538A3A7B96F912BBEE9592"
+  },
+  "englund2001": {
+   "citation": "Robert Englund, \"Grain accounting practices in archaic Mesopotamia\", MPIWG Preprint 183",
+   "url": "https://mpiwg-berlin.mpg.de/sites/default/files/migrated/p183.pdf"
+  },
+  "mcmahon2020": {
+   "citation": "Augusta McMahon, \"Early urbanism in northern Mesopotamia\", Journal of Archaeological Research 28 (2020)",
+   "url": "https://core.ac.uk/download/328720952.pdf"
+  },
+  "mattessich2002": {
+   "citation": "Richard Mattessich, on the Abydos U-j labels, Accounting Historians Journal 29 (2002)",
+   "url": "https://core.ac.uk/download/288025208.pdf"
+  },
+  "zettler-ur": {
+   "citation": "Richard Zettler, on the Royal Cemetery of Ur, Penn Almanac",
+   "url": "https://almanac.upenn.edu/archive/volumes/v56/n09/zettler.html"
+  },
+  "penn-retainers": {
+   "citation": "Penn Museum, on courtiers sacrificed with early Egyptian kings",
+   "url": "https://penn.museum/about/press-room/press-releases/archaeologists-discover-evidence-that-courtiers-were-sacrificed-to-accompany-early-egyptian-kings-into-the-afterlife"
+  },
+  "henan-yinxu": {
+   "citation": "Henan Provincial Government, on the Yinxu site (2025)",
+   "url": "https://english.henan.gov.cn/2025/01-20/3114717.html"
+  },
+  "meadow-intro": {
+   "citation": "Richard Meadow, \"Harappa: an introduction\", harappa.com",
+   "url": "https://www.harappa.com/indus2/intro.html"
+  }
+ },
+ "claims": {
+  "c-extent": {
+   "text": "The Indus civilization was the most extensive of the earliest civilizations; one estimate puts it at about 650,000 km², about twice the area of contemporary Sumer and Egypt.",
+   "label": "approx",
+   "sources": [
+    "kenoyer1998",
+    "brit-india-indus"
+   ],
+   "show": true,
+   "note": "Estimates depend on which outlying sites are counted; Britannica gives nearly 1.3 million km²."
+  },
+  "c-sites": {
+   "text": "Several hundred Harappan sites have been identified.",
+   "label": "approx",
+   "sources": [
+    "brit-india-indus"
+   ],
+   "show": false
+  },
+  "c-mehrgarh": {
+   "text": "Mehrgarh, at the foot of the Bolan Pass, was a farming village from about 6500 BCE and was abandoned about 2600-2500 BCE.",
+   "label": "approx",
+   "sources": [
+    "unesco-mehrgarh"
+   ],
+   "show": false
+  },
+  "c-monsoon-rivers": {
+   "text": "A 2012 study found that the rivers between the Indus and the Ganges in this era were fed by the monsoon, not by Himalayan glaciers, and dried up or became seasonal as the monsoon weakened.",
+   "label": "debated",
+   "sources": [
+    "giosan2012"
+   ],
+   "show": true,
+   "note": "This argues against identifying the dry Ghaggar-Hakra with a great glacier-fed Sarasvati river, an identification some still defend."
+  },
+  "c-sutlej": {
+   "text": "When the Ghaggar-Hakra lost its Himalayan water is debated: one study says the Sutlej abandoned it about 8,000 years ago, another that Himalayan-fed flow lasted until about 4,500 years ago.",
+   "label": "debated",
+   "sources": [
+    "singh2017",
+    "chatterjee2019"
+   ],
+   "show": true,
+   "note": "Singh et al. 2017; Chatterjee et al. 2019. Either way, the Mature Harappan settlements along it probably stood beside a seasonal river."
+  },
+  "c-phases": {
+   "text": "At Harappa the sequence runs: Ravi phase c. 3300-2800 BCE, Early Harappan 2800-2600, Mature Harappan 2600-1900, Transitional 1900-1800, Late Harappan 1800 to before 1300.",
+   "label": "approx",
+   "sources": [
+    "harp-phases",
+    "unesco-harappa",
+    "brit-india-indus"
+   ],
+   "show": true,
+   "note": "Britannica dates the mature civilization c. 2600/2500-2000 BCE, with a late mature stage to about 1700."
+  },
+  "c-discovery": {
+   "text": "Daya Ram Sahni began excavating Harappa in 1921, and R. D. Banerji began at Mohenjo-daro in 1922.",
+   "label": "consensus",
+   "sources": [
+    "tribune-discovery",
+    "brit-indus"
+   ],
+   "show": false
+  },
+  "c-marshall": {
+   "text": "John Marshall announced the discovery of a forgotten civilization in the Illustrated London News on 20 September 1924.",
+   "label": "consensus",
+   "sources": [
+    "harappa-1924"
+   ],
+   "show": false
+  },
+  "c-mohenjo": {
+   "text": "Mohenjo-daro covered about 240 hectares, of which about a third has been excavated; a raised western 'citadel' overlooked a lower town of right-angled streets with drains.",
+   "label": "approx",
+   "sources": [
+    "unesco-mohenjo",
+    "brit-mohenjo"
+   ],
+   "show": true,
+   "note": "Other estimates of its area run to 250-300 hectares."
+  },
+  "c-pop": {
+   "text": "Estimates put Mohenjo-daro's population at about 35,000-41,000 and Harappa's at about 23,500-35,000.",
+   "label": "approx",
+   "sources": [
+    "brit-indus"
+   ],
+   "show": true,
+   "note": "Population is estimated from the area and density of housing; these are Britannica's figures."
+  },
+  "c-bath": {
+   "text": "The Great Bath at Mohenjo-daro is a brick tank about 12 by 7 metres and 2.4 metres deep, sealed with bitumen, with steps at each end.",
+   "label": "consensus",
+   "sources": [
+    "harappa-bath"
+   ],
+   "show": false
+  },
+  "c-bath-use": {
+   "text": "Most scholars think the Great Bath was used for ritual purification.",
+   "label": "debated",
+   "sources": [
+    "harappa-bath"
+   ],
+   "show": true,
+   "note": "It is the most common reading, but no text survives to confirm what it was for."
+  },
+  "c-harappa-site": {
+   "text": "Harappa has several mounds and two cemeteries, and reached its full size about 2600-1900 BCE.",
+   "label": "approx",
+   "sources": [
+    "unesco-harappa"
+   ],
+   "show": false
+  },
+  "c-dholavira": {
+   "text": "Dholavira, on an island in the salt flats of Kutch, was occupied c. 3000-1500 BCE and had an elaborate system of reservoirs; it became a World Heritage Site in 2021.",
+   "label": "approx",
+   "sources": [
+    "unesco-dholavira"
+   ],
+   "show": false
+  },
+  "c-rakhigarhi": {
+   "text": "Rakhigarhi in Haryana may be the largest Harappan site; estimates of its area range from about 350 to 550 hectares.",
+   "label": "debated",
+   "sources": [
+    "ashoka-rakhigarhi",
+    "shinde2019"
+   ],
+   "show": true,
+   "note": "The figure depends on how many mounds are counted as one settlement."
+  },
+  "c-lothal": {
+   "text": "Lothal, in Gujarat, has a brick basin about 220 metres long that its excavator, S. R. Rao, read as a dockyard; others think it was a reservoir.",
+   "label": "debated",
+   "sources": [
+    "unesco-lothal",
+    "archmag-lothal"
+   ],
+   "show": true,
+   "note": "A 2024 study traced a former channel of the Sabarmati river past the site, which supports the dockyard reading. The question is not settled."
+  },
+  "c-no-palaces": {
+   "text": "Indus cities have no building clearly identified as a palace, no royal tombs and no monuments to rulers.",
+   "label": "debated",
+   "sources": [
+    "green2021",
+    "kenoyer1998"
+   ],
+   "show": true,
+   "note": "What this means is debated: Adam Green argues the cities may have been run without a ruling class; others see city-states or an elite that did not advertise itself. Kenoyer notes no evidence that one city conquered another."
+  },
+  "c-priest-king": {
+   "text": "The small stone bust known as the 'Priest-King' was named by its excavators; there is no evidence it shows a ruler.",
+   "label": "debated",
+   "sources": [
+    "green2021"
+   ],
+   "show": true,
+   "note": "Green argues it is better read as evidence of contact with neighbouring societies."
+  },
+  "c-weights": {
+   "text": "Indus weights followed one standard across the whole civilization: small weights doubled (1, 2, 4, 8, 16, 32 units of about 0.86 g), and larger ones went up in multiples of ten.",
+   "label": "consensus",
+   "sources": [
+    "harappa-weights"
+   ],
+   "show": false
+  },
+  "c-bahrain-weights": {
+   "text": "Weights found at Qal'at al-Bahrain, ancient Dilmun, match Indus weights in shape and value.",
+   "label": "approx",
+   "sources": [
+    "bibby1970",
+    "unesco-bahrain"
+   ],
+   "show": true,
+   "note": "Geoffrey Bibby (1970) matched seven weights to the Harappan system and suggested the Harappans were Dilmun's main trading partner."
+  },
+  "c-unicorn": {
+   "text": "The commonest image on Indus seals is a one-horned animal, usually called the 'unicorn'.",
+   "label": "consensus",
+   "sources": [
+    "harappa-unicorn"
+   ],
+   "show": false
+  },
+  "c-meluhha": {
+   "text": "Sargon of Akkad boasted that ships from Meluhha, Magan and Dilmun moored at his capital, Agade. Meluhha is generally identified with the Indus region.",
+   "label": "approx",
+   "sources": [
+    "cdli-sargon",
+    "possehl-shuilishu"
+   ],
+   "show": true,
+   "note": "The identification is widely accepted, though no text says so in as many words; it rests on the goods said to come from Meluhha and on Indus objects in the Gulf and Mesopotamia."
+  },
+  "c-shuilishu": {
+   "text": "A cylinder seal names its owner, Shu-ilishu, as an interpreter of the Meluhhan language, and texts mention a 'Meluhha village' in Akkad.",
+   "label": "consensus",
+   "sources": [
+    "possehl-shuilishu"
+   ],
+   "show": false
+  },
+  "c-ur-finds": {
+   "text": "Indus-style seals and carnelian beads probably made in the Indus region have been found at Ur.",
+   "label": "consensus",
+   "sources": [
+    "bm-ur-seal",
+    "harappa-ur-beads"
+   ],
+   "show": false
+  },
+  "c-magan": {
+   "text": "Indus objects, including an ivory comb, a stamp seal and pottery, have been found in Oman, ancient Magan, in layers of about 2500-2000 BCE.",
+   "label": "consensus",
+   "sources": [
+    "harappa-salut"
+   ],
+   "show": false
+  },
+  "c-script-stats": {
+   "text": "About 4,000 Indus inscriptions are known; they average about five signs, and the longest on a single surface has 17.",
+   "label": "approx",
+   "sources": [
+    "rao-script",
+    "revesz2021"
+   ],
+   "show": true,
+   "note": "Lists of distinct signs range from about 417 to 694, depending on how variants are counted."
+  },
+  "c-no-bilingual": {
+   "text": "The script is undeciphered: the texts are short, and no bilingual inscription has been found.",
+   "label": "consensus",
+   "sources": [
+    "harappa-script"
+   ],
+   "show": false
+  },
+  "c-is-writing": {
+   "text": "Some scholars argue the Indus signs were not writing at all; others answer that their statistics look like language.",
+   "label": "debated",
+   "sources": [
+    "farmer2004",
+    "rao2009",
+    "rao2015"
+   ],
+   "show": true,
+   "note": "Farmer, Sproat and Witzel (2004) proposed a non-linguistic symbol system; Rao and colleagues (2009, 2015) found statistical patterns closer to languages. The exchange continues."
+  },
+  "c-dravidian": {
+   "text": "Asko Parpola argues the script records a Dravidian language; for example, the fish sign could stand for the word mīn, which means both 'fish' and 'star'.",
+   "label": "debated",
+   "sources": [
+    "harappa-script"
+   ],
+   "show": true,
+   "note": "Other scholars, including Gregory Possehl, do not accept this; no proposed reading is widely accepted."
+  },
+  "c-prize": {
+   "text": "In January 2025 the Chief Minister of Tamil Nadu offered a prize of one million US dollars for a convincing decipherment.",
+   "label": "consensus",
+   "sources": [
+    "etv-prize",
+    "archmag-prize"
+   ],
+   "show": false
+  },
+  "c-i6113": {
+   "text": "The only ancient genome yet published from a Harappan city, from Rakhigarhi, combines Iranian-related ancestry with that of South Asian hunter-gatherers, with little or no steppe ancestry.",
+   "label": "approx",
+   "sources": [
+    "shinde2019"
+   ],
+   "show": true,
+   "note": "It is one individual, dated by its archaeological context to about 2800-2300 BCE."
+  },
+  "c-local-farming": {
+   "text": "Because this Iranian-related line split from that of Iranian farmers more than 12,000 years ago, the authors argue farming in South Asia was begun largely by local people, not by large migrations.",
+   "label": "debated",
+   "sources": [
+    "shinde2019"
+   ],
+   "show": true,
+   "note": "How farming reached South Asia is still debated; one genome cannot settle it."
+  },
+  "c-indus-cline": {
+   "text": "People with the same ancestry turn up as migrants at sites in Iran and Turkmenistan, and this Indus-related ancestry is the largest source of ancestry in South Asians today.",
+   "label": "consensus",
+   "sources": [
+    "narasimhan2019",
+    "shinde2019"
+   ],
+   "show": false
+  },
+  "c-steppe": {
+   "text": "Ancestry from the Eurasian steppe entered South Asia about 2000-1500 BCE; most geneticists and linguists link it to the arrival of Indo-European languages.",
+   "label": "debated",
+   "sources": [
+    "narasimhan2019",
+    "shinde2019",
+    "theweek2019"
+   ],
+   "show": true,
+   "note": "DNA does not record language: the link is inferred from timing and geography. One co-author of the Rakhigarhi study, Vasant Shinde, told the press that Vedic and Harappan culture were the same, a view the paper itself does not take."
+  },
+  "c-ooi": {
+   "text": "The 'Out of India' theory, that Indo-European languages spread from India, has very little support among specialists, and the debate over it is entangled with Indian politics.",
+   "label": "debated",
+   "sources": [
+    "scroll2017",
+    "bryant2001",
+    "theweek2019"
+   ],
+   "show": true,
+   "note": "Its supporters see the Rigveda as very old and native to India. Edwin Bryant's book surveys both sides."
+  },
+  "c-deurban": {
+   "text": "From about 1900 BCE the cities shrank and many were abandoned; people moved east toward Haryana and the Ganges plain, into smaller settlements, and grew a wider range of crops.",
+   "label": "consensus",
+   "sources": [
+    "giosan2012",
+    "brit-indus"
+   ],
+   "show": false
+  },
+  "c-monsoons": {
+   "text": "A sediment core off the Indus delta suggests the cities grew while winter rains were strong, and declined after both the winter and summer monsoons weakened about 4,100 years ago.",
+   "label": "approx",
+   "sources": [
+    "giesche2019",
+    "giosan2018"
+   ],
+   "show": true,
+   "note": "This comes mainly from a single marine core; the exact timing is uncertain."
+  },
+  "c-droughts": {
+   "text": "A 2025 study found four river droughts, each lasting more than 85 years, between about 4,450 and 3,400 years ago.",
+   "label": "approx",
+   "sources": [
+    "solanki2025"
+   ],
+   "show": true,
+   "note": "The authors present drought as one factor behind the decline, not the only cause."
+  },
+  "c-wheeler": {
+   "text": "Mortimer Wheeler suggested in 1947 that skeletons at Mohenjo-daro were victims of invading Aryans; George Dales argued in 1964 that they were not massacre victims, and the theory has been abandoned.",
+   "label": "consensus",
+   "sources": [
+    "harappa-massacre",
+    "dales1964"
+   ],
+   "show": false
+  },
+  "c-yangshao": {
+   "text": "The Yangshao culture of the Yellow River basin, about 5000-3000 BCE, farmed millet and made painted pottery; Banpo near Xi'an is its best-known village.",
+   "label": "approx",
+   "sources": [
+    "brit-yangshao",
+    "brit-banpo"
+   ],
+   "show": false
+  },
+  "c-liangzhu": {
+   "text": "Liangzhu, near the lower Yangzi, about 3300-2300 BCE, was a walled city of roughly 300 hectares, with a system of dams in the surrounding hills and plain.",
+   "label": "approx",
+   "sources": [
+    "unesco-liangzhu",
+    "chinadaily-liangzhu",
+    "phys-liangzhu"
+   ],
+   "show": true,
+   "note": "Sources give the inner city as about 280-300 hectares."
+  },
+  "c-liangzhu-water": {
+   "text": "Its dams, built about 5,000 years ago, are among the oldest large-scale water-management works in the world; one estimate is that 3,000 people worked for 8 years on one of the larger dams.",
+   "label": "approx",
+   "sources": [
+    "phys-liangzhu",
+    "unesco-liangzhu"
+   ],
+   "show": false
+  },
+  "c-liangzhu-state": {
+   "text": "Some archaeologists argue Liangzhu was the earliest state society in East Asia.",
+   "label": "debated",
+   "sources": [
+    "renfrew-liu2018"
+   ],
+   "show": true,
+   "note": "Colin Renfrew and Liu Bin make the case; whether 'state' is the right word depends on definitions."
+  },
+  "c-jade": {
+   "text": "Liangzhu's elite were buried with jade cong (square tubes) and bi (discs), whose meaning is unknown.",
+   "label": "consensus",
+   "sources": [
+    "smarthistory-cong"
+   ],
+   "show": false
+  },
+  "c-longshan": {
+   "text": "The Longshan culture, about 2600-2000 BCE, built rammed-earth walls and divined by cracking heated bones.",
+   "label": "approx",
+   "sources": [
+    "brit-longshan"
+   ],
+   "show": false
+  },
+  "c-taosi": {
+   "text": "Taosi in Shanxi grew to a walled town of about 2.8 km² in the 21st century BCE.",
+   "label": "approx",
+   "sources": [
+    "icomos-taosi"
+   ],
+   "show": false
+  },
+  "c-taosi-obs": {
+   "text": "A semicircular platform at Taosi has slots that line up with sunrise at the solstices about 2100 BCE, and is claimed as an observatory.",
+   "label": "debated",
+   "sources": [
+    "wu2009-taosi",
+    "icomos-taosi"
+   ],
+   "show": true,
+   "note": "Chinese excavators and astronomers argue it marked a solar calendar; others are more cautious about how precisely the slots can be read."
+  },
+  "c-shimao": {
+   "text": "Shimao, in northern Shaanxi, about 2300-1800 BCE, was a stone-walled city of roughly 400 hectares with a terraced core about 70 metres high and pits of human skulls at its gate.",
+   "label": "approx",
+   "sources": [
+    "natgeo-shimao",
+    "nature-shimao2025"
+   ],
+   "show": false
+  },
+  "c-shimao-dna": {
+   "text": "Ancient DNA from 169 people at Shimao (2025) shows ancestry mainly from earlier farmers of the region, family trees traced through men, and that the skull-pit victims at the East Gate were mostly male.",
+   "label": "approx",
+   "sources": [
+    "nature-shimao2025"
+   ],
+   "show": true,
+   "note": "Earlier studies of the bones had suggested most victims were young women; DNA shows 9 of 10 sampled were male. Victims in elite cemeteries were mostly female."
+  },
+  "c-many-centres": {
+   "text": "Archaeologists debate whether Chinese civilization grew from one centre in the Central Plains or from many regional centres, like 'stars in the sky'.",
+   "label": "debated",
+   "sources": [
+    "newschina-origins",
+    "zhang2019",
+    "jaang2018"
+   ],
+   "show": true,
+   "note": "Su Bingqi proposed several regional origins; Yan Wenming stressed overall unity with a central role for the Central Plains. Large centres such as Liangzhu, Taosi and Shimao lay outside the Central Plains."
+  },
+  "c-erlitou": {
+   "text": "Erlitou, near Luoyang, was a planned centre with palace foundations, bronze workshops and some of China's earliest bronze ritual vessels, from about 1750 BCE.",
+   "label": "approx",
+   "sources": [
+    "lawler2009b",
+    "gt-erlitou"
+   ],
+   "show": true,
+   "note": "Newer radiocarbon dates moved its start later, from about 1900 to about 1750 BCE."
+  },
+  "c-dragon": {
+   "text": "A dragon made of more than 2,000 pieces of turquoise was found in an elite grave at Erlitou in 2002.",
+   "label": "consensus",
+   "sources": [
+    "gt-erlitou",
+    "stonepages-dragon"
+   ],
+   "show": false
+  },
+  "c-xia-trad": {
+   "text": "Chinese historical tradition makes the Xia the first dynasty, founded by Yu the Great, who tamed a great flood; modern Chinese chronology dates it about 2070-1600 BCE.",
+   "label": "tradition",
+   "sources": [
+    "brit-xia"
+   ],
+   "show": true,
+   "note": "The 2070-1600 dates come from the Xia-Shang-Zhou Chronology Project (2000); older traditional reckonings differ. The Xia is known from texts written more than a thousand years later."
+  },
+  "c-erlitou-xia": {
+   "text": "Most Chinese archaeologists identify Erlitou as a Xia capital; many scholars elsewhere are cautious, because no writing of the time names the Xia.",
+   "label": "debated",
+   "sources": [
+    "gt-erlitou",
+    "liu-xu2007",
+    "lawler2009b"
+   ],
+   "show": true,
+   "note": "Liu Li and Xu Hong argue for separating the legendary texts from the archaeological record; the later radiocarbon dates also fit the traditional Xia dates less well."
+  },
+  "c-yu-flood": {
+   "text": "A 2016 study linked the flood of Yu to a landslide-dam outburst in the Yellow River about 1920 BCE; other scientists say the evidence cannot bear that conclusion.",
+   "label": "debated",
+   "sources": [
+    "scinews-flood",
+    "science-flood-comment"
+   ],
+   "show": false
+  },
+  "c-shang-dates": {
+   "text": "The Shang dynasty is conventionally dated about 1600-1046 BCE; its last capital, at Anyang, about 1250-1046.",
+   "label": "approx",
+   "sources": [
+    "brit-shang",
+    "brit-china-shang",
+    "unesco-yinxu"
+   ],
+   "show": false,
+   "note": "Other estimates for the founding range from 1760 to 1520 BCE; UNESCO dates the move to Anyang about 1300 BCE."
+  },
+  "c-shang-cities": {
+   "text": "Earlier Shang cities at Zhengzhou and Yanshi had massive rammed-earth walls; Zhengzhou's was 36 metres wide at its base.",
+   "label": "approx",
+   "sources": [
+    "brit-china-shang"
+   ],
+   "show": false
+  },
+  "c-yinxu": {
+   "text": "Yinxu, the Shang capital at Anyang, has more than 80 palace and temple foundations and the earliest large royal cemetery in China.",
+   "label": "consensus",
+   "sources": [
+    "unesco-yinxu"
+   ],
+   "show": false
+  },
+  "c-sacrifice": {
+   "text": "More than 13,000 people may have been sacrificed at Anyang over about two centuries, often 50 and sometimes 300 at a time; isotopes suggest many were outsiders.",
+   "label": "approx",
+   "sources": [
+    "sapiens-oracle"
+   ],
+   "show": true,
+   "note": "Oracle-bone texts name Qiang captives; the physical evidence cannot yet confirm who the victims were."
+  },
+  "c-fuhao": {
+   "text": "The tomb of Fu Hao, a royal consort and general, found intact in 1976, held 468 bronzes, 755 jades, about 6,900 cowrie shells, 16 human victims and 6 dogs.",
+   "label": "consensus",
+   "sources": [
+    "smarthistory-fuhao"
+   ],
+   "show": false
+  },
+  "c-piece-mould": {
+   "text": "Shang bronzes were cast in sectioned clay moulds; the largest known, the Houmuwu ding, weighs about 833 kg.",
+   "label": "consensus",
+   "sources": [
+    "met-shangzhou",
+    "hunan-ding"
+   ],
+   "show": false
+  },
+  "c-chariot": {
+   "text": "Horse-drawn chariots appear in China about 1200 BCE, arriving from the steppe to the north and west.",
+   "label": "approx",
+   "sources": [
+    "brit-china-shang",
+    "rawson2020"
+   ],
+   "show": false,
+   "note": "How they arrived, by conquest or by contact, is debated."
+  },
+  "c-di": {
+   "text": "Shang kings sacrificed to their ancestors; above them stood Di, a supreme deity who governed weather, harvests and war but had no cult of his own and was thought too distant to be influenced by mortals.",
+   "label": "consensus",
+   "sources": [
+    "brit-shangdi",
+    "brit-china-shang"
+   ],
+   "show": false
+  },
+  "c-oracle-discovery": {
+   "text": "Oracle bones were recognised in 1899 when the scholar Wang Yirong noticed writing on 'dragon bones' sold as medicine; in 1908 Luo Zhenyu traced them to Anyang.",
+   "label": "tradition",
+   "sources": [
+    "sapiens-oracle",
+    "whe-oracle"
+   ],
+   "show": true,
+   "note": "The details of the story are partly legend."
+  },
+  "c-oracle-count": {
+   "text": "About 150,000-160,000 inscribed oracle-bone fragments are known, mostly from Anyang.",
+   "label": "approx",
+   "sources": [
+    "sapiens-oracle",
+    "tencent-oracle"
+   ],
+   "show": false
+  },
+  "c-divination": {
+   "text": "Diviners heated ox shoulder blades and turtle shells until they cracked, read the cracks as answers, and recorded the question, the king's prediction and sometimes what actually happened.",
+   "label": "consensus",
+   "sources": [
+    "brit-oraclebone",
+    "whe-oracle"
+   ],
+   "show": false
+  },
+  "c-oracle-topics": {
+   "text": "The questions concern weather, harvests, war, illness, childbirth and sacrifices.",
+   "label": "consensus",
+   "sources": [
+    "hyperallergic-oracle",
+    "brit-oraclebone"
+   ],
+   "show": false
+  },
+  "c-graphs": {
+   "text": "The oracle-bone script has about 4,500 distinct characters, of which about a third have been matched to modern Chinese characters.",
+   "label": "approx",
+   "sources": [
+    "tencent-oracle",
+    "hust-oracle"
+   ],
+   "show": true,
+   "note": "Counts differ between projects."
+  },
+  "c-continuity": {
+   "text": "Oracle-bone writing is the oldest known Chinese script and the direct ancestor of Chinese characters used today.",
+   "label": "consensus",
+   "sources": [
+    "cam-oracle",
+    "brit-oraclebone"
+   ],
+   "show": false
+  },
+  "c-jiahu": {
+   "text": "Signs carved on tortoise shells at Jiahu, about 6600 BCE, resemble some later characters; their discoverers think they were ritual symbols, not writing.",
+   "label": "debated",
+   "sources": [
+    "li2003-jiahu"
+   ],
+   "show": false
+  },
+  "c-ai-oracle": {
+   "text": "Since 2024, AI tools have been used to suggest modern equivalents for undeciphered oracle-bone characters.",
+   "label": "consensus",
+   "sources": [
+    "tencent-oracle",
+    "hust-oracle"
+   ],
+   "show": false
+  },
+  "c-sxd-site": {
+   "text": "Sanxingdui, about 40 km north-east of Chengdu in Sichuan, became a Bronze Age centre about 1800 BCE, with walls enclosing some 360 hectares.",
+   "label": "approx",
+   "sources": [
+    "unesco-shu",
+    "antiquity2023-sxd"
+   ],
+   "show": true,
+   "note": "Occupation at the site goes back to about 2700 BCE; sources give different figures for its extent."
+  },
+  "c-sxd-1986": {
+   "text": "In 1986 brick-factory workers digging clay found two pits holding hundreds of objects of bronze, gold, jade and ivory, many deliberately broken and burned.",
+   "label": "approx",
+   "sources": [
+    "antiquity2023-sxd",
+    "wsj-sxd"
+   ],
+   "show": true,
+   "note": "The Antiquity report counts more than 900 objects; UNESCO gives more than 6,000 relics, probably counting fragments and small items."
+  },
+  "c-sxd-new": {
+   "text": "Six more pits, found from 2019, held a gold mask, a bronze figure carrying a vessel on its head and a painted wooden chest; none of the eight pits held human remains.",
+   "label": "consensus",
+   "sources": [
+    "antiquity2023-sxd",
+    "livescience-sxd"
+   ],
+   "show": false
+  },
+  "c-sxd-figures": {
+   "text": "Pit 2 held a bronze standing figure 2.6 metres tall with its base, a bronze tree reassembled to almost 4 metres, and a mask 1.38 metres wide whose eyes stick out about 16 cm.",
+   "label": "consensus",
+   "sources": [
+    "cgtn-sxd2021",
+    "thecover-mask"
+   ],
+   "show": false
+  },
+  "c-cancong": {
+   "text": "Some scholars link the protruding eyes to Cancong, a legendary first king of Shu described in a text of the 4th century CE as having 'vertical eyes'.",
+   "label": "tradition",
+   "sources": [
+    "thecover-mask"
+   ],
+   "show": true,
+   "note": "This is a suggestion; no writing at Sanxingdui names any ruler or god."
+  },
+  "c-sxd-dates": {
+   "text": "The pits were filled late in the Shang period, about 1200-1000 BCE; exactly when, and whether all at once, is debated.",
+   "label": "debated",
+   "sources": [
+    "antiquity2023-sxd",
+    "cgtn-sxd2025"
+   ],
+   "show": true,
+   "note": "Artefact styles put most pits in Anyang's last phase and two perhaps in the early Zhou; a 2025 radiocarbon study dated four pits, including one of those two, to 1201-1012 BCE."
+  },
+  "c-sxd-distinct": {
+   "text": "Sanxingdui traded and shared some vessel types with the Central Plains, but its art and religion were its own.",
+   "label": "consensus",
+   "sources": [
+    "unesco-shu",
+    "antiquity2023-sxd"
+   ],
+   "show": false
+  },
+  "c-sxd-nowriting": {
+   "text": "No writing and no rulers' tombs have been found at Sanxingdui, and only a small fraction of the site has been excavated.",
+   "label": "consensus",
+   "sources": [
+    "wsj-sxd"
+   ],
+   "show": false
+  },
+  "c-aliens": {
+   "text": "Claims that Sanxingdui was built by aliens or by migrants from the Middle East have no evidence behind them; archaeologists call them far-fetched.",
+   "label": "consensus",
+   "sources": [
+    "scmp-sxd"
+   ],
+   "show": false
+  },
+  "c-west-contact": {
+   "text": "A few objects, such as gold sceptres, may hint at contact with lands farther west.",
+   "label": "debated",
+   "sources": [
+    "wsj-sxd"
+   ],
+   "show": true,
+   "note": "This is speculative; no clear evidence of such contact has been published."
+  },
+  "c-jinsha": {
+   "text": "Jinsha, in western Chengdu, found in 2001 and dated about 1200-650 BCE, continued Sanxingdui's traditions, including a gold mask and a thin gold 'sun bird' disc.",
+   "label": "approx",
+   "sources": [
+    "cgtn-jinsha",
+    "unesco-shu"
+   ],
+   "show": false
+  },
+  "c-shu-qin": {
+   "text": "The kingdom of Shu in Sichuan was conquered by Qin in 316 BCE.",
+   "label": "consensus",
+   "sources": [
+    "unesco-shu"
+   ],
+   "show": false
+  },
+  "c-li-gui": {
+   "text": "The Li gui, a bronze vessel found in 1976, records that King Wu attacked the Shang on a jiazi day, in the morning.",
+   "label": "consensus",
+   "sources": [
+    "shaughnessy1981",
+    "cgtn-ligui"
+   ],
+   "show": false,
+   "note": "Two characters in the inscription are read by some as 'Jupiter was in position', an astronomical clue to the date; others read them as the names of sacrifices."
+  },
+  "c-conquest-date": {
+   "text": "The Zhou conquest of the Shang is usually dated 1046 BCE.",
+   "label": "debated",
+   "sources": [
+    "cgtn-ligui",
+    "pankenier1981",
+    "shaughnessy1985",
+    "nivison1999"
+   ],
+   "show": true,
+   "note": "1046 is the date of the Xia-Shang-Zhou Chronology Project and of David Pankenier; Edward Shaughnessy argues for 1045 and David Nivison for 1040. Older proposals discussed by Nivison include 1070 and 1027."
+  },
+  "c-pankenier": {
+   "text": "David Pankenier links Zhou ideas of the Mandate to a striking gathering of planets he dates to 1059 BCE.",
+   "label": "debated",
+   "sources": [
+    "pankenier1981"
+   ],
+   "show": true,
+   "note": "One scholar's thesis, much discussed but not established."
+  },
+  "c-mandate": {
+   "text": "The Zhou kings justified their rule by claiming a mandate from Heaven (tian), which favours rulers of virtue (de).",
+   "label": "consensus",
+   "sources": [
+    "sep-mencius"
+   ],
+   "show": false
+  },
+  "c-mandate-early": {
+   "text": "Bronze inscriptions and some chapters of the Book of Documents (Shangshu) show the Mandate idea in the early Zhou.",
+   "label": "approx",
+   "sources": [
+    "lundu2017"
+   ],
+   "show": true,
+   "note": "Some Shangshu chapters were written down later, so the bronze inscriptions are the safer evidence."
+  },
+  "c-he-zun": {
+   "text": "The He zun, a bronze found at Baoji in 1963, has a 122-character inscription containing zhongguo, 'the central lands', the earliest known use of the phrase now used as China's name.",
+   "label": "consensus",
+   "sources": [
+    "chinadaily-hezun"
+   ],
+   "show": false
+  },
+  "c-fengjian": {
+   "text": "The Zhou kings granted territories to relatives and allies who ruled them as hereditary lords; whether to call this 'feudalism' is disputed.",
+   "label": "debated",
+   "sources": [
+    "hou2007",
+    "iu-zhou"
+   ],
+   "show": true,
+   "note": "Some historians use 'Zhou feudalism' as a model; others, like Hou Jianxin, argue the European term misleads when applied to China."
+  },
+  "c-771": {
+   "text": "In 771 BCE attackers from the west sacked the Zhou capitals and killed King You; his successor moved the court east to Luoyi, and Zhou kings never again ruled the west.",
+   "label": "consensus",
+   "sources": [
+    "lifeng2006",
+    "khayutina2008"
+   ],
+   "show": false
+  },
+  "c-mandate-legacy": {
+   "text": "The Mandate became a lasting idea in Chinese politics: disasters and rebellion could be read as signs Heaven had withdrawn its favour, until the last dynasty fell in the revolution of 1911-12.",
+   "label": "consensus",
+   "sources": [
+    "ebsco-mandate",
+    "sep-mencius"
+   ],
+   "show": false
+  },
+  "c-xszcp": {
+   "text": "The state-sponsored Xia-Shang-Zhou Chronology Project brought together about 200 historians, palaeographers, archaeologists and astronomers, led by Li Xueqin; it published a short report in 2000 and its full report in 2022.",
+   "label": "consensus",
+   "sources": [
+    "shaughnessy2023"
+   ],
+   "show": false
+  },
+  "c-xszcp-results": {
+   "text": "It dated the Xia to about 2070-1600 BCE, the Shang to about 1600-1046, and the Zhou conquest to 1046.",
+   "label": "approx",
+   "sources": [
+    "nyt2000",
+    "shaughnessy2023"
+   ],
+   "show": true,
+   "note": "Only reigns after about 1300 BCE were given specific years."
+  },
+  "c-841": {
+   "text": "Sima Qian's history, the Shiji (about 100 BCE), gives year-by-year dates only from 841 BCE; for earlier rulers it gives lists of names.",
+   "label": "consensus",
+   "sources": [
+    "liu2021-c14",
+    "nyt2000"
+   ],
+   "show": false
+  },
+  "c-xszcp-critics": {
+   "text": "Critics outside China called the project's precision unjustified and its motives partly nationalist; its leaders defended the dates as the best available.",
+   "label": "debated",
+   "sources": [
+    "nyt2000",
+    "shaughnessy2023"
+   ],
+   "show": true,
+   "note": "Shaughnessy argued in 2023, from fully dated bronze inscriptions, that its Western Zhou chronology is wrong throughout; David Nivison warned that the government's endorsement of the dates 'may poison scholarship for generations'."
+  },
+  "c-origins-project": {
+   "text": "A second project, on the origins of Chinese civilization, announced in 2018 that regional civilizations existed by about 5,300 years ago, citing Liangzhu, Taosi and Shimao.",
+   "label": "debated",
+   "sources": [
+    "cgtn-origins"
+   ],
+   "show": true,
+   "note": "It used criteria such as social classes, central cities and state power rather than writing, the classic test of a civilization."
+  },
+  "c-xi-5000": {
+   "text": "In 2022 Xi Jinping told a Politburo study session that China has 'more than 5,000 years of civilization', linking research on its origins to cultural confidence and national rejuvenation.",
+   "label": "consensus",
+   "sources": [
+    "chinadaily-xi2022"
+   ],
+   "show": false
+  },
+  "c-national-narrative": {
+   "text": "Some scholars worry that archaeology is being drawn into a national story; for example, Sanxingdui is presented as part of China's 'unity in diversity', though nothing shows its people thought of themselves as Chinese.",
+   "label": "debated",
+   "sources": [
+    "wsj-sxd",
+    "nyt2000"
+   ],
+   "show": true,
+   "note": "Chinese project leaders have denied being told what to find."
+  },
+  "c-oracle-confirm": {
+   "text": "Oracle bones confirmed that the Shang existed, and the line of kings reconstructed from them matches Sima Qian's list, written about a thousand years later, with only minor differences.",
+   "label": "consensus",
+   "sources": [
+    "bachner2017",
+    "chinadaily-kings"
+   ],
+   "show": false
+  },
+  "c-wuding": {
+   "text": "Radiocarbon dates on oracle bones place the reign of the Shang king Wu Ding about 1254-1197 BCE.",
+   "label": "approx",
+   "sources": [
+    "liu2021-c14"
+   ],
+   "show": false
+  },
+  "c-cmp-meso": {
+   "text": "The earliest Mesopotamian tablets date from about 3300-3000 BCE, and the largest city, Uruk, covered about 250 hectares.",
+   "label": "approx",
+   "sources": [
+    "englund2001",
+    "mcmahon2020"
+   ],
+   "show": false
+  },
+  "c-cmp-uj": {
+   "text": "Egypt's earliest writing, on labels from tomb U-j at Abydos, dates to about 3200 BCE.",
+   "label": "debated",
+   "sources": [
+    "mattessich2002"
+   ],
+   "show": true,
+   "note": "Their date and whether they are full writing are debated (4.1)."
+  },
+  "c-cmp-indus-early": {
+   "text": "Marks scratched on pottery at Harappa in the Ravi phase, about 3300-2800 BCE, may be early forms of Indus signs.",
+   "label": "debated",
+   "sources": [
+    "meadow-intro"
+   ],
+   "show": true,
+   "note": "Whether they are early writing or potters' marks is uncertain."
+  },
+  "c-yinxu-size": {
+   "text": "The Yinxu site at Anyang, the last Shang capital, covers about 30 km².",
+   "label": "approx",
+   "sources": [
+    "henan-yinxu"
+   ],
+   "show": false
+  },
+  "c-cmp-sacrifice": {
+   "text": "Mesopotamia, Egypt and the Shang all buried people killed to accompany rulers; no such burials are known from the Indus.",
+   "label": "approx",
+   "sources": [
+    "zettler-ur",
+    "penn-retainers",
+    "sapiens-oracle",
+    "green2021"
+   ],
+   "show": true,
+   "note": "Few Indus cemeteries have been fully excavated, so absence of evidence is not proof."
+  }
+ },
+ "pages": [
+  {
+   "title": "The Indus and early China",
+   "sub": "two river civilizations, one still unread",
+   "lede": "While Sumerians and Egyptians were building the first cities, a third urban civilization rose along the Indus. A thousand years later, a fourth took shape on the Yellow River. The first left writing nobody can read; the second, writing still in use today.",
+   "body": [
+    "This chapter takes them in turn. Pages 5.0 to 5.3 cover the Indus, or Harappan, civilization, named after Harappa, the first city found. Pages 5.4 to 5.10 cover early China, from Neolithic towns to the Zhou kings, and page 5.11 compares all four river civilizations.",
+    "The Indus civilization was the most extensive of the early civilizations, spread across what is now Pakistan and north-west India, [[c-extent]] with several hundred known sites. [[c-sites]] Its roots lie in farming villages such as Mehrgarh, settled from about 6500 BCE. [[c-mehrgarh]]",
+    "Its heartland had two river systems: the Indus, fed by Himalayan snow and the monsoon, and to the east the Ghaggar-Hakra, now mostly dry. A 2012 study found that the rivers there were fed by the monsoon rather than by glaciers, [[c-monsoon-rivers]] and when the Ghaggar-Hakra last carried Himalayan water is debated. [[c-sutlej]] The question matters because many cities stood along it.",
+    {
+     "table": {
+      "head": [
+       "Phase (at Harappa)",
+       "Dates (BCE)"
+      ],
+      "rows": [
+       [
+        "Ravi phase (first village)",
+        "c. 3300-2800"
+       ],
+       [
+        "Early Harappan",
+        "2800-2600"
+       ],
+       [
+        "Mature Harappan (the cities)",
+        "2600-1900"
+       ],
+       [
+        "Transitional",
+        "1900-1800"
+       ],
+       [
+        "Late Harappan",
+        "1800 to before 1300"
+       ]
+      ],
+      "note": "Harappa Archaeological Research Project. [[c-phases]]"
+     }
+    },
+    {
+     "compare": "Compare the Tigris and Euphrates (3.0) and the Nile (4.0)."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 71.9,
+     "lat": 26.6,
+     "zoom": 30
+    },
+    "caption": "The Indus world, c. 2600-1900 BCE",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "pt",
+      "site"
+     ],
+     [
+      "dot",
+      "large city"
+     ],
+     [
+      "dash",
+      "river (schematic)"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          72.2,
+          33.9
+         ],
+         [
+          71.6,
+          32.4
+         ],
+         [
+          71.0,
+          30.9
+         ],
+         [
+          70.3,
+          29.3
+         ],
+         [
+          69.3,
+          28.3
+         ],
+         [
+          68.6,
+          27.6
+         ],
+         [
+          68.0,
+          26.4
+         ],
+         [
+          68.3,
+          25.4
+         ],
+         [
+          67.6,
+          24.3
+         ]
+        ],
+        "label": "Indus",
+        "lab": [
+         70.9,
+         30.2
+        ],
+        "ldx": -10,
+        "anchor": "end"
+       },
+       {
+        "path": [
+         [
+          77.0,
+          30.6
+         ],
+         [
+          75.6,
+          29.8
+         ],
+         [
+          74.13,
+          29.47
+         ],
+         [
+          72.8,
+          29.05
+         ],
+         [
+          71.15,
+          28.6
+         ],
+         [
+          70.3,
+          28.1
+         ]
+        ],
+        "label": "Ghaggar-Hakra (now dry)",
+        "lab": [
+         73.4,
+         29.25
+        ],
+        "ldy": 16
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         74.7,
+         31.3
+        ],
+        "label": "PUNJAB",
+        "size": 10
+       },
+       {
+        "ll": [
+         68.4,
+         25.9
+        ],
+        "label": "SINDH",
+        "size": 10
+       },
+       {
+        "ll": [
+         70.8,
+         23.3
+        ],
+        "label": "KUTCH",
+        "size": 9
+       },
+       {
+        "ll": [
+         71.6,
+         26.6
+        ],
+        "label": "THAR DESERT",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         68.1389,
+         27.3292
+        ],
+        "label": "Mohenjo-daro",
+        "date": "c. 240 ha",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "5.1 · the Indus cities",
+         "title": "Mohenjo-daro",
+         "sub": "c. 2600 to 1900 BCE",
+         "text": "[[c-mohenjo]] [[c-pop]] [[c-bath]]",
+         "facts": [
+          [
+           "area",
+           "about 240 ha"
+          ],
+          [
+           "excavated",
+           "about a third"
+          ],
+          [
+           "World Heritage",
+           "1980"
+          ]
+         ],
+         "sources": [
+          "unesco-mohenjo",
+          "brit-indus"
+         ]
+        }
+       },
+       {
+        "ll": [
+         72.8639,
+         30.6289
+        ],
+        "label": "Harappa",
+        "date": "found 1921",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "5.1 · the Indus cities",
+         "title": "Harappa",
+         "sub": "c. 3300 to 1300 BCE",
+         "text": "[[c-harappa-site]] [[c-phases]] [[c-discovery]]",
+         "sources": [
+          "unesco-harappa",
+          "harp-phases"
+         ]
+        }
+       },
+       {
+        "ll": [
+         76.1142,
+         29.2931
+        ],
+        "label": "Rakhigarhi",
+        "date": "genome (5.3)",
+        "acc": true,
+        "big": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "5.1 · the Indus cities",
+         "title": "Rakhigarhi",
+         "sub": "Haryana",
+         "text": "[[c-rakhigarhi]] [[c-i6113]]",
+         "sources": [
+          "ashoka-rakhigarhi",
+          "shinde2019"
+         ]
+        }
+       },
+       {
+        "ll": [
+         70.2136,
+         23.8886
+        ],
+        "label": "Dholavira",
+        "date": "reservoirs",
+        "anchor": "end",
+        "plate": {
+         "kicker": "5.1 · the Indus cities",
+         "title": "Dholavira",
+         "sub": "c. 3000 to 1500 BCE",
+         "text": "[[c-dholavira]]",
+         "sources": [
+          "unesco-dholavira"
+         ]
+        }
+       },
+       {
+        "ll": [
+         72.2494,
+         22.5214
+        ],
+        "label": "Lothal",
+        "date": "dock or reservoir?",
+        "plate": {
+         "kicker": "5.1 · the Indus cities",
+         "title": "Lothal",
+         "sub": "Gujarat",
+         "text": "[[c-lothal]]",
+         "sources": [
+          "unesco-lothal",
+          "archmag-lothal"
+         ]
+        }
+       },
+       {
+        "ll": [
+         74.1303,
+         29.4742
+        ],
+        "label": "Kalibangan",
+        "dy": -8
+       },
+       {
+        "ll": [
+         71.15,
+         28.5989
+        ],
+        "label": "Ganweriwala",
+        "dy": 14,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         67.6708,
+         29.2125
+        ],
+        "label": "Mehrgarh",
+        "date": "from c. 6500 BCE",
+        "anchor": "end",
+        "plate": {
+         "kicker": "5.0 · the Indus",
+         "title": "Mehrgarh",
+         "sub": "c. 6500 to 2600 BCE",
+         "text": "[[c-mehrgarh]]",
+         "sources": [
+          "unesco-mehrgarh"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why does it matter when the Ghaggar-Hakra lost its Himalayan water?",
+     "choices": [
+      "Harappan cities stood along it, and a seasonal river left them reliant on the monsoon",
+      "Its date would fix when the Rigveda was composed and settle the age of the hymns",
+      "It tells us when the Indus itself dried up and the cities lost their water",
+      "Mohenjo-daro stood on its banks, so the river's history dates the city's own founding"
+     ],
+     "answer": 0,
+     "why": "Many Harappan settlements stood along the Ghaggar-Hakra. If it was already seasonal in the Mature Harappan period, the cities beside it depended on monsoon rain.",
+     "wrong": {
+      "1": "River history cannot date a text; the link between this river and the Sarasvati is itself disputed.",
+      "2": "The Indus still flows today.",
+      "3": "Mohenjo-daro stands on the Indus, not the Ghaggar-Hakra."
+     }
+    },
+    {
+     "q": "One book dates the Mature Harappan phase 2600-1900 BCE; Britannica says the mature civilization lasted to about 1700 BCE with a late stage. Why the difference?",
+     "choices": [
+      "One range is in years before present and the other is in calendar years BCE",
+      "Britannica's 'late mature' stage overlaps the Harappa team's later phases",
+      "1700 BCE marks the end of the Late Harappan phase, which the book leaves out",
+      "One range describes Mohenjo-daro alone, the other the civilization as a whole"
+     ],
+     "answer": 1,
+     "why": "Archaeological phases are conventions. Britannica's late mature stage, to about 1700 BCE, covers years the Harappa excavators call Transitional (1900-1800) and Late (from 1800).",
+     "wrong": {
+      "0": "Both ranges are in BCE.",
+      "2": "At Harappa the Late phase lasted until before 1300 BCE.",
+      "3": "Neither range is for Mohenjo-daro; the two schemes draw the end of the mature phase in different places."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Indus cities",
+   "sub": "grids, drains and no palaces",
+   "lede": "Indus cities were laid out on grids, built of standard-sized bricks, and served by drains in nearly every street. What they lack is just as striking: no building clearly a palace, no royal tomb, no image of a king.",
+   "body": [
+    "Harappa was excavated from 1921 and Mohenjo-daro from 1922, [[c-discovery]] and in 1924 John Marshall announced to the world a civilization nobody had known existed. [[c-marshall]]",
+    "Mohenjo-daro covered about 240 hectares. A raised mound on the west, called the 'citadel', overlooked a lower town of right-angled streets with covered drains. [[c-mohenjo]] It may have held 35,000 to 41,000 people, Harappa somewhat fewer. [[c-pop]] On the citadel stands the Great Bath, a brick tank sealed with bitumen, [[c-bath]] probably used for ritual washing. [[c-bath-use]]",
+    "Other cities had their own character. Dholavira, in the salt flats of Kutch, stored water in large reservoirs. [[c-dholavira]] Rakhigarhi, in Haryana, may have been the largest of all. [[c-rakhigarhi]] At Lothal in Gujarat a long brick basin has been read both as a dock and as a reservoir. [[c-lothal]]",
+    "No building in these cities has been clearly identified as a palace, and there are no royal tombs or monuments to rulers. [[c-no-palaces]] Even the famous bust called the 'Priest-King' is named only by convention. [[c-priest-king]] Some archaeologists think power was shared among many groups; others think the elite simply did not display itself in the ways Sumerian and Egyptian rulers did.",
+    {
+     "compare": "Compare the royal tombs of Ur (3.5) and the pyramids (4.3). In Mesopotamia and Egypt, power is written into the landscape; on the Indus, it is hard to see at all."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "bars",
+    "caption": "How big were the Indus cities?",
+    "title": "Settlement area, in hectares",
+    "max": 600,
+    "ticks": [
+     0,
+     100,
+     200,
+     300,
+     400,
+     500,
+     600
+    ],
+    "axis": "hectares (1 ha = 100 x 100 m)",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "Lothal",
+      "sub": "Gujarat",
+      "v": 7,
+      "lab": "c. 7 ha"
+     },
+     {
+      "t": "Harappa",
+      "sub": "protected area, with buffer",
+      "v": 150,
+      "lab": "c. 150 ha"
+     },
+     {
+      "t": "Mohenjo-daro",
+      "sub": "Sindh",
+      "v": 240,
+      "lab": "c. 240 ha",
+      "acc": true,
+      "tip": "about a third excavated",
+      "plate": {
+       "kicker": "5.1 · the Indus cities",
+       "title": "Mohenjo-daro",
+       "sub": "c. 2600 to 1900 BCE",
+       "text": "[[c-mohenjo]] [[c-pop]] [[c-bath]] [[c-bath-use]]",
+       "sources": [
+        "unesco-mohenjo",
+        "brit-mohenjo",
+        "harappa-bath"
+       ]
+      }
+     },
+     {
+      "t": "Rakhigarhi, lower estimate",
+      "sub": "Haryana",
+      "v": 350,
+      "lab": "c. 350 ha",
+      "acc": true
+     },
+     {
+      "t": "Rakhigarhi, higher estimate",
+      "v": 550,
+      "lab": "c. 550 ha",
+      "open": true,
+      "tip": "counting more mounds as one site"
+     },
+     {
+      "t": "For comparison: Uruk",
+      "sub": "c. 3200 BCE (3.1)",
+      "v": 250,
+      "lab": "c. 250 ha"
+     }
+    ],
+    "notes": [
+     "Sources: UNESCO; Ashoka University; Shinde et al. (2019); McMahon (2020).",
+     "Areas measured in different ways are not strictly comparable."
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does the absence of palaces and royal tombs in Indus cities most plausibly tell us?",
+     "choices": [
+      "That the cities were small villages without the wealth to build palaces",
+      "Scholars disagree: no ruling class, or an elite that did not display itself",
+      "Scholars disagree: an empire ruled from Mohenjo-daro, or one from Harappa",
+      "That royal tombs exist at these sites but have not yet been excavated"
+     ],
+     "answer": 1,
+     "why": "The evidence fits several models. Adam Green argues the cities may have been run without a ruling class; others see city-states or an elite that did not advertise itself.",
+     "wrong": {
+      "0": "Mohenjo-daro covered about 240 hectares, with tens of thousands of people.",
+      "2": "The actual debate is over rule without a ruling class versus city-states or a discreet elite; Kenoyer notes no evidence that one city conquered another.",
+      "3": "No royal tombs are known from Indus cities; the debate is over what their absence means."
+     }
+    },
+    {
+     "q": "Which finding most directly strengthened the reading of Lothal's basin as a dock?",
+     "choices": [
+      "The basin's great length, about 220 metres from end to end",
+      "Evidence of a former Sabarmati channel running past the site",
+      "The small size of the town itself, which covers about 7 hectares",
+      "Its Harappan date, which places it in the era of Gulf trade"
+     ],
+     "answer": 1,
+     "why": "A 2024 study traced a former channel of the Sabarmati river past the site, which supports the dockyard reading. The question is still not settled.",
+     "wrong": {
+      "0": "Size alone does not decide the question; both readings accept a basin of that length.",
+      "2": "The area of the town says nothing about the basin's purpose.",
+      "3": "A date does not tell us what the basin was for."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Trade, seals and the script",
+   "sub": "Meluhha and the unread signs",
+   "lede": "Indus merchants traded by sea with the Gulf and Mesopotamia, where texts call their land Meluhha. They stamped goods with small seals carrying a script that, after a century of attempts, nobody can read.",
+   "body": [
+    "Weights across the whole civilization followed one standard: small weights doubled from about 0.86 grams, larger ones went up by tens. [[c-weights]] Weights of the same standard turn up in Bahrain, ancient Dilmun. [[c-bahrain-weights]]",
+    "Mesopotamian texts speak of a distant land called Meluhha. Sargon of Akkad boasted that its ships moored at his capital, [[c-meluhha]] a seal names a man as an interpreter of Meluhhan, and there was a 'Meluhha village' in Akkad. [[c-shuilishu]] Indus seals and beads have been found at Ur, [[c-ur-finds]] and Indus objects in Oman, ancient Magan. [[c-magan]]",
+    "Seals were carved in soft stone, usually with an animal, most often the one-horned 'unicorn', [[c-unicorn]] and a short line of signs. About 4,000 inscriptions are known, but they average only about five signs. [[c-script-stats]] With texts so short and no bilingual inscription, the script cannot be cracked by the methods that worked for Egyptian and Mesopotamian scripts. [[c-no-bilingual]]",
+    {
+     "table": {
+      "head": [
+       "Question",
+       "Main positions"
+      ],
+      "rows": [
+       [
+        "Is it writing?",
+        "most say yes; some argue it is a non-linguistic symbol system [[c-is-writing]]"
+       ],
+       [
+        "Which language?",
+        "Dravidian (Parpola), others proposed; none accepted [[c-dravidian]]"
+       ],
+       [
+        "Why unread?",
+        "short texts, no bilingual [[c-no-bilingual]]"
+       ]
+      ]
+     }
+    },
+    "The search goes on. In 2025 the state government of Tamil Nadu offered a million-dollar prize for a convincing decipherment. [[c-prize]]",
+    {
+     "compare": "Compare the Rosetta Stone and the decipherment of hieroglyphs (4.5), and the decipherment of cuneiform (3.2). Both depended on long texts and bilinguals."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 59.2,
+     "lat": 26.3,
+     "zoom": 11.5
+    },
+    "caption": "Meluhha, Magan and Dilmun, c. 2500-2000 BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc",
+      "sea trade (simplified)"
+     ],
+     [
+      "pt",
+      "site"
+     ],
+     [
+      "zone",
+      "land named in Mesopotamian texts"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          67.3,
+          24.3
+         ],
+         [
+          64.0,
+          24.9
+         ],
+         [
+          61.0,
+          24.6
+         ],
+         [
+          59.9,
+          22.9
+         ],
+         [
+          58.9,
+          23.9
+         ],
+         [
+          57.0,
+          25.6
+         ],
+         [
+          56.4,
+          26.6
+         ],
+         [
+          54.0,
+          26.2
+         ],
+         [
+          51.2,
+          26.6
+         ],
+         [
+          49.6,
+          28.4
+         ],
+         [
+          48.3,
+          29.8
+         ],
+         [
+          46.4,
+          30.8
+         ]
+        ],
+        "label": "by sea to Mesopotamia",
+        "lab": [
+         53.0,
+         27.4
+        ],
+        "ldy": -8
+       }
+      ]
+     },
+     {
+      "type": "zone",
+      "items": [
+       {
+        "ll": [
+         69.0,
+         27.0
+        ],
+        "r": 3.2,
+        "label": "MELUHHA",
+        "lab": [
+         69.6,
+         31.2
+        ]
+       },
+       {
+        "ll": [
+         57.6,
+         22.6
+        ],
+        "r": 1.8,
+        "label": "MAGAN",
+        "lab": [
+         56.3,
+         20.3
+        ]
+       },
+       {
+        "ll": [
+         50.55,
+         26.1
+        ],
+        "r": 0.7,
+        "label": "DILMUN",
+        "lab": [
+         50.4,
+         24.9
+        ]
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         68.1389,
+         27.3292
+        ],
+        "label": "Mohenjo-daro",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         72.2494,
+         22.5214
+        ],
+        "label": "Lothal",
+        "dy": 14
+       },
+       {
+        "ll": [
+         59.83,
+         22.42
+        ],
+        "label": "Ras al-Jinz",
+        "date": "Indus comb and seal",
+        "dy": 14,
+        "plate": {
+         "kicker": "5.2 · trade",
+         "title": "Indus goods in Magan",
+         "sub": "Oman, c. 2500 to 2000 BCE",
+         "text": "[[c-magan]]",
+         "sources": [
+          "harappa-salut"
+         ]
+        }
+       },
+       {
+        "ll": [
+         50.5206,
+         26.2336
+        ],
+        "label": "Qal'at al-Bahrain",
+        "date": "Indus-standard weights",
+        "anchor": "end",
+        "plate": {
+         "kicker": "5.2 · trade",
+         "title": "Qal'at al-Bahrain",
+         "sub": "capital of Dilmun",
+         "text": "[[c-bahrain-weights]]",
+         "sources": [
+          "bibby1970",
+          "unesco-bahrain"
+         ]
+        }
+       },
+       {
+        "ll": [
+         46.103,
+         30.962
+        ],
+        "label": "Ur",
+        "date": "Indus seals, beads",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "5.2 · trade",
+         "title": "Indus objects at Ur",
+         "sub": "c. 2500 BCE and later",
+         "text": "[[c-ur-finds]] [[c-shuilishu]] [[c-meluhha]]",
+         "sources": [
+          "bm-ur-seal",
+          "harappa-ur-beads",
+          "possehl-shuilishu",
+          "cdli-sargon"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What is the main reason the Indus script is still unread?",
+     "choices": [
+      "Too few distinct signs survive for their patterns to be analysed",
+      "The texts are very short and no bilingual inscription exists",
+      "No inscriptions have been found outside the Indus region itself",
+      "The signs were deciphered in 2025, but the reading is disputed"
+     ],
+     "answer": 1,
+     "why": "Inscriptions average about five signs, and without a bilingual the methods that worked for Egyptian and Mesopotamian scripts cannot be used.",
+     "wrong": {
+      "0": "Sign lists run to several hundred distinct signs.",
+      "2": "Indus seals have been found at Ur and in Oman.",
+      "3": "The 2025 announcement was a prize for a future decipherment."
+     }
+    },
+    {
+     "q": "What does Bibby's study of weights from Bahrain suggest?",
+     "choices": [
+      "Dilmun used weights of the Indus standard, pointing to close trade",
+      "The Harappans adopted the Mesopotamian standard used in Dilmun",
+      "Indus weights were purely decimal, like the ones found in Dilmun",
+      "Meluhha, the land in Sargon's boast, was another name for Bahrain"
+     ],
+     "answer": 0,
+     "why": "Bibby matched seven weights from Qal'at al-Bahrain to the Harappan system, in shape and value, and suggested the Harappans were Dilmun's main trading partner.",
+     "wrong": {
+      "1": "Bibby matched the weights to the Harappan system.",
+      "2": "Small Indus weights doubled; only the larger ones went up in tens.",
+      "3": "Sargon's inscription names Meluhha and Dilmun as separate places."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Who were the Harappans?",
+   "sub": "and what happened to their cities",
+   "lede": "Without readable texts, the Harappans' identity has to be pieced together from bones, genes and settlement patterns. The questions are scientific, but in India and Pakistan they are also political.",
+   "body": [
+    "In 2019 geneticists published the first and still the only genome from a Harappan city, from a burial at Rakhigarhi. It mixes ancestry related to ancient Iranians with that of South Asian hunter-gatherers, and has little or no ancestry from the Eurasian steppe. [[c-i6113]] Its Iranian-related line separated before farming began, so the authors argue South Asians largely took up farming themselves. [[c-local-farming]] The same ancestry appears among migrants at sites in Iran and Turkmenistan, and is the largest source of ancestry in South Asians today. [[c-indus-cline]]",
+    "Steppe ancestry arrived later, about 2000-1500 BCE, and most specialists link it to the arrival of Indo-European languages, including the Sanskrit of the Rigveda. [[c-steppe]] A rival view, that these languages spread out of India, has little support among specialists and is caught up in nationalist politics. [[c-ooi]]",
+    "The cities did not fall in a day. From about 1900 BCE they shrank, and people moved east into smaller villages and grew a wider range of crops. [[c-deurban]] Climate is one likely cause: the monsoons weakened about 4,100 years ago, [[c-monsoons]] and a 2025 study found long river droughts in this period. [[c-droughts]] An older theory, that invading Aryans massacred the people of Mohenjo-daro, has been abandoned. [[c-wheeler]]",
+    {
+     "table": {
+      "head": [
+       "Evidence",
+       "What it shows"
+      ],
+      "rows": [
+       [
+        "Rakhigarhi genome",
+        "local and Iranian-related ancestry; no steppe"
+       ],
+       [
+        "Later South Asian genomes",
+        "steppe ancestry arrives c. 2000-1500 BCE"
+       ],
+       [
+        "Settlement surveys",
+        "gradual shift east, smaller sites"
+       ],
+       [
+        "Climate records",
+        "weaker monsoons; long droughts"
+       ]
+      ],
+      "note": "[[c-i6113]] [[c-steppe]] [[c-deurban]] [[c-droughts]]"
+     }
+    },
+    {
+     "compare": "Compare the steppe herders of 2.11, whose ancestry also spread into Europe, and the droughts around 2200 BCE in Mesopotamia (3.6) and Egypt (4.6)."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "The Indus civilization: phases, climate and genes",
+    "title": "Phases at Harappa (solid) and other evidence (hatched), BCE",
+    "max": 3400,
+    "min": 1200,
+    "unit": "ka",
+    "ticks": [
+     3400,
+     3000,
+     2600,
+     2200,
+     1800,
+     1400
+    ],
+    "tickLabels": [
+     "3400 BCE",
+     "3000",
+     "2600",
+     "2200",
+     "1800",
+     "1400"
+    ],
+    "axis": "years BCE; all dates approximate",
+    "hint": "Hover or click a row",
+    "rows": [
+     {
+      "t": "Ravi phase",
+      "from": 3300,
+      "to": 2800,
+      "lab": "3300-2800"
+     },
+     {
+      "t": "Early Harappan",
+      "from": 2800,
+      "to": 2600,
+      "lab": "2800-2600"
+     },
+     {
+      "t": "Mature Harappan",
+      "sub": "the cities",
+      "from": 2600,
+      "to": 1900,
+      "lab": "2600-1900",
+      "acc": true,
+      "plate": {
+       "kicker": "5.0 · the Indus",
+       "title": "The Mature Harappan phase",
+       "sub": "c. 2600 to 1900 BCE",
+       "text": "[[c-phases]] [[c-mohenjo]]",
+       "sources": [
+        "harp-phases",
+        "brit-indus"
+       ]
+      }
+     },
+     {
+      "t": "Transitional",
+      "from": 1900,
+      "to": 1800,
+      "lab": "1900-1800"
+     },
+     {
+      "t": "Late Harappan",
+      "sub": "smaller sites",
+      "from": 1800,
+      "to": 1300,
+      "lab": "1800 to before 1300",
+      "plate": {
+       "kicker": "5.3 · decline",
+       "title": "The end of the cities",
+       "sub": "from c. 1900 BCE",
+       "text": "[[c-deurban]] [[c-monsoons]] [[c-wheeler]]",
+       "sources": [
+        "giosan2012",
+        "giesche2019",
+        "harappa-massacre"
+       ]
+      }
+     },
+     {
+      "t": "Long river droughts",
+      "sub": "four, each 85+ years",
+      "from": 2500,
+      "to": 1450,
+      "lab": "within c. 2500-1450",
+      "open": true,
+      "plate": {
+       "kicker": "5.3 · climate",
+       "title": "Four long droughts",
+       "sub": "about 4,450 to 3,400 years ago",
+       "text": "[[c-droughts]]",
+       "sources": [
+        "solanki2025"
+       ]
+      }
+     },
+     {
+      "t": "Steppe ancestry arrives",
+      "sub": "ancient DNA",
+      "from": 2000,
+      "to": 1500,
+      "lab": "c. 2000-1500",
+      "open": true,
+      "plate": {
+       "kicker": "5.3 · genes",
+       "title": "Steppe ancestry in South Asia",
+       "sub": "c. 2000 to 1500 BCE",
+       "text": "[[c-steppe]] [[c-ooi]]",
+       "sources": [
+        "narasimhan2019",
+        "shinde2019"
+       ]
+      }
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does the Rakhigarhi genome show?",
+     "choices": [
+      "Ancestry showing that the Harappans spoke an early form of Sanskrit",
+      "Iranian-related and hunter-gatherer ancestry, but little or no steppe",
+      "Descent from Iranian farmers who migrated in and brought farming with them",
+      "That South Asians today carry no trace of ancestry from the steppe"
+     ],
+     "answer": 1,
+     "why": "That is the 2019 paper's result, from one individual. It fits steppe ancestry arriving later, about 2000-1500 BCE.",
+     "wrong": {
+      "0": "DNA does not record language, and steppe ancestry, linked to Indo-European languages, arrived later.",
+      "2": "The Iranian-related line split off before farming began.",
+      "3": "Later genomes show steppe ancestry mixing in from about 2000 BCE."
+     }
+    },
+    {
+     "q": "Why was Wheeler's theory of an Aryan massacre at Mohenjo-daro abandoned?",
+     "choices": [
+      "Re-study found the skeletons were not massacre victims",
+      "DNA showed the massacre victims had no steppe ancestry",
+      "Steppe ancestry turned out to predate the cities by centuries",
+      "A flood from a glacier-fed river was shown to have killed them"
+     ],
+     "answer": 0,
+     "why": "George Dales argued in 1964 that they were not massacre victims, and settlement surveys show the cities declined gradually from about 1900 BCE.",
+     "wrong": {
+      "1": "No DNA has been published from the Mohenjo-daro skeletons; the only genome from a Harappan city comes from Rakhigarhi.",
+      "2": "It arrived about 2000-1500 BCE.",
+      "3": "The rivers between the Indus and the Ganges were monsoon-fed, and no such flood explains the skeletons."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Before the Shang",
+   "sub": "Neolithic China, c. 5000 to 1800 BCE",
+   "lede": "Long before any dynasty, farmers along the Yellow River and the Yangzi built villages, then walled towns, then cities. Some of the largest lay far from the region later histories called the centre of China.",
+   "body": [
+    "Farming villages of the Yangshao culture, about 5000-3000 BCE, grew millet along the Yellow River and made painted pottery; Banpo near Xi'an is the best known. [[c-yangshao]]",
+    "In the lower Yangzi, Liangzhu (about 3300-2300 BCE) was a walled city of some 300 hectares, with dams in the hills beyond that controlled flooding and water supply, [[c-liangzhu]] one of the oldest large water-management systems in the world. [[c-liangzhu-water]] Its elite were buried with jade discs and square jade tubes whose meaning is unknown. [[c-jade]] Some archaeologists call it East Asia's first state. [[c-liangzhu-state]]",
+    "In the north, the Longshan culture built rammed-earth walls and divined the future by cracking heated bones, [[c-longshan]] a practice the Shang would make famous. Taosi in Shanxi grew to a walled town of nearly 3 km², [[c-taosi]] with a platform that some interpret as a solar observatory. [[c-taosi-obs]] Shimao, on the loess plateau, was a stone-walled city of some 400 hectares with a terraced core about 70 metres high and pits of skulls at its gate. [[c-shimao]] Genomes from Shimao published in 2025 show family lines traced through men, and that the victims at its gate were mostly men, not women as once thought. [[c-shimao-dna]]",
+    {
+     "table": {
+      "head": [
+       "Site",
+       "Region",
+       "Dates (BCE)",
+       "Notable for"
+      ],
+      "rows": [
+       [
+        "Banpo",
+        "Wei valley (Xi'an)",
+        "Yangshao culture",
+        "painted pottery village"
+       ],
+       [
+        "Liangzhu",
+        "lower Yangzi",
+        "c. 3300-2300",
+        "dams, jade"
+       ],
+       [
+        "Taosi",
+        "Shanxi",
+        "c. 2300-1900",
+        "walled town; 'observatory'"
+       ],
+       [
+        "Shimao",
+        "northern Shaanxi",
+        "c. 2300-1800",
+        "stone walls, sacrifice"
+       ]
+      ]
+     }
+    },
+    "These finds have changed how Chinese civilization's origins are told. The old story began in the Central Plains of the middle Yellow River; many archaeologists now see several regional centres, like 'stars in the sky', that later came together. [[c-many-centres]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 114.3,
+     "lat": 34.0,
+     "zoom": 28
+    },
+    "caption": "Neolithic centres of China, c. 5000-1800 BCE",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "pt",
+      "site"
+     ],
+     [
+      "dot",
+      "large walled centre"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         111.6,
+         33.0
+        ],
+        "label": "CENTRAL PLAINS",
+        "size": 11
+       },
+       {
+        "ll": [
+         111.0,
+         37.3
+        ],
+        "label": "LOESS PLATEAU",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         109.051,
+         34.273
+        ],
+        "label": "Banpo",
+        "date": "Yangshao",
+        "anchor": "end",
+        "plate": {
+         "kicker": "5.4 · Neolithic China",
+         "title": "Banpo",
+         "sub": "a Yangshao village near Xi'an",
+         "text": "[[c-yangshao]]",
+         "sources": [
+          "brit-yangshao",
+          "brit-banpo"
+         ]
+        }
+       },
+       {
+        "ll": [
+         119.991,
+         30.396
+        ],
+        "label": "Liangzhu",
+        "date": "c. 3300-2300 BCE",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "5.4 · Neolithic China",
+         "title": "Liangzhu",
+         "sub": "c. 3300 to 2300 BCE",
+         "text": "[[c-liangzhu]] [[c-liangzhu-water]] [[c-jade]] [[c-liangzhu-state]]",
+         "facts": [
+          [
+           "inner city",
+           "about 280-300 ha"
+          ],
+          [
+           "dams",
+           "11"
+          ],
+          [
+           "UNESCO",
+           "2019"
+          ]
+         ],
+         "sources": [
+          "unesco-liangzhu",
+          "chinadaily-liangzhu",
+          "phys-liangzhu"
+         ]
+        }
+       },
+       {
+        "ll": [
+         111.497,
+         35.891
+        ],
+        "label": "Taosi",
+        "date": "c. 2300-1900 BCE",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "5.4 · Neolithic China",
+         "title": "Taosi",
+         "sub": "c. 2300 to 1900 BCE",
+         "text": "[[c-taosi]] [[c-taosi-obs]]",
+         "sources": [
+          "icomos-taosi",
+          "wu2009-taosi"
+         ]
+        }
+       },
+       {
+        "ll": [
+         110.325,
+         38.566
+        ],
+        "label": "Shimao",
+        "date": "c. 2300-1800 BCE",
+        "acc": true,
+        "plate": {
+         "kicker": "5.4 · Neolithic China",
+         "title": "Shimao",
+         "sub": "c. 2300 to 1800 BCE",
+         "text": "[[c-shimao]] [[c-shimao-dna]]",
+         "sources": [
+          "natgeo-shimao",
+          "nature-shimao2025",
+          "jaang2018"
+         ]
+        }
+       },
+       {
+        "ll": [
+         113.667,
+         33.613
+        ],
+        "label": "Jiahu",
+        "date": "signs on shells (5.7)",
+        "dy": 14
+       },
+       {
+        "ll": [
+         112.69,
+         34.693
+        ],
+        "label": "Erlitou",
+        "date": "from c. 1750 BCE (5.5)",
+        "dy": -8
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do Liangzhu, Taosi and Shimao matter for the question 'where did Chinese civilization begin?'",
+     "choices": [
+      "They show that civilization spread out from one Central Plains core",
+      "Large walled centres grew outside the Central Plains before Erlitou",
+      "Their oracle-bone inscriptions are the oldest Chinese writing found",
+      "They were provincial capitals of the Shang in the Yellow River basin"
+     ],
+     "answer": 1,
+     "why": "They support Su Bingqi's view that complex societies arose in several regions, not in the Central Plains alone.",
+     "wrong": {
+      "0": "They lay outside the Central Plains, so they support the view that there were several regional centres.",
+      "2": "Longshan diviners cracked bones, a practice the Shang later made famous; no writing is reported from these sites.",
+      "3": "All three are older than the Shang, and Liangzhu lies on the lower Yangzi."
+     }
+    },
+    {
+     "q": "What did the 2025 genetic study of Shimao change?",
+     "choices": [
+      "It showed Shimao's people descended mostly from steppe herders",
+      "It showed the skulls at the gate came from burials, not sacrifice",
+      "It showed the East Gate skull-pit victims were mostly men, not women",
+      "It showed family lines at Shimao were traced through women"
+     ],
+     "answer": 2,
+     "why": "Nine of ten victims sampled were male, overturning earlier estimates made from the bones.",
+     "wrong": {
+      "0": "Their ancestry came mainly from earlier farmers of the region.",
+      "1": "The study sampled the skull-pit victims; its new finding concerned their sex.",
+      "3": "The family trees traced descent through men."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Erlitou and the Xia question",
+   "sub": "archaeology meets tradition",
+   "lede": "Chinese tradition says the first dynasty was the Xia, founded by Yu the Great after he tamed a flood. Archaeology has found an impressive early city at Erlitou. Whether the two are the same is one of the most charged questions in Chinese history.",
+   "body": [
+    "Erlitou, near Luoyang, was a planned centre with walled palaces, roads and bronze workshops that made some of China's earliest bronze ritual vessels. [[c-erlitou]] In an elite grave, archaeologists found a dragon made of more than 2,000 pieces of turquoise. [[c-dragon]]",
+    "Chinese historical tradition, written down more than a thousand years later, makes the Xia the first dynasty; modern Chinese chronology dates it about 2070-1600 BCE. [[c-xia-trad]] Most archaeologists in China identify Erlitou as a Xia capital. Many scholars elsewhere are more cautious: no writing from the period names the Xia, and newer radiocarbon dates put Erlitou's start about 1750 BCE, well after the traditional beginning of the Xia. [[c-erlitou-xia]]",
+    "The tradition says Yu earned his throne by controlling a great flood. In 2016 a team of geologists argued that a landslide that dammed the Yellow River about 1920 BCE, and then burst, could be the historical kernel of that story; others replied that the evidence cannot support the claim. [[c-yu-flood]]",
+    {
+     "table": {
+      "head": [
+       "",
+       "Tradition",
+       "Archaeology"
+      ],
+      "rows": [
+       [
+        "first dynasty",
+        "Xia, founded by Yu",
+        "Erlitou culture (name of a site)"
+       ],
+       [
+        "dates",
+        "c. 2070-1600 BCE (modern reckoning)",
+        "c. 1750 BCE onward"
+       ],
+       [
+        "writing",
+        "later texts (e.g. Sima Qian)",
+        "none found at Erlitou"
+       ],
+       [
+        "capital",
+        "several, named in texts",
+        "planned palace centre"
+       ]
+      ],
+      "note": "[[c-xia-trad]] [[c-erlitou-xia]]"
+     }
+    },
+    {
+     "compare": "Compare the Sumerian King List (3.4): later texts can preserve real memories and also shape them for political purposes. Page 5.10 looks at how China's early chronology was built."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "Early China: archaeology and tradition",
+    "title": "Sites (solid) and traditional dynasties (hatched), BCE",
+    "max": 3400,
+    "min": 1000,
+    "unit": "ka",
+    "ticks": [
+     3400,
+     3000,
+     2600,
+     2200,
+     1800,
+     1400,
+     1000
+    ],
+    "tickLabels": [
+     "3400 BCE",
+     "3000",
+     "2600",
+     "2200",
+     "1800",
+     "1400",
+     "1000"
+    ],
+    "axis": "years BCE",
+    "hint": "Hover or click a row",
+    "rows": [
+     {
+      "t": "Liangzhu",
+      "from": 3300,
+      "to": 2300,
+      "lab": "c. 3300-2300"
+     },
+     {
+      "t": "Taosi",
+      "from": 2300,
+      "to": 1900,
+      "lab": "c. 2300-1900"
+     },
+     {
+      "t": "Shimao",
+      "from": 2300,
+      "to": 1800,
+      "lab": "c. 2300-1800"
+     },
+     {
+      "t": "Xia",
+      "sub": "traditional dates",
+      "from": 2070,
+      "to": 1600,
+      "lab": "c. 2070-1600",
+      "open": true,
+      "plate": {
+       "kicker": "5.5 · tradition",
+       "title": "The Xia dynasty",
+       "sub": "c. 2070 to 1600 BCE (traditional)",
+       "text": "[[c-xia-trad]] [[c-erlitou-xia]]",
+       "sources": [
+        "brit-xia",
+        "liu-xu2007"
+       ]
+      }
+     },
+     {
+      "t": "Erlitou",
+      "from": 1750,
+      "to": 1520,
+      "lab": "from c. 1750",
+      "acc": true,
+      "plate": {
+       "kicker": "5.5 · archaeology",
+       "title": "Erlitou",
+       "sub": "from c. 1750 BCE",
+       "text": "[[c-erlitou]] [[c-dragon]]",
+       "sources": [
+        "lawler2009b",
+        "gt-erlitou"
+       ]
+      }
+     },
+     {
+      "t": "Shang",
+      "sub": "traditional dates",
+      "from": 1600,
+      "to": 1046,
+      "lab": "c. 1600-1046",
+      "open": true
+     },
+     {
+      "t": "Anyang (Yinxu)",
+      "from": 1250,
+      "to": 1046,
+      "lab": "c. 1250-1046",
+      "acc": true
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do many scholars outside China hesitate to call Erlitou 'Xia'?",
+     "choices": [
+      "Erlitou has no palaces that could have housed a royal court",
+      "Erlitou has no writing of its own time that names the Xia",
+      "Erlitou dates from after the fall of the Shang in 1046 BCE",
+      "Erlitou has no bronze, so it looks too simple for a dynasty"
+     ],
+     "answer": 1,
+     "why": "The name comes from texts written more than a thousand years later, so the identification rests on matching those histories to the archaeology.",
+     "wrong": {
+      "0": "It has palace foundations.",
+      "2": "It dates from about 1750 BCE.",
+      "3": "It has early bronze vessels and workshops."
+     }
+    },
+    {
+     "q": "How did newer radiocarbon dates affect the identification of Erlitou with the Xia?",
+     "choices": [
+      "They pushed Erlitou's start back to before 2070 BCE",
+      "They put its start well after the Xia's traditional start",
+      "They showed that Erlitou and Anyang were occupied at the same time",
+      "They settled the debate by matching the traditional Xia dates"
+     ],
+     "answer": 1,
+     "why": "A start about 1750 BCE fits the traditional Xia dates of about 2070-1600 BCE less well, weakening a simple match.",
+     "wrong": {
+      "0": "They moved its start later, not earlier.",
+      "2": "The new dates concern Erlitou's start, about 1750 BCE; they say nothing about Anyang.",
+      "3": "The debate continues."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Shang",
+   "sub": "bronze, ancestors and sacrifice, c. 1600 to 1046 BCE",
+   "lede": "The Shang are the first Chinese dynasty confirmed by their own writing. Their kings ruled through ancestors and divination, cast bronze on a colossal scale, and sacrificed people by the thousand.",
+   "body": [
+    "The Shang are conventionally dated about 1600-1046 BCE. [[c-shang-dates]] Their early cities at Zhengzhou and Yanshi had massive walls of rammed earth. [[c-shang-cities]] Their last capital, at Anyang, called Yinxu ('the ruins of Yin'), has more than 80 palace and temple foundations and China's first great royal cemetery. [[c-yinxu]]",
+    "Shang religion centred on the dead. The king sacrificed to his ancestors. Above them stood Di, a supreme deity who governed weather, harvests and war but had no cult of his own and was thought too remote to be swayed by mortals. [[c-di]] Offerings were made in bronze vessels, cast in sectioned clay moulds; the largest known weighs about 833 kg. [[c-piece-mould]]",
+    "Sacrifice included people. More than 13,000 may have been killed at Anyang over about two centuries, often 50 and sometimes 300 at a time; isotopes suggest many came from elsewhere, perhaps as captives. [[c-sacrifice]]",
+    "One tomb, found intact in 1976, belonged to Fu Hao, a royal consort who, oracle bones say, led armies in battle. [[c-fuhao]] Horse-drawn chariots appear at Anyang about 1200 BCE, a technology that came from the steppe. [[c-chariot]]",
+    {
+     "table": {
+      "head": [
+       "Fu Hao's tomb",
+       "Count"
+      ],
+      "rows": [
+       [
+        "bronze objects",
+        "468"
+       ],
+       [
+        "jades",
+        "755"
+       ],
+       [
+        "cowrie shells",
+        "about 6,900"
+       ],
+       [
+        "human victims",
+        "16"
+       ],
+       [
+        "dogs",
+        "6"
+       ]
+      ],
+      "note": "Smarthistory. [[c-fuhao]]"
+     }
+    },
+    {
+     "compare": "Compare the royal tombs of Ur (3.5) and the 1st-Dynasty kings of Egypt (4.1), also buried with people killed to accompany them."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 113.5,
+     "lat": 35.4,
+     "zoom": 140
+    },
+    "caption": "Shang cities on the middle Yellow River",
+    "hint": "Click a city",
+    "legend": [
+     [
+      "pt",
+      "city"
+     ],
+     [
+      "dot",
+      "Shang capital"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         112.69,
+         34.693
+        ],
+        "label": "Erlitou",
+        "date": "pre-Shang",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         112.74,
+         34.73
+        ],
+        "label": "Yanshi",
+        "date": "early Shang walls",
+        "dy": -8,
+        "plate": {
+         "kicker": "5.6 · the Shang",
+         "title": "Yanshi and Zhengzhou",
+         "sub": "early Shang cities",
+         "text": "[[c-shang-cities]]",
+         "sources": [
+          "brit-china-shang"
+         ]
+        }
+       },
+       {
+        "ll": [
+         113.69,
+         34.752
+        ],
+        "label": "Zhengzhou",
+        "date": "c. 1600 BCE",
+        "acc": true
+       },
+       {
+        "ll": [
+         114.319,
+         36.123
+        ],
+        "label": "Anyang (Yinxu)",
+        "date": "c. 1250-1046 BCE",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "5.6 · the Shang",
+         "title": "Yinxu, the last Shang capital",
+         "sub": "Anyang, c. 1250 to 1046 BCE",
+         "text": "[[c-yinxu]] [[c-sacrifice]] [[c-fuhao]] [[c-chariot]]",
+         "facts": [
+          [
+           "palace and temple foundations",
+           "over 80"
+          ],
+          [
+           "tomb of Fu Hao",
+           "found intact, 1976"
+          ]
+         ],
+         "sources": [
+          "unesco-yinxu",
+          "sapiens-oracle",
+          "smarthistory-fuhao"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does the tomb of Fu Hao show that the great royal tombs at Anyang cannot?",
+     "choices": [
+      "That the Shang court had not yet begun to use writing",
+      "A full set of elite grave goods, since it was found intact",
+      "That royal women at Anyang took no part in war or politics",
+      "That the Shang had stopped killing people to bury with the dead"
+     ],
+     "answer": 1,
+     "why": "It was found intact in 1976, with 468 bronzes, 755 jades and about 6,900 cowrie shells.",
+     "wrong": {
+      "0": "Oracle bones mention Fu Hao, so the court was already writing.",
+      "2": "Oracle bones say Fu Hao, a royal consort, led armies in battle.",
+      "3": "It held 16 human victims."
+     }
+    },
+    {
+     "q": "Which statement about Shang human sacrifice fits the evidence?",
+     "choices": [
+      "Most victims were local nobles who chose to die with their kings",
+      "Oracle bones and DNA suggest most victims were Qiang captives",
+      "Thousands died over two centuries; isotopes suggest many outsiders",
+      "Sacrifice began after the Shang fell, under the early Zhou kings"
+     ],
+     "answer": 2,
+     "why": "More than 13,000 may have been killed at Anyang over about two centuries, and isotopes point to non-local origins.",
+     "wrong": {
+      "0": "Isotopes suggest many were not local.",
+      "1": "No DNA study has identified the victims; the Qiang link comes from oracle-bone texts and is unconfirmed.",
+      "3": "It is documented at Anyang, under the late Shang."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Oracle bones and Chinese writing",
+   "sub": "questions put to the ancestors",
+   "lede": "The Shang kings asked their ancestors about everything: rain, harvests, war, childbirth, toothache. The answers, cut into bone and shell, are the oldest Chinese writing, and the ancestor of the characters used by over a billion people today.",
+   "body": [
+    "The story goes that in 1899 a scholar, Wang Yirong, noticed writing on 'dragon bones' sold as medicine; in 1908 another scholar, Luo Zhenyu, traced them to Anyang. [[c-oracle-discovery]] About 150,000 inscribed fragments are now known. [[c-oracle-count]]",
+    "Diviners drilled hollows in an ox shoulder blade or a turtle shell, applied heat until it cracked, and read the cracks as the ancestors' answer. Then a scribe carved the record: the date and the diviner, the question, the king's reading of the cracks, and sometimes what actually happened. [[c-divination]] The questions concern weather, harvests, war, illness, childbirth and sacrifices. [[c-oracle-topics]] One shell asks whether Fu Hao's childbirth will go well.",
+    "Because many records note the outcome, the oracle bones are a dated archive of events, and they confirmed the list of Shang kings preserved by later historians (5.10).",
+    {
+     "table": {
+      "head": [
+       "Part of an inscription",
+       "Example of the kind of thing recorded"
+      ],
+      "rows": [
+       [
+        "preface",
+        "the day and the diviner's name"
+       ],
+       [
+        "charge",
+        "'It will rain'"
+       ],
+       [
+        "prognostication",
+        "the king reads the cracks"
+       ],
+       [
+        "verification",
+        "what happened afterwards"
+       ]
+      ],
+      "note": "[[c-divination]]"
+     }
+    },
+    "The script already looks mature, which suggests writing began earlier, perhaps on materials that have not survived; signs carved on shells at Jiahu thousands of years before are probably symbols, not writing. [[c-jiahu]] About 4,500 distinct oracle-bone characters are known, and about a third have been matched to modern ones. [[c-graphs]] Since 2024, AI tools have been suggesting matches for the rest. [[c-ai-oracle]] The writing system is continuous: these characters are the direct ancestors of Chinese characters today. [[c-continuity]]",
+    {
+     "compare": "Compare cuneiform (3.2) and hieroglyphs (4.5), which died out and had to be deciphered. Chinese writing never stopped being used."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "split",
+    "caption": "How much of the oracle-bone script can be read?",
+    "title": "About 4,500 distinct oracle-bone characters",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "Characters matched to modern Chinese",
+      "parts": [
+       {
+        "v": 1550,
+        "lab": "read: about a third",
+        "acc": true,
+        "name": "deciphered",
+        "tip": "about 1,500-1,600 characters"
+       },
+       {
+        "v": 2950,
+        "lab": "not yet read: about two thirds",
+        "name": "undeciphered"
+       }
+      ]
+     }
+    ],
+    "notes": [
+     "Sources: Tencent (2024); Huazhong University of Science and Technology (2024). Counts differ between projects."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why are the 'verification' lines on oracle bones so valuable to historians?",
+     "choices": [
+      "They list the Xia kings who ruled before the Shang came to power",
+      "They record what happened afterwards, giving dated events",
+      "They were written by commoners, not by the king's diviners",
+      "They are in a script unrelated to later Chinese characters"
+     ],
+     "answer": 1,
+     "why": "Outcomes added after the king's prediction turn divination records into a dated archive of events.",
+     "wrong": {
+      "0": "The oracle bones confirmed the list of Shang kings, not Xia kings.",
+      "2": "The records centre on the king, whose reading of the cracks they note.",
+      "3": "The script is the direct ancestor of Chinese characters."
+     }
+    },
+    {
+     "q": "What do the signs on shells from Jiahu, about 6600 BCE, show?",
+     "choices": [
+      "Fully developed writing was already in use in China by that early date",
+      "Signs predate Shang writing by millennia but are probably not writing",
+      "The Jiahu signs can now be read as early Chinese characters",
+      "Divination with inscribed oracle bones first began at Jiahu"
+     ],
+     "answer": 1,
+     "why": "The signs resemble some later characters, but their discoverers interpret them as ritual symbols, not writing.",
+     "wrong": {
+      "0": "Even their discoverers think the signs were ritual symbols, not writing.",
+      "2": "They resemble some later characters but have no accepted readings.",
+      "3": "Inscribed oracle bones come from the Shang, mostly from Anyang."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Sanxingdui",
+   "sub": "a Bronze Age kingdom nobody expected",
+   "lede": "In 1986, workers digging clay in Sichuan found two pits full of bronze heads, gold masks and elephant tusks, broken and burned. Nothing in Chinese texts had prepared anyone for them.",
+   "body": [
+    "Sanxingdui lies on the Chengdu plain, far south-west of the Shang heartland. It became a walled Bronze Age centre about 1800 BCE. [[c-sxd-site]] The 1986 pits held hundreds of objects of bronze, gold, jade and ivory, many deliberately smashed and burned before they were buried. [[c-sxd-1986]] Six more pits, found from 2019, held still more, including a gold mask. None held human remains, so these were ritual deposits, not graves. [[c-sxd-new]]",
+    "The bronzes are like nothing from the Shang: a standing figure over 2.5 metres tall, a bronze tree almost 4 metres high, and a mask more than a metre wide with eyes that stick out on stalks. [[c-sxd-figures]] Some scholars connect those eyes with Cancong, a legendary first king of Shu. [[c-cancong]] The pits were filled late in the Shang period. [[c-sxd-dates]]",
+    "Sanxingdui traded with the Central Plains and borrowed some vessel types, but its art and religion were its own. [[c-sxd-distinct]] No writing has been found there, [[c-sxd-nowriting]] which is why its people's beliefs remain a mystery, and why the site has attracted wild theories of aliens or migrants from the Middle East. Those have no evidence behind them. [[c-aliens]] A few objects may hint at contact farther west, but that too is uncertain. [[c-west-contact]]",
+    "The culture continued at Jinsha, in modern Chengdu, until about 650 BCE, [[c-jinsha]] and the kingdom of Shu survived until Qin conquered it in 316 BCE. [[c-shu-qin]]",
+    {
+     "compare": "Compare Liangzhu and Shimao (5.4): Sanxingdui is more evidence that early China had many centres, not one."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 109.15,
+     "lat": 33.4,
+     "zoom": 36
+    },
+    "caption": "Sanxingdui and the Shang, c. 1200 BCE",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "pt",
+      "site"
+     ],
+     [
+      "dot",
+      "major centre"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         105.3,
+         29.6
+        ],
+        "label": "SICHUAN BASIN",
+        "size": 10
+       },
+       {
+        "ll": [
+         108.4,
+         33.6
+        ],
+        "label": "QINLING MOUNTAINS",
+        "size": 9,
+        "rot": -8
+       },
+       {
+        "ll": [
+         113.4,
+         34.0
+        ],
+        "label": "CENTRAL PLAINS",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         104.2,
+         30.993
+        ],
+        "label": "Sanxingdui",
+        "date": "pits c. 1200-1000 BCE",
+        "acc": true,
+        "big": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "5.8 · Sanxingdui",
+         "title": "Sanxingdui",
+         "sub": "Guanghan, Sichuan",
+         "text": "[[c-sxd-site]] [[c-sxd-1986]] [[c-sxd-figures]] [[c-sxd-dates]]",
+         "facts": [
+          [
+           "pits found",
+           "1986; six more from 2019"
+          ],
+          [
+           "human remains in pits",
+           "none"
+          ],
+          [
+           "writing",
+           "none found"
+          ]
+         ],
+         "sources": [
+          "antiquity2023-sxd",
+          "unesco-shu",
+          "cgtn-sxd2025"
+         ]
+        }
+       },
+       {
+        "ll": [
+         104.013,
+         30.681
+        ],
+        "label": "Jinsha",
+        "date": "c. 1200-650 BCE",
+        "dy": 14,
+        "plate": {
+         "kicker": "5.8 · Sanxingdui",
+         "title": "Jinsha",
+         "sub": "Chengdu, c. 1200 to 650 BCE",
+         "text": "[[c-jinsha]] [[c-shu-qin]]",
+         "sources": [
+          "cgtn-jinsha",
+          "unesco-shu"
+         ]
+        }
+       },
+       {
+        "ll": [
+         114.319,
+         36.123
+        ],
+        "label": "Anyang",
+        "date": "Shang capital",
+        "acc": true,
+        "big": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         112.69,
+         34.693
+        ],
+        "label": "Erlitou",
+        "dy": 14,
+        "anchor": "end"
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why does it matter that the Sanxingdui pits held objects broken and burned, but no human remains?",
+     "choices": [
+      "It shows Sanxingdui was a colony ruled from the Shang capital",
+      "It shows these were ritual deposits of objects, not graves",
+      "It proves the objects were made far away and then imported",
+      "It shows the site was sacked and burned during a war"
+     ],
+     "answer": 1,
+     "why": "With no bodies and deliberately smashed objects, the pits read as offerings, not tombs.",
+     "wrong": {
+      "0": "Sanxingdui traded with the Central Plains, but its art and religion were its own.",
+      "2": "Breaking and burning tell us how objects were treated, not where they were made.",
+      "3": "The objects were deliberately broken and burned before burial, in organised deposits."
+     }
+    },
+    {
+     "q": "What is the strongest answer to claims that aliens made the Sanxingdui masks?",
+     "choices": [
+      "Sanxingdui's art closely copies that of its Shang neighbours",
+      "A strange style marks a little-known culture, not alien makers",
+      "Inscriptions found in the pits name the people who made the masks",
+      "DNA from bodies in the pits proves the makers were local"
+     ],
+     "answer": 1,
+     "why": "The claims have no evidence behind them. With no writing, the makers' beliefs remain a mystery, which is why the site has attracted wild theories.",
+     "wrong": {
+      "0": "Its bronzes are like nothing from the Shang, which is why they surprise people.",
+      "2": "No writing has been found at Sanxingdui.",
+      "3": "None of the eight pits held human remains."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Zhou and the Mandate of Heaven",
+   "sub": "c. 1046 to 771 BCE",
+   "lede": "About 1046 BCE the Zhou, from the Wei valley in the west, overthrew the Shang. To explain why they deserved to rule, they offered an idea that lasted three thousand years: Heaven gives power to the virtuous, and takes it away from the wicked.",
+   "body": [
+    "A bronze vessel cast soon after the event, the Li gui, records that King Wu attacked the Shang on a jiazi day, in the morning. [[c-li-gui]] The year is less certain: it is usually given as 1046 BCE, [[c-conquest-date]] and the arguments for it draw on astronomy as well as texts. [[c-pankenier]]",
+    "The Zhou claimed that Heaven (tian) had given them its mandate because the last Shang king was cruel and the Zhou were virtuous. [[c-mandate]] The idea already appears in early Zhou bronzes and texts. [[c-mandate-early]] It cut both ways: if Heaven could transfer the mandate to the Zhou, it could transfer it again. A bronze of the early Zhou, the He zun, also contains the earliest known use of zhongguo, 'the central lands', today the Chinese name for China. [[c-he-zun]]",
+    "The Zhou ruled by granting lands to relatives and allies, whose lords owed loyalty and military service. Whether to call this 'feudalism' is disputed. [[c-fengjian]] In 771 BCE attackers from the west sacked the capital and killed King You, and the court moved east to Luoyi. [[c-771]] The Zhou kings reigned for five more centuries, but the real power passed to the lords of the states.",
+    {
+     "table": {
+      "head": [
+       "",
+       "Shang",
+       "Zhou"
+      ],
+      "rows": [
+       [
+        "homeland",
+        "middle Yellow River",
+        "Wei valley, to the west"
+       ],
+       [
+        "source of royal power",
+        "ancestors, divination",
+        "the mandate of Heaven"
+       ],
+       [
+        "supreme power",
+        "Di",
+        "Heaven (tian)"
+       ],
+       [
+        "main written records",
+        "oracle bones",
+        "bronze inscriptions, later texts"
+       ]
+      ],
+      "note": "[[c-di]] [[c-mandate]]"
+     }
+    },
+    "The Mandate became one of the great political ideas of world history: floods, famines and rebellions could be read as signs that Heaven had withdrawn its favour, until the last dynasty fell in the revolution of 1911-12. [[c-mandate-legacy]]",
+    {
+     "compare": "Compare the Bible's account of kings raised up and brought down by God, as with Saul and David (1 Samuel 15-16), and Egypt's idea of maat (4.2). Each makes a ruler answerable to a higher order."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 110.9,
+     "lat": 35.15,
+     "zoom": 46
+    },
+    "caption": "The Western Zhou, c. 1046-771 BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc",
+      "conquest of the Shang"
+     ],
+     [
+      "acc dash",
+      "move east, 770 BCE"
+     ],
+     [
+      "pt",
+      "site"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         108.0,
+         34.75
+        ],
+        "label": "WEI VALLEY",
+        "size": 9
+       },
+       {
+        "ll": [
+         113.4,
+         33.9
+        ],
+        "label": "CENTRAL PLAINS",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          108.9,
+          34.35
+         ],
+         [
+          110.6,
+          35.0
+         ],
+         [
+          112.6,
+          35.6
+         ],
+         [
+          114.1,
+          36.05
+         ]
+        ],
+        "label": "conquest, c. 1046 BCE",
+        "lab": [
+         111.4,
+         35.35
+        ],
+        "ldy": -10
+       }
+      ]
+     },
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          108.85,
+          34.12
+         ],
+         [
+          110.6,
+          34.3
+         ],
+         [
+          112.3,
+          34.57
+         ]
+        ],
+        "label": "court moves east, 770 BCE",
+        "lab": [
+         110.6,
+         34.3
+        ],
+        "ldy": 16,
+        "acc": true,
+        "head": true
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         108.72,
+         34.21
+        ],
+        "label": "Feng and Hao",
+        "date": "Western Zhou capitals",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 14,
+        "plate": {
+         "kicker": "5.9 · the Zhou",
+         "title": "Feng and Hao",
+         "sub": "the Western Zhou capitals, near Xi'an",
+         "text": "[[c-mandate]] [[c-771]]",
+         "sources": [
+          "lifeng2006",
+          "sep-mencius"
+         ]
+        }
+       },
+       {
+        "ll": [
+         107.2,
+         34.37
+        ],
+        "label": "Baoji",
+        "date": "He zun found, 1963",
+        "dy": -8,
+        "plate": {
+         "kicker": "5.9 · the Zhou",
+         "title": "The He zun",
+         "sub": "found at Baoji, 1963",
+         "text": "[[c-he-zun]]",
+         "sources": [
+          "chinadaily-hezun"
+         ]
+        }
+       },
+       {
+        "ll": [
+         114.319,
+         36.123
+        ],
+        "label": "Anyang",
+        "date": "last Shang capital",
+        "anchor": "end",
+        "dy": -8
+       },
+       {
+        "ll": [
+         112.45,
+         34.62
+        ],
+        "label": "Luoyi",
+        "date": "Eastern Zhou capital",
+        "dy": 14,
+        "plate": {
+         "kicker": "5.9 · the Zhou",
+         "title": "Luoyi",
+         "sub": "modern Luoyang",
+         "text": "[[c-771]]",
+         "sources": [
+          "lifeng2006",
+          "khayutina2008"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What made the Mandate of Heaven politically powerful?",
+     "choices": [
+      "It made the Zhou royal line legitimate forever, whatever its conduct",
+      "It tied rule to virtue, so a winning revolt could show Heaven's will",
+      "It was probably an old Shang belief that the Zhou kept and extended",
+      "It forbade rebellion against any king who held the throne"
+     ],
+     "answer": 1,
+     "why": "Heaven favoured rulers of virtue, so legitimacy depended on conduct, not descent alone.",
+     "wrong": {
+      "0": "If Heaven could transfer the mandate to the Zhou, it could transfer it again.",
+      "2": "It first appears in early Zhou bronzes and texts; the Shang looked to their ancestors and to Di.",
+      "3": "It justified the Zhou's own revolt against the Shang."
+     }
+    },
+    {
+     "q": "Why do historians prize bronze inscriptions such as the Li gui?",
+     "choices": [
+      "They give exact reign lengths for each one of the early Zhou kings",
+      "They were cast near the events, not edited centuries afterwards",
+      "They settle the year of the conquest beyond further argument",
+      "They preserve a script that nobody has yet managed to read"
+     ],
+     "answer": 1,
+     "why": "The Li gui was cast soon after the conquest, so it is contemporary evidence that can be checked against later histories.",
+     "wrong": {
+      "0": "Even the year of the conquest is still debated, let alone the length of each reign.",
+      "2": "Scholars still argue for 1046, 1045 or 1040 BCE.",
+      "3": "The Li gui's inscription is read today: it records King Wu's attack on a jiazi day."
+     }
+    }
+   ]
+  },
+  {
+   "title": "How we know early China",
+   "sub": "texts, bones, bronzes and politics",
+   "lede": "Early Chinese history rests on three kinds of evidence: histories written down centuries later, oracle bones and bronzes from the time, and archaeology. Where they meet, history becomes firm. Where they do not, it becomes contested, and sometimes political.",
+   "body": [
+    "The great early history is the Shiji of Sima Qian, written about 100 BCE. It gives year-by-year dates only from 841 BCE; before that it offers lists of rulers. [[c-841]] For the Shang, those lists were dramatically confirmed. The oracle bones showed the Shang existed, and the line of kings reconstructed from them matches Sima Qian's list, written about a thousand years later, with only minor differences. [[c-oracle-confirm]] Radiocarbon dates on the bones themselves now place King Wu Ding about 1254-1197 BCE. [[c-wuding]] For the Xia, no such confirmation exists (5.5).",
+    "In the late 1990s the Chinese state sponsored the Xia-Shang-Zhou Chronology Project, about 200 scholars led by Li Xueqin, [[c-xszcp]] to fix the dates before 841. It placed the Xia about 2070-1600 BCE and the Zhou conquest in 1046. [[c-xszcp-results]] Critics outside China called its precision unjustified, and some saw nationalist motives. [[c-xszcp-critics]]",
+    "A second project, on the origins of Chinese civilization, announced in 2018 that regional civilizations existed by about 5,300 years ago, at sites such as Liangzhu. [[c-origins-project]] In 2022 Xi Jinping spoke of China's 'more than 5,000 years of civilization', linking the research to national rejuvenation. [[c-xi-5000]] Some scholars worry that archaeology is being drawn into a national story. [[c-national-narrative]]",
+    {
+     "table": {
+      "head": [
+       "Evidence",
+       "Written",
+       "What it can tell us"
+      ],
+      "rows": [
+       [
+        "Shiji and other histories",
+        "c. 100 BCE and later",
+        "king lists, stories; dates only from 841 BCE"
+       ],
+       [
+        "Oracle bones",
+        "c. 1250-1046 BCE",
+        "Shang kings, rituals, events"
+       ],
+       [
+        "Bronze inscriptions",
+        "Shang and Zhou",
+        "grants, wars, dates within reigns"
+       ],
+       [
+        "Archaeology and radiocarbon",
+        "not written",
+        "cities, burials, dates in ranges"
+       ]
+      ]
+     }
+    },
+    {
+     "compare": "Compare the Sumerian King List (3.4), the Egyptian king lists (4.12) and the debates over the Bible's early history (4.9). In each case a later written tradition meets archaeology, and the questions are much the same."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "When did the Zhou conquer the Shang?",
+    "title": "Proposed dates for the conquest, BCE",
+    "max": 1075,
+    "min": 1015,
+    "unit": "ka",
+    "ticks": [
+     1070,
+     1060,
+     1050,
+     1040,
+     1030,
+     1020
+    ],
+    "tickLabels": [
+     "1070 BCE",
+     "1060",
+     "1050",
+     "1040",
+     "1030",
+     "1020"
+    ],
+    "axis": "years BCE",
+    "hint": "Hover or click a row",
+    "rows": [
+     {
+      "t": "Older proposal",
+      "from": 1070.6,
+      "to": 1069.4,
+      "lab": "1070",
+      "open": true
+     },
+     {
+      "t": "Radiocarbon range",
+      "sub": "used by the Project",
+      "from": 1050,
+      "to": 1020,
+      "lab": "c. 1050-1020",
+      "open": true
+     },
+     {
+      "t": "Chronology Project (2000)",
+      "sub": "also Pankenier",
+      "from": 1046.6,
+      "to": 1045.4,
+      "lab": "1046",
+      "acc": true,
+      "plate": {
+       "kicker": "5.10 · chronology",
+       "title": "The Xia-Shang-Zhou Chronology Project",
+       "sub": "1046 BCE",
+       "text": "[[c-xszcp]] [[c-xszcp-results]] [[c-xszcp-critics]]",
+       "sources": [
+        "shaughnessy2023",
+        "nyt2000"
+       ]
+      }
+     },
+     {
+      "t": "Shaughnessy (1985)",
+      "from": 1045.6,
+      "to": 1044.4,
+      "lab": "1045"
+     },
+     {
+      "t": "Nivison (1999)",
+      "from": 1040.6,
+      "to": 1039.4,
+      "lab": "1040"
+     },
+     {
+      "t": "Older proposal",
+      "from": 1027.6,
+      "to": 1026.4,
+      "lab": "1027",
+      "open": true
+     }
+    ],
+    "notes": [
+     "Sources: CGTN; Pankenier (1981); Shaughnessy (1985); Nivison (1999)."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why is the match between the oracle bones and Sima Qian's list of Shang kings such a famous result?",
+     "choices": [
+      "It proved early Chinese traditions true, those about the Xia included",
+      "Records of the time confirmed a list written a thousand years later",
+      "It supplied exact years for the reign of each Shang king",
+      "It settled the year of the Zhou conquest at 1046 BCE"
+     ],
+     "answer": 1,
+     "why": "Evidence from the Shang's own time matched a tradition written about a thousand years later, with only minor differences.",
+     "wrong": {
+      "0": "For the Xia no such confirmation exists.",
+      "2": "The bones matched the names and order of kings; the Shiji gives no year-by-year dates before 841 BCE.",
+      "3": "That date is still argued over."
+     }
+    },
+    {
+     "q": "What was the core scholarly objection to the Chronology Project?",
+     "choices": [
+      "It relied on legends and set aside the evidence of archaeology",
+      "Its precise dates were unjustified, and dated bronzes conflict",
+      "Its scholars did not publish a report for others to check",
+      "It dated the Shang too late, putting its start after 1300 BCE"
+     ],
+     "answer": 1,
+     "why": "Critics outside China called its precision unjustified. Shaughnessy argued in 2023, from fully dated bronze inscriptions, that its Western Zhou chronology is wrong throughout.",
+     "wrong": {
+      "0": "It brought together archaeologists, palaeographers and astronomers as well as historians.",
+      "2": "It published a short report in 2000 and its full report in 2022.",
+      "3": "It dated the Shang from about 1600 BCE; the complaint was false precision, not lateness."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Four river civilizations compared",
+   "sub": "Mesopotamia, Egypt, the Indus and early China",
+   "lede": "The first four civilizations arose on great rivers, separately and in different ways. Set side by side, they show what early states had in common, and how differently they could be organised.",
+   "body": [
+    "All four grew from farming villages along rivers that flooded, and all built cities, specialised crafts and long-distance trade. Three developed writing early; China's earliest surviving writing comes almost two thousand years after Mesopotamia's.",
+    {
+     "table": {
+      "head": [
+       "",
+       "Mesopotamia",
+       "Egypt",
+       "Indus",
+       "Early China"
+      ],
+      "rows": [
+       [
+        "first cities",
+        "4th millennium BCE (3.1)",
+        "Memphis, c. 3000 BCE (4.1)",
+        "c. 2600 BCE",
+        "Liangzhu, c. 3300 BCE (5.4)"
+       ],
+       [
+        "earliest writing",
+        "c. 3300-3000 BCE [[c-cmp-meso]]",
+        "c. 3200 BCE [[c-cmp-uj]]",
+        "signs from c. 3300? [[c-cmp-indus-early]]",
+        "oracle bones, c. 1250 BCE"
+       ],
+       [
+        "can we read it?",
+        "yes",
+        "yes",
+        "no [[c-no-bilingual]]",
+        "yes; still in use [[c-continuity]]"
+       ],
+       [
+        "largest city",
+        "Uruk, c. 250 ha (c. 3200 BCE); c. 500 ha by 3000 BCE (3.1)",
+        "uncertain",
+        "Mohenjo-daro c. 240 ha; Rakhigarhi larger?",
+        "Yinxu (Anyang): a scattered site zone of c. 30 km², not comparable with walled-city areas [[c-yinxu-size]]"
+       ],
+       [
+        "visible kings",
+        "yes: palaces, inscriptions",
+        "yes: pharaohs",
+        "none identified [[c-no-palaces]]",
+        "yes: Shang kings"
+       ],
+       [
+        "people killed at rulers' burials",
+        "yes, at Ur (3.5)",
+        "yes, in the 1st Dynasty (4.1)",
+        "none known",
+        "yes, at Anyang (5.6)"
+       ],
+       [
+        "end of the early phase",
+        "Akkad and after (3.6)",
+        "Old Kingdom collapse (4.6)",
+        "gradual decline, from c. 1900 BCE",
+        "Zhou conquest, c. 1046 BCE"
+       ]
+      ],
+      "note": "[[c-cmp-sacrifice]]"
+     }
+    },
+    "The biggest contrast is the Indus. The other three left kings everywhere: in palaces, tombs, statues and inscriptions. The Indus, with cities as large and as planned, left no image anyone can identify as a ruler. [[c-no-palaces]] Whether that reflects a different kind of society or only what survives is one of archaeology's great open questions.",
+    "The second contrast is writing. Cuneiform and hieroglyphs died out and had to be deciphered in modern times; the Indus script has never been read; Chinese writing has been in continuous use for more than three thousand years. [[c-continuity]]",
+    {
+     "compare": "Chapter 6 turns to what happened next: the Late Bronze Age, when Egypt, the Hittites, Babylon and their neighbours formed a club of great powers, and then collapsed together."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "When did each civilization begin to write?",
+    "title": "Earliest writing, or possible writing, BCE",
+    "max": 3500,
+    "min": 1000,
+    "unit": "ka",
+    "ticks": [
+     3500,
+     3000,
+     2500,
+     2000,
+     1500,
+     1000
+    ],
+    "tickLabels": [
+     "3500 BCE",
+     "3000",
+     "2500",
+     "2000",
+     "1500",
+     "1000"
+    ],
+    "axis": "years BCE; all dates approximate",
+    "hint": "Hover or click a row",
+    "rows": [
+     {
+      "t": "Mesopotamia",
+      "sub": "earliest tablets",
+      "from": 3300,
+      "to": 3000,
+      "lab": "c. 3300-3000",
+      "acc": true
+     },
+     {
+      "t": "Egypt",
+      "sub": "U-j labels",
+      "from": 3250,
+      "to": 3150,
+      "lab": "c. 3200",
+      "acc": true
+     },
+     {
+      "t": "Indus",
+      "sub": "early marks",
+      "from": 3300,
+      "to": 2800,
+      "lab": "c. 3300-2800?",
+      "open": true,
+      "plate": {
+       "kicker": "5.11 · writing",
+       "title": "Early Indus marks",
+       "sub": "Ravi phase, c. 3300 to 2800 BCE",
+       "text": "[[c-cmp-indus-early]] [[c-is-writing]]",
+       "sources": [
+        "meadow-intro",
+        "farmer2004",
+        "rao2009"
+       ]
+      }
+     },
+     {
+      "t": "Indus",
+      "sub": "mature script",
+      "from": 2600,
+      "to": 1900,
+      "lab": "c. 2600-1900",
+      "acc": true
+     },
+     {
+      "t": "China",
+      "sub": "oracle bones",
+      "from": 1250,
+      "to": 1046,
+      "lab": "c. 1250-1046",
+      "acc": true,
+      "plate": {
+       "kicker": "5.11 · writing",
+       "title": "Oracle-bone writing",
+       "sub": "c. 1250 to 1046 BCE",
+       "text": "[[c-continuity]] [[c-graphs]] [[c-wuding]]",
+       "sources": [
+        "cam-oracle",
+        "tencent-oracle",
+        "liu2021-c14"
+       ]
+      }
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Which feature most sets the Indus apart from the other three early civilizations?",
+     "choices": [
+      "Its writing appeared far later than in the other three",
+      "No visible kings, together with a script that is still unread",
+      "Its largest city was far smaller than those of the others",
+      "It alone had cities that grew out of riverside farming villages"
+     ],
+     "answer": 1,
+     "why": "The other three have visible kings and readable writing. The Indus has no identified palaces, royal tombs or images of rulers, and its script is unread.",
+     "wrong": {
+      "0": "Marks at Harappa from about 3300-2800 BCE may be early Indus signs, long before China's earliest writing, about 1250 BCE.",
+      "2": "Mohenjo-daro, about 240 hectares, was close to Uruk's 250.",
+      "3": "All four grew from farming villages along rivers."
+     }
+    },
+    {
+     "q": "What does the killing of people at royal burials in Mesopotamia, Egypt and Shang China suggest?",
+     "choices": [
+      "One religion that spread from Mesopotamia to Egypt and to China",
+      "Rulers with power over life and death, a sign of extreme hierarchy",
+      "A custom the four river civilizations shared, the Indus included",
+      "Kings without writing, who showed off their power through burials"
+     ],
+     "answer": 1,
+     "why": "In all three it accompanied the most powerful rulers.",
+     "wrong": {
+      "0": "Nothing on this page shows the custom passing between them; they lay far apart.",
+      "2": "No such burials are known from the Indus, though few Indus cemeteries have been fully excavated.",
+      "3": "All three had writing: Mesopotamia from about 3300-3000 BCE, Egypt about 3200 BCE, and the Shang on oracle bones."
+     }
+    }
+   ]
+  }
+ ]
+}

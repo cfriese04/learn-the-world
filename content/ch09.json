@@ -1,0 +1,4824 @@
+{
+ "id": "ch09",
+ "no": "09",
+ "title": "India and China in the classical age",
+ "sub": "c. 500 BCE to 550 CE",
+ "sources": {
+  "brit-simaqian": {
+   "citation": "Encyclopaedia Britannica, \"Sima Qian\"",
+   "url": "https://www.britannica.com/biography/Sima-Qian"
+  },
+  "cdhk-shuihudi": {
+   "citation": "China Daily Hong Kong, on the Shuihudi Qin slips (2024)",
+   "url": "https://chinadailyhk.com/article/581217"
+  },
+  "cd-liye2025": {
+   "citation": "China Daily, \"Slips unearthed at Liye archaeological site dig into details of Qin life\" (6 November 2025)",
+   "url": "https://govt.chinadaily.com.cn/s/202511/06/WS690c0954498e36855033723b/slips-unearthed-at-liye-archaeological-site-dig-into-details-of-qin-life.html"
+  },
+  "ec-allan": {
+   "citation": "Mark Edward Lewis, review of Sarah Allan, Buried Ideas: Legends of Abdication and Ideal Government in Early Chinese Bamboo-Slip Manuscripts, Early China",
+   "url": "https://www.cambridge.org/core/product/2594293007F2EF6F23C6F49758BB446A/core-reader"
+  },
+  "bmcr-stoneman": {
+   "citation": "Giles Miles, review of Richard Stoneman, Megasthenes' Indica (2021), Bryn Mawr Classical Review 2022.10.08",
+   "url": "https://bmcr.brynmawr.edu/?p=67313"
+  },
+  "rbi-coins": {
+   "citation": "Reserve Bank of India Monetary Museum, \"Ancient India\" coinage",
+   "url": "https://rbi.org.in/Scripts/mc_ancient.aspx"
+  },
+  "brit-prinsep": {
+   "citation": "Encyclopaedia Britannica, \"James Prinsep\"",
+   "url": "https://www.britannica.com/biography/James-Prinsep"
+  },
+  "sciam-tsinghua": {
+   "citation": "Scientific American, 'Ancient times table hidden in Chinese bamboo strips' (2014)",
+   "url": "https://www.scientificamerican.com/article/ancient-times-table-hidden-in-chinese-bamboo-strips"
+  },
+  "sep-mohism": {
+   "citation": "Chris Fraser, \"Mohism\", Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/mohism/"
+  },
+  "sep-mencius": {
+   "citation": "Bryan Van Norden, \"Mencius\", Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/mencius/"
+  },
+  "sep-xunzi": {
+   "citation": "Paul R. Goldin, \"Xunzi\", Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/xunzi/"
+  },
+  "sep-legalism": {
+   "citation": "Yuri Pines, \"Legalism in Chinese philosophy\", Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/chinese-legalism/"
+  },
+  "wagner-korean": {
+   "citation": "Donald B. Wagner, on early iron in China and Korea",
+   "url": "https://donwagner.dk/KoreanFe/KoreanFe.html"
+  },
+  "uw-crossbow": {
+   "citation": "University of Washington, A Visual Sourcebook of Chinese Civilization, \"The crossbow\"",
+   "url": "https://depts.washington.edu/chinaciv/miltech/crossbow.htm"
+  },
+  "li2014": {
+   "citation": "Li, Bevan, Martinón-Torres et al., \"Crossbows and imperial craft organisation: the bronze triggers of China's Terracotta Army\", Antiquity 88 (2014)",
+   "url": "https://core-prod.cambridgecore.org/core/services/aop-cambridge-core/content/view/DB32EADD77493B84692756138D21D036/S0003598X00050262a.pdf/crossbows_and_imperial_craft_organisation_the_bronze_triggers_of_chinas_terracotta_army.pdf"
+  },
+  "sixthtone-changping": {
+   "citation": "Sixth Tone, on bones found near the Changping battlefield (23 July 2020)",
+   "url": "https://sixthtone.com/news/1005971"
+  },
+  "kirkland-guodian": {
+   "citation": "Russell Kirkland, on the Guodian Laozi (University of Georgia)",
+   "url": "https://reli.franklin.uga.edu/sites/default/files/inline-files/guodian.pdf"
+  },
+  "ll-wangjiazui": {
+   "citation": "Victor Mair, Language Log, on the Wangjiazui slips (May 2022)",
+   "url": "https://languagelog.ldc.upenn.edu/nll/?p=54780"
+  },
+  "cd-qinjiazui": {
+   "citation": "China Daily, \"Bamboo slips reveal Warring States life\" (22 December 2023)",
+   "url": "https://govt.chinadaily.com.cn/s/202312/22/WS65ae0b2e498ed2d7b7ea601f/bamboo-slips-reveal-warring-states-life.html"
+  },
+  "brit-qinshihuang": {
+   "citation": "Encyclopaedia Britannica, \"Qin Shi Huang\"",
+   "url": "https://www.britannica.com/biography/Qin-Shi-Huang"
+  },
+  "met-qin": {
+   "citation": "The Met, \"Qin dynasty (221-206 B.C.)\"",
+   "url": "https://www.metmuseum.org/toah/hd/qind/hd_qind.htm"
+  },
+  "neininger-keng": {
+   "citation": "Ulrich Neininger, on the 'burying of the scholars'",
+   "url": "https://ulrichneininger.de/?p=461"
+  },
+  "unesco-qin": {
+   "citation": "UNESCO World Heritage Centre, \"Mausoleum of the First Qin Emperor\"",
+   "url": "https://whc.unesco.org/en/list/441/"
+  },
+  "zhao2020": {
+   "citation": "Zhao et al., mercury above the First Emperor's mound, Scientific Reports 10 (2020)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7319949"
+  },
+  "hubei-shuihudi": {
+   "citation": "Hubei Provincial Museum, on the Shuihudi Qin slips",
+   "url": "https://www.hbww.org.cn/p/11501.html"
+  },
+  "korolkov-liye": {
+   "citation": "Maxim Korolkov, \"Empire marches south\" (lecture, LMU Munich)",
+   "url": "https://www.sinologie.uni-muenchen.de/aktuelles/vortrag-korolkov/korolkov_empire-marches-south.pdf"
+  },
+  "pines-korolkov": {
+   "citation": "Yuri Pines, review of Korolkov, The Imperial Network in Ancient China (2022), Journal of Chinese Studies 76 (2023)",
+   "url": "https://www.cuhk.edu.hk/ics/journal/articles/v76p221.pdf"
+  },
+  "korolkov-hein2021": {
+   "citation": "Korolkov and Hein, on the Qin conquest of the south, Journal of Chinese History 5 (2021)",
+   "url": "https://www.cambridge.org/core/product/87D09AD61610E2E7ACC49405863893AB"
+  },
+  "scmp-gyaring": {
+   "citation": "South China Morning Post, on the Qin inscription at Gyaring Lake (2025)",
+   "url": "https://www.scmp.com/news/china/science/article/3325766/chinas-first-emperor-really-did-send-quest-tibet-search-immortality-scientists"
+  },
+  "arkeo-gyaring": {
+   "citation": "Arkeonews, \"Emperor's quest for immortality: Tibetan inscription confirmed authentic\" (September 2025)",
+   "url": "https://arkeonews.net/terracotta-army-emperors-quest-for-immortality-tibetan-inscription-confirmed-authentic/"
+  },
+  "brit-gaozu": {
+   "citation": "Encyclopaedia Britannica, \"Gaozu\" (emperor of the Han dynasty)",
+   "url": "https://www.britannica.com/biography/Gaozu-emperor-of-Han-dynasty"
+  },
+  "brit-handyn": {
+   "citation": "Encyclopaedia Britannica, \"Han dynasty\"",
+   "url": "https://www.britannica.com/topic/Han-dynasty"
+  },
+  "met-han": {
+   "citation": "The Met, \"Han dynasty (206 B.C.-220 A.D.)\"",
+   "url": "https://www.metmuseum.org/toah/hd/hand/hd_hand.htm"
+  },
+  "brit-dong": {
+   "citation": "Encyclopaedia Britannica, \"Dong Zhongshu\"",
+   "url": "https://www.britannica.com/biography/Dong-Zhongshu"
+  },
+  "loewe2011": {
+   "citation": "Michael Loewe, Dong Zhongshu, a 'Confucian' Heritage and the Chunqiu Fanlu (Brill, 2011)",
+   "url": "https://www.degruyterbrill.com/document/isbn/9789004214866/html"
+  },
+  "cai2014": {
+   "citation": "Liang Cai, Witchcraft and the Rise of the First Confucian Empire (SUNY, 2014)",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9781438448510/html"
+  },
+  "cai2019": {
+   "citation": "Liang Cai, \"Ru scholars, social networks, and bureaucracy: Donghai men and models for success in Western Han China\", Early China 42 (2019)",
+   "url": "https://www.cambridge.org/core/journals/early-china/article/abs/ru-scholars-social-networks-and-bureaucracy-donghai-men-and-models-for-success-in-western-han-china-206-bce9-ce/914C2482D9735A0AF09A32F569357957"
+  },
+  "brit-china-urban": {
+   "citation": "Encyclopaedia Britannica, \"China: urban areas\" (on the census of 2 CE)",
+   "url": "https://www.britannica.com/place/China/Urban-areas"
+  },
+  "brit-wangmang": {
+   "citation": "Encyclopaedia Britannica, \"Wang Mang\"",
+   "url": "https://www.britannica.com/biography/Wang-Mang"
+  },
+  "brit-yellowturbans": {
+   "citation": "Encyclopaedia Britannica, \"Yellow Turbans\"",
+   "url": "https://www.britannica.com/topic/Yellow-Turbans"
+  },
+  "cu-saltiron": {
+   "citation": "Columbia University, Asia for Educators, \"A record of the Debate on Salt and Iron\" (from de Bary and Bloom, Sources of Chinese Tradition, 1999)",
+   "url": "https://afe.easia.columbia.edu/main_pop/ps//ps_china-debate-salt-iron.htm"
+  },
+  "wagner-iron": {
+   "citation": "Donald B. Wagner, \"Technology as seen through the case of ferrous metallurgy in Han China\"",
+   "url": "https://donwagner.dk/EncIt/EncIt.html"
+  },
+  "brit-han": {
+   "citation": "Encyclopaedia Britannica, \"History of China: the Han dynasty\"",
+   "url": "https://www.britannica.com/topic/history-of-China/The-Han-dynasty"
+  },
+  "wang2024": {
+   "citation": "Wang, Liu, Pollard et al., lead isotopes in Han bronze mirrors, Archaeological and Anthropological Sciences 16 (2024)",
+   "url": "https://link.springer.com/article/10.1007/s12520-024-02016-2"
+  },
+  "zhang2020": {
+   "citation": "Zhang et al., \"Iron production and trading in Lingnan during the Qin and Han dynasties\", Antiquity 94 (2020)",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/iron-production-and-trading-in-lingnan-during-the-qin-and-han-dynasties/9EB822B1E9CE3B15A1DB1B6AC54B7970"
+  },
+  "rom-wuzhu": {
+   "citation": "Royal Ontario Museum, on the wuzhu coin",
+   "url": "https://rom.on.ca/en/node/5474"
+  },
+  "bm-wuzhu": {
+   "citation": "British Museum, wuzhu coin 1982,0628.2 (Google Arts & Culture)",
+   "url": "https://artsandculture.google.com/asset/wuzhu-coin-issued-by-emperor-xuandi/6wH3PKoXR06Xxg?hl=en"
+  },
+  "smith-wangmang": {
+   "citation": "Smithsonian Magazine, \"Emperor Wang Mang: China's first socialist?\"",
+   "url": "https://www.smithsonianmag.com/history/emperor-wang-mang-chinas-first-socialist-2402977/"
+  },
+  "ox-paper": {
+   "citation": "History of Science Museum, Oxford, \"Origins of paper\"",
+   "url": "https://www.cabinet.ox.ac.uk/node/7013"
+  },
+  "xinhua-fangmatan": {
+   "citation": "Xinhua, on the Fangmatan paper fragment (29 November 2016)",
+   "url": "https://www.xinhuanet.com/english/2016-11/29/c_135867579.htm"
+  },
+  "brit-maodun": {
+   "citation": "Encyclopaedia Britannica, \"Maodun\"",
+   "url": "https://www.britannica.com/biography/Maodun"
+  },
+  "brit-xiongnu": {
+   "citation": "Encyclopaedia Britannica, \"Xiongnu\"",
+   "url": "https://www.britannica.com/topic/Xiongnu"
+  },
+  "brit-wudi": {
+   "citation": "Encyclopaedia Britannica, \"Wudi\" (emperor of the Han dynasty)",
+   "url": "https://www.britannica.com/biography/Wudi-emperor-of-Han-dynasty"
+  },
+  "benjamin2018": {
+   "citation": "Craig Benjamin, Empires of Ancient Eurasia (Cambridge, 2018), ch. 3, \"Zhang Qian and Han expansion into Central Asia\"",
+   "url": "https://www.cambridge.org/core/books/abs/empires-of-ancient-eurasia/zhang-qian-and-han-expansion-into-central-asia/B9352627ADD0B8E5FCB3EA13C7DF7B04"
+  },
+  "brit-zhangqian": {
+   "citation": "Encyclopaedia Britannica, \"Zhang Qian\"",
+   "url": "https://www.britannica.com/biography/Zhang-Qian"
+  },
+  "brit-greatwall-han": {
+   "citation": "Encyclopaedia Britannica, \"Great Wall of China: the Han through Yuan dynasties\"",
+   "url": "https://www.britannica.com/topic/Great-Wall-of-China/The-Han-through-Yuan-dynasties"
+  },
+  "unesco-silkroads": {
+   "citation": "UNESCO World Heritage Centre, \"Silk Roads: the Routes Network of Chang'an-Tianshan Corridor\"",
+   "url": "https://whc.unesco.org/en/list/1442"
+  },
+  "cd-xuanquan2023": {
+   "citation": "China Daily, \"Reviving the glory of millennia-old posthouse ruins in Dunhuang\" (10 August 2023)",
+   "url": "https://govt.chinadaily.com.cn/s/202308/10/WS64d44147498ea274927c7d30/reviving-the-glory-of-millennia-old-posthouse-ruins-in-dunhuang.html"
+  },
+  "cd-xuanquan2025": {
+   "citation": "China Daily, on the Xuanquanzhi site (18 April 2025)",
+   "url": "https://www.chinadaily.com.cn/a/202504/18/WS68020399a3104d9fd3820446.html"
+  },
+  "mertens2019": {
+   "citation": "Matthias Mertens, \"Did Richthofen really coin 'the Silk Road'?\", The Silk Road 17 (2019)",
+   "url": "https://edspace.american.edu/silkroadjournal/wp-content/uploads/sites/984/2020/02/2-Mertens-Did-Richthofen-Really-Coin-the-Silk-Road.pdf"
+  },
+  "whitfield-tarim": {
+   "citation": "Susan Whitfield, \"On the Silk Road: trade in the Tarim?\" (University of East Anglia repository)",
+   "url": "https://ueaeprints.uea.ac.uk/76586/1/Whitfield_TradeTarim.pdf"
+  },
+  "sd-xiongnu2023": {
+   "citation": "ScienceDaily, on Lee, Miller, Jeong et al., ancient DNA of the Xiongnu, Science Advances 9 (2023)",
+   "url": "https://sciencedaily.com/releases/2023/04/230414201820.htm"
+  },
+  "brit-magadha": {
+   "citation": "Encyclopaedia Britannica, \"India: Magadhan ascendancy\"",
+   "url": "https://www.britannica.com/place/India/Magadhan-ascendancy"
+  },
+  "brit-megasthenes": {
+   "citation": "Encyclopaedia Britannica, \"Megasthenes\"",
+   "url": "https://www.britannica.com/biography/Megasthenes"
+  },
+  "arrian-indica10": {
+   "citation": "Arrian, Indica 10, quoting Megasthenes on Pataliputra (translation at Sententiae Antiquae)",
+   "url": "https://sententiaeantiquae.com/tag/pataliputra/"
+  },
+  "strabo15": {
+   "citation": "Strabo, Geography 15.1.36 (Loeb translation on LacusCurtius)",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/15A2*.html"
+  },
+  "patra-jaugada": {
+   "citation": "Benudhar Patra, 'Jaugada: an early historical fort town of Orissa', Orissa Review (January 2007)",
+   "url": "https://magazines.odisha.gov.in/orissareview/jan-2007/engpdf/44-47.pdf"
+  },
+  "brit-ashoka-succ": {
+   "citation": "Encyclopaedia Britannica, \"India: Ashoka and his successors\"",
+   "url": "https://www.britannica.com/place/India/Ashoka-and-his-successors"
+  },
+  "organiser-kumrahar": {
+   "citation": "Organiser, on the ASI re-exposing the Mauryan pillared hall at Kumrahar (4 December 2024)",
+   "url": "https://www.organiser.org/2024/12/04/267840/bharat/uncovering-the-past-asi-begins-historic-excavation-of-mauryan-empires-assembly-hall-in-patna/"
+  },
+  "dh-kumrahar": {
+   "citation": "Deccan Herald, on the buried Mauryan hall at Kumrahar (29 October 2023)",
+   "url": "https://www.deccanherald.com/amp/story/india%2Fbihar%2Farchaeologists-flag-concern-over-buried-mauryan-period-assembly-hall-demand-immediate-restoration-2746910"
+  },
+  "trautmann1968": {
+   "citation": "Thomas R. Trautmann, The Structure and Composition of the Kautiliya Arthasastra (SOAS PhD, 1968)",
+   "url": "https://soas-repository.worktribe.com/output/400931/the-structure-and-composition-of-the-kautiliya-arthasastra"
+  },
+  "mcclish2019": {
+   "citation": "Mark McClish, The History of the Arthaśāstra (Cambridge, 2019), front matter",
+   "url": "https://assets.cambridge.org/97811084/76904/frontmatter/9781108476904_frontmatter.pdf"
+  },
+  "olivelle2013": {
+   "citation": "Patrick Olivelle, King, Governance, and Law in Ancient India: Kauṭilya's Arthaśāstra (Oxford, 2013)",
+   "url": "https://academic.oup.com/book/8486"
+  },
+  "dhammika-edicts": {
+   "citation": "S. Dhammika, The Edicts of King Asoka (Buddhist Publication Society, 1993), at Access to Insight",
+   "url": "https://accesstoinsight.org/lib/authors/dhammika/wheel386.html"
+  },
+  "unesco-shahbazgarhi": {
+   "citation": "UNESCO Tentative List, \"Shahbazgarhi Rock Edicts\"",
+   "url": "https://whc.unesco.org/en/tentativelists/1880"
+  },
+  "lhi-kandahar": {
+   "citation": "LiveHistoryIndia, \"Ashoka's Kandahar edicts: an emperor's message to the world\"",
+   "url": "https://livehistoryindia.com/story/eras/ashoka-s-kandahar-edicts-an-emperor-s-message-to-the-world"
+  },
+  "dhammika-prinsep": {
+   "citation": "S. Dhammika, \"Prinsep discovers Ashoka\" (2012)",
+   "url": "https://smallpdfs.buddhistuniversity.net/dhammika_2012_prinsep-discovers-ashoka.pdf"
+  },
+  "open-olivelle": {
+   "citation": "Upinder Singh, review of Patrick Olivelle, Ashoka: Portrait of a Philosopher King (2023), Open (November 2023)",
+   "url": "https://openthemagazine.com/lounge/books/ashoka-the-king-who-said-sorry"
+  },
+  "brit-shunga": {
+   "citation": "Encyclopaedia Britannica, \"Shunga dynasty\"",
+   "url": "https://www.britannica.com/topic/Shunga-dynasty"
+  },
+  "pwc-mauryan-decline": {
+   "citation": "P. Singh, \"Decline of the Mauryan empire\", Patna Women's College teaching notes",
+   "url": "https://patnawomenscollege.in/?p=53762"
+  },
+  "coningham1996": {
+   "citation": "Coningham, Allchin, Batt and Lucy, 'Passage to India? Anuradhapura and the early use of the Brahmi script', Cambridge Archaeological Journal 6 (1996)",
+   "url": "https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/passage-to-india-anuradhapura-and-the-early-use-of-the-brahmi-script/DAAA2514FB08E1DDE3FAFF2171AB097B"
+  },
+  "knaw-schmid": {
+   "citation": "Charlotte Schmid, The Aśokan Breakthrough, Gonda Lecture (KNAW, 2024)",
+   "url": "https://knaw.nl/en/publications/asokan-breakthrough"
+  },
+  "print-bahaj2025": {
+   "citation": "ThePrint, \"Brahmi script existed in India way before Ashoka edicts: ASI paper\" (4 November 2025)",
+   "url": "https://theprint.in/feature/brahmi-script-existed-in-india-way-before-ashoka-edicts-asi-paper/2776884"
+  },
+  "brit-menander": {
+   "citation": "Encyclopaedia Britannica, \"Menander\" (Indo-Greek king)",
+   "url": "https://www.britannica.com/biography/Menander-Indo-Greek-king"
+  },
+  "shiraz-rabatak": {
+   "citation": "\"The Rabatak inscription\", Shiraz University journal",
+   "url": "https://tesl.shirazu.ac.ir/article_255.html"
+  },
+  "carc-chronology": {
+   "citation": "Classical Art Research Centre, Oxford, \"Problems of chronology in Gandharan art\": abstracts (Falk, Cribb, Behrendt)",
+   "url": "https://www.carc.ox.ac.uk/PublicFiles/media/Problems%20of%20Chronology%20abstracts.pdf"
+  },
+  "met-gandhara": {
+   "citation": "The Met, The Art of Gandhara in the Metropolitan Museum of Art",
+   "url": "https://www.metmuseum.org/art/metpublications/The_Art_of_Gandhara_in_The_Metropolitan_Museum_of_Art"
+  },
+  "smarthistory-buddha": {
+   "citation": "Smarthistory, on the first images of the Buddha",
+   "url": "https://smarthistory.org/?p=48116"
+  },
+  "equinox-bajaur": {
+   "citation": "Paul Harrison (ed.), Setting Out on the Great Way, ch. 9, on the Bajaur Mahayana sutra (Equinox)",
+   "url": "https://equinoxreligionlibrary.com/projects/abstracts-hub/resource-collection/mahayana-buddhism/resource/harrison-setting-out-on-the-great-way-9"
+  },
+  "brit-satavahana": {
+   "citation": "Encyclopaedia Britannica, \"Satavahana dynasty\"",
+   "url": "https://britannica.com/topic/Satavahana-dynasty"
+  },
+  "brit-sangam": {
+   "citation": "Encyclopaedia Britannica, \"Sangam literature\"",
+   "url": "https://www.britannica.com/art/shangam-literature"
+  },
+  "efeo-arikamedu": {
+   "citation": "École française d'Extrême-Orient, Begley et al., The Ancient Port of Arikamedu, vol. 2",
+   "url": "https://publications.efeo.fr/en/livres/380_the-ancient-port-of-arikamedu"
+  },
+  "muziris-pattanam": {
+   "citation": "Muziris Heritage Project, \"Pattanam\"",
+   "url": "https://muzirisheritage.org/pattanam.php"
+  },
+  "tnm-keeladi2026": {
+   "citation": "The News Minute, 'Keeladi archaeologist rejects ASI review, seeks immediate release of excavation report' (5 February 2026)",
+   "url": "https://www.thenewsminute.com/tamil-nadu/keeladi-archaeologist-rejects-asi-review-seeks-immediate-release-of-excavation-report"
+  },
+  "week-keeladi": {
+   "citation": "The Week, \"Explained: is ASI expert Amarnath Ramakrishna being targeted over Keeladi excavations?\" (26 May 2025)",
+   "url": "https://www.theweek.in/news/india/2025/05/26/explained-is-asi-expert-amarnath-ramakrishna-being-targeted-over-keeladi-excavations.html"
+  },
+  "epgp-allahabad": {
+   "citation": "P. Bhaskar Reddy, \"Allahabad pillar inscription of Samudragupta\", e-PG Pathshala (UGC/INFLIBNET)",
+   "url": "https://epgp.inflibnet.ac.in/epgpdata/uploads/epgp_content/S000829IC/P001689/M022047/ET/1504072712P08-M33-AllahabadPillarInscriptionofSamudragupta-ET.pdf"
+  },
+  "coinindia-samudra": {
+   "citation": "CoinIndia, Samudragupta gallery",
+   "url": "https://www.coinindia.com/galleries-samudragupta.html"
+  },
+  "brit-cg2": {
+   "citation": "Encyclopaedia Britannica, \"Chandragupta II\"",
+   "url": "https://www.britannica.com/biography/Chandragupta-II"
+  },
+  "map-udayagiri": {
+   "citation": "MAP Academy, \"Udayagiri\"",
+   "url": "https://mapacademy.io/?p=3107"
+  },
+  "brit-kalidasa": {
+   "citation": "Encyclopaedia Britannica, \"Kalidasa\"",
+   "url": "https://www.britannica.com/biography/Kalidasa"
+  },
+  "brit-aryabhata": {
+   "citation": "Encyclopaedia Britannica, \"Aryabhata I\"",
+   "url": "https://www.britannica.com/biography/Aryabhata-I"
+  },
+  "ox-bakhshali": {
+   "citation": "University of Oxford (GLAM), Bodleian announcement on the Bakhshali manuscript (14 September 2017)",
+   "url": "https://www.glam.ox.ac.uk/node/218481"
+  },
+  "indology-bakhshali": {
+   "citation": "INDOLOGY list, 15 September 2017: folio-by-folio radiocarbon ranges from the Bodleian curator",
+   "url": "https://list.indology.info/pipermail/indology/2017-September/046594.html"
+  },
+  "hssa-bakhshali": {
+   "citation": "Plofker, Keller, Hayashi, Montelle and Wujastyk, \"The Bakhshālī manuscript: a response to the Bodleian Library's radiocarbon dating\", History of Science in South Asia 5 (2017)",
+   "url": "https://journals.library.ualberta.ca/hssa/index.php/hssa/article/view/22"
+  },
+  "sh-deogarh": {
+   "citation": "Smarthistory / MAP Academy, \"Dashavatara temple, Deogarh\"",
+   "url": "https://smarthistory.org/dashavatara-temple-deogarh"
+  },
+  "dna-golden": {
+   "citation": "M. A. Kalra, \"Gupta dynasty: the golden age versus the age of feudalism\", DNA India (2017)",
+   "url": "https://dnaindia.com/lifestyle/report-gupta-dynasty-the-golden-age-versus-the-age-of-feudalism-2444781"
+  },
+  "kervan-manu": {
+   "citation": "Review of Squarcini and Cuneo's translation of the Manusmriti, Kervan 28.2 (2024)",
+   "url": "https://ojs.unito.it/index.php/kervan/article/download/11494/9517/37984"
+  },
+  "brit-gupta": {
+   "citation": "Encyclopaedia Britannica, \"Gupta dynasty\"",
+   "url": "https://www.britannica.com/topic/Gupta-dynasty"
+  },
+  "rezakhani-huns": {
+   "citation": "Khodadad Rezakhani, \"Iranian Huns\", Iranologie",
+   "url": "https://iranologie.com/the-history-page/the-sasanian-empire-2/iranian-huns/"
+  },
+  "so-mahinda": {
+   "citation": "Sunday Observer (Sri Lanka), on William Dalrymple and Buddhism before Mahinda (5 January 2025)",
+   "url": "https://www.sundayobserver.lk/2025/01/05/news-features/41654/buddhism-was-in-existence-in-sri-lanka-before-the-advent-of-arahant-mahinda-historian-william-dalrymple"
+  },
+  "brit-mahavamsa": {
+   "citation": "Encyclopaedia Britannica, \"Mahavamsa\"",
+   "url": "https://www.britannica.com/topic/Mahavamsa"
+  },
+  "palumbo2007": {
+   "citation": "Antonello Palumbo, \"Literary evidence on Han Buddhism\" (SOAS, 2007)",
+   "url": "https://core.ac.uk/download/19090669.pdf"
+  },
+  "scroll-whitehorse": {
+   "citation": "Scroll.in, \"Buddhism's spread from India to China started with a Han emperor's dream\" (2024)",
+   "url": "https://scroll.in/magazine/1075459/buddhisms-spread-from-india-to-china-started-with-a-han-emperors-dream"
+  },
+  "iias-anshigao": {
+   "citation": "International Institute for Asian Studies, Leiden, on the An Shigao dictionary project",
+   "url": "https://iias.asia/event/understanding-earliest-chinese-buddhist-translations-progress-report-shigao-dictionary"
+  },
+  "brit-kumarajiva": {
+   "citation": "Encyclopaedia Britannica, \"Kumarajiva\"",
+   "url": "https://www.Britannica.com/biography/Kumarajiva"
+  },
+  "brit-faxian": {
+   "citation": "Encyclopaedia Britannica, \"Faxian\"",
+   "url": "https://www.britannica.com/biography/Faxian"
+  },
+  "yale-kongwangshan": {
+   "citation": "Yale MacMillan Center, \"The date of Kongwangshan reconsidered\" (Minku Kim, November 2022)",
+   "url": "https://macmillan.yale.edu/events/2022-11/date-kongwangshan-reconsidered"
+  },
+  "unesco-mogao": {
+   "citation": "UNESCO World Heritage Centre, \"Mogao Caves\"",
+   "url": "https://whc.unesco.org/en/list/440"
+  },
+  "unesco-yungang": {
+   "citation": "UNESCO World Heritage Centre, \"Yungang Grottoes\"",
+   "url": "https://whc.unesco.org/en/list/1039"
+  },
+  "scheidel-romechina": {
+   "citation": "Walter Scheidel, \"From the 'Great Convergence' to the 'First Great Divergence'\", Stanford Rome and China project",
+   "url": "https://web.stanford.edu/~scheidel/Rome%26China.pdf"
+  },
+  "alfani2025": {
+   "citation": "Alfani, Bolla and Scheidel, inequality in ancient empires (Han, Rome, Aztec), Nature Communications 16 (2025)",
+   "url": "https://iris.unibocconi.it/retrieve/afc74823-36a4-4b06-8c54-a5c3b19ed701/AlfaniBollaScheidel_InequalityAncientEmpires.pdf"
+  },
+  "giele-heidelberg": {
+   "citation": "Enno Giele, Han and Rome compared, Marsilius-Kolleg, Heidelberg University",
+   "url": "https://www.marsilius-kolleg.uni-heidelberg.de/md/einrichtungen/mk/publikationen/10_mk_jahresbericht_giele.pdf"
+  },
+  "bielenstein-bureaucracy": {
+   "citation": "Hans Bielenstein, The Bureaucracy of Han Times (Cambridge), conclusion",
+   "url": "https://core-prod.cambridgecore.org/core/books/bureaucracy-of-han-times/conclusion/A4E49FAD526A8335DF29EAB9F1A5BC3F"
+  },
+  "scheidel-friesen2": {
+   "citation": "Scheidel and Friesen, \"The size of the economy and the distribution of income in the Roman empire\", Journal of Roman Studies 99 (2009)",
+   "url": "https://cambridge.org/core/services/aop-cambridge-core/content/view/ADBB8C20D8DFDB7F5A8B209718AF7942/S0075435800000071a.pdf/size_of_the_economy_and_the_distribution_of_income_in_the_roman_empire.pdf"
+  },
+  "bmcr-statepower": {
+   "citation": "Review of Scheidel (ed.), State Power in Ancient China and Rome (2015), Bryn Mawr Classical Review 2015.09.24",
+   "url": "https://bmcr.brynmawr.edu/?p=36641"
+  },
+  "loewe2025": {
+   "citation": "Michael Loewe, Imperial Institutions in Ancient Rome and Early China (Bloomsbury, 2025)",
+   "url": "https://backstory.london/products/9781350445123"
+  },
+  "camws-army": {
+   "citation": "CAMWS 2014 abstract on the size of the Roman imperial army",
+   "url": "https://camws.org/meeting/2014/abstracts/individual/038.RomanImperialArmy.pdf"
+  },
+  "scheidel-escape": {
+   "citation": "Walter Scheidel, Escape from Rome (Princeton, 2019), introduction",
+   "url": "https://web.stanford.edu/~scheidel/Escape%20from%20Rome.pdf"
+  }
+ },
+ "claims": {
+  "c-simaqian": {
+   "text": "Sima Qian (about 145 to about 87 BCE), grand historian of the Han court, wrote the Shiji ('Records of the Historian'), a history from the legendary sage kings to his own day that became the model for all later Chinese dynastic histories. For defending a disgraced general he was condemned for 'defaming the emperor' and castrated instead of executed.",
+   "label": "approx",
+   "sources": [
+    "brit-simaqian"
+   ],
+   "show": true,
+   "note": "His birth and death dates are approximate."
+  },
+  "c-slips-value": {
+   "text": "Excavated bamboo and wooden slips are working documents that can be checked against the histories: no Qin law code was known until the Shuihudi tomb gave one in 1975, and a well at Liye has yielded nearly 38,000 slips of a Qin county's records.",
+   "label": "consensus",
+   "sources": [
+    "cdhk-shuihudi",
+    "cd-liye2025"
+   ],
+   "show": false
+  },
+  "c-looted-slips": {
+   "text": "The Shanghai Museum and Tsinghua University manuscripts were bought on the antiquities market, not excavated, so their authenticity has been questioned.",
+   "label": "debated",
+   "sources": [
+    "ec-allan"
+   ],
+   "show": true,
+   "note": "Most specialists, including Sarah Allan, accept them as genuine because their script and contents match properly excavated texts; the doubt is their unknown origin."
+  },
+  "c-megasthenes-rel": {
+   "text": "How reliable Megasthenes was is disputed.",
+   "label": "debated",
+   "sources": [
+    "bmcr-stoneman",
+    "brit-megasthenes"
+   ],
+   "show": true,
+   "note": "Strabo already accused him of inventing things; Richard Stoneman (2021) argues that even his 'fabulous races' faithfully pass on what Indian informants told him."
+  },
+  "c-punchmarked": {
+   "text": "India's first coins were silver 'punch-marked' pieces, issued first by merchant guilds and later by states including the Mauryas; the history of the Indo-Greek kings has been rebuilt almost entirely from their coins.",
+   "label": "approx",
+   "sources": [
+    "rbi-coins"
+   ],
+   "show": true,
+   "note": "The Reserve Bank of India dates the first coins to the 7th-6th centuries BCE; many numismatists prefer a somewhat later start."
+  },
+  "c-prinsep-mint": {
+   "text": "James Prinsep, who first deciphered Ashoka's edicts, was the assay master of the Calcutta mint: a coin expert, not a professional linguist.",
+   "label": "consensus",
+   "sources": [
+    "brit-prinsep"
+   ],
+   "show": false
+  },
+  "c-mozi": {
+   "text": "Mozi (active about 430 BCE) taught impartial care for everyone, condemned wars of aggression and lavish funerals, and his followers formed bands that helped defend cities under attack.",
+   "label": "approx",
+   "sources": [
+    "sep-mohism"
+   ],
+   "show": true,
+   "note": "His dates are approximate."
+  },
+  "c-mencius": {
+   "text": "Mencius (4th century BCE) taught that human nature is good, since everyone has innate 'sprouts' of virtue, and urged rulers to govern by benevolence rather than force.",
+   "label": "consensus",
+   "sources": [
+    "sep-mencius"
+   ],
+   "show": false
+  },
+  "c-xunzi": {
+   "text": "Xunzi (born about 310 BCE) argued the opposite: human nature is bad, and goodness comes only from effort, education and ritual; his students included Han Fei and Li Si, the First Emperor's chief minister.",
+   "label": "consensus",
+   "sources": [
+    "sep-xunzi"
+   ],
+   "show": false
+  },
+  "c-legalism-label": {
+   "text": "'Legalism' (fajia) is a label invented later by Han scholars; no early thinker saw himself as a member of such a school.",
+   "label": "debated",
+   "sources": [
+    "sep-legalism"
+   ],
+   "show": true,
+   "note": "Yuri Pines calls the translation misleading; Arthur Waley preferred 'Realists'."
+  },
+  "c-shangyang": {
+   "text": "Shang Yang (died 338 BCE) reorganised Qin around 'agriculture and war': hereditary rank gave way to twenty ranks earned in battle or by producing grain, families were grouped to watch and inform on each other, and punishments were harsh.",
+   "label": "consensus",
+   "sources": [
+    "sep-legalism"
+   ],
+   "show": false
+  },
+  "c-hanfei": {
+   "text": "Han Fei (died 233 BCE) combined impersonal law (fa), techniques for controlling officials (shu) and the ruler's positional power (shi) into a theory of the strong state.",
+   "label": "consensus",
+   "sources": [
+    "sep-legalism"
+   ],
+   "show": false
+  },
+  "c-iron-ws": {
+   "text": "Smelted iron was in use in the south by the early 5th century BCE and in the north by the late 4th; by the early 3rd century it was the metal of choice for tools and weapons.",
+   "label": "approx",
+   "sources": [
+    "wagner-korean"
+   ],
+   "show": true,
+   "note": "Donald Wagner notes that unpublished finds may push these dates earlier."
+  },
+  "c-crossbow": {
+   "text": "The trigger-fired crossbow, in use by the 5th century BCE, needed less skill and strength than a bow, which suited mass armies of conscripted farmers.",
+   "label": "approx",
+   "sources": [
+    "uw-crossbow",
+    "li2014"
+   ],
+   "show": true,
+   "note": "Its exact origin is uncertain."
+  },
+  "c-changping": {
+   "text": "Tradition says that after the battle of Changping in about 260 BCE Qin killed more than 400,000 surrendered Zhao soldiers; in 2020 a long layer of bones was found near the battlefield.",
+   "label": "debated",
+   "sources": [
+    "sixthtone-changping"
+   ],
+   "show": true,
+   "note": "The figure comes from Sima Qian; no count of the remains has been published, so the find cannot test it yet."
+  },
+  "c-guodian": {
+   "text": "A tomb at Guodian, sealed about 300 BCE and excavated in 1993, held some 800 bamboo slips, including the oldest known version of parts of the Laozi (see 7.10).",
+   "label": "consensus",
+   "sources": [
+    "kirkland-guodian"
+   ],
+   "show": false
+  },
+  "c-abdication": {
+   "text": "Several excavated manuscripts discuss whether rulers should hand the throne to the most worthy man rather than to their sons, a debate the transmitted classics barely preserve.",
+   "label": "debated",
+   "sources": [
+    "ec-allan"
+   ],
+   "show": true,
+   "note": "Sarah Allan reads them as evidence of a real Warring States debate; how widely they circulated is unknown."
+  },
+  "c-tsinghua": {
+   "text": "The Tsinghua slips, about 2,500 strips donated in 2008, carbon-date to about 305 BCE and include a lost chronicle and the world's oldest known decimal multiplication table.",
+   "label": "approx",
+   "sources": [
+    "ec-allan",
+    "sciam-tsinghua"
+   ],
+   "show": true,
+   "note": "The radiocarbon date is a single sample; the slips' origin is unknown."
+  },
+  "c-newslips": {
+   "text": "Recent scientific excavations have found more: about 3,200 slips at Wangjiazui (2021-22), including parts of the Book of Songs and sayings of Confucius, and nearly 4,000 at Qinjiazui, from about 369-329 BCE.",
+   "label": "approx",
+   "sources": [
+    "ll-wangjiazui",
+    "cd-qinjiazui"
+   ],
+   "show": true,
+   "note": "New. Unlike the Shanghai and Tsinghua slips, these come from known tombs; most are still being published."
+  },
+  "c-qin-unify": {
+   "text": "Zheng became king of Qin in 246 BCE and conquered the last rival state, Qi, in 221 BCE, when he took the new title Qin Shi Huang, 'First Emperor of Qin'.",
+   "label": "consensus",
+   "sources": [
+    "brit-qinshihuang"
+   ],
+   "show": false
+  },
+  "c-standard": {
+   "text": "The First Emperor divided the empire into 36 commanderies and standardised weights and measures, coinage, the length of cart axles, the script and the law.",
+   "label": "consensus",
+   "sources": [
+    "brit-qinshihuang",
+    "met-qin"
+   ],
+   "show": false
+  },
+  "c-burning": {
+   "text": "According to Sima Qian, in 213 BCE the minister Li Si had books burned, sparing works on medicine, divination and farming, and in 212 more than 460 scholars were put to death at the capital.",
+   "label": "tradition",
+   "sources": [
+    "brit-qinshihuang"
+   ],
+   "show": true,
+   "note": "The account was written about a century later, under the Han dynasty that replaced Qin."
+  },
+  "c-burning-debate": {
+   "text": "Many historians now doubt the 'burying of the scholars' as usually told.",
+   "label": "debated",
+   "sources": [
+    "neininger-keng"
+   ],
+   "show": true,
+   "note": "Ulrich Neininger argues the victims were mostly magicians, that Sima Qian's word keng means 'killed', not 'buried alive', and that the story of Confucian martyrs grew up later; the earliest Han critics of Qin, Lu Jia and Jia Yi, do not mention the killings. Most accept that some book-burning took place."
+  },
+  "c-mausoleum": {
+   "text": "The First Emperor's tomb complex, found in 1974, covers 56 km², with nearly 200 pits and a mound 51 m high; the pits hold thousands of life-size terracotta soldiers.",
+   "label": "approx",
+   "sources": [
+    "unesco-qin",
+    "met-qin"
+   ],
+   "show": true,
+   "note": "Estimates of the number of figures range from over 7,000 to about 8,000."
+  },
+  "c-mercury": {
+   "text": "Sima Qian says the tomb chamber held rivers of mercury; a 2016 survey found mercury in the air above the mound at roughly two to five times background levels.",
+   "label": "debated",
+   "sources": [
+    "zhao2020",
+    "met-qin"
+   ],
+   "show": true,
+   "note": "The readings fit the story but do not prove it; the authors call their estimate 'extremely crude'. The burial chamber has never been opened."
+  },
+  "c-triggers": {
+   "text": "Crossbow triggers from the terracotta pits are so uniform that researchers think they were made in parallel workshops under central supervision.",
+   "label": "approx",
+   "sources": [
+    "li2014"
+   ],
+   "show": true,
+   "note": "An inference from measurements of 216 triggers."
+  },
+  "c-shuihudi": {
+   "text": "The tomb of Xi, a minor Qin legal official, at Shuihudi (excavated 1975) held 1,155 slips: statutes on farming, markets and labour service, a ban on felling trees in spring, a rule that goods carry price labels, and Xi's own chronicle from 306 to 217 BCE.",
+   "label": "consensus",
+   "sources": [
+    "cdhk-shuihudi",
+    "hubei-shuihudi"
+   ],
+   "show": false
+  },
+  "c-liye": {
+   "text": "The Liye slips, from a well in a Qin frontier county, record taxes, granaries, postal relays, medicine, even rat-catching, and include a multiplication table; about half of the inscribed slips had been published by 2025.",
+   "label": "approx",
+   "sources": [
+    "cd-liye2025",
+    "korolkov-liye"
+   ],
+   "show": true,
+   "note": "Counts of inscribed slips run from about 17,000 to 18,000."
+  },
+  "c-liye-county": {
+   "text": "Liye shows a frontier county with 104 official posts, 86 of them filled, staffed partly by officials sent there as punishment and worked by convicts and conscripts.",
+   "label": "debated",
+   "sources": [
+    "pines-korolkov"
+   ],
+   "show": true,
+   "note": "How many households the county governed is disputed: Maxim Korolkov estimates about 200; Yuri Pines thinks more."
+  },
+  "c-qin-fall": {
+   "text": "Why the Qin collapsed within four years of the First Emperor's death in 210 BCE is debated.",
+   "label": "debated",
+   "sources": [
+    "brit-qinshihuang",
+    "korolkov-hein2021",
+    "pines-korolkov"
+   ],
+   "show": true,
+   "note": "The traditional answer blames tyranny and court intrigue. Maxim Korolkov (2022; see also Korolkov and Hein 2021) argues that the new documents show how precarious Qin's hold on its late conquests was, that its southern wars after 214 BCE 'may have diverted resources' needed to consolidate them, and that the real puzzle is 'how it managed to endure as long as it did'; Yuri Pines replies that Qin's hold on the borderlands was more robust than it first appears."
+  },
+  "c-gyaring": {
+   "text": "In 2025 China's heritage authorities declared genuine an inscription near Gyaring Lake in Qinghai, at 4,300 m, dated 210 BCE, recording an expedition sent by the First Emperor to collect yao, medicinal herbs or minerals, or perhaps the elixir of life.",
+   "label": "debated",
+   "sources": [
+    "scmp-gyaring",
+    "arkeo-gyaring"
+   ],
+   "show": true,
+   "note": "New. Xin Deyong of Peking University and others have asked for the full scientific report; no peer-reviewed study has appeared."
+  },
+  "c-liubang": {
+   "text": "Liu Bang, a man of humble birth who had served Qin as a minor official, defeated his rival Xiang Yu in 202 BCE and founded the Han dynasty, counting his reign from 206.",
+   "label": "consensus",
+   "sources": [
+    "brit-gaozu"
+   ],
+   "show": false
+  },
+  "c-han-capitals": {
+   "text": "The Han kept Qin's centralised, salaried bureaucracy; its capital was Chang'an until 9 CE and Luoyang from 25 to 220 CE.",
+   "label": "consensus",
+   "sources": [
+    "brit-handyn",
+    "met-han"
+   ],
+   "show": false
+  },
+  "c-confucian-trad": {
+   "text": "The traditional account says that Emperor Wu, advised by Dong Zhongshu, made Confucianism the state's official teaching from 136 BCE and founded an imperial academy to train officials in the classics.",
+   "label": "tradition",
+   "sources": [
+    "brit-dong",
+    "met-han"
+   ],
+   "show": true,
+   "note": "This is how later Confucian historians told it."
+  },
+  "c-confucian-debate": {
+   "text": "Recent scholarship questions how Confucian Emperor Wu's government really was.",
+   "label": "debated",
+   "sources": [
+    "loewe2011",
+    "cai2014"
+   ],
+   "show": true,
+   "note": "Michael Loewe doubts Dong Zhongshu's role and dates parts of the work credited to him much later; Liang Cai argues Confucian scholars were a powerless minority under Wu and rose only after a court witchcraft scandal of 91-87 BCE."
+  },
+  "c-yinwan": {
+   "text": "A register excavated at Yinwan lists about 2,200 officials in a single commandery, Donghai, late in the Western Han.",
+   "label": "approx",
+   "sources": [
+    "cai2019"
+   ],
+   "show": true,
+   "note": "A rare check on the totals given in the histories."
+  },
+  "c-census-min": {
+   "text": "The census of 2 CE, China's oldest surviving count, was taken mainly for the poll tax; because people avoided registration, its total is a minimum.",
+   "label": "approx",
+   "sources": [
+    "brit-china-urban",
+    "brit-han"
+   ],
+   "show": true,
+   "note": "Reported totals range from about 57.7 to 59.6 million."
+  },
+  "c-wangmang-fall": {
+   "text": "Wang Mang took the throne in 9 CE; the Yellow River shifted its course, peasant rebels called the Red Eyebrows rose, and he was killed in 23 CE.",
+   "label": "consensus",
+   "sources": [
+    "brit-wangmang"
+   ],
+   "show": false
+  },
+  "c-eastern-han": {
+   "text": "Liu Xiu, Emperor Guangwu, restored the Han in 25 CE; the Yellow Turban rebellion of 184, led by a Daoist healer, and the armies raised against it hastened the dynasty's end in 220.",
+   "label": "consensus",
+   "sources": [
+    "brit-yellowturbans",
+    "brit-handyn"
+   ],
+   "show": false
+  },
+  "c-saltiron-debate": {
+   "text": "In 81 BCE the court held a debate between officials led by Sang Hongyang and Confucian 'literati' over Emperor Wu's state monopolies on salt, iron and liquor and his system of state trading to even out prices.",
+   "label": "consensus",
+   "sources": [
+    "cu-saltiron",
+    "wagner-iron"
+   ],
+   "show": false
+  },
+  "c-literati-case": {
+   "text": "The literati argued that monopolies taught the people to chase profit and drew them from farming: 'Never should material profit appear as a motive of government.'",
+   "label": "consensus",
+   "sources": [
+    "cu-saltiron"
+   ],
+   "show": false
+  },
+  "c-sang-case": {
+   "text": "Sang Hongyang replied that the monopolies paid for defence against the Xiongnu and kept prices steady: 'Abolition of these measures is not expedient!'",
+   "label": "consensus",
+   "sources": [
+    "cu-saltiron"
+   ],
+   "show": false
+  },
+  "c-yantielun": {
+   "text": "The record of the debate, the Yantie lun, was compiled afterwards, between 74 and 49 BCE, by the scholar Huan Kuan.",
+   "label": "approx",
+   "sources": [
+    "wagner-iron",
+    "cu-saltiron"
+   ],
+   "show": true,
+   "note": "It is a literary reconstruction, not a transcript; how evenly it presents the officials' case is a matter of judgement."
+  },
+  "c-iron-monopoly": {
+   "text": "The iron monopoly began about 119-110 BCE; by 2 CE there were 48 Iron Offices running large blast-furnace works.",
+   "label": "approx",
+   "sources": [
+    "wagner-iron",
+    "brit-han",
+    "wang2024",
+    "zhang2020"
+   ],
+   "show": true,
+   "note": "Sources give dates from about 119 to 110 BCE for the start (Wagner and Britannica: about 117). Donald Wagner's rough estimate of about 5,000 tonnes of legal iron a year is one to which, he says, 'one cannot lend much credence'."
+  },
+  "c-iron-critics": {
+   "text": "Critics complained that state-made tools were 'crude and coarse' and expensive.",
+   "label": "debated",
+   "sources": [
+    "wagner-iron"
+   ],
+   "show": true,
+   "note": "Wagner thinks most of the criticism came from provincial agricultural interests, not from the iron industry, so the complaints are not neutral reports."
+  },
+  "c-monopoly-swings": {
+   "text": "The monopolies were abolished in 44 BCE and restored three years later, revived again in 85 CE and dropped in 88; by the later 1st century CE much of the industry was private.",
+   "label": "consensus",
+   "sources": [
+    "wagner-iron",
+    "brit-han"
+   ],
+   "show": false
+  },
+  "c-monopoly-reach": {
+   "text": "Archaeology suggests the monopoly's reach was patchy: a 2024 lead-isotope study of Han mirrors finds it touched mirror lead less than other bronzes, and the far south seems to have imported most of its iron.",
+   "label": "debated",
+   "sources": [
+    "wang2024",
+    "zhang2020"
+   ],
+   "show": true,
+   "note": "New. These are inferences from metal chemistry and site surveys, tested against the claims of the texts."
+  },
+  "c-wuzhu": {
+   "text": "Emperor Wu introduced the wuzhu ('five zhu') coin in 118 BCE; it stayed in use, in one form or another, for about 700 years.",
+   "label": "consensus",
+   "sources": [
+    "rom-wuzhu",
+    "bm-wuzhu",
+    "brit-han"
+   ],
+   "show": false
+  },
+  "c-han-tax": {
+   "text": "Han farmers paid a land tax in kind of one-thirtieth of the harvest (sometimes one-fifteenth) and a poll tax in cash; men also owed a month of labour a year and two years of military service.",
+   "label": "consensus",
+   "sources": [
+    "brit-han"
+   ],
+   "show": false
+  },
+  "c-great-families": {
+   "text": "Under the Eastern Han great landowning families came to dominate local office, manipulate tax and census registers and keep armed retainers on their estates.",
+   "label": "consensus",
+   "sources": [
+    "brit-han"
+   ],
+   "show": false
+  },
+  "c-census2": {
+   "text": "The census of 2 CE recorded 12,233,000 households and 59,595,000 people.",
+   "label": "approx",
+   "sources": [
+    "brit-han"
+   ],
+   "show": true,
+   "note": "These are registered people only; the true population was probably somewhat larger."
+  },
+  "c-wangmang": {
+   "text": "Wang Mang, who seized the throne in 9 CE, tried to abolish private landownership and the private slave trade and issued new kinds of coin; the reforms failed against fierce opposition, and he was killed in 23 CE.",
+   "label": "debated",
+   "sources": [
+    "brit-han",
+    "smith-wangmang"
+   ],
+   "show": true,
+   "note": "What he was trying to do is disputed: Hu Shih (1928) called him a 'socialist emperor'; Homer Dubs and Hans Bielenstein saw a Confucian restorer, and Bielenstein blamed Yellow River floods for his fall."
+  },
+  "c-cailun": {
+   "text": "The Han history records that the court official Cai Lun presented a method of making paper in 105 CE, but archaeology has found paper more than a century older.",
+   "label": "consensus",
+   "sources": [
+    "brit-han",
+    "ox-paper"
+   ],
+   "show": false
+  },
+  "c-fangmatan": {
+   "text": "A fragment found at Fangmatan in Gansu in 1986, with a map drawn on it, has been dated to the Western Han, perhaps 250 years before Cai Lun.",
+   "label": "debated",
+   "sources": [
+    "xinhua-fangmatan"
+   ],
+   "show": true,
+   "note": "Li Xiaocen accepts it as paper made by a different process; Chen Gang of Fudan University says it needs more study before it counts as true paper."
+  },
+  "c-maodun": {
+   "text": "Under Maodun (ruled about 209-174 BCE) the Xiongnu of the Mongolian steppe became a great power.",
+   "label": "approx",
+   "sources": [
+    "brit-maodun"
+   ],
+   "show": true,
+   "note": "His dates come from Sima Qian."
+  },
+  "c-heqin": {
+   "text": "Until about 135 BCE the early Han emperors bought peace with the Xiongnu by sending gold, silk and princesses as brides, a policy called heqin, 'peace through kinship'.",
+   "label": "consensus",
+   "sources": [
+    "brit-han",
+    "brit-xiongnu"
+   ],
+   "show": false
+  },
+  "c-wu-wars": {
+   "text": "Emperor Wu (reigned 141-87 BCE) went on the attack from 133 BCE; his wars pushed the Xiongnu back but exhausted the treasury, and his campaigns beyond the Gobi failed to destroy them.",
+   "label": "consensus",
+   "sources": [
+    "brit-wudi",
+    "brit-han",
+    "benjamin2018"
+   ],
+   "show": false
+  },
+  "c-ferghana": {
+   "text": "Han armies marched to Ferghana in 104 BCE and failed, then returned in 101 BCE and brought back its famous 'blood-sweating' horses.",
+   "label": "consensus",
+   "sources": [
+    "brit-wudi"
+   ],
+   "show": false
+  },
+  "c-zhangqian": {
+   "text": "Zhang Qian set out in 138 BCE to find the Yuezhi, enemies of the Xiongnu; he was held by the Xiongnu for about ten years, reached the Yuezhi in Bactria, and returned after some thirteen years with the first Chinese reports of Central Asia.",
+   "label": "approx",
+   "sources": [
+    "brit-zhangqian",
+    "benjamin2018"
+   ],
+   "show": true,
+   "note": "The dates of his return and second mission are approximate; he died in 114 BCE."
+  },
+  "c-hexi-wall": {
+   "text": "From 121 BCE the Han built walls and beacon towers through the Hexi corridor, 'a beacon every 5 li, a tower every 10 li', reaching Dunhuang by about 100 BCE.",
+   "label": "approx",
+   "sources": [
+    "brit-greatwall-han",
+    "brit-han"
+   ],
+   "show": true,
+   "note": "The quoted standard comes from documents found at Juyan; the completion date is approximate."
+  },
+  "c-silkroads-unesco": {
+   "text": "UNESCO lists the Chang'an-Tianshan corridor of the Silk Roads, a network that took shape between the 2nd century BCE and the 1st century CE.",
+   "label": "consensus",
+   "sources": [
+    "unesco-silkroads"
+   ],
+   "show": false
+  },
+  "c-xuanquan": {
+   "text": "The relay station at Xuanquanzhi, about 64 km from Dunhuang, was used for about 400 years; excavated in 1990-92, it yielded more than 70,000 objects, including inscribed wooden slips, silk and paper.",
+   "label": "consensus",
+   "sources": [
+    "cd-xuanquan2023",
+    "cd-xuanquan2025"
+   ],
+   "show": false
+  },
+  "c-xuanquan-slips": {
+   "text": "Its slips record the station hosting up to 1,074 guests when a delegation from Khotan passed through, and the envoy Chang Hui on his way west in 65 BCE, and list more than 80 relay stations between Chang'an and Dunhuang.",
+   "label": "consensus",
+   "sources": [
+    "cd-xuanquan2023"
+   ],
+   "show": false
+  },
+  "c-silkroad-term": {
+   "text": "The name 'Silk Road' is a 19th-century German coinage, popularised by Ferdinand von Richthofen in 1877 but used earlier by Carl Ritter and others.",
+   "label": "consensus",
+   "sources": [
+    "mertens2019"
+   ],
+   "show": false
+  },
+  "c-silkroad-trade": {
+   "text": "How much trade the routes carried is disputed.",
+   "label": "debated",
+   "sources": [
+    "whitfield-tarim"
+   ],
+   "show": true,
+   "note": "Valerie Hansen argues the volume was small and mostly local, and that the prosperity of the north-west came from state spending on garrisons; Susan Whitfield accepts the low volume but argues that high-value long-distance trade mattered: 'Volume is only part of the story.'"
+  },
+  "c-xiongnu-dna": {
+   "text": "Ancient DNA published in 2023 shows the Xiongnu were genetically very diverse, a multiethnic empire; elite burials had more eastern Eurasian ancestry, and high-status frontier graves were disproportionately women's.",
+   "label": "approx",
+   "sources": [
+    "sd-xiongnu2023"
+   ],
+   "show": true,
+   "note": "New. The results come from cemeteries in Mongolia and may not represent the whole empire."
+  },
+  "c-xiongnu-split": {
+   "text": "The Xiongnu split in 51 BCE and the eastern branch submitted to the Han; a link between the Xiongnu and the later Huns is possible but unproven.",
+   "label": "debated",
+   "sources": [
+    "brit-xiongnu"
+   ],
+   "show": true,
+   "note": "The Hun connection rests on names and some shared customs, not on clear evidence of descent."
+  },
+  "c-nandas": {
+   "text": "The Nanda kings, of low birth according to tradition, ruled Magadha in the 4th century BCE and were famous for their wealth, probably from a regular land revenue.",
+   "label": "tradition",
+   "sources": [
+    "brit-magadha"
+   ],
+   "show": true,
+   "note": "Their origins and dates come from later Indian, Buddhist and Greek accounts."
+  },
+  "c-chandragupta": {
+   "text": "Chandragupta Maurya (reigned about 321-297 BCE) overthrew the Nandas and founded the first empire to cover most of the Indian subcontinent.",
+   "label": "approx",
+   "sources": [
+    "brit-magadha"
+   ],
+   "show": true,
+   "note": "His dates are reconstructed from Greek synchronisms."
+  },
+  "c-seleucus": {
+   "text": "After a war in about 305 BCE, Alexander's successor Seleucus I ceded his lands west of the Indus to Chandragupta in exchange for 500 war elephants, and the two kings exchanged envoys.",
+   "label": "approx",
+   "sources": [
+    "brit-magadha"
+   ],
+   "show": true,
+   "note": "Some accounts date the treaty to about 303 BCE."
+  },
+  "c-megasthenes": {
+   "text": "Seleucus' envoy Megasthenes wrote a four-book Indica, now lost; it survives only in quotations by later Greek and Roman writers, and contains errors and idealised pictures of India.",
+   "label": "consensus",
+   "sources": [
+    "brit-megasthenes"
+   ],
+   "show": false
+  },
+  "c-pataliputra-arrian": {
+   "text": "As quoted by Arrian, Megasthenes described the capital Pataliputra as 80 by 15 stades (roughly 15 by 3 km), ringed by a ditch about thirty cubits deep, with 570 towers and 64 gates; Strabo adds that its wall was of wood, pierced for archers.",
+   "label": "tradition",
+   "sources": [
+    "arrian-indica10",
+    "strabo15"
+   ],
+   "show": true,
+   "note": "A lost eyewitness account known only through a later writer; the figures cannot be checked."
+  },
+  "c-pataliputra-gov": {
+   "text": "Pataliputra, under modern Patna, grew from a fort built by Ajatashatru; Megasthenes says a board of 30 officials in six committees ran the city.",
+   "label": "tradition",
+   "sources": [
+    "brit-magadha",
+    "brit-ashoka-succ"
+   ],
+   "show": true,
+   "note": "The city's site is certain; the committee system comes from Megasthenes alone."
+  },
+  "c-kumrahar": {
+   "text": "At Kumrahar in Patna excavators in 1912-15 and 1951-55 found a hall of 80 stone pillars; reburied in 2004 because of waterlogging, it began to be re-exposed by the Archaeological Survey of India in December 2024.",
+   "label": "consensus",
+   "sources": [
+    "organiser-kumrahar",
+    "dh-kumrahar"
+   ],
+   "show": false
+  },
+  "c-kumrahar-council": {
+   "text": "Some identify the Kumrahar hall as the place where Ashoka held the Third Buddhist Council.",
+   "label": "debated",
+   "sources": [
+    "organiser-kumrahar"
+   ],
+   "show": true,
+   "note": "A popular identification without direct evidence."
+  },
+  "c-arthashastra-date": {
+   "text": "The Arthashastra, a Sanskrit treatise on statecraft and economics, has been dated anywhere from the 4th century BCE to the 3rd century CE.",
+   "label": "debated",
+   "sources": [
+    "brit-magadha",
+    "olivelle2013"
+   ],
+   "show": true,
+   "note": "Most authorities place its core in the early Mauryan period but think much of the surviving text is later; Patrick Olivelle dates the surviving work to the first centuries CE."
+  },
+  "c-arthashastra-authors": {
+   "text": "Statistical study of its vocabulary suggests different books were written by different authors, and that the text was later reworked to fit Brahmin religious law.",
+   "label": "debated",
+   "sources": [
+    "trautmann1968",
+    "mcclish2019"
+   ],
+   "show": true,
+   "note": "Thomas Trautmann (1968) found at least three authors but still thought Kautilya real; Mark McClish (2019) argues a practical treatise was later given a Brahmanical frame."
+  },
+  "c-kautilya": {
+   "text": "Tradition makes its author Kautilya, also called Chanakya, Chandragupta's chief minister.",
+   "label": "tradition",
+   "sources": [
+    "brit-magadha"
+   ],
+   "show": true,
+   "note": "Britannica calls the identification 'contested'."
+  },
+  "c-ashoka-dates": {
+   "text": "Ashoka, Chandragupta's grandson, came to the throne in about 268 BCE and attacked Kalinga, on India's east coast, about eight years later.",
+   "label": "approx",
+   "sources": [
+    "brit-ashoka-succ",
+    "dhammika-edicts"
+   ],
+   "show": true,
+   "note": "His accession is dated 272, 268 or about 265 BCE and his death 238 or 232; Britannica's biography gives c. 265-238 or c. 273-232."
+  },
+  "c-re13": {
+   "text": "In his Rock Edict 13 Ashoka says that in the Kalinga war 'one hundred and fifty thousand were deported, one hundred thousand were killed and many more died', and that he now regards 'conquest by Dhamma' as the best conquest.",
+   "label": "approx",
+   "sources": [
+    "dhammika-edicts"
+   ],
+   "show": true,
+   "note": "The words are certain; the numbers are the king's own and cannot be checked."
+  },
+  "c-re13-absent": {
+   "text": "At Dhauli and Jaugada, in Kalinga itself, Rock Edicts 11-13, including the edict of remorse, were left out, and two special 'Separate Edicts' addressed to local officials were carved instead.",
+   "label": "consensus",
+   "sources": [
+    "patra-jaugada",
+    "dhammika-edicts"
+   ],
+   "show": false
+  },
+  "c-edict-sites": {
+   "text": "Ashoka's edicts survive at more than 30 sites across India, Nepal, Pakistan and Afghanistan, carved on rocks and polished stone pillars.",
+   "label": "consensus",
+   "sources": [
+    "dhammika-edicts"
+   ],
+   "show": false
+  },
+  "c-edict-scripts": {
+   "text": "Most are in Prakrit in the Brahmi script; in the north-west they use Kharosthi, written right to left, and near Kandahar Greek and Aramaic.",
+   "label": "consensus",
+   "sources": [
+    "brit-ashoka-succ",
+    "dhammika-edicts",
+    "unesco-shahbazgarhi"
+   ],
+   "show": false
+  },
+  "c-kandahar-edict": {
+   "text": "A bilingual Greek and Aramaic edict found at Kandahar in 1958 announces that the king has abstained from killing living beings; its cast was stolen when the Kabul Museum was looted in 1992-94, and the original's whereabouts are unknown.",
+   "label": "consensus",
+   "sources": [
+    "lhi-kandahar"
+   ],
+   "show": false
+  },
+  "c-prinsep": {
+   "text": "In 1837 James Prinsep deciphered Brahmi and read a pillar edict of 'Beloved-of-the-Gods, King Piyadasi'; the king was later identified with the Ashoka of Buddhist chronicles, and an edict found in 1915 names him as Asoka.",
+   "label": "consensus",
+   "sources": [
+    "dhammika-prinsep",
+    "dhammika-edicts"
+   ],
+   "show": false
+  },
+  "c-greek-kings": {
+   "text": "One edict names five Greek kings, among them Antiochus II and Ptolemy II, to whom Ashoka sent envoys; their known dates anchor Mauryan chronology.",
+   "label": "consensus",
+   "sources": [
+    "brit-ashoka-succ"
+   ],
+   "show": false
+  },
+  "c-dhamma": {
+   "text": "What Ashoka's dhamma meant is disputed.",
+   "label": "debated",
+   "sources": [
+    "open-olivelle",
+    "dhammika-edicts"
+   ],
+   "show": true,
+   "note": "Some read it as Buddhist ethics with tolerance for all sects (S. Dhammika); Patrick Olivelle (2023) as an ecumenical 'civil religion' for a diverse empire; others as an ideology of control. Upinder Singh warns that a state programme of preaching and policing morality amounted to 'a form of authoritarianism'."
+  },
+  "c-maurya-end": {
+   "text": "In about 185 BCE the general Pushyamitra killed the last Mauryan king and founded the Shunga dynasty.",
+   "label": "approx",
+   "sources": [
+    "brit-ashoka-succ",
+    "brit-shunga"
+   ],
+   "show": true,
+   "note": "The date is approximate."
+  },
+  "c-pushyamitra": {
+   "text": "Later Buddhist tradition says Pushyamitra persecuted Buddhists, but the accounts are late and Buddhism still flourished in his lands.",
+   "label": "tradition",
+   "sources": [
+    "brit-shunga"
+   ],
+   "show": true,
+   "note": "No contemporary evidence supports a persecution."
+  },
+  "c-maurya-decline": {
+   "text": "Why the Mauryan empire fell so soon after Ashoka is debated.",
+   "label": "debated",
+   "sources": [
+    "pwc-mauryan-decline"
+   ],
+   "show": true,
+   "note": "Explanations include a Brahmin reaction (H. P. Shastri), the weakening effect of Ashoka's pacifism (H. C. Raychaudhuri), fiscal strain (D. D. Kosambi), over-centralisation (Romila Thapar) and the rise of regional powers (R. S. Sharma)."
+  },
+  "c-bahaj": {
+   "text": "In 2025 an Archaeological Survey of India paper claimed Brahmi letters on sealings from Bahaj in Rajasthan dated by their layer to about 600 BCE, long before Ashoka.",
+   "label": "debated",
+   "sources": [
+    "print-bahaj2025",
+    "coningham1996",
+    "knaw-schmid"
+   ],
+   "show": true,
+   "note": "New and unconfirmed: the date rests on the layer, with no radiocarbon dates or independent review yet. Inscribed sherds from Anuradhapura in Sri Lanka, dated to the early 4th century BCE, already show Brahmi in use somewhat before Ashoka; Charlotte Schmid (2024) asks whether Ashoka invented a script or put an existing one to new use."
+  },
+  "c-menander": {
+   "text": "The Indo-Greek king Menander (about 160-135 BCE) ruled from the Kabul valley into the Punjab and may have raided as far as Pataliputra.",
+   "label": "approx",
+   "sources": [
+    "brit-menander"
+   ],
+   "show": true,
+   "note": "Britannica gives his dates with question marks; much Indo-Greek history is rebuilt from coins."
+  },
+  "c-milinda": {
+   "text": "A Pali Buddhist text, the Questions of Milinda, shows Menander in debate with the monk Nagasena, and Buddhist tradition says he converted.",
+   "label": "tradition",
+   "sources": [
+    "brit-menander"
+   ],
+   "show": true,
+   "note": "The text shows a tradition; whether Menander became a Buddhist is not proven. A wheel on some of his coins is probably Buddhist."
+  },
+  "c-rabatak": {
+   "text": "An inscription found at Rabatak in Afghanistan in 1993, in the Bactrian language written in Greek letters, lists the Kushan kings before Kanishka: Kujula Kadphises, Vima Taktu and Vima Kadphises.",
+   "label": "consensus",
+   "sources": [
+    "shiraz-rabatak"
+   ],
+   "show": false
+  },
+  "c-kanishka-date": {
+   "text": "Year 1 of Kanishka's era is now usually placed in 127 CE.",
+   "label": "debated",
+   "sources": [
+    "carc-chronology"
+   ],
+   "show": true,
+   "note": "Harry Falk's date, which Joe Cribb calls 'widely accepted'; older scholarship put Kanishka decades earlier, often at 78 CE. Because inscriptions and statues are dated in his era, the choice moves the whole chronology of Gandharan art."
+  },
+  "c-gandhara": {
+   "text": "In Gandhara, in today's north-west Pakistan and eastern Afghanistan, Buddhist narrative reliefs appear from the early 1st century CE; the region's Buddhist art flourished for some four centuries.",
+   "label": "approx",
+   "sources": [
+    "met-gandhara",
+    "carc-chronology"
+   ],
+   "show": true,
+   "note": "Kurt Behrendt argues much 'Kushan' Gandharan art actually dates from the 3rd to 6th centuries."
+  },
+  "c-buddha-image": {
+   "text": "Early Indian art showed the Buddha only through symbols such as footprints and empty thrones; images of him in human form appear around the turn of the era in two Kushan-ruled centres, Gandhara and Mathura.",
+   "label": "debated",
+   "sources": [
+    "smarthistory-buddha"
+   ],
+   "show": true,
+   "note": "That the images began under Kushan rule is agreed; Alfred Foucher argued Gandhara came first, Ananda Coomaraswamy Mathura."
+  },
+  "c-bajaur": {
+   "text": "A Mahayana sutra from Bajaur, written in Gandhari in the 1st or 2nd century CE, is among the oldest surviving witnesses to Mahayana Buddhism.",
+   "label": "approx",
+   "sources": [
+    "equinox-bajaur"
+   ],
+   "show": true,
+   "note": "Dated by its handwriting; the edition is still in progress."
+  },
+  "c-satavahana": {
+   "text": "The Satavahanas built the first empire of the Deccan; wealth from trade with the Roman world paid for generous patronage of both Buddhist and Brahmin communities.",
+   "label": "debated",
+   "sources": [
+    "brit-satavahana"
+   ],
+   "show": true,
+   "note": "Their start is dated anywhere from the 3rd to the late 1st century BCE; their greatest king, Gautamiputra Satakarni, ruled about 106-130 CE."
+  },
+  "c-sangam": {
+   "text": "The Tamil poems of the Sangam anthologies, dated to about the 1st-4th centuries CE, are divided into akam (love) and puram (war and kingship); tradition links them to poets' academies at Madurai.",
+   "label": "approx",
+   "sources": [
+    "brit-sangam"
+   ],
+   "show": true,
+   "note": "The dates are approximate and the academies are traditional."
+  },
+  "c-arikamedu": {
+   "text": "Arikamedu, near Puducherry, is the most important excavated site of the sea trade between India and the Roman Mediterranean; excavations in 1989-92 found Roman amphorae and Chinese ceramics.",
+   "label": "consensus",
+   "sources": [
+    "efeo-arikamedu"
+   ],
+   "show": false
+  },
+  "c-pattanam": {
+   "text": "At Pattanam in Kerala, excavators have found Roman amphorae and tableware, early Chera coins and a wharf, from a settlement occupied from about the 2nd century BCE.",
+   "label": "debated",
+   "sources": [
+    "muziris-pattanam"
+   ],
+   "show": true,
+   "note": "The excavators argue Pattanam is ancient Muziris (see 8.11); the identification is not yet certain."
+  },
+  "c-keeladi": {
+   "text": "At Keeladi in Tamil Nadu, the excavator's report dates the first phase of an urban settlement to the 8th-5th centuries BCE; in 2025 the Archaeological Survey of India asked him to rewrite it, he declined, and in early 2026 he rejected an ASI committee's critique and demanded that the report be published.",
+   "label": "debated",
+   "sources": [
+    "week-keeladi",
+    "tnm-keeladi2026"
+   ],
+   "show": true,
+   "note": "New and politically charged: the dispute is partly about evidence and partly about how old Tamil urban culture is."
+  },
+  "c-gupta-era": {
+   "text": "The Gupta era began in 319/320 CE, and the dynasty held northern India from the early 4th to the 6th century.",
+   "label": "approx",
+   "sources": [
+    "epgp-allahabad",
+    "brit-gupta"
+   ],
+   "show": true,
+   "note": "The end date depends on how one counts the later, weaker kings."
+  },
+  "c-allahabad": {
+   "text": "Samudragupta (about 335-375) had his court poet Harishena carve a eulogy on an old Ashokan pillar, listing kings of the north 'uprooted', twelve southern kings 'captured and released', and foreign rulers paying homage.",
+   "label": "debated",
+   "sources": [
+    "epgp-allahabad"
+   ],
+   "show": true,
+   "note": "The text is certain; its claims, as one specialist puts it, 'can hardly be taken in their face value'."
+  },
+  "c-samudra-coins": {
+   "text": "Samudragupta's gold coins show him as an archer, as the performer of the royal horse sacrifice, and playing a stringed vina.",
+   "label": "consensus",
+   "sources": [
+    "coinindia-samudra"
+   ],
+   "show": false
+  },
+  "c-cg2": {
+   "text": "Chandragupta II (about 380-415) conquered the Shaka kingdoms of western India between about 388 and 409.",
+   "label": "approx",
+   "sources": [
+    "brit-cg2"
+   ],
+   "show": true,
+   "note": "Dates are reconstructed from coins and inscriptions."
+  },
+  "c-udayagiri": {
+   "text": "At Udayagiri near Vidisha, an inscription of 401 CE names Chandragupta II at the dedication of a cave temple, beside a colossal relief of Vishnu as the boar Varaha.",
+   "label": "consensus",
+   "sources": [
+    "map-udayagiri"
+   ],
+   "show": false
+  },
+  "c-kalidasa": {
+   "text": "Kalidasa, the greatest Sanskrit poet and dramatist, is often placed at the court of Chandragupta II.",
+   "label": "debated",
+   "sources": [
+    "brit-kalidasa"
+   ],
+   "show": true,
+   "note": "His date is only known to fall before 634 CE; the Gupta link is, in Britannica's words, 'the most convincing but most conjectural' view."
+  },
+  "c-aryabhata": {
+   "text": "Aryabhata, born in 476, wrote his Aryabhatiya in about 499; he used decimal place value, gave pi as about 3.1416, and argued that the Earth rotates.",
+   "label": "consensus",
+   "sources": [
+    "brit-aryabhata"
+   ],
+   "show": false
+  },
+  "c-bakhshali": {
+   "text": "In 2017 the Bodleian Library announced that the Bakhshali manuscript, which uses a dot for zero, dates 'as early as the 3rd or 4th century'.",
+   "label": "debated",
+   "sources": [
+    "ox-bakhshali",
+    "indology-bakhshali",
+    "hssa-bakhshali"
+   ],
+   "show": true,
+   "note": "Its three tested leaves gave very different dates (224-383, 680-779 or 790-868, and 885-993 CE). Kim Plofker, Dominik Wujastyk and colleagues argue that the latest leaf dates the copying, and criticised the Bodleian for announcing the results by press release without peer review."
+  },
+  "c-brahmagupta": {
+   "text": "The first text to treat zero as a number in its own right, with rules for calculating with it, is Brahmagupta's of 628 CE.",
+   "label": "consensus",
+   "sources": [
+    "ox-bakhshali"
+   ],
+   "show": false
+  },
+  "c-deogarh": {
+   "text": "The Dashavatara temple at Deogarh, of the early 6th century, is the earliest north Indian temple built entirely of stone with a tower over its shrine.",
+   "label": "approx",
+   "sources": [
+    "sh-deogarh"
+   ],
+   "show": true,
+   "note": "Its date is set by style."
+  },
+  "c-golden-age": {
+   "text": "Calling the Gupta period India's 'golden age' is disputed.",
+   "label": "debated",
+   "sources": [
+    "dna-golden"
+   ],
+   "show": true,
+   "note": "The label goes back to nationalist historians before independence; Marxist historians answer that its achievements served an upper-caste elite while caste hierarchy hardened."
+  },
+  "c-manu": {
+   "text": "The Manusmriti, the most influential text on dharma and caste, was composed in about the 2nd century CE according to Patrick Olivelle, the view most scholars follow.",
+   "label": "debated",
+   "sources": [
+    "kervan-manu"
+   ],
+   "show": true,
+   "note": "Others, such as Federico Squarcini and Daniele Cuneo, prefer the 2nd century BCE."
+  },
+  "c-huns": {
+   "text": "From about 440 the Alchon Huns held Gandhara; under Toramana and Mihirakula (about 490-528) they repeatedly defeated Gupta armies, and the empire declined.",
+   "label": "approx",
+   "sources": [
+    "rezakhani-huns",
+    "brit-gupta"
+   ],
+   "show": true,
+   "note": "Dates are approximate."
+  },
+  "c-mahinda": {
+   "text": "Sri Lankan tradition says Ashoka's son Mahinda converted the king at Anuradhapura in about 250 BCE, and his sister brought a cutting of the Bodhi tree.",
+   "label": "tradition",
+   "sources": [
+    "so-mahinda",
+    "brit-mahavamsa"
+   ],
+   "show": true,
+   "note": "The story comes from the Mahavamsa, a chronicle written some seven centuries later; William Dalrymple argues Buddhism reached the island earlier."
+  },
+  "c-liuying": {
+   "text": "The earliest firm evidence for Buddhism in China is an imperial edict of 65 CE praising Liu Ying, Prince of Chu, for honouring the Buddha and feeding monks and lay followers.",
+   "label": "consensus",
+   "sources": [
+    "palumbo2007"
+   ],
+   "show": false
+  },
+  "c-mingdi": {
+   "text": "The story that Emperor Ming dreamed of a golden man, sent envoys to India and founded the White Horse Temple at Luoyang is a pious legend.",
+   "label": "tradition",
+   "sources": [
+    "palumbo2007",
+    "scroll-whitehorse"
+   ],
+   "show": true,
+   "note": "Antonello Palumbo notes that Henri Maspero showed in 1910 that the story 'bears all the traits of a pious legend', and argues that the mission to India was probably absent from Yuan Hong's original Hou Han ji (4th century) and was added by later editors."
+  },
+  "c-anshigao": {
+   "text": "An Shigao, a Parthian monk working in Luoyang from about 148 to 170, is 'the first undoubtedly historical personality in Chinese Buddhism'.",
+   "label": "consensus",
+   "sources": [
+    "iias-anshigao"
+   ],
+   "show": false
+  },
+  "c-kumarajiva": {
+   "text": "Kumarajiva (344-413), brought to China as a captive and settled at Chang'an in 401, became one of the greatest translators of Buddhist texts into Chinese.",
+   "label": "consensus",
+   "sources": [
+    "brit-kumarajiva"
+   ],
+   "show": false
+  },
+  "c-faxian": {
+   "text": "The monk Faxian left China in 399, crossed Central Asia to India, studied there and in Sri Lanka, and sailed home by way of South-East Asia, landing in Shandong; his Record of Buddhist Kingdoms describes the journey.",
+   "label": "approx",
+   "sources": [
+    "brit-faxian"
+   ],
+   "show": true,
+   "note": "His return is dated 412-414; he brought back and translated monastic rules and sutras. The island where he waited on the way home was probably Java."
+  },
+  "c-kongwangshan": {
+   "text": "Buddhist-looking reliefs on the cliffs of Kongwangshan, near Lianyungang, are usually dated to the Eastern Han.",
+   "label": "debated",
+   "sources": [
+    "yale-kongwangshan"
+   ],
+   "show": true,
+   "note": "Minku Kim (2022) argues they date from the 6th century at the earliest, partly because of the later Kanishka date."
+  },
+  "c-mogao": {
+   "text": "The Mogao caves at Dunhuang were begun in 366 CE; 492 decorated caves survive.",
+   "label": "consensus",
+   "sources": [
+    "unesco-mogao"
+   ],
+   "show": false
+  },
+  "c-yungang": {
+   "text": "The Yungang grottoes near Datong were carved under the Northern Wei from the mid-5th to the early 6th century and hold about 51,000 statues.",
+   "label": "consensus",
+   "sources": [
+    "unesco-yungang"
+   ],
+   "show": false
+  },
+  "c-size-similar": {
+   "text": "At their height the Han and Roman empires each covered about 4 million km² and held some 60 million people or more.",
+   "label": "approx",
+   "sources": [
+    "scheidel-romechina",
+    "alfani2025"
+   ],
+   "show": true,
+   "note": "Han figures come from the census of 2 CE (57.7 to 59.6 million registered); Roman estimates run from 'c. 60+ million' (Scheidel) to 70-75 million (Scheidel and Friesen 2009; Alfani, Bolla and Scheidel 2025)."
+  },
+  "c-inequality2025": {
+   "text": "A 2025 study estimates that income inequality was similar in both empires, with a Gini coefficient of about 0.48 for the Han in 2 CE and 0.46 for Rome in about 165 CE; the top 1 percent took about 26 percent of income in Han China and 19 percent in Rome.",
+   "label": "approx",
+   "sources": [
+    "alfani2025"
+   ],
+   "show": true,
+   "note": "New and model-based: the figures are reconstructed from urbanisation and population density, not from tax records."
+  },
+  "c-han-officials": {
+   "text": "The Han history gives the number of officials, from the chancellor down to clerks, as 130,285 in 5 BCE (Hans Bielenstein's reading); Liang Cai cites 120,285 for 2 CE.",
+   "label": "approx",
+   "sources": [
+    "bielenstein-bureaucracy",
+    "cai2019"
+   ],
+   "show": true,
+   "note": "The two numbers reflect different readings of the same passage; either way, some 120,000-130,000 officials. The bureaucracy of a single commandery, Donghai, is known from an excavated register."
+  },
+  "c-rome-elite": {
+   "text": "Rome governed with a far smaller elite: about 600 senators and perhaps 20,000 equestrians, and state spending of roughly 5 percent of output.",
+   "label": "approx",
+   "sources": [
+    "scheidel-friesen2"
+   ],
+   "show": true,
+   "note": "Estimates by Walter Scheidel and Steven Friesen (2009)."
+  },
+  "c-low-tax": {
+   "text": "Both empires were, in Walter Scheidel's phrase, 'low-tax regimes'; Rome paid its top officials far more and spent more on its army, while the Han spent a much larger share of its defence budget on subsidies to foreign peoples.",
+   "label": "debated",
+   "sources": [
+    "bmcr-statepower"
+   ],
+   "show": true,
+   "note": "A reviewer warns that such comparisons involve heavy conjecture."
+  },
+  "c-loewe": {
+   "text": "Michael Loewe argues that Rome was governed largely by military officials, the Han by roughly 130,000 trained professional administrators.",
+   "label": "debated",
+   "sources": [
+    "loewe2025"
+   ],
+   "show": true,
+   "note": "An interpretation (2025); Roman provincial government also relied on many civilian officials and local elites."
+  },
+  "c-coins-compare": {
+   "text": "The Han wuzhu was a single low-value coin cast in bronze, while Rome struck coins in gold, silver and bronze; one source reports some 28 billion wuzhu made in the coin's first 110 years.",
+   "label": "approx",
+   "sources": [
+    "giele-heidelberg"
+   ],
+   "show": true,
+   "note": "The contrast is agreed; the 28 billion is a figure from the Han histories."
+  },
+  "c-roman-army": {
+   "text": "The Roman army's size is uncertain: Augustus kept 28 legions, reduced to 25 after the Varus disaster, and estimates of total strength with auxiliaries run from 200,000 to a million.",
+   "label": "debated",
+   "sources": [
+    "camws-army"
+   ],
+   "show": true,
+   "note": "Most modern estimates for the early empire cluster in the lower part of that range."
+  },
+  "c-divergence": {
+   "text": "After a brief reunion under the Jin (280-c. 316), China was reunified in 589 and repeatedly afterwards, while no empire ever again ruled the whole Roman world; Walter Scheidel calls this the 'First Great Divergence'.",
+   "label": "debated",
+   "sources": [
+    "scheidel-romechina",
+    "scheidel-escape"
+   ],
+   "show": true,
+   "note": "Scheidel credits exposure to the steppe, geography and the nature of post-imperial regimes, and argues Europe's lasting fragmentation was 'an indispensable precondition' for its later growth; others stress different causes."
+  }
+ },
+ "pages": [
+  {
+   "title": "India and China in the classical age",
+   "sub": "c. 500 BCE to 550 CE",
+   "lede": "While Greeks, Persians and Romans fought over the Mediterranean, the two most populous regions on earth went through their own classical ages. China was unified for the first time and ruled by a bureaucracy whose model lasted two thousand years; India produced its first empire, its first royal inscriptions and the arithmetic the whole world now uses.",
+   "body": [
+    "In China, seven warring states became one in 221 BCE under Qin, [[c-qin-unify]] and the Han dynasty that followed ruled for four centuries. [[c-han-capitals]] In India, the Mauryas built an empire across most of the subcontinent, [[c-chandragupta]] and their emperor Ashoka turned his regret for a war into a public creed. [[c-re13]] After a long age of foreign and regional dynasties came the Gupta kings, from about 320 CE. [[c-gupta-era]]",
+    "China has a historian to rival Herodotus: Sima Qian, whose Shiji became the model for every later dynastic history. [[c-simaqian]] But the most exciting evidence now comes out of the ground. Tombs and wells keep yielding bamboo and wooden slips: real laws, real accounts, lost books. [[c-slips-value]] Some of the most famous came from the antiquities market, which raises its own questions. [[c-looted-slips]]",
+    "For early India there is no Sima Qian. Historians use a Greek ambassador's lost book, known only in quotations, [[c-megasthenes]] [[c-megasthenes-rel]] Ashoka's inscriptions, [[c-edict-sites]] deciphered by a mint official in the 1830s, [[c-prinsep]] [[c-prinsep-mint]] and coins, which are sometimes the only record that a king existed. [[c-punchmarked]]",
+    {
+     "table": {
+      "head": [
+       "Evidence",
+       "China",
+       "India"
+      ],
+      "rows": [
+       [
+        "Histories",
+        "Sima Qian's Shiji (c. 100 BCE) and later dynastic histories",
+        "no narrative histories; Puranic king lists, and Sri Lankan Buddhist chronicles of the 4th-6th centuries CE"
+       ],
+       [
+        "Documents",
+        "bamboo and wooden slips from tombs and wells",
+        "very few: most writing was on perishable leaves and bark"
+       ],
+       [
+        "Inscriptions",
+        "on bronzes, steles and cliffs",
+        "Ashoka's edicts; Gupta praise poems"
+       ],
+       [
+        "Foreign witnesses",
+        "few before Buddhism",
+        "Megasthenes; Chinese pilgrims such as Faxian"
+       ],
+       [
+        "Coins",
+        "cast bronze, state-issued",
+        "punch-marked silver; Indo-Greek and Kushan portrait coins"
+       ]
+      ],
+      "note": "[[c-simaqian]] [[c-slips-value]] [[c-edict-sites]] [[c-megasthenes]] [[c-punchmarked]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 94.0,
+     "lat": 30.0,
+     "zoom": 6.3
+    },
+    "caption": "Where the evidence comes from",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "texts excavated or inscribed"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         115.5,
+         27.0
+        ],
+        "label": "CHINA",
+        "size": 13
+       },
+       {
+        "ll": [
+         79.0,
+         22.0
+        ],
+        "label": "INDIA",
+        "size": 13
+       },
+       {
+        "ll": [
+         88.0,
+         33.0
+        ],
+        "label": "TIBETAN PLATEAU",
+        "size": 9
+       },
+       {
+        "ll": [
+         103.0,
+         44.5
+        ],
+        "label": "STEPPE",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         110.429,
+         35.46
+        ],
+        "label": "Hancheng",
+        "date": "birthplace of Sima Qian",
+        "dy": -8,
+        "plate": {
+         "kicker": "9.0 · how we know",
+         "title": "Sima Qian",
+         "sub": "c. 145 to c. 87 BCE",
+         "text": "[[c-simaqian]]",
+         "sources": [
+          "brit-simaqian"
+         ]
+        }
+       },
+       {
+        "ll": [
+         109.21,
+         34.38
+        ],
+        "label": "Lintong",
+        "date": "First Emperor's tomb",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "9.2 · Qin",
+         "title": "The First Emperor's tomb",
+         "sub": "found 1974",
+         "text": "[[c-mausoleum]] [[c-mercury]]",
+         "sources": [
+          "unesco-qin",
+          "zhao2020"
+         ]
+        }
+       },
+       {
+        "ll": [
+         113.765,
+         31.063
+        ],
+        "label": "Shuihudi",
+        "date": "Qin laws, found 1975",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "9.2 · Qin",
+         "title": "Shuihudi",
+         "sub": "Qin statutes",
+         "text": "[[c-shuihudi]] [[c-slips-value]]",
+         "sources": [
+          "cdhk-shuihudi",
+          "hubei-shuihudi"
+         ]
+        }
+       },
+       {
+        "ll": [
+         112.19,
+         30.35
+        ],
+        "label": "Jingzhou",
+        "date": "Chu tomb slips",
+        "acc": true,
+        "anchor": "end",
+        "dy": -6,
+        "plate": {
+         "kicker": "9.1 · lost books",
+         "title": "Slips from Chu tombs",
+         "sub": "c. 300 BCE",
+         "text": "[[c-guodian]] [[c-newslips]]",
+         "sources": [
+          "kirkland-guodian",
+          "ll-wangjiazui",
+          "cd-qinjiazui"
+         ]
+        }
+       },
+       {
+        "ll": [
+         109.292,
+         28.789
+        ],
+        "label": "Liye",
+        "date": "Qin county archive",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "9.2 · Qin",
+         "title": "Liye",
+         "sub": "found 2002",
+         "text": "[[c-liye]] [[c-liye-county]]",
+         "sources": [
+          "cd-liye2025",
+          "pines-korolkov"
+         ]
+        }
+       },
+       {
+        "ll": [
+         94.683,
+         40.167
+        ],
+        "label": "Dunhuang",
+        "date": "Han slips",
+        "acc": true,
+        "dy": -10
+       },
+       {
+        "ll": [
+         85.189,
+         25.598
+        ],
+        "label": "Pataliputra",
+        "date": "described by Megasthenes",
+        "dy": 16,
+        "plate": {
+         "kicker": "9.6 · Megasthenes",
+         "title": "A Greek in India",
+         "sub": "c. 300 BCE",
+         "text": "[[c-megasthenes]] [[c-megasthenes-rel]]",
+         "sources": [
+          "brit-megasthenes",
+          "bmcr-stoneman"
+         ]
+        }
+       },
+       {
+        "ll": [
+         77.244,
+         28.636
+        ],
+        "label": "Delhi",
+        "date": "pillar read by Prinsep",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "9.7 · Ashoka",
+         "title": "Reading Ashoka",
+         "sub": "1837",
+         "text": "[[c-prinsep]] [[c-prinsep-mint]] [[c-edict-sites]]",
+         "sources": [
+          "dhammika-prinsep",
+          "brit-prinsep",
+          "dhammika-edicts"
+         ]
+        }
+       },
+       {
+        "ll": [
+         65.717,
+         31.617
+        ],
+        "label": "Kandahar",
+        "date": "Greek edict",
+        "acc": true,
+        "dy": 16
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do the Shuihudi and Liye slips matter even though Sima Qian's history survives?",
+     "choices": [
+      "They are early Han copies of Sima Qian's Shiji",
+      "They are Qin's own working records of law and government",
+      "They were bought on the antiquities market, like Tsinghua's",
+      "They are Han accounts written to blacken Qin's memory"
+     ],
+     "answer": 1,
+     "why": "They are records, not narratives written by the dynasty that replaced Qin: Shuihudi gave the first known Qin law code, and Liye a Qin county's records, which can be checked against the histories.",
+     "wrong": {
+      "0": "They are Qin legal and administrative documents, not copies of a Han history.",
+      "2": "Both were excavated, from a tomb at Shuihudi and a well at Liye; it was the Shanghai Museum and Tsinghua manuscripts that were bought.",
+      "3": "They are Qin documents from a tomb and a Qin county's well, not Han writings about Qin."
+     }
+    },
+    {
+     "q": "How does Megasthenes' Indica survive?",
+     "choices": [
+      "In a complete Greek manuscript copied in Byzantium",
+      "As the Greek-language edicts carved at Kandahar",
+      "As quotations in later Greek and Roman writers",
+      "In a Sanskrit translation found at Pataliputra"
+     ],
+     "answer": 2,
+     "why": "The four-book Indica is lost; it survives only in quotations, so every 'Megasthenes' passage reaches us through another author's choices.",
+     "wrong": {
+      "0": "The work is lost; no manuscript of it survives.",
+      "1": "Those are Ashoka's own texts.",
+      "3": "No Indian version is known; the Indica survives only in quotations by Greek and Roman writers."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Warring States",
+   "sub": "iron, mass armies and the Hundred Schools, c. 476-221 BCE",
+   "lede": "For two and a half centuries a handful of Chinese kingdoms fought wars of a new scale and ferocity. The same pressure produced China's greatest age of philosophy, as thinkers competed to tell rulers how to survive, and lost books from that age keep coming out of the ground.",
+   "body": [
+    "War changed. Iron spread for tools and weapons, [[c-iron-ws]] the crossbow let peasant conscripts fight like professionals, [[c-crossbow]] and armies grew to hundreds of thousands. Tradition records slaughter on an enormous scale. [[c-changping]] The states that survived were those that could count, tax and mobilise their people best.",
+    "Thinkers offered rival answers. Mozi preached impartial care for all and condemned aggressive war. [[c-mozi]] The Confucians split over human nature: Mencius thought it good, [[c-mencius]] Xunzi thought it bad and in need of shaping. [[c-xunzi]] Others, later lumped together as 'Legalists', [[c-legalism-label]] argued that only clear laws, rewards and punishments could make a state strong. Shang Yang put that into practice in Qin, [[c-shangyang]] and Han Fei turned it into theory. [[c-hanfei]] Qin's victory in 221 was, in part, a victory for their ideas.",
+    "Archaeology has transformed this field. A tomb at Guodian held the oldest known Laozi, [[c-guodian]] and other manuscripts preserve debates the classics forgot, such as whether a king should pass the throne to the worthiest man. [[c-abdication]] Some of the most important, such as the Tsinghua slips, came from looters, [[c-tsinghua]] [[c-looted-slips]] but new scientific excavations keep adding more. [[c-newslips]]",
+    {
+     "table": {
+      "head": [
+       "Thinker",
+       "Active",
+       "Key idea"
+      ],
+      "rows": [
+       [
+        "Mozi",
+        "c. 430 BCE",
+        "impartial care; against aggressive war"
+       ],
+       [
+        "Shang Yang",
+        "d. 338 BCE",
+        "rank by merit in war and farming; harsh laws"
+       ],
+       [
+        "Mencius",
+        "4th century BCE",
+        "human nature is good; rule by benevolence"
+       ],
+       [
+        "Xunzi",
+        "c. 310-after 238 BCE",
+        "human nature is bad; ritual and learning shape it"
+       ],
+       [
+        "Han Fei",
+        "d. 233 BCE",
+        "law, technique and power: the strong state"
+       ]
+      ],
+      "note": "[[c-mozi]] [[c-shangyang]] [[c-mencius]] [[c-xunzi]] [[c-hanfei]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "bars",
+    "caption": "Lost books from the ground",
+    "title": "Slips in some major finds (log scale)",
+    "scale": "log",
+    "min": 100,
+    "max": 50000,
+    "ticks": [
+     100,
+     1000,
+     10000
+    ],
+    "tickLabels": [
+     "100",
+     "1,000",
+     "10,000"
+    ],
+    "axis": "number of slips, log scale",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "Guodian",
+      "sub": "tomb, c. 300 BCE",
+      "v": 800,
+      "lab": "c. 800",
+      "acc": true,
+      "tip": "includes the oldest Laozi"
+     },
+     {
+      "t": "Shuihudi",
+      "sub": "Qin tomb; excavated 1975",
+      "v": 1155,
+      "lab": "1,155",
+      "acc": true,
+      "tip": "the first Qin laws ever found"
+     },
+     {
+      "t": "Shanghai Museum",
+      "sub": "bought in Hong Kong",
+      "v": 1200,
+      "lab": "c. 1,200",
+      "tip": "origin unknown"
+     },
+     {
+      "t": "Tsinghua",
+      "sub": "donated 2008",
+      "v": 2500,
+      "lab": "c. 2,500",
+      "tip": "origin unknown; c. 305 BCE"
+     },
+     {
+      "t": "Wangjiazui",
+      "sub": "tomb; excavated 2021-22",
+      "v": 3200,
+      "lab": "c. 3,200",
+      "acc": true,
+      "tip": "Book of Songs; Confucius sayings"
+     },
+     {
+      "t": "Qinjiazui",
+      "sub": "tomb, c. 369-329 BCE",
+      "v": 4000,
+      "lab": "c. 4,000",
+      "acc": true,
+      "tip": "includes multiplication tables"
+     },
+     {
+      "t": "Liye",
+      "sub": "Qin county well; found 2002",
+      "v": 18000,
+      "lab": "c. 18,000",
+      "acc": true,
+      "tip": "out of nearly 38,000 slips",
+      "plate": {
+       "kicker": "9.2 · Qin",
+       "title": "Liye",
+       "sub": "a Qin county archive",
+       "text": "[[c-liye]] [[c-liye-county]]",
+       "sources": [
+        "cd-liye2025",
+        "pines-korolkov"
+       ]
+      }
+     }
+    ],
+    "notes": [
+     "Coloured bars: excavated by archaeologists. Plain bars: bought or donated, origin unknown. Liye counts inscribed slips only."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Mencius and Xunzi, both Confucians, disagreed most sharply about what?",
+     "choices": [
+      "Whether Confucius deserved to be honoured as a sage",
+      "Whether human nature is good or must be shaped by ritual",
+      "Whether people owe impartial care to everyone alike",
+      "Whether the throne should pass to the worthiest man"
+     ],
+     "answer": 1,
+     "why": "Mencius thought human nature good, with innate 'sprouts' of virtue; Xunzi thought it bad, so that goodness comes only from effort, education and ritual.",
+     "wrong": {
+      "0": "Both were Confucians; the page sets them apart over human nature, not over Confucius.",
+      "2": "Impartial care for everyone was Mozi's teaching, not the issue between the two Confucians.",
+      "3": "That debate survives mainly in excavated manuscripts; it is not what divided Mencius from Xunzi."
+     }
+    },
+    {
+     "q": "Why is 'the Legalist school' a problematic label?",
+     "choices": [
+      "Shang Yang and Han Fei wrote little about law itself",
+      "Yuri Pines showed it was a formal school with members",
+      "Han scholars invented it for men who never used it",
+      "Arthur Waley coined it in place of the word 'Realists'"
+     ],
+     "answer": 2,
+     "why": "'Legalism' (fajia) is a later Han label; no early thinker saw himself as a member of such a school.",
+     "wrong": {
+      "0": "Law (fa) was central to Han Fei, and Shang Yang put harsh laws into practice in Qin.",
+      "1": "Pines calls the translation misleading; no early thinker saw himself as part of such a school.",
+      "3": "Waley preferred 'Realists' as a better name; the label itself was invented by Han scholars."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Qin: the first empire",
+   "sub": "221-207 BCE",
+   "lede": "In 221 BCE the king of Qin finished conquering his rivals and called himself the First Emperor. His dynasty lasted only fifteen years, but the empire he built, with one script, one currency and one law, outlived him by two millennia.",
+   "body": [
+    "The Qin king Zheng took the last independent state in 221 BCE and invented a new title for himself. [[c-qin-unify]] He replaced the old kingdoms with commanderies run by appointed officials and imposed a single script, coinage, system of weights and even axle width. [[c-standard]] Sima Qian remembers him as a tyrant who burned books and killed scholars, [[c-burning]] though historians now doubt parts of that story. [[c-burning-debate]]",
+    "His tomb is the most famous archaeological site in China: a buried city guarded by thousands of terracotta soldiers. [[c-mausoleum]] Their weapons were made to standard patterns by small workshops working in parallel under central supervision. [[c-triggers]] The emperor himself has not been disturbed, but mercury readings above the mound fit Sima Qian's story of a tomb with rivers of quicksilver. [[c-mercury]] In 2025 an inscription on the Tibetan plateau was claimed to record his search for the elixir of life. [[c-gyaring]]",
+    "The slips show what the history books cannot: a state that ran on paperwork. The tomb of a minor official held Qin's laws, down to rules on price tags; [[c-shuihudi]] a well at Liye held a frontier county's daily records. [[c-liye]] They reveal a stretched administration, understaffed and run on forced labour. [[c-liye-county]]",
+    "The First Emperor died in 210 BCE. Within four years rebels had destroyed his dynasty. Why it fell so fast is still argued over. [[c-qin-fall]]",
+    {
+     "table": {
+      "head": [
+       "Find",
+       "Discovered",
+       "What it shows"
+      ],
+      "rows": [
+       [
+        "Terracotta Army",
+        "1974",
+        "the scale and standardisation of the Qin state"
+       ],
+       [
+        "Shuihudi slips",
+        "1975",
+        "Qin statutes and an official's chronicle"
+       ],
+       [
+        "Liye well",
+        "2002",
+        "a frontier county's records"
+       ],
+       [
+        "Mercury survey",
+        "2016",
+        "readings above the mound fit Sima Qian's account"
+       ],
+       [
+        "Gyaring Lake inscription",
+        "announced 2025",
+        "an expedition to collect 'yao' (disputed)"
+       ]
+      ],
+      "note": "[[c-mausoleum]] [[c-shuihudi]] [[c-liye]] [[c-mercury]] [[c-gyaring]]"
+     }
+    },
+    {
+     "compare": "Rome and Qin both standardised to rule: Rome its coins and roads, Qin its axles, weights and script. But Rome left Greek as the language of its eastern half and let many cities keep their own laws, while Qin imposed one script on everyone. Over the following centuries spoken Latin split into the Romance languages and spoken Chinese into many mutually unintelligible varieties, but the Chinese world kept a single written standard that people of every dialect could read."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 108.8,
+     "lat": 33.0,
+     "zoom": 14
+    },
+    "caption": "Qin China, 221-207 BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         106.8,
+         36.3
+        ],
+        "label": "QIN",
+        "size": 12
+       },
+       {
+        "ll": [
+         112.8,
+         30.6
+        ],
+        "label": "CHU",
+        "size": 11
+       },
+       {
+        "ll": [
+         118.6,
+         36.3
+        ],
+        "label": "QI",
+        "size": 11
+       },
+       {
+        "ll": [
+         114.0,
+         37.9
+        ],
+        "label": "ZHAO",
+        "size": 10
+       },
+       {
+        "ll": [
+         116.4,
+         40.3
+        ],
+        "label": "YAN",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         108.7,
+         34.34
+        ],
+        "label": "Xianyang",
+        "date": "Qin capital",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "9.2 · Qin",
+         "title": "The First Emperor",
+         "sub": "king 246, emperor 221-210 BCE",
+         "text": "[[c-qin-unify]] [[c-standard]] [[c-burning]] [[c-burning-debate]]",
+         "sources": [
+          "brit-qinshihuang",
+          "met-qin",
+          "neininger-keng"
+         ]
+        }
+       },
+       {
+        "ll": [
+         109.21,
+         34.38
+        ],
+        "label": "Lintong",
+        "date": "tomb and Terracotta Army",
+        "acc": true,
+        "big": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "9.2 · the tomb",
+         "title": "The mausoleum",
+         "sub": "found 1974",
+         "text": "[[c-mausoleum]] [[c-mercury]] [[c-triggers]]",
+         "sources": [
+          "unesco-qin",
+          "zhao2020",
+          "li2014"
+         ]
+        }
+       },
+       {
+        "ll": [
+         118.3,
+         36.81
+        ],
+        "label": "Linzi",
+        "date": "Qi capital, falls 221",
+        "dy": 16
+       },
+       {
+        "ll": [
+         112.9,
+         35.81
+        ],
+        "label": "Changping",
+        "date": "c. 260 BCE",
+        "acc": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "9.1 · war",
+         "title": "Changping",
+         "sub": "c. 260 BCE",
+         "text": "[[c-changping]]",
+         "sources": [
+          "sixthtone-changping"
+         ]
+        }
+       },
+       {
+        "ll": [
+         113.765,
+         31.063
+        ],
+        "label": "Shuihudi",
+        "date": "Qin laws",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "9.2 · law",
+         "title": "Shuihudi",
+         "sub": "excavated 1975",
+         "text": "[[c-shuihudi]]",
+         "sources": [
+          "cdhk-shuihudi",
+          "hubei-shuihudi"
+         ]
+        }
+       },
+       {
+        "ll": [
+         109.292,
+         28.789
+        ],
+        "label": "Liye",
+        "date": "county archive",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "9.2 · administration",
+         "title": "Liye",
+         "sub": "found 2002",
+         "text": "[[c-liye]] [[c-liye-county]] [[c-qin-fall]]",
+         "sources": [
+          "cd-liye2025",
+          "pines-korolkov",
+          "korolkov-hein2021"
+         ]
+        }
+       },
+       {
+        "ll": [
+         97.274,
+         34.918
+        ],
+        "label": "Gyaring Lake",
+        "date": "inscription, 210 BCE?",
+        "dy": 16,
+        "plate": {
+         "kicker": "9.2 · new find",
+         "title": "Gyaring Lake",
+         "sub": "announced 2025",
+         "text": "[[c-gyaring]]",
+         "sources": [
+          "scmp-gyaring",
+          "arkeo-gyaring"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What did the survey of mercury above the First Emperor's tomb show?",
+     "choices": [
+      "Rivers of mercury seen once the burial chamber was opened",
+      "Raised readings that fit Sima Qian's story without proving it",
+      "Background levels, which neither confirm nor refute the story",
+      "Levels high enough to prove the rivers of mercury were real"
+     ],
+     "answer": 1,
+     "why": "Mercury in the air above the mound ran at roughly two to five times background; the readings fit the story but do not prove it, and the authors call their estimate 'extremely crude'.",
+     "wrong": {
+      "0": "The burial chamber has never been opened.",
+      "2": "The readings were roughly two to five times background, not at background.",
+      "3": "The authors call their estimate 'extremely crude'; the readings fit the story but do not prove it."
+     }
+    },
+    {
+     "q": "Which best reflects current scholarship on the 'burying of the scholars'?",
+     "choices": [
+      "Lu Jia and Jia Yi confirm Sima Qian's account in detail",
+      "Historians now agree that no books were burned in 213 BCE",
+      "Critics see magicians as the victims, and the martyr story as later",
+      "Neininger confirms the victims were Confucians buried alive"
+     ],
+     "answer": 2,
+     "why": "Ulrich Neininger argues the victims were mostly magicians, that keng means 'killed', and that the story of Confucian martyrs grew up later; the account itself comes from Sima Qian, about a century after the events.",
+     "wrong": {
+      "0": "The earliest Han critics of Qin, Lu Jia and Jia Yi, do not mention the killings.",
+      "1": "Most historians accept that some book-burning took place.",
+      "3": "Neininger argues the opposite: the victims were mostly magicians, and keng means 'killed', not 'buried alive'."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Han state",
+   "sub": "206 BCE to 220 CE",
+   "lede": "The Han kept the Qin machine and gave it a softer face. For four centuries, with one interruption, it ruled through salaried officials who increasingly claimed to govern by Confucian principle, and the Chinese still call themselves 'the Han people'.",
+   "body": [
+    "Liu Bang, a commoner who had once been a minor Qin official, won the civil war that followed Qin's collapse. [[c-liubang]] His dynasty kept Qin's centralised, salaried bureaucracy, [[c-han-capitals]] and the numbers are impressive: one commandery alone had over two thousand officials on its books. [[c-yinwan]] [[c-han-officials]]",
+    "Later Confucians told how Emperor Wu made their teaching the official ideology. [[c-confucian-trad]] Historians now think the change came more slowly and less cleanly. [[c-confucian-debate]] Wu's own reign is better remembered for war and monopolies (see 9.4 and 9.5), and for the historian Sima Qian, who was condemned for defending a disgraced general and castrated instead of being executed. [[c-simaqian]]",
+    "In 2 CE the Han took China's oldest surviving census: almost 60 million registered people, and certainly more in reality. [[c-census-min]] [[c-census2]] A few years later the regent Wang Mang took the throne, tried to remake society, and was swept away by floods and rebellion. [[c-wangmang-fall]] [[c-wangmang]] The restored Eastern Han ruled from Luoyang, weakened by court factions and great landowners, until a religious rebellion and the warlords raised to fight it ended the dynasty in 220. [[c-eastern-han]]",
+    {
+     "table": {
+      "head": [
+       "Period",
+       "Dates",
+       "Capital",
+       "Notes"
+      ],
+      "rows": [
+       [
+        "Western Han",
+        "206 BCE-9 CE",
+        "Chang'an",
+        "Emperor Wu, 141-87 BCE"
+       ],
+       [
+        "Xin (Wang Mang)",
+        "9-23 CE",
+        "Chang'an",
+        "land and coin reforms fail"
+       ],
+       [
+        "Eastern Han",
+        "25-220 CE",
+        "Luoyang",
+        "Yellow Turbans, 184"
+       ]
+      ],
+      "note": "[[c-han-capitals]] [[c-wangmang-fall]] [[c-eastern-han]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "Four centuries of Han",
+    "title": "The Han dynasty and its interruption",
+    "max": 230,
+    "min": -230,
+    "unit": "ka",
+    "ticks": [
+     200,
+     100,
+     0,
+     -100,
+     -200
+    ],
+    "tickLabels": [
+     "200 BCE",
+     "100 BCE",
+     "1 CE",
+     "100 CE",
+     "200 CE"
+    ],
+    "axis": "years BCE and CE",
+    "hint": "Hover or click a row",
+    "marks": [
+     {
+      "ya": 136,
+      "t": "Confucian turn (traditional date), 136 BCE"
+     },
+     {
+      "ya": -2,
+      "t": "census, 2 CE"
+     }
+    ],
+    "rows": [
+     {
+      "t": "Western Han",
+      "sub": "capital Chang'an",
+      "from": 206,
+      "to": -9,
+      "lab": "206 BCE-9 CE",
+      "acc": true,
+      "plate": {
+       "kicker": "9.3 · Han",
+       "title": "The Western Han",
+       "sub": "206 BCE to 9 CE",
+       "text": "[[c-liubang]] [[c-han-capitals]] [[c-confucian-trad]] [[c-confucian-debate]]",
+       "sources": [
+        "brit-gaozu",
+        "brit-handyn",
+        "cai2014"
+       ]
+      }
+     },
+     {
+      "t": "Emperor Wu",
+      "from": 141,
+      "to": 87,
+      "lab": "141-87 BCE",
+      "acc": true,
+      "plate": {
+       "kicker": "9.5 · Emperor Wu",
+       "title": "Emperor Wu",
+       "sub": "141-87 BCE",
+       "text": "[[c-wu-wars]] [[c-iron-monopoly]] [[c-confucian-debate]]",
+       "sources": [
+        "brit-wudi",
+        "wagner-iron",
+        "cai2014"
+       ]
+      }
+     },
+     {
+      "t": "Sima Qian",
+      "sub": "historian",
+      "from": 145,
+      "to": 87,
+      "lab": "c. 145-87 BCE",
+      "open": true
+     },
+     {
+      "t": "Xin dynasty",
+      "sub": "Wang Mang",
+      "from": -9,
+      "to": -23,
+      "lab": "9-23 CE",
+      "open": true,
+      "plate": {
+       "kicker": "9.3 · Wang Mang",
+       "title": "Wang Mang",
+       "sub": "9-23 CE",
+       "text": "[[c-wangmang]] [[c-wangmang-fall]]",
+       "sources": [
+        "brit-wangmang",
+        "smith-wangmang"
+       ]
+      }
+     },
+     {
+      "t": "Eastern Han",
+      "sub": "capital Luoyang",
+      "from": -25,
+      "to": -220,
+      "lab": "25-220 CE",
+      "acc": true,
+      "plate": {
+       "kicker": "9.3 · Han",
+       "title": "The Eastern Han",
+       "sub": "25-220 CE",
+       "text": "[[c-eastern-han]] [[c-great-families]]",
+       "sources": [
+        "brit-yellowturbans",
+        "brit-han"
+       ]
+      }
+     },
+     {
+      "t": "Yellow Turbans",
+      "sub": "rebellion",
+      "from": -184,
+      "to": -204,
+      "lab": "184-c. 204",
+      "open": true
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Liang Cai's Witchcraft and the Rise of the First Confucian Empire challenges which view?",
+     "choices": [
+      "That Dong Zhongshu really wrote the work credited to him",
+      "That Confucians already ran the government under Wu",
+      "That a witchcraft scandal helped the Confucians to rise",
+      "That Wang Mang seized the Han throne in 9 CE"
+     ],
+     "answer": 1,
+     "why": "She argues Confucian scholars were a powerless minority under Wu and rose only after a court witchcraft scandal of 91-87 BCE.",
+     "wrong": {
+      "0": "Doubts about Dong Zhongshu's authorship are Michael Loewe's argument, not Cai's.",
+      "2": "That is Cai's own argument: the scandal of 91-87 BCE is when she says Confucians rose.",
+      "3": "Her argument concerns Emperor Wu's reign and after; the page states plainly that Wang Mang took the throne in 9 CE."
+     }
+    },
+    {
+     "q": "Why should the Han census total of 2 CE be read as a minimum?",
+     "choices": [
+      "It covered the capital region but not the provinces",
+      "People avoided registering for the poll tax",
+      "It left out the areas held by the Red Eyebrows",
+      "It listed soldiers rather than farming households"
+     ],
+     "answer": 1,
+     "why": "It was taken mainly for the poll tax, and people avoided registration, so the true population was larger.",
+     "wrong": {
+      "0": "It is described as China's oldest surviving count, with almost 60 million registered people, not a count of one region.",
+      "2": "The Red Eyebrows rose against Wang Mang, who took the throne in 9 CE, years after the census.",
+      "3": "It was a poll-tax count of almost 60 million registered people, not a muster of soldiers."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Han economy",
+   "sub": "salt, iron, coins and paper",
+   "lede": "In 81 BCE the Han court staged a debate over whether the state should run the salt and iron industries. The written record of it is one of the oldest surviving arguments about state ownership versus private enterprise, and the economist and the politician in you will recognise both sides.",
+   "body": [
+    "Emperor Wu's wars against the Xiongnu (see 9.5) were ruinously expensive. To pay for them, his ministers made salt, iron and liquor state monopolies and set up state trading offices to buy cheap and sell dear. [[c-iron-monopoly]] They also replaced the coinage with the wuzhu, minted only by the state, which lasted in some form for seven centuries. [[c-wuzhu]]",
+    "After Wu's death the court called a debate. [[c-saltiron-debate]] The Confucian literati argued that a government seeking profit corrupts its people; [[c-literati-case]] the minister Sang Hongyang answered that the frontier had to be paid for and that state trading kept prices steady. [[c-sang-case]] Critics added that state iron tools were poor and dear. [[c-iron-critics]] The record we have was compiled later and is a literary reconstruction, not a transcript. [[c-yantielun]] The officials largely won, but the monopolies came and went for another century, [[c-monopoly-swings]] and archaeology suggests they never reached everywhere. [[c-monopoly-reach]]",
+    "Most people were farmers who paid a light land tax and a heavy load of labour and military service. [[c-han-tax]] The census of 2 CE counted almost 60 million registered people. [[c-census2]] Over time, land concentrated in the hands of great families, who controlled local government and hid their tenants from the tax registers. [[c-great-families]] Wang Mang, who usurped the throne in 9 CE, tried to stop this by nationalising land; his reforms collapsed, and so did he. [[c-wangmang]]",
+    "The Han also gave the world paper. Tradition credits the court official Cai Lun in 105 CE, [[c-cailun]] but older paper has been dug up in the north-west, including a fragment with a map on it whose status is still argued over. [[c-fangmatan]]",
+    {
+     "table": {
+      "head": [
+       "Year",
+       "The state and industry"
+      ],
+      "rows": [
+       [
+        "118 BCE",
+        "wuzhu coin introduced"
+       ],
+       [
+        "c. 119-110 BCE",
+        "salt and iron monopolies set up"
+       ],
+       [
+        "81 BCE",
+        "the Debate on Salt and Iron"
+       ],
+       [
+        "44-41 BCE",
+        "monopolies abolished, then restored"
+       ],
+       [
+        "2 CE",
+        "48 Iron Offices; census of 59.6 million"
+       ],
+       [
+        "9-23 CE",
+        "Wang Mang's land and coin reforms fail"
+       ],
+       [
+        "85-88 CE",
+        "monopolies revived, then dropped"
+       ]
+      ],
+      "note": "[[c-wuzhu]] [[c-iron-monopoly]] [[c-saltiron-debate]] [[c-monopoly-swings]] [[c-census2]] [[c-wangmang]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ledger",
+    "signs": false,
+    "caption": "The Debate on Salt and Iron, 81 BCE",
+    "title": "Should the state run the salt and iron industries?",
+    "left": {
+     "h": "The officials (Sang Hongyang)",
+     "items": [
+      {
+       "t": "The frontier against the Xiongnu must be paid for",
+       "s": "Yantie lun"
+      },
+      {
+       "t": "State trading keeps prices steady",
+       "s": "the 'equable marketing' system"
+      },
+      {
+       "t": "'Abolition of these measures is not expedient!'",
+       "s": "Sang Hongyang"
+      },
+      {
+       "t": "Large state works can make iron at scale",
+       "s": "48 Iron Offices by 2 CE (Wagner)"
+      }
+     ]
+    },
+    "right": {
+     "h": "The Confucian literati",
+     "items": [
+      {
+       "t": "Government must never be run for profit",
+       "s": "the literati"
+      },
+      {
+       "t": "Monopolies teach people to chase profit, not to farm",
+       "s": "Yantie lun"
+      },
+      {
+       "t": "State tools are 'crude and coarse', and dear",
+       "s": "critics quoted by Wagner"
+      },
+      {
+       "t": "Virtue, not force, wins over distant peoples",
+       "s": "the Confucian position"
+      }
+     ]
+    },
+    "notes": [
+     "The record was compiled later by Huan Kuan; it is a literary work, not a transcript."
+    ]
+   },
+   "practice": [
+    {
+     "q": "In the debate of 81 BCE, what was Sang Hongyang's main defence of the monopolies?",
+     "choices": [
+      "They paid for the Xiongnu frontier and kept prices steady",
+      "The Confucian classics required the state to own industry",
+      "They protected the profits of the state paper industry",
+      "They let the state abolish the land tax on farmers"
+     ],
+     "answer": 0,
+     "why": "Sang Hongyang replied that the monopolies paid for defence against the Xiongnu and that state trading kept prices steady.",
+     "wrong": {
+      "1": "It was the literati who appealed to Confucian morality, and they argued against a government seeking profit.",
+      "2": "The monopolies covered salt, iron and liquor; Cai Lun's paper is dated 105 CE.",
+      "3": "The land tax continued, at one-thirtieth or sometimes one-fifteenth of the harvest."
+     }
+    },
+    {
+     "q": "What does the Fangmatan fragment suggest about Cai Lun's 'invention' of paper in 105 CE?",
+     "choices": [
+      "Paper may be older, though some doubt this is true paper",
+      "It proves his exact paper method was used 250 years earlier",
+      "It shows he was a legend, as the Han history omits him",
+      "It suggests his own workshop stood in Gansu, where it lay"
+     ],
+     "answer": 0,
+     "why": "The fragment is dated to the Western Han, perhaps 250 years before Cai Lun; Li Xiaocen accepts it as paper made by a different process, while Chen Gang says it needs more study.",
+     "wrong": {
+      "1": "Li Xiaocen, who accepts it as paper, says it was made by a different process.",
+      "2": "The Han history records Cai Lun as a court official who presented a paper-making method.",
+      "3": "It is dated perhaps 250 years before Cai Lun, so it cannot come from his workshop."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Han and the steppe",
+   "sub": "the Xiongnu, Zhang Qian and the road west",
+   "lede": "China's greatest security problem for two thousand years was the steppe to its north. The Han first paid the nomad Xiongnu to stay away, then fought them for decades, and in doing so pushed Chinese power and Chinese envoys deep into Central Asia.",
+   "body": [
+    "The Xiongnu were a confederation of mounted herders who became a great power under Maodun at the same moment the Han was founded. [[c-maodun]] For seventy years the Han emperors bought peace with silk, gold and brides. [[c-heqin]] Ancient DNA shows the Xiongnu empire was itself a mosaic of peoples. [[c-xiongnu-dna]]",
+    "Emperor Wu reversed the policy. From 133 BCE he sent huge armies onto the steppe; they drove the Xiongnu back but emptied the treasury, which is why his ministers turned to monopolies (see 9.4). [[c-wu-wars]] Looking for allies, he sent Zhang Qian west to find the Yuezhi; Zhang was captured, escaped, and came home thirteen years later with the first Chinese reports of Ferghana, Bactria and lands beyond. [[c-zhangqian]] Han armies later marched as far as Ferghana for its horses. [[c-ferghana]] The Xiongnu eventually split, and the eastern half submitted. [[c-xiongnu-split]]",
+    "To hold the road west, the Han built walls and beacon towers through the Hexi corridor to Dunhuang. [[c-hexi-wall]] At the relay station of Xuanquanzhi, archaeologists found tens of thousands of objects, [[c-xuanquan]] including wooden slips that log the envoys, foreign delegations and officials who passed through. [[c-xuanquan-slips]] This network is what UNESCO now lists as the Silk Roads. [[c-silkroads-unesco]]",
+    "The name itself is modern, [[c-silkroad-term]] and historians disagree about how much trade the routes actually carried. [[c-silkroad-trade]] What the slips show most clearly is the state: soldiers, envoys and officials moving on government business, fed and housed at public expense.",
+    {
+     "table": {
+      "head": [
+       "Year (BCE)",
+       "Han and the Xiongnu"
+      ],
+      "rows": [
+       [
+        "c. 209",
+        "Maodun leads the Xiongnu"
+       ],
+       [
+        "to c. 135",
+        "heqin: peace bought with silk and marriages"
+       ],
+       [
+        "138",
+        "Zhang Qian sets out for the Yuezhi"
+       ],
+       [
+        "133",
+        "Emperor Wu goes on the attack"
+       ],
+       [
+        "from 121",
+        "walls through the Hexi corridor"
+       ],
+       [
+        "104 and 101",
+        "campaigns to Ferghana"
+       ],
+       [
+        "65",
+        "envoy Chang Hui logged at Xuanquanzhi"
+       ],
+       [
+        "51",
+        "the Xiongnu split; the eastern half submits"
+       ]
+      ],
+      "note": "[[c-maodun]] [[c-heqin]] [[c-zhangqian]] [[c-wu-wars]] [[c-hexi-wall]] [[c-ferghana]] [[c-xuanquan-slips]] [[c-xiongnu-split]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 88.0,
+     "lat": 39.0,
+     "zoom": 6.3
+    },
+    "caption": "Han and the steppe, 2nd-1st centuries BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc dash",
+      "Zhang Qian's journey, 138-126 BCE (simplified)"
+     ],
+     [
+      "dash",
+      "Han walls, from 121 BCE"
+     ],
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          108.93,
+          34.26
+         ],
+         [
+          103.8,
+          36.1
+         ],
+         [
+          102.63,
+          37.93
+         ],
+         [
+          98.52,
+          39.74
+         ],
+         [
+          94.68,
+          40.17
+         ],
+         [
+          89.19,
+          42.95
+         ],
+         [
+          82.96,
+          41.72
+         ],
+         [
+          75.99,
+          39.47
+         ],
+         [
+          72.8,
+          40.53
+         ],
+         [
+          70.94,
+          40.53
+         ],
+         [
+          66.97,
+          39.65
+         ],
+         [
+          66.9,
+          36.76
+         ]
+        ],
+        "label": "Zhang Qian",
+        "lab": [
+         82.96,
+         41.72
+        ],
+        "ldy": -12,
+        "acc": true,
+        "head": true
+       }
+      ]
+     },
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          103.8,
+          36.1
+         ],
+         [
+          102.63,
+          37.93
+         ],
+         [
+          100.45,
+          38.93
+         ],
+         [
+          98.52,
+          39.74
+         ],
+         [
+          95.4,
+          40.3
+         ],
+         [
+          94.68,
+          40.17
+         ],
+         [
+          93.86,
+          40.35
+         ]
+        ],
+        "label": "Hexi walls",
+        "lab": [
+         101.5,
+         38.4
+        ],
+        "ldy": 24
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         97.0,
+         45.0
+        ],
+        "label": "XIONGNU",
+        "size": 13
+       },
+       {
+        "ll": [
+         110.5,
+         31.0
+        ],
+        "label": "HAN CHINA",
+        "size": 12
+       },
+       {
+        "ll": [
+         83.0,
+         39.0
+        ],
+        "label": "TARIM BASIN",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         108.929,
+         34.258
+        ],
+        "label": "Chang'an",
+        "date": "Han capital",
+        "acc": true,
+        "big": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "9.5 · the court",
+         "title": "Emperor Wu's wars",
+         "sub": "141-87 BCE",
+         "text": "[[c-heqin]] [[c-wu-wars]] [[c-zhangqian]]",
+         "sources": [
+          "brit-wudi",
+          "brit-han",
+          "brit-zhangqian"
+         ]
+        }
+       },
+       {
+        "ll": [
+         94.683,
+         40.167
+        ],
+        "label": "Dunhuang",
+        "acc": true,
+        "big": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "9.5 · the frontier",
+         "title": "Dunhuang",
+         "sub": "reached by the walls c. 100 BCE",
+         "text": "[[c-hexi-wall]] [[c-silkroads-unesco]]",
+         "sources": [
+          "brit-greatwall-han",
+          "unesco-silkroads"
+         ]
+        }
+       },
+       {
+        "ll": [
+         95.4,
+         40.3
+        ],
+        "label": "Xuanquanzhi",
+        "date": "relay station",
+        "acc": true,
+        "dy": 18,
+        "plate": {
+         "kicker": "9.5 · the slips",
+         "title": "Xuanquanzhi",
+         "sub": "2nd century BCE to 2nd century CE",
+         "text": "[[c-xuanquan]] [[c-xuanquan-slips]] [[c-silkroad-trade]]",
+         "sources": [
+          "cd-xuanquan2023",
+          "cd-xuanquan2025",
+          "whitfield-tarim"
+         ]
+        }
+       },
+       {
+        "ll": [
+         70.94,
+         40.53
+        ],
+        "label": "Ferghana",
+        "date": "horses, 101 BCE",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "9.5 · Ferghana",
+         "title": "The heavenly horses",
+         "sub": "104 and 101 BCE",
+         "text": "[[c-ferghana]]",
+         "sources": [
+          "brit-wudi"
+         ]
+        }
+       },
+       {
+        "ll": [
+         66.897,
+         36.756
+        ],
+        "label": "Bactra",
+        "date": "Zhang Qian meets the Yuezhi",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "9.5 · Zhang Qian",
+         "title": "Zhang Qian",
+         "sub": "138 to c. 126 BCE",
+         "text": "[[c-zhangqian]]",
+         "sources": [
+          "brit-zhangqian",
+          "benjamin2018"
+         ]
+        }
+       },
+       {
+        "ll": [
+         104.0,
+         47.0
+        ],
+        "label": "Mongolian steppe",
+        "date": "Xiongnu cemeteries",
+        "plate": {
+         "kicker": "9.5 · the Xiongnu",
+         "title": "The Xiongnu",
+         "sub": "a multiethnic empire",
+         "text": "[[c-maodun]] [[c-xiongnu-dna]] [[c-xiongnu-split]]",
+         "sources": [
+          "brit-maodun",
+          "sd-xiongnu2023",
+          "brit-xiongnu"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why did Emperor Wu send Zhang Qian west in 138 BCE?",
+     "choices": [
+      "To win the Yuezhi as allies against the Xiongnu",
+      "To buy Ferghana's 'blood-sweating' horses for the army",
+      "To open a route west for Chinese silk merchants",
+      "To arrange a heqin marriage with the Xiongnu ruler"
+     ],
+     "answer": 0,
+     "why": "Zhang Qian went to find the Yuezhi, enemies of the Xiongnu; the mission was part of the war against them.",
+     "wrong": {
+      "1": "The horses came later, when Han armies marched to Ferghana in 104 and 101 BCE.",
+      "2": "The mission sought allies against the Xiongnu; the name 'Silk Road' is a 19th-century German coinage.",
+      "3": "He went to find the Xiongnu's enemies, and the Xiongnu held him captive for about ten years."
+     }
+    },
+    {
+     "q": "Which statement best captures the Hansen-Whitfield debate about the Silk Road?",
+     "choices": [
+      "Both accept low volume; Whitfield says high-value trade mattered",
+      "Both accept low volume; Hansen says the luxury trade mattered",
+      "Hansen sees vast private caravans; Whitfield sees mostly state supply",
+      "Whitfield finds a large volume; Hansen finds mostly local trade"
+     ],
+     "answer": 0,
+     "why": "They agree on volume and disagree on significance: Hansen thinks the trade was small and mostly local and credits state spending on garrisons; Whitfield accepts the low volume but argues that high-value long-distance trade mattered.",
+     "wrong": {
+      "1": "That is Whitfield's position; Hansen argues that prosperity in the north-west came from state spending on garrisons.",
+      "2": "Hansen argues the volume was small and mostly local, with prosperity coming from state spending.",
+      "3": "Whitfield accepts the low volume; her point is that high-value long-distance trade still mattered."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Magadha to the Mauryas",
+   "sub": "India's first empire, c. 321-185 BCE",
+   "lede": "A few years after Alexander's army turned back at the Beas, a young adventurer named Chandragupta seized the throne of Magadha and built an empire across most of the subcontinent. We see it through a lost Greek travel book, a treatise on statecraft of uncertain date, and the ruins under modern Patna.",
+   "body": [
+    "Magadha, on the middle Ganges, had been the strongest kingdom of the Buddha's day (see 7.9). Under the Nanda kings it grew rich on land revenue. [[c-nandas]] About 321 BCE Chandragupta Maurya overthrew them and went on to build the first empire to span most of India. [[c-chandragupta]] When Alexander's successor Seleucus tried to recover the Indus lands, the two kings fought and then made a treaty: Seleucus gave up the territory in return for 500 elephants. [[c-seleucus]]",
+    "Seleucus sent an ambassador, Megasthenes, whose book on India survives only in quotations. [[c-megasthenes]] He describes Pataliputra as a vast walled city with 570 towers, [[c-pataliputra-arrian]] run by boards of officials. [[c-pataliputra-gov]] Excavations in Patna have found part of a great hall of polished stone pillars, now being uncovered again. [[c-kumrahar]] [[c-kumrahar-council]]",
+    "The other famous source is the Arthashastra, a manual on how a king should run a state: tax, trade, spies, law and war. Tradition makes its author Chandragupta's minister Kautilya, [[c-kautilya]] but scholars now think it was written by several hands and reworked over centuries. [[c-arthashastra-date]] [[c-arthashastra-authors]] It is still one of the most hard-headed books on government ever written, and is often compared with Machiavelli.",
+    {
+     "table": {
+      "head": [
+       "Source",
+       "Date",
+       "What it gives us",
+       "Caution"
+      ],
+      "rows": [
+       [
+        "Megasthenes, Indica",
+        "c. 300 BCE",
+        "an outsider's view of the court and capital",
+        "lost; known only from later quotations"
+       ],
+       [
+        "Arthashastra",
+        "core perhaps Mauryan; text later",
+        "theory of the state, tax and trade",
+        "several authors; reworked"
+       ],
+       [
+        "Ashoka's edicts",
+        "c. 260-230 BCE",
+        "the king's own words (see 9.7)",
+        "royal self-presentation"
+       ],
+       [
+        "Kumrahar excavations",
+        "Mauryan levels",
+        "the capital's buildings",
+        "much lies under modern Patna"
+       ]
+      ],
+      "note": "[[c-megasthenes]] [[c-arthashastra-date]] [[c-kumrahar]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "The Mauryas and their sources",
+    "title": "Rulers, a lost book and a treatise of uncertain date",
+    "max": 360,
+    "min": -320,
+    "unit": "ka",
+    "ticks": [
+     300,
+     200,
+     100,
+     0,
+     -100,
+     -200,
+     -300
+    ],
+    "tickLabels": [
+     "300 BCE",
+     "200",
+     "100 BCE",
+     "1 CE",
+     "100 CE",
+     "200",
+     "300 CE"
+    ],
+    "axis": "years BCE and CE; all dates approximate",
+    "hint": "Hover or click a row",
+    "marks": [
+     {
+      "ya": 326,
+      "t": "Alexander at the Beas, 326"
+     },
+     {
+      "ya": 305,
+      "t": "Seleucus cedes the Indus lands, c. 305"
+     }
+    ],
+    "rows": [
+     {
+      "t": "Chandragupta",
+      "sub": "founder",
+      "from": 321,
+      "to": 297,
+      "lab": "c. 321-297",
+      "acc": true,
+      "plate": {
+       "kicker": "9.6 · the Mauryas",
+       "title": "Chandragupta Maurya",
+       "sub": "c. 321 to 297 BCE",
+       "text": "[[c-nandas]] [[c-chandragupta]] [[c-seleucus]]",
+       "sources": [
+        "brit-magadha"
+       ]
+      }
+     },
+     {
+      "t": "Bindusara",
+      "from": 297,
+      "to": 272,
+      "lab": "c. 297-272",
+      "acc": true
+     },
+     {
+      "t": "Ashoka",
+      "from": 268,
+      "to": 232,
+      "lab": "c. 268-232",
+      "acc": true,
+      "plate": {
+       "kicker": "9.7 · Ashoka",
+       "title": "Ashoka",
+       "sub": "c. 268 to 232 BCE",
+       "text": "[[c-ashoka-dates]] [[c-re13]]",
+       "sources": [
+        "brit-ashoka-succ",
+        "dhammika-edicts"
+       ]
+      }
+     },
+     {
+      "t": "Mauryan empire",
+      "from": 321,
+      "to": 185,
+      "lab": "c. 321-185",
+      "plate": {
+       "kicker": "9.7 · the end",
+       "title": "The end of the Mauryas",
+       "sub": "c. 185 BCE",
+       "text": "[[c-maurya-end]] [[c-maurya-decline]]",
+       "sources": [
+        "brit-shunga",
+        "pwc-mauryan-decline"
+       ]
+      }
+     },
+     {
+      "t": "Megasthenes",
+      "sub": "envoy; Indica lost",
+      "from": 350,
+      "to": 290,
+      "lab": "c. 350-290",
+      "open": true,
+      "plate": {
+       "kicker": "9.6 · Megasthenes",
+       "title": "Megasthenes",
+       "sub": "Indica",
+       "text": "[[c-megasthenes]] [[c-pataliputra-arrian]]",
+       "sources": [
+        "brit-megasthenes",
+        "arrian-indica10"
+       ]
+      }
+     },
+     {
+      "t": "Arthashastra",
+      "sub": "range of proposed dates",
+      "from": 350,
+      "to": -300,
+      "lab": "",
+      "open": true,
+      "plate": {
+       "kicker": "9.6 · the Arthashastra",
+       "title": "The Arthashastra",
+       "sub": "4th century BCE to 3rd century CE",
+       "text": "[[c-kautilya]] [[c-arthashastra-date]] [[c-arthashastra-authors]]",
+       "sources": [
+        "brit-magadha",
+        "trautmann1968",
+        "mcclish2019"
+       ]
+      }
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why are historians cautious about reading the Arthashastra as a handbook of Chandragupta's actual government?",
+     "choices": [
+      "It had several authors and was reworked after Mauryan times",
+      "It survives in a Greek version quoted by Megasthenes",
+      "Its author is named as Ashoka's minister, not Chandragupta's",
+      "Olivelle dates the whole text to the 4th century BCE"
+     ],
+     "answer": 0,
+     "why": "Statistical study of its vocabulary suggests different authors and later reworking, and Patrick Olivelle dates the surviving text to the first centuries CE, so its Mauryan core reaches us in a later, layered form.",
+     "wrong": {
+      "1": "It is a Sanskrit treatise; Megasthenes wrote his own book, the Indica, which is lost.",
+      "2": "Tradition names Kautilya, Chandragupta's chief minister, as its author.",
+      "3": "Olivelle dates the surviving work to the first centuries CE."
+     }
+    },
+    {
+     "q": "How should a historian use Megasthenes' figure of 570 towers at Pataliputra?",
+     "choices": [
+      "As a lost eyewitness's figure, known only through Arrian",
+      "As an exact count copied from his surviving original",
+      "As a report by Alexander's own envoy to Chandragupta",
+      "As a figure confirmed by the towers excavated at Kumrahar"
+     ],
+     "answer": 0,
+     "why": "The Indica is lost; the figure reaches us through Arrian's quotation and cannot be checked.",
+     "wrong": {
+      "1": "The Indica is lost and known only through later writers.",
+      "2": "Megasthenes was the envoy of Seleucus I, Alexander's successor.",
+      "3": "Kumrahar yielded a hall of 80 stone pillars, not towers; Megasthenes' figures cannot be checked."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Ashoka",
+   "sub": "the emperor who said sorry, c. 268-232 BCE",
+   "lede": "Ashoka conquered Kalinga, an independent kingdom on India's east coast, counted the dead, and then had his regret carved into rock across his empire. His inscriptions are the first long texts from India that can be read, and the first time an Indian ruler speaks to us in his own words.",
+   "body": [
+    "Chandragupta's grandson Ashoka attacked Kalinga about eight years after he took the throne. [[c-ashoka-dates]] In Rock Edict 13 he gives the toll in his own words and says he now prefers 'conquest by Dhamma'. [[c-re13]] That edict, however, was left out of the inscriptions set up in Kalinga itself. [[c-re13-absent]]",
+    "The edicts were carved on rocks at the edges of the empire and on polished pillars along its roads, at more than thirty sites. [[c-edict-sites]] They speak in the local language and script: Prakrit in Brahmi across most of India, Kharosthi in the north-west, and Greek and Aramaic near Kandahar, where Greek settlers lived. [[c-edict-scripts]] [[c-kandahar-edict]] One edict names the Greek kings to whom Ashoka sent envoys, which lets historians date his reign. [[c-greek-kings]] Ashoka's form of the script was forgotten for well over a thousand years until James Prinsep deciphered it in 1837. [[c-prinsep]] A 2025 claim of much earlier Brahmi remains unconfirmed. [[c-bahaj]]",
+    "What did Ashoka want? The edicts urge respect for parents, kindness to animals, tolerance of all sects and honest officials, enforced by special 'dhamma ministers'. Ashoka was a Buddhist, but scholars disagree about whether his dhamma was Buddhism, a civic morality for a diverse empire, or a tool of control. [[c-dhamma]]",
+    "Within fifty years of his death the empire was gone. A general killed the last Maurya in about 185 BCE, [[c-maurya-end]] and later Buddhist writers made him a persecutor. [[c-pushyamitra]] Why the empire collapsed so fast is one of the classic debates of Indian history. [[c-maurya-decline]]",
+    {
+     "table": {
+      "head": [
+       "Where",
+       "Language and script",
+       "Example"
+      ],
+      "rows": [
+       [
+        "most of India",
+        "Prakrit in Brahmi",
+        "Girnar, Kalsi, Dhauli, Delhi-Topra pillar"
+       ],
+       [
+        "north-west (Pakistan)",
+        "Prakrit in Kharosthi",
+        "Shahbazgarhi, Mansehra"
+       ],
+       [
+        "Kandahar (Afghanistan)",
+        "Greek and Aramaic",
+        "bilingual edict, found 1958"
+       ],
+       [
+        "Lumbini (Nepal)",
+        "Prakrit in Brahmi",
+        "pillar marking the Buddha's birthplace"
+       ]
+      ],
+      "note": "[[c-edict-scripts]] [[c-kandahar-edict]] [[c-edict-sites]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 77.5,
+     "lat": 25.0,
+     "zoom": 11
+    },
+    "caption": "Ashoka's edicts, c. 260-230 BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "edict in Brahmi script"
+     ],
+     [
+      "pt",
+      "edict in Kharosthi, Greek or Aramaic; or the capital"
+     ],
+     [
+      "zone",
+      "Kalinga"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "zone",
+      "items": [
+       {
+        "ll": [
+         85.0,
+         20.0
+        ],
+        "r": 1.6,
+        "label": "KALINGA",
+        "lab": [
+         86.8,
+         17.4
+        ]
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         85.6,
+         24.6
+        ],
+        "label": "MAGADHA",
+        "size": 10
+       },
+       {
+        "ll": [
+         70.5,
+         29.0
+        ],
+        "label": "INDUS",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         85.189,
+         25.598
+        ],
+        "label": "Pataliputra",
+        "date": "capital",
+        "big": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "9.6 · the capital",
+         "title": "Pataliputra",
+         "sub": "modern Patna",
+         "text": "[[c-pataliputra-arrian]] [[c-pataliputra-gov]] [[c-kumrahar]]",
+         "sources": [
+          "arrian-indica10",
+          "brit-magadha",
+          "organiser-kumrahar"
+         ]
+        }
+       },
+       {
+        "ll": [
+         85.833,
+         20.183
+        ],
+        "label": "Dhauli",
+        "date": "no Edict 13",
+        "acc": true,
+        "big": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "9.7 · Kalinga",
+         "title": "The Kalinga war",
+         "sub": "c. 260 BCE",
+         "text": "[[c-re13]] [[c-re13-absent]]",
+         "sources": [
+          "dhammika-edicts"
+         ]
+        }
+       },
+       {
+        "ll": [
+         84.831,
+         19.523
+        ],
+        "label": "Jaugada",
+        "acc": true,
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         70.55,
+         21.5
+        ],
+        "label": "Girnar",
+        "acc": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         77.847,
+         30.538
+        ],
+        "label": "Kalsi",
+        "acc": true,
+        "dy": -8
+       },
+       {
+        "ll": [
+         77.244,
+         28.636
+        ],
+        "label": "Delhi-Topra pillar",
+        "date": "read by Prinsep, 1837",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "9.7 · decipherment",
+         "title": "James Prinsep",
+         "sub": "1837",
+         "text": "[[c-prinsep]] [[c-bahaj]]",
+         "sources": [
+          "dhammika-prinsep",
+          "print-bahaj2025"
+         ]
+        }
+       },
+       {
+        "ll": [
+         83.025,
+         25.381
+        ],
+        "label": "Sarnath",
+        "acc": true,
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         83.277,
+         27.486
+        ],
+        "label": "Lumbini",
+        "acc": true,
+        "dy": -8
+       },
+       {
+        "ll": [
+         72.15,
+         34.2
+        ],
+        "label": "Shahbazgarhi",
+        "date": "Kharosthi",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         73.197,
+         34.33
+        ],
+        "label": "Mansehra",
+        "dy": -8
+       },
+       {
+        "ll": [
+         65.717,
+         31.617
+        ],
+        "label": "Kandahar",
+        "date": "Greek and Aramaic",
+        "dy": 16,
+        "plate": {
+         "kicker": "9.7 · the north-west",
+         "title": "The Kandahar edict",
+         "sub": "Greek and Aramaic",
+         "text": "[[c-kandahar-edict]] [[c-greek-kings]] [[c-edict-scripts]]",
+         "sources": [
+          "lhi-kandahar",
+          "brit-ashoka-succ",
+          "unesco-shahbazgarhi"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What is Rock Edict 13 best evidence for?",
+     "choices": [
+      "Ashoka's own account of the war and his turn to dhamma",
+      "Chandragupta's conquest of Kalinga in about 305 BCE",
+      "The version carved at Dhauli and Jaugada, in Kalinga itself",
+      "Ashoka's decree making Buddhism the state religion"
+     ],
+     "answer": 0,
+     "why": "It is Ashoka's own retrospective account of the Kalinga war and of his turn to 'conquest by Dhamma': royal self-presentation, whose figures cannot be checked.",
+     "wrong": {
+      "1": "The edict says Ashoka himself attacked Kalinga, about eight years after he took the throne.",
+      "2": "At Dhauli and Jaugada, in Kalinga itself, Rock Edicts 11-13 were left out and Separate Edicts carved instead.",
+      "3": "The edicts urge tolerance of all sects, and scholars disagree whether his dhamma was Buddhism at all."
+     }
+    },
+    {
+     "q": "Which statement about the end of the Maurya dynasty is best supported?",
+     "choices": [
+      "General Pushyamitra killed the last king; causes are debated",
+      "An Indo-Greek king killed the last Maurya; causes are debated",
+      "Romila Thapar blamed Ashoka's pacifism for the collapse",
+      "Contemporary inscriptions show Pushyamitra persecuted Buddhists"
+     ],
+     "answer": 0,
+     "why": "In about 185 BCE the general Pushyamitra killed the last Mauryan king and founded the Shunga dynasty; why the empire fell so soon after Ashoka is still argued over.",
+     "wrong": {
+      "1": "It was the general Pushyamitra, who founded the Shunga dynasty.",
+      "2": "That was H. C. Raychaudhuri's view; Thapar stressed over-centralisation.",
+      "3": "The persecution story comes from late Buddhist tradition; no contemporary evidence supports it, and Buddhism still flourished in his lands."
+     }
+    }
+   ]
+  },
+  {
+   "title": "After the Mauryas",
+   "sub": "Greeks, Kushans and the Tamil south, c. 185 BCE-300 CE",
+   "lede": "For five centuries after Ashoka no single power ruled India. Greek kings from Bactria, nomad Kushans from Central Asia and merchant kingdoms in the Deccan and the far south made the subcontinent a crossroads, and in this crowded world the first images of the Buddha were carved.",
+   "body": [
+    "The Greeks of Bactria (see 8.4) crossed the Hindu Kush as the Mauryas fell. Their best-known king, Menander, ruled the Punjab, [[c-menander]] and a Buddhist text remembers him debating a monk. [[c-milinda]] Then came the Kushans, a nomad people from Central Asia, whose empire at its height ran from the Oxus to the Ganges. An inscription found in 1993 gave their royal line, [[c-rabatak]] but the date of their greatest king, Kanishka, has been argued about for a century. [[c-kanishka-date]]",
+    "Under the Kushans the Buddha was first shown in human form, in Gandhara in a style borrowed from Greek and Roman sculpture and at Mathura in an Indian one. [[c-buddha-image]] [[c-gandhara]] New Buddhist scriptures, the Mahayana sutras, were already being copied in Gandhara. [[c-bajaur]]",
+    "Further south, the Satavahanas built an empire in the Deccan on the profits of trade with Rome. [[c-satavahana]] On the coasts, ports such as Arikamedu and Pattanam received Roman wine and oil jars, [[c-arikamedu]] [[c-pattanam]] and the Tamil kingdoms produced the Sangam poems, among the finest early literature of India. [[c-sangam]] How old Tamil urban culture is has become a political question. [[c-keeladi]]",
+    {
+     "table": {
+      "head": [
+       "Power",
+       "Where",
+       "When",
+       "Remembered for"
+      ],
+      "rows": [
+       [
+        "Indo-Greeks",
+        "Bactria, Punjab",
+        "c. 200 BCE-1st century CE",
+        "Menander; bilingual coins"
+       ],
+       [
+        "Kushans",
+        "Bactria to the Ganges",
+        "1st-3rd centuries CE",
+        "Kanishka; Gandhara and Mathura art"
+       ],
+       [
+        "Satavahanas",
+        "Deccan",
+        "1st century BCE-3rd century CE",
+        "trade wealth; Buddhist cave monasteries"
+       ],
+       [
+        "Tamil kingdoms",
+        "far south",
+        "named by Ashoka (3rd century BCE); Sangam poems c. 1st-4th centuries CE",
+        "Sangam poetry; Roman trade"
+       ]
+      ],
+      "note": "[[c-menander]] [[c-kanishka-date]] [[c-satavahana]] [[c-sangam]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 76.0,
+     "lat": 22.5,
+     "zoom": 9
+    },
+    "caption": "India after the Mauryas, c. 185 BCE-300 CE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         68.0,
+         37.6
+        ],
+        "label": "BACTRIA",
+        "size": 10
+       },
+       {
+        "ll": [
+         74.0,
+         32.0
+        ],
+        "label": "PUNJAB",
+        "size": 9
+       },
+       {
+        "ll": [
+         77.0,
+         18.5
+        ],
+        "label": "DECCAN",
+        "size": 11
+       },
+       {
+        "ll": [
+         77.0,
+         12.9
+        ],
+        "label": "TAMILAKAM",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         68.403,
+         36.149
+        ],
+        "label": "Rabatak",
+        "date": "inscription, found 1993",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "9.8 · the Kushans",
+         "title": "The Rabatak inscription",
+         "sub": "found 1993",
+         "text": "[[c-rabatak]] [[c-kanishka-date]]",
+         "sources": [
+          "shiraz-rabatak",
+          "carc-chronology"
+         ]
+        }
+       },
+       {
+        "ll": [
+         71.578,
+         34.008
+        ],
+        "label": "Gandhara",
+        "date": "(Peshawar)",
+        "acc": true,
+        "big": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "9.8 · Gandhara",
+         "title": "Gandhara",
+         "sub": "Buddhist art and texts",
+         "text": "[[c-gandhara]] [[c-buddha-image]] [[c-bajaur]]",
+         "sources": [
+          "met-gandhara",
+          "smarthistory-buddha",
+          "equinox-bajaur"
+         ]
+        }
+       },
+       {
+        "ll": [
+         77.672,
+         27.503
+        ],
+        "label": "Mathura",
+        "date": "Kushan Buddha images",
+        "acc": true,
+        "big": true,
+        "dy": 16
+       },
+       {
+        "ll": [
+         85.189,
+         25.598
+        ],
+        "label": "Pataliputra",
+        "dy": -8
+       },
+       {
+        "ll": [
+         79.81,
+         11.89
+        ],
+        "label": "Arikamedu",
+        "date": "Indo-Roman port",
+        "acc": true,
+        "plate": {
+         "kicker": "9.8 · trade",
+         "title": "Arikamedu",
+         "sub": "1st century CE",
+         "text": "[[c-arikamedu]]",
+         "sources": [
+          "efeo-arikamedu"
+         ]
+        }
+       },
+       {
+        "ll": [
+         76.209,
+         10.156
+        ],
+        "label": "Pattanam",
+        "date": "Muziris?",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "9.8 · trade",
+         "title": "Pattanam",
+         "sub": "ancient Muziris?",
+         "text": "[[c-pattanam]]",
+         "sources": [
+          "muziris-pattanam"
+         ]
+        }
+       },
+       {
+        "ll": [
+         78.119,
+         9.919
+        ],
+        "label": "Madurai",
+        "date": "Sangam academies (tradition)",
+        "dy": 16,
+        "plate": {
+         "kicker": "9.8 · Tamil south",
+         "title": "Sangam poetry",
+         "sub": "1st-4th centuries CE",
+         "text": "[[c-sangam]] [[c-keeladi]]",
+         "sources": [
+          "brit-sangam",
+          "week-keeladi"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why does the date of Kanishka matter beyond the list of Kushan kings?",
+     "choices": [
+      "It proves Gandharan art came before Mathuran art",
+      "Gandharan statues are dated by years of his era",
+      "It fixes when Menander debated the monk Nagasena",
+      "It is given as 78 CE on the Rabatak inscription"
+     ],
+     "answer": 1,
+     "why": "Inscriptions and statues are dated in Kanishka's era, so placing his year 1 in 127 CE rather than earlier moves the whole chronology of Gandharan art.",
+     "wrong": {
+      "0": "Which came first is still debated: Alfred Foucher argued for Gandhara, Ananda Coomaraswamy for Mathura.",
+      "2": "Menander ruled about 160-135 BCE, long before Kanishka's era began.",
+      "3": "Rabatak lists the Kushan kings before Kanishka; 78 CE was an older scholarly date, now usually replaced by 127 CE."
+     }
+    },
+    {
+     "q": "What best explains the Satavahanas' patronage of both Buddhist and Brahmin institutions?",
+     "choices": [
+      "Ashoka's edicts urging tolerance between sects",
+      "Wealth from their trade with the Roman world",
+      "Kushan overlords who ruled the Deccan for them",
+      "Pressure from the Sangam poets of Madurai"
+     ],
+     "answer": 1,
+     "why": "The Satavahanas grew rich on trade with the Roman world, and that wealth paid for generous patronage of both Buddhist and Brahmin communities.",
+     "wrong": {
+      "0": "Their patronage was paid for by wealth from trade with the Roman world, not by any royal decree.",
+      "2": "The Kushan empire ran from the Oxus to the Ganges; the Deccan was the Satavahanas' own empire.",
+      "3": "The Sangam poems belong to the Tamil kingdoms of the far south, not to the Deccan."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Gupta age",
+   "sub": "c. 320-550 CE",
+   "lede": "Under the Gupta kings northern India produced Kalidasa's poetry, Aryabhata's astronomy, the first stone temples and the decimal arithmetic that the whole world now uses. Whether to call it a golden age, and for whom, is another matter.",
+   "body": [
+    "The Guptas rose in the old Magadhan heartland and counted their era from 319/320 CE. [[c-gupta-era]] Samudragupta's court poet boasted of his conquests on an Ashokan pillar, [[c-allahabad]] and his gold coins show a king who was warrior, priest and musician at once. [[c-samudra-coins]] His son Chandragupta II took western India from the Shakas, [[c-cg2]] and was honoured at the cave temples of Udayagiri. [[c-udayagiri]]",
+    "Sanskrit literature reached a high point; Kalidasa may have written at his court. [[c-kalidasa]] Aryabhata calculated with decimal place value and argued that the Earth spins. [[c-aryabhata]] When the place-value system with zero began is hotly argued: the Bakhshali manuscript was announced as the oldest example, but its leaves date centuries apart, [[c-bakhshali]] and the first known rules for calculating with zero are Brahmagupta's in 628. [[c-brahmagupta]] Hindu worship moved into permanent stone temples. [[c-deogarh]]",
+    "Nationalist historians called this India's golden age; others answer that its glories belonged to a narrow elite while caste rules hardened. [[c-golden-age]] The great law book of caste, the Manusmriti, was probably already a few centuries old. [[c-manu]] Hun invaders from Central Asia took Gandhara around 440. Skandagupta drove back their first attack in the 450s, but around 500-530 their kings Toramana and Mihirakula overran much of the north-west and central India; Gupta power never recovered, and by the mid-6th century the dynasty had faded away. [[c-huns]]",
+    {
+     "table": {
+      "head": [
+       "Achievement",
+       "Who or what",
+       "Date"
+      ],
+      "rows": [
+       [
+        "Court eulogy on an Ashokan pillar",
+        "Harishena for Samudragupta",
+        "c. 335-375"
+       ],
+       [
+        "Cave temples: a dated dedication (Cave 6) and a colossal Varaha (Cave 5)",
+        "Udayagiri",
+        "401"
+       ],
+       [
+        "Decimal place value, pi = 3.1416",
+        "Aryabhata",
+        "c. 499"
+       ],
+       [
+        "Early stone temple with a tower",
+        "Deogarh",
+        "early 6th century"
+       ],
+       [
+        "Rules for calculating with zero",
+        "Brahmagupta",
+        "628"
+       ]
+      ],
+      "note": "[[c-allahabad]] [[c-udayagiri]] [[c-aryabhata]] [[c-deogarh]] [[c-brahmagupta]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "The Guptas and the date of zero",
+    "title": "Gupta kings, and the three radiocarbon dates of the Bakhshali manuscript",
+    "max": -300,
+    "min": -1000,
+    "unit": "ka",
+    "ticks": [
+     -300,
+     -400,
+     -500,
+     -600,
+     -700,
+     -800,
+     -900,
+     -1000
+    ],
+    "tickLabels": [
+     "300 CE",
+     "400",
+     "500",
+     "600",
+     "700",
+     "800",
+     "900",
+     "1000 CE"
+    ],
+    "axis": "years CE",
+    "hint": "Hover or click a row",
+    "marks": [
+     {
+      "ya": -499,
+      "t": "Aryabhatiya, c. 499"
+     },
+     {
+      "ya": -628,
+      "t": "Brahmagupta on zero, 628"
+     }
+    ],
+    "rows": [
+     {
+      "t": "Samudragupta",
+      "from": -335,
+      "to": -375,
+      "lab": "c. 335-375",
+      "acc": true,
+      "plate": {
+       "kicker": "9.9 · the Guptas",
+       "title": "Samudragupta",
+       "sub": "c. 335-375",
+       "text": "[[c-allahabad]] [[c-samudra-coins]]",
+       "sources": [
+        "epgp-allahabad",
+        "coinindia-samudra"
+       ]
+      }
+     },
+     {
+      "t": "Chandragupta II",
+      "from": -380,
+      "to": -415,
+      "lab": "c. 380-415",
+      "acc": true,
+      "plate": {
+       "kicker": "9.9 · the Guptas",
+       "title": "Chandragupta II",
+       "sub": "c. 380-415",
+       "text": "[[c-cg2]] [[c-udayagiri]] [[c-kalidasa]]",
+       "sources": [
+        "brit-cg2",
+        "map-udayagiri",
+        "brit-kalidasa"
+       ]
+      }
+     },
+     {
+      "t": "Alchon Huns in India",
+      "from": -440,
+      "to": -528,
+      "lab": "c. 440-528",
+      "open": true,
+      "plate": {
+       "kicker": "9.9 · the Huns",
+       "title": "The Alchon Huns",
+       "sub": "from c. 440",
+       "text": "[[c-huns]]",
+       "sources": [
+        "rezakhani-huns",
+        "brit-gupta"
+       ]
+      }
+     },
+     {
+      "t": "Bakhshali leaf 1",
+      "sub": "radiocarbon",
+      "from": -224,
+      "to": -383,
+      "lab": "224-383",
+      "open": true,
+      "plate": {
+       "kicker": "9.9 · zero",
+       "title": "The Bakhshali manuscript",
+       "sub": "three leaves, three dates",
+       "text": "[[c-bakhshali]] [[c-brahmagupta]]",
+       "sources": [
+        "ox-bakhshali",
+        "indology-bakhshali",
+        "hssa-bakhshali"
+       ]
+      }
+     },
+     {
+      "t": "Bakhshali leaf 2",
+      "sub": "radiocarbon",
+      "from": -680,
+      "to": -779,
+      "lab": "680-779",
+      "open": true
+     },
+     {
+      "t": "Bakhshali leaf 3",
+      "sub": "radiocarbon",
+      "from": -885,
+      "to": -993,
+      "lab": "885-993",
+      "open": true
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What do the Bakhshali radiocarbon results actually establish?",
+     "choices": [
+      "That zero as a number was first used in the 3rd century",
+      "That its leaves span centuries, leaving its date open",
+      "That each leaf was copied in the 3rd or 4th century CE",
+      "That peer review confirmed the Bodleian's early date"
+     ],
+     "answer": 1,
+     "why": "The three tested leaves gave 224-383, 680-779 or 790-868, and 885-993 CE; Kim Plofker, Dominik Wujastyk and colleagues argue that the latest leaf dates the copying.",
+     "wrong": {
+      "0": "Only one leaf dates that early, and the first text to treat zero as a number is Brahmagupta's of 628.",
+      "2": "The three leaves gave very different dates, the latest 885-993 CE.",
+      "3": "Critics faulted the Bodleian for announcing the results by press release without peer review."
+     }
+    },
+    {
+     "q": "Why do historians read Samudragupta's Allahabad pillar eulogy with caution?",
+     "choices": [
+      "It is Ashoka's own text, reused for a Gupta king",
+      "It is a court poet's praise, not a record",
+      "It is in the Bactrian language, in Greek letters",
+      "It describes defeats by the Huns, not victories"
+     ],
+     "answer": 1,
+     "why": "His court poet Harishena wrote it; its claims, as one specialist puts it, 'can hardly be taken in their face value'.",
+     "wrong": {
+      "0": "Only the pillar is Ashokan; the eulogy was written by Samudragupta's court poet Harishena.",
+      "2": "That describes the Kushan Rabatak inscription (9.8), not a Gupta court poem.",
+      "3": "It lists kings 'uprooted' and 'captured'; the Huns came from about 440, after Samudragupta's reign."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Buddhism travels",
+   "sub": "to Sri Lanka, Central Asia and China",
+   "lede": "Buddhism was one of the first religions to spread far beyond the culture that produced it. Carried by monks and merchants along the land and sea routes of 9.5 and 8.11, it reached China by the 1st century CE, and by 400 Chinese monks were walking to India to fetch better texts.",
+   "body": [
+    "Sri Lanka's chronicles credit Ashoka's own son with bringing Buddhism to the island, [[c-mahinda]] and it has been a Buddhist land ever since. In Central Asia, oasis cities on the routes north and south of the Taklamakan built monasteries and cave temples.",
+    "In China the earliest firm record is an imperial edict of 65 CE about a prince who honoured the Buddha. [[c-liuying]] The famous story of an emperor's dream and a mission to India is a later legend. [[c-mingdi]] Translation began in earnest with An Shigao, a Parthian, in Luoyang, [[c-anshigao]] and reached its peak with Kumarajiva, who arrived in Chang'an in 401. [[c-kumarajiva]] Some early 'Buddhist' carvings in China may be much later than once thought. [[c-kongwangshan]]",
+    "In 399 the monk Faxian set out to find complete monastic rules. He crossed the deserts and mountains to India, stayed years in the Ganges valley and in Sri Lanka, and came home by sea. [[c-faxian]] His record is one of our best descriptions of Gupta India. By the 5th century Chinese rulers were sponsoring vast cave temples at Dunhuang and Yungang. [[c-mogao]] [[c-yungang]]",
+    {
+     "table": {
+      "head": [
+       "Who",
+       "From",
+       "To",
+       "When"
+      ],
+      "rows": [
+       [
+        "Mahinda (tradition)",
+        "Ashoka's India",
+        "Sri Lanka",
+        "c. 250 BCE"
+       ],
+       [
+        "An Shigao",
+        "Parthia",
+        "Luoyang",
+        "c. 148-170 CE"
+       ],
+       [
+        "Kumarajiva",
+        "Central Asia",
+        "Chang'an",
+        "arrived 401"
+       ],
+       [
+        "Faxian",
+        "China",
+        "India and Sri Lanka, and back",
+        "399-c. 412"
+       ]
+      ],
+      "note": "[[c-mahinda]] [[c-anshigao]] [[c-kumarajiva]] [[c-faxian]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 96.0,
+     "lat": 16.0,
+     "zoom": 4.6
+    },
+    "caption": "Faxian's journey, 399-c. 412 CE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc dash",
+      "Faxian, out by land (simplified)"
+     ],
+     [
+      "dash",
+      "home by sea (simplified)"
+     ],
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          108.929,
+          34.258
+         ],
+         [
+          103.8,
+          36.1
+         ],
+         [
+          98.5,
+          39.7
+         ],
+         [
+          94.683,
+          40.167
+         ],
+         [
+          88.0,
+          39.0
+         ],
+         [
+          79.934,
+          37.109
+         ],
+         [
+          75.987,
+          39.467
+         ],
+         [
+          73.5,
+          36.5
+         ],
+         [
+          71.578,
+          34.008
+         ],
+         [
+          75.0,
+          31.0
+         ],
+         [
+          77.672,
+          27.503
+         ],
+         [
+          81.0,
+          26.0
+         ],
+         [
+          85.189,
+          25.598
+         ],
+         [
+          84.987,
+          24.698
+         ]
+        ],
+        "label": "out by land, 399-402",
+        "lab": [
+         84.0,
+         36.5
+        ],
+        "ldy": 20,
+        "acc": true,
+        "head": true
+       }
+      ]
+     },
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          85.189,
+          25.598
+         ],
+         [
+          88.0,
+          22.0
+         ],
+         [
+          86.0,
+          15.0
+         ],
+         [
+          82.0,
+          9.0
+         ],
+         [
+          80.413,
+          8.312
+         ],
+         [
+          86.0,
+          6.0
+         ],
+         [
+          95.0,
+          5.5
+         ],
+         [
+          100.0,
+          3.0
+         ],
+         [
+          104.5,
+          1.3
+         ],
+         [
+          107.0,
+          -4.5
+         ],
+         [
+          109.0,
+          1.0
+         ],
+         [
+          112.0,
+          12.0
+         ],
+         [
+          117.0,
+          22.5
+         ],
+         [
+          121.5,
+          29.5
+         ],
+         [
+          121.0,
+          33.0
+         ],
+         [
+          120.631,
+          36.181
+         ]
+        ],
+        "label": "home by sea, c. 411-412",
+        "lab": [
+         112.0,
+         12.0
+        ],
+        "ldy": 16,
+        "head": true
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         84.0,
+         39.0
+        ],
+        "label": "TAKLAMAKAN",
+        "size": 9
+       },
+       {
+        "ll": [
+         110.0,
+         30.0
+        ],
+        "label": "CHINA",
+        "size": 12
+       },
+       {
+        "ll": [
+         79.0,
+         21.0
+        ],
+        "label": "GUPTA INDIA",
+        "size": 11
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         112.437,
+         34.673
+        ],
+        "label": "Luoyang",
+        "acc": true,
+        "big": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "9.10 · China",
+         "title": "Buddhism reaches China",
+         "sub": "1st-2nd centuries CE",
+         "text": "[[c-liuying]] [[c-mingdi]] [[c-anshigao]]",
+         "sources": [
+          "palumbo2007",
+          "iias-anshigao"
+         ]
+        }
+       },
+       {
+        "ll": [
+         108.929,
+         34.258
+        ],
+        "label": "Chang'an",
+        "date": "Kumarajiva, 401",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16,
+        "plate": {
+         "kicker": "9.10 · translators",
+         "title": "Kumarajiva",
+         "sub": "344-413",
+         "text": "[[c-kumarajiva]]",
+         "sources": [
+          "brit-kumarajiva"
+         ]
+        }
+       },
+       {
+        "ll": [
+         94.683,
+         40.167
+        ],
+        "label": "Dunhuang",
+        "date": "Mogao caves from 366",
+        "acc": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "9.10 · cave temples",
+         "title": "Mogao and Yungang",
+         "sub": "4th-6th centuries",
+         "text": "[[c-mogao]] [[c-yungang]]",
+         "sources": [
+          "unesco-mogao",
+          "unesco-yungang"
+         ]
+        }
+       },
+       {
+        "ll": [
+         113.13,
+         40.11
+        ],
+        "label": "Yungang",
+        "date": "5th-6th century caves",
+        "dy": -8
+       },
+       {
+        "ll": [
+         79.934,
+         37.109
+        ],
+        "label": "Khotan",
+        "dy": 16
+       },
+       {
+        "ll": [
+         71.578,
+         34.008
+        ],
+        "label": "Gandhara",
+        "anchor": "end",
+        "dy": -6
+       },
+       {
+        "ll": [
+         85.189,
+         25.598
+        ],
+        "label": "Pataliputra",
+        "date": "Faxian's long stay",
+        "acc": true,
+        "big": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "9.10 · Faxian",
+         "title": "Faxian",
+         "sub": "399 to c. 412",
+         "text": "[[c-faxian]]",
+         "sources": [
+          "brit-faxian"
+         ]
+        }
+       },
+       {
+        "ll": [
+         84.987,
+         24.698
+        ],
+        "label": "Bodh Gaya",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         80.413,
+         8.312
+        ],
+        "label": "Anuradhapura",
+        "date": "Mahinda (tradition)",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "9.10 · Sri Lanka",
+         "title": "Anuradhapura",
+         "sub": "c. 250 BCE (tradition)",
+         "text": "[[c-mahinda]]",
+         "sources": [
+          "so-mahinda",
+          "brit-mahavamsa"
+         ]
+        }
+       },
+       {
+        "ll": [
+         119.216,
+         34.598
+        ],
+        "label": "Kongwangshan",
+        "dy": 16,
+        "plate": {
+         "kicker": "9.10 · art",
+         "title": "Kongwangshan",
+         "sub": "Han or 6th century?",
+         "text": "[[c-kongwangshan]]",
+         "sources": [
+          "yale-kongwangshan"
+         ]
+        }
+       },
+       {
+        "ll": [
+         120.631,
+         36.181
+        ],
+        "label": "Shandong",
+        "date": "Faxian lands",
+        "dy": -8
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do historians prefer the edict of 65 CE to the story of Emperor Ming's dream as the start of Chinese Buddhism?",
+     "choices": [
+      "It is carved at the White Horse Temple in Luoyang",
+      "It dates from its own time; the dream is legend",
+      "It was written by the Parthian translator An Shigao",
+      "Maspero proved Ming's envoys really reached India"
+     ],
+     "answer": 1,
+     "why": "The edict praising Liu Ying is the earliest firm evidence. Henri Maspero showed the dream story to be a pious legend, and Antonello Palumbo argues the mission to India was added by later editors.",
+     "wrong": {
+      "0": "The founding of the White Horse Temple is part of the legend of Ming's dream.",
+      "2": "An Shigao worked in Luoyang from about 148, some eighty years after the edict.",
+      "3": "Maspero showed in 1910 that the story 'bears all the traits of a pious legend'."
+     }
+    },
+    {
+     "q": "What does Faxian's route show about how Buddhism moved?",
+     "choices": [
+      "It moved overland, through Central Asia's oases",
+      "Land routes and sea lanes both linked India and China",
+      "It moved by sea from Sri Lanka, not over the deserts",
+      "It moved through missions sent by the Gupta kings"
+     ],
+     "answer": 1,
+     "why": "He went out across Central Asia to India in 399 and came home by sea, by way of Sri Lanka and South-East Asia.",
+     "wrong": {
+      "0": "He came home by sea, by way of Sri Lanka and South-East Asia.",
+      "2": "He went out overland, across the deserts and mountains of Central Asia.",
+      "3": "Faxian was a Chinese monk who went to India to find monastic rules, not a Gupta envoy."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Han and Rome compared",
+   "sub": "two empires at the two ends of Eurasia",
+   "lede": "Around 100 CE two empires of similar size and population ruled the two ends of Eurasia. They knew almost nothing of each other. Comparing them is one of the liveliest fields in history, and the biggest question is not why they fell but why one came back and the other never did.",
+   "body": [
+    "The similarities are striking. Each covered about 4 million square kilometres and held some 60 million people. [[c-size-similar]] A 2025 study finds that income was about as unequally shared in both, though the Han elite took a larger share. [[c-inequality2025]] Both, by modern standards, taxed lightly. [[c-low-tax]]",
+    "The differences are in how they governed. The Han ran a bureaucracy of some 120,000-130,000 salaried officials, recorded in the dynastic history; [[c-han-officials]] Rome made do with about 600 senators and perhaps 20,000 knights, leaning on cities to govern themselves. [[c-rome-elite]] One historian sums it up as soldiers versus scholar-officials. [[c-loewe]] Rome spent far more on its standing army; [[c-roman-army]] the Han spent a much larger share of its defence budget paying foreign peoples to keep the peace. [[c-low-tax]] Even their money differed: China's coins were bronze tokens, Rome's were precious metal. [[c-coins-compare]]",
+    "Both empires broke up, the Han in 220 and the western Roman empire in the 5th century. China was briefly reunited under the Jin in 280 and lastingly under the Sui in 589, and again and again afterwards, while no one ever rebuilt the Roman world. Walter Scheidel argues that this 'First Great Divergence' shaped the whole later history of the world, because a Europe of competing states could innovate as no single empire would. [[c-divergence]]",
+    {
+     "table": {
+      "head": [
+       "",
+       "Han China",
+       "Roman empire"
+      ],
+      "rows": [
+       [
+        "Area",
+        "about 4 million km²",
+        "about 4 million km²"
+       ],
+       [
+        "People",
+        "57.7-59.6 million registered (census, 2 CE)",
+        "about 60-75 million (estimates, 2nd century; see 8.10)"
+       ],
+       [
+        "Gini coefficient (estimate)",
+        "0.48",
+        "0.46"
+       ],
+       [
+        "Top 1% share of income (estimate)",
+        "26%",
+        "19%"
+       ],
+       [
+        "Central officials",
+        "about 120,000-130,000 (Han history)",
+        "c. 600 senators, c. 20,000 equestrians"
+       ],
+       [
+        "Coinage",
+        "cast bronze wuzhu",
+        "struck gold, silver and bronze"
+       ],
+       [
+        "After the fall",
+        "briefly reunited 280; lastingly 589",
+        "never reunified"
+       ]
+      ],
+      "note": "[[c-size-similar]] [[c-inequality2025]] [[c-han-officials]] [[c-rome-elite]] [[c-coins-compare]] [[c-divergence]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ledger",
+    "signs": false,
+    "caption": "Two empires, two ways of ruling",
+    "title": "Han China and the Roman empire, 1st-2nd centuries CE",
+    "left": {
+     "h": "Han China",
+     "items": [
+      {
+       "t": "About 58-60 million registered people",
+       "s": "census of 2 CE"
+      },
+      {
+       "t": "Some 120,000-130,000 officials on the books",
+       "s": "Han history"
+      },
+      {
+       "t": "Top 1% take about 26% of income",
+       "s": "Alfani, Bolla and Scheidel (2025)"
+      },
+      {
+       "t": "Bronze coins, cast by the state",
+       "s": "the wuzhu, from 118 BCE"
+      },
+      {
+       "t": "Reunited in 280 and, lastingly, in 589",
+       "s": "Scheidel"
+      }
+     ]
+    },
+    "right": {
+     "h": "The Roman empire",
+     "items": [
+      {
+       "t": "Perhaps 60-75 million people",
+       "s": "modern estimates"
+      },
+      {
+       "t": "About 600 senators and 20,000 equestrians",
+       "s": "Scheidel and Friesen (2009)"
+      },
+      {
+       "t": "Top 1% take about 19% of income",
+       "s": "Alfani, Bolla and Scheidel (2025)"
+      },
+      {
+       "t": "Gold and silver coins, struck",
+       "s": "the aureus and denarius"
+      },
+      {
+       "t": "Never rebuilt after the 5th century",
+       "s": "Scheidel's 'First Great Divergence'"
+      }
+     ]
+    },
+    "notes": [
+     "All income figures are model-based estimates."
+    ]
+   },
+   "practice": [
+    {
+     "q": "According to the 2025 study by Alfani, Bolla and Scheidel, how did Han and Roman inequality compare?",
+     "choices": [
+      "Rome was a little more unequal, with a Gini of 0.48 to 0.46",
+      "The Han were a little more unequal, with a richer top 1%",
+      "They were alike, with top 1% shares of about 26% in both",
+      "They were alike, according to both empires' tax registers"
+     ],
+     "answer": 1,
+     "why": "Gini 0.48 for the Han in 2 CE against 0.46 for Rome in about 165 CE; the top 1 percent took about 26 percent of income in Han China and 19 percent in Rome.",
+     "wrong": {
+      "0": "The figures are the other way round: Rome's estimated Gini was 0.46, the Han's 0.48.",
+      "2": "Rome's top 1 percent took about 19 percent, against 26 percent in Han China.",
+      "3": "The figures are model-based, reconstructed from urbanisation and population density, not from tax records."
+     }
+    },
+    {
+     "q": "Which argument fits Walter Scheidel's 'First Great Divergence'?",
+     "choices": [
+      "Rome fell because its population was smaller than Han China's",
+      "China kept reuniting, Rome never did, and that shaped Europe",
+      "Europe's later growth came despite its divisions, not from them",
+      "Both empires collapsed because they taxed their people too hard"
+     ],
+     "answer": 1,
+     "why": "He turns 'why did Rome fall?' into 'why did it never come back?', and argues that Europe's lasting fragmentation was 'an indispensable precondition' for its later growth.",
+     "wrong": {
+      "0": "The two populations were of similar size, some 60 million or more each.",
+      "2": "Scheidel argues the reverse: fragmentation was 'an indispensable precondition' for Europe's later growth.",
+      "3": "Scheidel classes both as 'low-tax regimes'."
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,5558 @@
+{
+ "id": "ch08",
+ "no": "08",
+ "title": "Persia, Greece and Rome",
+ "sub": "the classical Mediterranean and its neighbours",
+ "sources": {
+  "brit-herodotus": {
+   "citation": "Encyclopaedia Britannica, \"Herodotus\"",
+   "url": "https://www.britannica.com/biography/Herodotus-Greek-historian"
+  },
+  "thuc1": {
+   "citation": "Thucydides, History of the Peloponnesian War, Book 1, tr. Crawley (MIT Internet Classics Archive)",
+   "url": "https://classics.mit.edu/Thucydides/pelopwar.1.first.html"
+  },
+  "thuc2": {
+   "citation": "Thucydides, History of the Peloponnesian War, Book 2, tr. Crawley (MIT Internet Classics Archive)",
+   "url": "https://classics.mit.edu/Thucydides/pelopwar.2.second.html"
+  },
+  "thuc5": {
+   "citation": "Thucydides, History of the Peloponnesian War, Book 5, tr. Crawley (MIT Internet Classics Archive)",
+   "url": "https://classics.mit.edu/Thucydides/pelopwar.5.fifth.html"
+  },
+  "brit-polybius": {
+   "citation": "Encyclopaedia Britannica, \"Polybius\"",
+   "url": "https://www.britannica.com/biography/Polybius"
+  },
+  "polyb1": {
+   "citation": "Polybius, Histories, Book 1 (Loeb translation on LacusCurtius)",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/1*.html"
+  },
+  "brit-livy": {
+   "citation": "Encyclopaedia Britannica, \"Livy\"",
+   "url": "https://www.britannica.com/biography/Livy"
+  },
+  "brit-josephus": {
+   "citation": "Encyclopaedia Britannica, \"Flavius Josephus\"",
+   "url": "https://www.britannica.com/biography/Flavius-Josephus"
+  },
+  "aio-ig259": {
+   "citation": "Attic Inscriptions Online, IG I³ 259: the first Athenian tribute quota list, 454/3 BCE",
+   "url": "https://atticinscriptions.com/inscription/IGI3/259"
+  },
+  "gr-2500": {
+   "citation": "Hellenic Ministry of Culture, \"2500 Years Since Thermopylae and Salamis: excavations\"",
+   "url": "https://2500years.culture.gov.gr/en/chapters/anaskafes"
+  },
+  "wilson2011": {
+   "citation": "Andrew Wilson, \"Developments in Mediterranean shipping and maritime trade from the Hellenistic period to AD 1000\" (Oxford, 2011)",
+   "url": "https://www.ancientportsantiques.com/wp-content/uploads/Documents/AUTHORS/Wilson2011-MedShipping.pdf"
+  },
+  "oxrep-wrecks": {
+   "citation": "Oxford Roman Economy Project, shipwrecks database",
+   "url": "https://oxrep.web.ox.ac.uk/shipwrecks-database"
+  },
+  "mcconnell2018": {
+   "citation": "EurekAlert, on McConnell et al., \"Lead pollution recorded in Greenland ice indicates European emissions tracked plagues, wars, and imperial expansion during antiquity\", PNAS (2018)",
+   "url": "https://www.eurekalert.org/news-releases/866148"
+  },
+  "mcconnell2025": {
+   "citation": "McConnell et al., \"Pan-European atmospheric lead pollution, enhanced blood lead levels, and cognitive decline from Roman-era mining and smelting\", PNAS 122 (2025), Oxford record",
+   "url": "https://ora.ox.ac.uk/objects/uuid:286d749d-5295-4ac1-be27-5161d167ba54"
+  },
+  "nbc-lead2025": {
+   "citation": "NBC News, on the 2025 Roman lead and IQ study, with comments by Bruce Lanphear and Joseph Manning",
+   "url": "https://www.nbcnews.com/news/amp/rcna186200"
+  },
+  "cnn-herculaneum": {
+   "citation": "CNN, on the Herculaneum scroll PHerc. 172 identified as Philodemus' On Vices (May 2025)",
+   "url": "https://edition.cnn.com/2025/05/06/science/herculaneum-scroll-title-author-decoded-intl-scli"
+  },
+  "brit-grecopersian": {
+   "citation": "Encyclopaedia Britannica, \"Greco-Persian Wars\"",
+   "url": "https://www.britannica.com/event/Greco-Persian-Wars"
+  },
+  "brit-salamis": {
+   "citation": "Encyclopaedia Britannica, \"Battle of Salamis\"",
+   "url": "https://www.britannica.com/event/Battle-of-Salamis"
+  },
+  "livius-salamis": {
+   "citation": "Livius, \"Salamis (480 BCE)\"",
+   "url": "https://www.livius.org/articles/battle/salamis-480-bce/"
+  },
+  "tarn1908": {
+   "citation": "W. W. Tarn, \"The fleet of Xerxes\", Journal of Hellenic Studies 28 (1908)",
+   "url": "https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/fleet-of-xerxes/F9124D82E10B775A1CBF2D583244479A"
+  },
+  "bmcr-2021-09-04": {
+   "citation": "Bryn Mawr Classical Review 2021.09.04 (S. Hirsch, review)",
+   "url": "https://bmcr.brynmawr.edu/?p=63178"
+  },
+  "isserlin2003": {
+   "citation": "Isserlin, Jones, Karastathis et al., \"The canal of Xerxes: summary of investigations 1991-2001\", Annual of the British School at Athens 98 (2003)",
+   "url": "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/canal-of-xerxes-summary-of-investigations-19912001/35C2DDE7525BB541A8C97C8A6AAA8CC8"
+  },
+  "isac-pfa": {
+   "citation": "Institute for the Study of Ancient Cultures, University of Chicago, Persepolis Fortification Archive project",
+   "url": "https://isac.uchicago.edu/node/2474"
+  },
+  "livius-pft": {
+   "citation": "Livius, \"Persepolis Fortification Tablets\"",
+   "url": "https://www.livius.org/sources/about/persepolis-fortification-tablets/"
+  },
+  "livius-datis": {
+   "citation": "Livius, \"Datis\"",
+   "url": "https://www.livius.org/articles/person/datis/"
+  },
+  "almonitor2024": {
+   "citation": "Al-Monitor, \"US returns to Iran latest batch of ancient clay tablets\" (27 September 2024)",
+   "url": "https://www.al-monitor.com/originals/2024/09/us-returns-iran-latest-batch-ancient-clay-tablets"
+  },
+  "eie-yauna": {
+   "citation": "National Hellenic Research Foundation, \"Greeks in Iran\" (Iranohellenica)",
+   "url": "https://iranohellenica.eie.gr/node/11"
+  },
+  "athpol": {
+   "citation": "Aristotle (school of), The Athenian Constitution, tr. Kenyon (MIT Internet Classics Archive)",
+   "url": "https://classics.mit.edu/Aristotle/athenian_const.mb.txt"
+  },
+  "demos": {
+   "citation": "C. W. Blackwell, \"The development of Athenian democracy\", Dēmos: Classical Athenian Democracy (Stoa, 2003)",
+   "url": "https://www.stoa.org/demos/article_democracy_overview@page=all&greekEncoding=UnicodeC.html"
+  },
+  "brit-ostracism": {
+   "citation": "Encyclopaedia Britannica, \"Ostracism\"",
+   "url": "https://www.britannica.com/topic/ostracism"
+  },
+  "agora25": {
+   "citation": "Mabel Lang, Ostraka, The Athenian Agora XXV (1990)",
+   "url": "https://ambrosia.ascsa.net/id/agora/publication/agora%2025"
+  },
+  "sickinger2017": {
+   "citation": "James Sickinger, \"New ostraka from the Athenian Agora\", Hesperia 86.3 (2017)",
+   "url": "https://ascsa.edu.gr/publications/hesperia/article/86/3/443-508"
+  },
+  "brit-pelwar-sum": {
+   "citation": "Encyclopaedia Britannica, \"Peloponnesian War\" summary",
+   "url": "https://www.britannica.com/summary/Peloponnesian-War"
+  },
+  "sehepunkte-akrigg": {
+   "citation": "Review of Ben Akrigg, Population and Economy in Classical Athens (2019), sehepunkte 21 (2021)",
+   "url": "https://www.sehepunkte.de/2021/01/33368.html"
+  },
+  "cfa-akrigg": {
+   "citation": "Classics for All, review of Akrigg, Population and Economy in Classical Athens",
+   "url": "https://classicsforall.org.uk/reading-room/book-reviews/population-and-economy-classical-athens"
+  },
+  "bmcr-akrigg": {
+   "citation": "Matthew Simonton, review of Akrigg, Population and Economy in Classical Athens, Bryn Mawr Classical Review 2020.10.40",
+   "url": "https://bmcr.brynmawr.edu/?p=49324"
+  },
+  "akrigg-ch4": {
+   "citation": "Ben Akrigg, Population and Economy in Classical Athens (Cambridge, 2019), ch. 4, \"Population size 2: non-citizens\"",
+   "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5B4418529EDF6E9DC300F43190ECDF6E/9781107027091c4_89-138.pdf/population_size_2_noncitizens.pdf"
+  },
+  "sd-typhoid2006": {
+   "citation": "ScienceDaily, on Papagrigorakis et al., DNA from the Kerameikos mass grave (2006)",
+   "url": "https://www.sciencedaily.com/releases/2006/01/060123163827.htm"
+  },
+  "ijid-noproof": {
+   "citation": "\"No proof that typhoid caused the Plague of Athens\", International Journal of Infectious Diseases 10.4 (2006), record",
+   "url": "https://www.scilit.net/publications/4f2c923baf3d3b532d91b14f866d916b"
+  },
+  "nature-plague": {
+   "citation": "Nature news, on candidate diseases for the plague of Athens",
+   "url": "https://www.nature.com/articles/4813343"
+  },
+  "apology": {
+   "citation": "Plato, Apology, tr. Jowett (MIT Internet Classics Archive)",
+   "url": "https://classics.mit.edu/Plato/apology.html"
+  },
+  "sep-socrates": {
+   "citation": "Stanford Encyclopedia of Philosophy, \"Socrates\"",
+   "url": "https://plato.stanford.edu/entries/socrates/"
+  },
+  "brit-socrates": {
+   "citation": "Encyclopaedia Britannica, \"Socrates\"",
+   "url": "https://www.britannica.com/biography/Socrates"
+  },
+  "brit-philip2": {
+   "citation": "Encyclopaedia Britannica, \"Philip II\" (king of Macedonia)",
+   "url": "https://www.britannica.com/biography/Philip-II-king-of-Macedonia"
+  },
+  "brit-alexander": {
+   "citation": "Encyclopaedia Britannica, \"Alexander the Great\"",
+   "url": "https://www.britannica.com/biography/Alexander-the-Great"
+  },
+  "brit-gaugamela": {
+   "citation": "Encyclopaedia Britannica, \"Battle of Gaugamela\"",
+   "url": "https://www.britannica.com/event/Battle-of-Gaugamela"
+  },
+  "brit-alexandria": {
+   "citation": "Encyclopaedia Britannica, \"Alexandria\"",
+   "url": "https://www.britannica.com/place/Alexandria-Egypt"
+  },
+  "brit-hydaspes": {
+   "citation": "Encyclopaedia Britannica, \"Battle of the Hydaspes\"",
+   "url": "https://www.britannica.com/event/Battle-of-the-Hydaspes"
+  },
+  "met-hellenistic": {
+   "citation": "The Met, \"Art of the Hellenistic Age and the Hellenistic tradition\"",
+   "url": "https://www.metmuseum.org/essays/art-of-the-hellenistic-age-and-the-hellenistic-tradition"
+  },
+  "brit-library": {
+   "citation": "Encyclopaedia Britannica, \"Library of Alexandria\"",
+   "url": "https://www.britannica.com/topic/Library-of-Alexandria"
+  },
+  "bagnall2002": {
+   "citation": "Roger Bagnall, \"Alexandria: library of dreams\", Proceedings of the American Philosophical Society 146.4 (2002)",
+   "url": "https://www.open.edu/openlearn/pluginfile.php/437863/mod_resource/content/2/Bagnall%20article.pdf"
+  },
+  "ou-library": {
+   "citation": "The Open University, OpenLearn, \"The Library of Alexandria\"",
+   "url": "https://www.open.edu/openlearn/history-the-arts/library-alexandria/content-section-2.1"
+  },
+  "brit-septuagint": {
+   "citation": "Encyclopaedia Britannica, \"Septuagint\"",
+   "url": "https://www.britannica.com/topic/Septuagint"
+  },
+  "iranica-aikhanoum": {
+   "citation": "Paul Bernard, \"Āy Ḵānom\", Encyclopaedia Iranica (1987)",
+   "url": "https://www.iranicaonline.org/articles/ay-kanom-or-a-khanum-tepe-a-local-uzbek-name-lit"
+  },
+  "met-afghan2009": {
+   "citation": "The Met, press release for \"Afghanistan: Hidden Treasures from the National Museum, Kabul\" (2009)",
+   "url": "https://www.metmuseum.org/press-releases/afghanistans-dazzling-national-treasureshidden-for-25-yearspresented-at-metropolitan-museum-2009-exhibitions"
+  },
+  "brit-antiochus4": {
+   "citation": "Encyclopaedia Britannica, \"Antiochus IV Epiphanes\"",
+   "url": "https://www.britannica.com/biography/Antiochus-IV-Epiphanes"
+  },
+  "brit-maccabees": {
+   "citation": "Encyclopaedia Britannica, \"Maccabees\"",
+   "url": "https://www.britannica.com/topic/Maccabees"
+  },
+  "bg-1macc1": {
+   "citation": "1 Maccabees 1:54-61 (NRSVUE)",
+   "url": "https://www.biblegateway.com/passage/?search=1%20Maccabees%201%3A54-61&version=NRSVUE"
+  },
+  "bg-1macc4": {
+   "citation": "1 Maccabees 4:52-59 (NRSVUE)",
+   "url": "https://www.biblegateway.com/passage/?search=1%20Maccabees%204%3A52-59&version=NRSVUE"
+  },
+  "bg-2macc10": {
+   "citation": "2 Maccabees 10:5-8 and 1 Maccabees 13:41-42 (NRSVUE)",
+   "url": "https://www.biblegateway.com/passage/?search=2%20Maccabees%2010%3A5-8%3B1%20Maccabees%2013%3A41-42&version=NRSVUE"
+  },
+  "sefaria-shabbat21b": {
+   "citation": "Babylonian Talmud, Shabbat 21b (Sefaria, English)",
+   "url": "https://www.sefaria.org/Shabbat.21b"
+  },
+  "brit-jerusalem-roman": {
+   "citation": "Encyclopaedia Britannica, \"Jerusalem: Roman rule\"",
+   "url": "https://www.britannica.com/place/Jerusalem/Roman-rule"
+  },
+  "brit-sadducee": {
+   "citation": "Encyclopaedia Britannica, \"Sadducee\"",
+   "url": "https://www.britannica.com/topic/Sadducee"
+  },
+  "brit-essene": {
+   "citation": "Encyclopaedia Britannica, \"Essene\"",
+   "url": "https://www.britannica.com/topic/Essene"
+  },
+  "cojs-pliny-essenes": {
+   "citation": "Center for Online Judaic Studies, Pliny, Natural History 5.15, 'the solitary Essenes'",
+   "url": "https://cojs.org/pliny-_natural_history_v-_xv-_the_solitary_essenes/"
+  },
+  "upenn-essenes": {
+   "citation": "R. A. Kraft (University of Pennsylvania), ancient texts on the Essenes: Philo, Josephus and Pliny",
+   "url": "https://ccat.sas.upenn.edu/rak/courses/225/texts/ESSENES"
+  },
+  "brit-dss": {
+   "citation": "Encyclopaedia Britannica, \"Dead Sea Scrolls\"",
+   "url": "https://www.britannica.com/topic/Dead-Sea-Scrolls"
+  },
+  "benami2004": {
+   "citation": "Yaakov Ben-Ami, \"The enigma of Qumran\", The Bible and Interpretation (2004)",
+   "url": "https://bibleinterp.arizona.edu/node/2891"
+  },
+  "popovic2025": {
+   "citation": "Popović et al., \"Dating ancient manuscripts using radiocarbon and AI-based writing style analysis\", PLOS ONE 20.6 (2025)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323185"
+  },
+  "eurekalert-enoch": {
+   "citation": "EurekAlert, University of Groningen release on the 'Enoch' dating model (2025)",
+   "url": "https://www.eurekalert.org/news-releases/1085589"
+  },
+  "bg-dan11": {
+   "citation": "Daniel 11:31 and 12:11 (NRSVUE)",
+   "url": "https://www.biblegateway.com/passage/?search=Daniel%2011%3A31%3BDaniel%2012%3A11&version=NRSVUE"
+  },
+  "met-romr": {
+   "citation": "The Met, \"The Roman Republic\"",
+   "url": "https://www.metmuseum.org/toah/hd/romr/hd_romr.htm"
+  },
+  "jobin-lapis": {
+   "citation": "N. V. Jobin, Ancient Rome: Sourcebook and Historical Atlas (open textbook, 2022), on the Lapis Niger",
+   "url": "https://colorado.pressbooks.pub/ancientrome/?p=55"
+  },
+  "carlsberg-sauer": {
+   "citation": "Carlsberg Foundation grant CF22-0141 (Cambridge project on archaic Rome)",
+   "url": "https://www.carlsbergfondet.dk/det-har-vi-stoettet/CF22-0141"
+  },
+  "sd-gabii2025": {
+   "citation": "ScienceDaily / University of Missouri, on the Gabii basin (2 December 2025)",
+   "url": "https://www.sciencedaily.com/releases/2025/12/251202052222.htm"
+  },
+  "brit-republic": {
+   "citation": "Encyclopaedia Britannica, \"Roman Republic\"",
+   "url": "https://www.britannica.com/place/Roman-Republic"
+  },
+  "brit-orders": {
+   "citation": "Encyclopaedia Britannica, \"Conflict of the Orders\"",
+   "url": "https://www.britannica.com/topic/Conflict-of-the-Orders"
+  },
+  "brit-hortensia": {
+   "citation": "Encyclopaedia Britannica, \"Lex Hortensia\"",
+   "url": "https://www.britannica.com/topic/Lex-Hortensia"
+  },
+  "polyb6": {
+   "citation": "Polybius, Histories, Book 6 (Loeb translation on LacusCurtius)",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/6*.html"
+  },
+  "brit-pyrrhus": {
+   "citation": "Encyclopaedia Britannica, \"Pyrrhus\"",
+   "url": "https://www.britannica.com/biography/Pyrrhus"
+  },
+  "ebsco-julian": {
+   "citation": "Pepe and Watkins, \"Julian Law\", EBSCO Research Starters (2022)",
+   "url": "https://www.ebsco.com/research-starters/history/julian-law/"
+  },
+  "brit-punic": {
+   "citation": "Encyclopaedia Britannica, \"Punic Wars\"",
+   "url": "https://www.britannica.com/event/Punic-Wars"
+  },
+  "met-iberia": {
+   "citation": "The Met, Heilbrunn Timeline, \"Iberian Peninsula, 1000 B.C.-1 A.D.\"",
+   "url": "https://www.metmuseum.org/toah/ht/04/eusi.html"
+  },
+  "brit-cartagena": {
+   "citation": "Encyclopaedia Britannica, \"Cartagena\" (Spain)",
+   "url": "https://www.britannica.com/place/Cartagena-Spain"
+  },
+  "brit-hannibal": {
+   "citation": "Encyclopaedia Britannica, \"Hannibal\"",
+   "url": "https://www.britannica.com/biography/Hannibal-Carthaginian-general-247-183-BC"
+  },
+  "brit-nearer-spain": {
+   "citation": "Encyclopaedia Britannica, \"Nearer Spain\"",
+   "url": "https://www.britannica.com/place/Nearer-Spain"
+  },
+  "brit-numantia": {
+   "citation": "Encyclopaedia Britannica, \"Numantia\"",
+   "url": "https://www.britannica.com/place/Numantia"
+  },
+  "grout-numantia": {
+   "citation": "James Grout, \"The Celtiberian War\", Encyclopaedia Romana (University of Chicago)",
+   "url": "https://penelope.uchicago.edu/encyclopaedia_romana/hispania/celtiberianwar.html"
+  },
+  "brit-cantabrian": {
+   "citation": "Encyclopaedia Britannica, \"Cantabrian War\"",
+   "url": "https://www.britannica.com/topic/Cantabrian-War"
+  },
+  "ebsco-spanish": {
+   "citation": "Rydgren, \"Spanish language\", EBSCO Research Starters (2023)",
+   "url": "https://ebsco.com/research-starters/language-and-linguistics/spanish-language"
+  },
+  "brit-spanish": {
+   "citation": "Encyclopaedia Britannica, \"Spanish language\"",
+   "url": "https://www.britannica.com/topic/Spanish-language"
+  },
+  "unesco-medulas": {
+   "citation": "UNESCO World Heritage Centre, \"Las Médulas\"",
+   "url": "https://whc.unesco.org/en/list/803/"
+  },
+  "jones1980": {
+   "citation": "G. D. B. Jones, \"The Roman mines at Riotinto\", Journal of Roman Studies 70 (1980)",
+   "url": "https://www.cambridge.org/core/journals/journal-of-roman-studies/article/abs/roman-mines-at-riotinto/8C596A65C572C330A1F121E4423957A9"
+  },
+  "ku-mcconnell2018": {
+   "citation": "McConnell et al., \"Lead pollution recorded in Greenland ice...\", PNAS 115 (2018), University of Copenhagen record",
+   "url": "https://researchprofiles.ku.dk/en/publications/lead-pollution-recorded-in-greenland-ice-indicates-european-emiss/"
+  },
+  "brit-tgracchus": {
+   "citation": "Encyclopaedia Britannica, \"Tiberius Sempronius Gracchus\" summary",
+   "url": "https://www.britannica.com/summary/Tiberius-Sempronius-Gracchus"
+  },
+  "brit-ggracchus": {
+   "citation": "Encyclopaedia Britannica, \"Gaius Sempronius Gracchus\" summary",
+   "url": "https://britannica.com/summary/Gaius-Sempronius-Gracchus"
+  },
+  "brit-marius": {
+   "citation": "Encyclopaedia Britannica, \"Gaius Marius\"",
+   "url": "https://www.britannica.com/biography/Gaius-Marius"
+  },
+  "bmcr-cadiou": {
+   "citation": "David Rafferty, review of François Cadiou, L'armée imaginaire (2018), Bryn Mawr Classical Review 2021.06.02",
+   "url": "https://bmcr.brynmawr.edu/?p=61738"
+  },
+  "faventia-cadiou": {
+   "citation": "Isaías Arrayás Morales, review of Cadiou, L'armée imaginaire, Faventia 42 (2020)",
+   "url": "https://ddd.uab.cat/pub/faventia/faventia_a2020v42/faventia_a2020v42p109.pdf"
+  },
+  "brit-sulla": {
+   "citation": "Encyclopaedia Britannica, \"Sulla\"",
+   "url": "https://www.britannica.com/biography/Sulla"
+  },
+  "brit-caesar": {
+   "citation": "Encyclopaedia Britannica, \"Julius Caesar\" summary",
+   "url": "https://www.britannica.com/summary/Julius-Caesar-Roman-ruler"
+  },
+  "brit-carrhae": {
+   "citation": "Encyclopaedia Britannica, \"Battle of Carrhae\"",
+   "url": "https://www.britannica.com/event/Battle-of-Carrhae"
+  },
+  "brit-augustus-sum": {
+   "citation": "Encyclopaedia Britannica, \"Augustus\" summary",
+   "url": "https://www.britannica.com/summary/Augustus-Roman-emperor"
+  },
+  "brit-augustus": {
+   "citation": "Encyclopaedia Britannica, \"Augustus\"",
+   "url": "https://www.britannica.com/biography/Augustus-Roman-emperor"
+  },
+  "resgestae": {
+   "citation": "Augustus, Res Gestae Divi Augusti (Loeb translation on LacusCurtius)",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Augustus/Res_Gestae/6*.html"
+  },
+  "brit-princeps": {
+   "citation": "Encyclopaedia Britannica, \"Princeps\"",
+   "url": "https://www.britannica.com/topic/princeps"
+  },
+  "princeton-flower": {
+   "citation": "Princeton Classics bookshelf, Harriet Flower, Roman Republics (2010)",
+   "url": "https://classics.princeton.edu/research/bookshelf/roman-republics"
+  },
+  "ucp-gruen": {
+   "citation": "University of California Press, Erich Gruen, The Last Generation of the Roman Republic (1974)",
+   "url": "https://www.ucpress.edu/books/the-last-generation-of-the-roman-republic/epub-pdf"
+  },
+  "brit-fivegood": {
+   "citation": "Encyclopaedia Britannica, \"Five Good Emperors\"",
+   "url": "https://www.britannica.com/print/article/209020"
+  },
+  "brit-trajan": {
+   "citation": "Encyclopaedia Britannica, \"Trajan\"",
+   "url": "https://www.britannica.com/EBchecked/topic/602150/Trajan"
+  },
+  "cojs-pilate": {
+   "citation": "Center for Online Judaic Studies, \"Pontius Pilate's Tiberieum inscription, 26-36 CE\"",
+   "url": "https://cojs.org/pontius_pilate-s_tiberium_inscription-_26-36_ce/"
+  },
+  "tacitus-ann15": {
+   "citation": "Tacitus, Annals 15.44 (Loeb translation on LacusCurtius)",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"
+  },
+  "goldberg-tf": {
+   "citation": "G. J. Goldberg, \"The mystery of the Testimonium Flavianum\" (josephus.org)",
+   "url": "https://josephus.org/testhist.htm"
+  },
+  "brit-paul": {
+   "citation": "Encyclopaedia Britannica, \"Saint Paul the Apostle\"",
+   "url": "https://www.britannica.com/biography/Saint-Paul-the-Apostle"
+  },
+  "bg-gal1": {
+   "citation": "Galatians 1:18-19 (NRSVUE)",
+   "url": "https://www.biblegateway.com/passage/?search=Galatians+1%3A18-19&version=NRSVUE"
+  },
+  "bg-mark13": {
+   "citation": "Mark 13:1-2 (NRSVUE)",
+   "url": "https://www.biblegateway.com/passage/?search=Mark+13%3A1-2&version=NRSVUE"
+  },
+  "brit-jesus": {
+   "citation": "Encyclopaedia Britannica, \"Jesus\"",
+   "url": "https://www.britannica.com/biography/Jesus"
+  },
+  "ehrman-dates": {
+   "citation": "Bart Ehrman, \"Why date the Gospels after 70 CE?\" (Ehrman Blog)",
+   "url": "https://ehrmanblog.org/why-date-the-gospels-after-70-ce/"
+  },
+  "stpaul-dates": {
+   "citation": "Christopher Harrold, \"When were the Gospels written?\", St. Paul Center (2024), on Jonathan Bernier",
+   "url": "https://stpaulcenter.com/when-were-the-gospels-written/"
+  },
+  "deseret-ehrman": {
+   "citation": "Deseret News, \"An agnostic's argument that Jesus did exist\" (2012), quoting Bart Ehrman",
+   "url": "https://www.deseret.com/2012/7/12/20423585/an-agnostic-s-argument-that-jesus-did-exist"
+  },
+  "carrier": {
+   "citation": "Richard Carrier, on On the Historicity of Jesus (2014), richardcarrier.info",
+   "url": "https://www.richardcarrier.info/archives/5388"
+  },
+  "hurtado-fredriksen": {
+   "citation": "Larry Hurtado, review of Paula Fredriksen, When Christians Were Jews (2018), Marginalia (2019)",
+   "url": "https://themarginaliareview.com/when-jesus-was-jewish/"
+  },
+  "bauckham": {
+   "citation": "Richard Bauckham, Jesus and the Eyewitnesses (Eerdmans), publisher's description",
+   "url": "https://blackwells.co.uk/bookshop/product/9780802863904"
+  },
+  "yu-titus": {
+   "citation": "Yeshiva University, Arch of Titus Project",
+   "url": "https://www.yu.edu/node/25288"
+  },
+  "unesco-masada": {
+   "citation": "UNESCO World Heritage Centre, \"Masada\"",
+   "url": "https://whc.unesco.org/en/list/1040/"
+  },
+  "brit-barkokhba": {
+   "citation": "Encyclopaedia Britannica, \"Bar Kokhba\"",
+   "url": "https://www.britannica.com/print/article/52477"
+  },
+  "dio69": {
+   "citation": "Cassius Dio, Roman History 69.12-14 (Loeb translation on LacusCurtius)",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69*.html"
+  },
+  "cojs-bk-letter": {
+   "citation": "Center for Online Judaic Studies, \"Bar Kokhba letter, 132-135 CE\"",
+   "url": "https://cojs.org/Bar_Kokhba_Letter-_132-135_CE/"
+  },
+  "dawn-swords2023": {
+   "citation": "Dawn / AFP, \"Roman-era weapons found inside cave in Judean desert\" (September 2023)",
+   "url": "https://www.dawn.com/news/1774485/roman-era-weapons-found-inside-cave-in-judean-desert"
+  },
+  "lpj-sepulchre": {
+   "citation": "Latin Patriarchate of Jerusalem, \"The stones speak: excavations reshaping the history of the Holy Sepulchre\" (2025)",
+   "url": "https://www.lpj.org/en/news/the-stones-speak-excavations-reshaping-the-history-of-the-holy"
+  },
+  "ms-ways": {
+   "citation": "Becker and Reed (eds.), The Ways That Never Parted, Mohr Siebeck",
+   "url": "https://mohrsiebeck.com/en/book/the-ways-that-never-parted-9783161586958"
+  },
+  "scheidel-pop": {
+   "citation": "Walter Scheidel, \"Roman population size: the logic of the debate\", Princeton/Stanford Working Papers (2007)",
+   "url": "https://homepages.uc.edu/~martinj/Latin/Roman_Population/Scheildel%20-%20Roman%20population%20Size.pdf"
+  },
+  "scheidel-friesen": {
+   "citation": "Scheidel and Friesen, \"The size of the economy and the distribution of income in the Roman empire\", Journal of Roman Studies 99 (2009)",
+   "url": "https://cambridge.org/core/journals/journal-of-roman-studies/article/size-of-the-economy-and-the-distribution-of-income-in-the-roman-empire/ADBB8C20D8DFDB7F5A8B209718AF7942"
+  },
+  "temin": {
+   "citation": "Peter Temin, The Roman Market Economy (Princeton, 2013), description via RePEc",
+   "url": "https://econpapers.repec.org/RePEc:pup:pbooks:9896"
+  },
+  "allen2007": {
+   "citation": "Robert C. Allen, \"How prosperous were the Romans?\", Oxford Economics Working Paper 363 (2007)",
+   "url": "https://ideas.repec.org/p/oxf/wpaper/363.html"
+  },
+  "scheidel2005": {
+   "citation": "Walter Scheidel, \"Human mobility in Roman Italy II: the slave population\", Journal of Roman Studies 95 (2005)",
+   "url": "https://cambridge.org/core/journals/journal-of-roman-studies/article/human-mobility-in-roman-italy-ii-the-slave-population/72D80C5839817A1F4C456A33C9F62E7A"
+  },
+  "scheidel1997": {
+   "citation": "Walter Scheidel, \"Quantifying the sources of slaves in the early Roman empire\", Journal of Roman Studies 87 (1997)",
+   "url": "https://www.cambridge.org/core/journals/journal-of-roman-studies/article/quantifying-the-sources-of-slaves-in-the-early-roman-empire/C0981C8851D925FD1019FF93985F23AF"
+  },
+  "broekaert": {
+   "citation": "Wim Broekaert, \"Oil for Rome during the second and third century AD\" (Ghent University)",
+   "url": "https://core.ac.uk/download/55842903.pdf"
+  },
+  "warwick-denarius": {
+   "citation": "University of Warwick, press release on Butcher and Ponting's analysis of the Republican denarius",
+   "url": "https://warwick.ac.uk/newsandevents/pressreleases/research_team_sheds/"
+  },
+  "oregon-debasement": {
+   "citation": "University of Oregon, \"Debasement of the denarius\" (teaching table)",
+   "url": "https://klio.uoregon.edu/maps/re/debasement2.htm"
+  },
+  "univie-lead": {
+   "citation": "University of Vienna, \"Lead pollution likely caused IQ declines in ancient Rome\" (2025)",
+   "url": "https://fgga.univie.ac.at/en/news/news-views/detailansicht/news/lead-pollution-likely-caused-iq-declines-in-ancient-rome/"
+  },
+  "bas-antonine": {
+   "citation": "Sarah Yeomans, \"Plague, pandemic and the Roman empire\", Biblical Archaeology Society (2017)",
+   "url": "https://library.biblicalarchaeology.org/?p=127430"
+  },
+  "bas-antonine-daily": {
+   "citation": "Biblical Archaeology Society, 'The Antonine plague and the spread of Christianity'",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/the-antonine-plague-and-the-spread-of-christianity/"
+  },
+  "smith-climate2024": {
+   "citation": "Smithsonian Magazine, on Zonneveld, Harper et al., Science Advances (2024): Roman plagues and cold, dry periods",
+   "url": "https://www.smithsonianmag.com/smart-news/roman-empire-plagues-linked-with-cold-dry-periods-180983680/"
+  },
+  "newfield2022": {
+   "citation": "Newfield, Duggan and Poinar, \"Smallpox's antiquity in doubt\", Journal of Roman Archaeology 35 (2022)",
+   "url": "https://core-prod.cambridgecore.org/core/services/aop-cambridge-core/content/view/B15B505D959E90824B6B9DCFAB1FA124/S1047759422000290a.pdf/smallpoxs_antiquity_in_doubt.pdf"
+  },
+  "cc-harper": {
+   "citation": "Christian Century, review of Kyle Harper, The Fate of Rome",
+   "url": "https://christiancentury.org/print/pdf/node/34265"
+  },
+  "karasaridis2025": {
+   "citation": "Karasaridis and Chalupa, modelling the Antonine Plague in Rome, PLOS ONE 20.2 (2025), Masaryk University record",
+   "url": "https://www.muni.cz/en/research/publications/2477039"
+  },
+  "brit-parthia": {
+   "citation": "Encyclopaedia Britannica, \"Parthia\"",
+   "url": "https://www.britannica.com/place/Parthia"
+  },
+  "hhs-hill": {
+   "citation": "Hou Hanshu, chapter on the Western Regions, tr. John E. Hill (2003), Silk Road Seattle",
+   "url": "https://depts.washington.edu/silkroad/texts/hhshu/hou_han_shu.html"
+  },
+  "unesco-meroe": {
+   "citation": "UNESCO World Heritage Centre, \"Archaeological Sites of the Island of Meroe\"",
+   "url": "https://whc.unesco.org/en/list/1336/"
+  },
+  "brit-napata": {
+   "citation": "Encyclopaedia Britannica, \"Napata\"",
+   "url": "https://www.britannica.com/place/Napata"
+  },
+  "bm-meroe-head": {
+   "citation": "British Museum, the Meroë Head of Augustus (1911,0901.1)",
+   "url": "https://www.britishmuseum.org/collection/object/G_1911-0901-1"
+  },
+  "unesco-aksum": {
+   "citation": "UNESCO World Heritage Centre, \"Aksum\"",
+   "url": "https://whc.unesco.org/en/list/15/"
+  },
+  "pliny-india": {
+   "citation": "Pliny the Elder, Natural History 6.96-111 (on India), Internet History Sourcebooks",
+   "url": "https://sourcebooks.web.fordham.edu/ancient/pliny-india.asp"
+  },
+  "deromanis2014": {
+   "citation": "Federico De Romanis, on the Muziris papyrus, ISAW Papers 8 (2014)",
+   "url": "https://dlib.nyu.edu/awdl/isaw/isaw-papers/8/"
+  },
+  "ahram-berenike": {
+   "citation": "Ahram Online, on the Buddha statue found at Berenike (April 2023)",
+   "url": "https://english.ahram.org.eg/News/498493.aspx"
+  },
+  "brit-teutoburg": {
+   "citation": "Encyclopaedia Britannica, \"Battle of the Teutoburg Forest\"",
+   "url": "https://www.britannica.com/event/Battle-of-the-Teutoburg-Forest"
+  },
+  "smith-kalkriese": {
+   "citation": "Smithsonian Magazine, on excavations at Kalkriese",
+   "url": "https://www.smithsonianmag.com/smart-news/new-excavation-will-examine-germanys-legendary-founding-battle-180964235/"
+  },
+  "idw-kalkriese2026": {
+   "citation": "Deutsches Bergbau-Museum Bochum, release on metal analysis of finds from Kalkriese (idw, January 2026)",
+   "url": "https://idw-online.de/en/news865236"
+  }
+ },
+ "claims": {
+  "c-herodotus": {
+   "text": "Herodotus came from Halicarnassus (modern Bodrum), a Greek city under Persian rule; his Histories are 'the first great narrative history produced in the ancient world'.",
+   "label": "approx",
+   "sources": [
+    "brit-herodotus"
+   ],
+   "show": true,
+   "note": "He was born about 484 BCE and died between about 430 and 420; neither date is secure."
+  },
+  "c-thuc-speeches": {
+   "text": "Thucydides says he wrote his speeches 'adhering as closely as possible to the general sense of what they really said', and called his book 'a possession for all time' (1.22).",
+   "label": "consensus",
+   "sources": [
+    "thuc1"
+   ],
+   "show": false
+  },
+  "c-polybius": {
+   "text": "Polybius, a Greek hostage in Rome, set out to explain how the Romans 'in less than fifty-three years' had brought nearly the whole inhabited world under their rule (1.1).",
+   "label": "approx",
+   "sources": [
+    "brit-polybius",
+    "polyb1"
+   ],
+   "show": true,
+   "note": "His own dates, about 200 to about 118 BCE, are approximate; the fifty-three years run from 220 to the fall of Macedon in 168/167 BCE."
+  },
+  "c-livy": {
+   "text": "Livy (died 17 CE) wrote 142 books of Roman history; only 35 survive (Books 1-10 and 21-45), and the rest are known from short summaries.",
+   "label": "consensus",
+   "sources": [
+    "brit-livy"
+   ],
+   "show": false
+  },
+  "c-josephus": {
+   "text": "Josephus (born 37/38 CE, died about 100) wrote the Jewish War in the 70s and the Jewish Antiquities in 93/94 CE; he is the main narrative source for Judea in this period.",
+   "label": "consensus",
+   "sources": [
+    "brit-josephus"
+   ],
+   "show": false
+  },
+  "c-inscriptions": {
+   "text": "Inscriptions preserve state records that no historian quotes: from 454/3 BCE Athens carved on stone the sixtieth of each ally's tribute dedicated to Athena.",
+   "label": "consensus",
+   "sources": [
+    "aio-ig259"
+   ],
+   "show": false
+  },
+  "c-wrecks": {
+   "text": "Counts of dated shipwrecks rise steeply in the late Republic and peak in the 1st century CE; in the 2nd and 3rd centuries they fall below a third of that peak.",
+   "label": "debated",
+   "sources": [
+    "wilson2011",
+    "oxrep-wrecks"
+   ],
+   "show": true,
+   "note": "Andrew Wilson, who compiled the counts, warns that wrecks are not a direct measure of trade: amphora cargoes are easy to find, barrels and perishable goods are not, and some coasts are barely surveyed."
+  },
+  "c-lead-ice": {
+   "text": "Lead in Greenland ice records European mining and smelting year by year from 1100 BCE to 800 CE: it rises with Phoenician expansion, peaks under the Roman empire, and dips during wars and after the Antonine plague.",
+   "label": "approx",
+   "sources": [
+    "mcconnell2018"
+   ],
+   "show": true,
+   "note": "The measurements are secure; matching individual dips to particular wars and plagues is interpretation."
+  },
+  "c-lead-iq": {
+   "text": "A 2025 study estimates that Roman-era airborne lead raised children's blood lead across Europe enough to lower average IQ by about 2.5 to 3 points.",
+   "label": "debated",
+   "sources": [
+    "mcconnell2025",
+    "nbc-lead2025",
+    "univie-lead"
+   ],
+   "show": true,
+   "note": "New and model-based, not measured in people. Bruce Lanphear calls it 'likely to be an underestimate', since it counts only airborne lead and not sources such as lead-sweetened wine or pipes, and says 'it's never just one thing'; Joseph Manning notes that the lead came 'on top of really horrible sanitary conditions'."
+  },
+  "c-herculaneum": {
+   "text": "Scrolls carbonised at Herculaneum by Vesuvius in 79 CE are now being read without unrolling them: the first word was read in 2023, and in 2025 one scroll was identified as a work of the philosopher Philodemus, On Vices.",
+   "label": "approx",
+   "sources": [
+    "cnn-herculaneum"
+   ],
+   "show": true,
+   "note": "New. The method combines X-ray scans with machine learning; only small parts of a few scrolls have been read so far."
+  },
+  "c-ionian": {
+   "text": "The Ionian Revolt was a failed rising of the Greek cities of western Anatolia against Persia; Athens and Eretria sent a small fleet to help.",
+   "label": "approx",
+   "sources": [
+    "brit-grecopersian"
+   ],
+   "show": true,
+   "note": "Usually dated 499-494 BCE; Britannica gives 500-494."
+  },
+  "c-marathon": {
+   "text": "At Marathon in 490 BCE about 10,000 Athenians and 1,000 Plataeans defeated a Persian landing force; Herodotus gives the dead as 192 Greeks and 6,400 Persians.",
+   "label": "approx",
+   "sources": [
+    "brit-grecopersian"
+   ],
+   "show": true,
+   "note": "The outcome is certain; the figures come from Herodotus, and the size of the Persian force (Britannica says about 25,000) is an estimate."
+  },
+  "c-thermopylae": {
+   "text": "In August 480 BCE Leonidas of Sparta held the pass at Thermopylae for two days, until a local man guided Persian troops around it; the Greek fleet fought at Artemisium at the same time.",
+   "label": "consensus",
+   "sources": [
+    "brit-grecopersian"
+   ],
+   "show": false
+  },
+  "c-athens-burned": {
+   "text": "The Persians burned the evacuated city of Athens in 480 BCE; excavators have found burned monuments on the Acropolis and destroyed buildings in the Agora.",
+   "label": "consensus",
+   "sources": [
+    "gr-2500"
+   ],
+   "show": false
+  },
+  "c-salamis": {
+   "text": "At Salamis in September 480 BCE about 370 Greek triremes defeated a Persian fleet perhaps twice as large in the narrow strait.",
+   "label": "approx",
+   "sources": [
+    "brit-salamis",
+    "livius-salamis"
+   ],
+   "show": true,
+   "note": "Britannica gives about 800 Persian ships; the exact day is also uncertain (Livius suggests 29 September)."
+  },
+  "c-plataea": {
+   "text": "In 479 BCE a Spartan-led army won at Plataea, and the Greeks destroyed the beached Persian fleet at Mycale, ending the invasion.",
+   "label": "consensus",
+   "sources": [
+    "brit-grecopersian"
+   ],
+   "show": false
+  },
+  "c-xerxes-army": {
+   "text": "Herodotus gives Xerxes an army of millions; modern historians reject that figure but disagree about the real size.",
+   "label": "debated",
+   "sources": [
+    "brit-grecopersian",
+    "tarn1908",
+    "bmcr-2021-09-04"
+   ],
+   "show": true,
+   "note": "For the fleet alone, scholars already ranged in 1908 from Delbrück's 300 ships at most to Herodotus' 1,207; one recent estimate puts about 200,000 fighting men at Plataea, on both sides together."
+  },
+  "c-herodotus-court": {
+   "text": "Herodotus' speeches and scenes at Xerxes' court are literary reconstructions; one reviewer calls it 'virtually inconceivable' that he knew what the king said in private.",
+   "label": "consensus",
+   "sources": [
+    "bmcr-2021-09-04"
+   ],
+   "show": false
+  },
+  "c-athos": {
+   "text": "Geophysical survey and boreholes across the Athos peninsula (1991-2001) found a buried channel about 30 m wide, most likely the canal Herodotus says Xerxes dug for his fleet.",
+   "label": "approx",
+   "sources": [
+    "isserlin2003"
+   ],
+   "show": true,
+   "note": "'Most likely' is the investigators' own judgement; the canal's course is reconstructed from cores and survey."
+  },
+  "c-pfa": {
+   "text": "The Persepolis Fortification Archive, found in 1933, holds some 15,000 to 18,000 inscribed tablets, mostly in Elamite, recording food stores and rations around 500 BCE.",
+   "label": "approx",
+   "sources": [
+    "isac-pfa",
+    "livius-pft"
+   ],
+   "show": true,
+   "note": "Counts vary because so many tablets are fragments; the dated texts run from about 509 to 494 BCE on most reckonings (Livius gives 506-497)."
+  },
+  "c-datis": {
+   "text": "A Persepolis tablet of 494 BCE issues wine to 'Datiya', who was carrying a sealed royal document from Sardis to the king; he is probably Datis, a commander at Marathon four years later.",
+   "label": "debated",
+   "sources": [
+    "livius-datis"
+   ],
+   "show": true,
+   "note": "The identification is widely accepted but not proven. Jona Lendering also argues that, for Persia, Marathon was a minor setback rather than the decisive defeat of Greek tradition."
+  },
+  "c-pfa-return": {
+   "text": "The University of Chicago returned more than 3,500 of the tablets to Iran in 2023 and another 1,100 in 2024.",
+   "label": "consensus",
+   "sources": [
+    "almonitor2024"
+   ],
+   "show": false
+  },
+  "c-yauna": {
+   "text": "Darius's inscriptions call Greeks Yaunā, a word related to 'Ionians'.",
+   "label": "debated",
+   "sources": [
+    "eie-yauna"
+   ],
+   "show": true,
+   "note": "Whether Persians meant all Greeks or chiefly those of Asia Minor is debated."
+  },
+  "c-cleisthenes": {
+   "text": "Cleisthenes (508/7 BCE) replaced Athens' four old tribes with ten new ones and enlarged the Council from 400 to 500 members.",
+   "label": "consensus",
+   "sources": [
+    "athpol"
+   ],
+   "show": false
+  },
+  "c-council": {
+   "text": "The Council of 500 was chosen by lot, 50 from each tribe, from citizens over 30; the Assembly met on the Pnyx hill four times in each tenth of the year and usually voted by show of hands.",
+   "label": "consensus",
+   "sources": [
+    "demos"
+   ],
+   "show": false
+  },
+  "c-generals": {
+   "text": "Generals (strategoi) were elected, not chosen by lot: the one job where Athenians thought skill mattered more than equal chances.",
+   "label": "consensus",
+   "sources": [
+    "demos"
+   ],
+   "show": false
+  },
+  "c-quorum": {
+   "text": "Some decisions, taken by secret ballot, needed at least 6,000 citizens present.",
+   "label": "consensus",
+   "sources": [
+    "demos"
+   ],
+   "show": false
+  },
+  "c-ostracism": {
+   "text": "Ostracism, credited to Cleisthenes, sent a leading citizen out of Attica for ten years without any charge, though he kept his property; it was first used in 488/7 BCE and last probably in 417.",
+   "label": "approx",
+   "sources": [
+    "brit-ostracism"
+   ],
+   "show": true,
+   "note": "The last date is uncertain (417 or 416)."
+  },
+  "c-ostraka": {
+   "text": "The potsherd ballots survive: the Agora excavations published 1,145 from the Agora itself and 191 from one well, most naming Themistocles; more than 150 from the 480s, published in 2017, mostly name Xanthippos, Pericles' father.",
+   "label": "consensus",
+   "sources": [
+    "agora25",
+    "sickinger2017"
+   ],
+   "show": false
+  },
+  "c-pay": {
+   "text": "Pericles 'was the first to institute pay for service in the law-courts'; later, pay for attending the Assembly began at one obol and rose to three.",
+   "label": "tradition",
+   "sources": [
+    "athpol",
+    "demos"
+   ],
+   "show": true,
+   "note": "Both statements come from the Athenian Constitution (27, 41); jurors were paid three obols a day."
+  },
+  "c-juries": {
+   "text": "Athenian juries were very large and chosen by lot: 201 or 401 citizens for private suits, and 501 or more, up to 1,500, for public cases.",
+   "label": "consensus",
+   "sources": [
+    "demos",
+    "athpol"
+   ],
+   "show": false
+  },
+  "c-citizen-law": {
+   "text": "A law proposed by Pericles limited citizenship to those 'of citizen birth by both parents'.",
+   "label": "tradition",
+   "sources": [
+    "athpol"
+   ],
+   "show": true,
+   "note": "Conventionally dated 451/0 BCE from the Athenian Constitution (26)."
+  },
+  "c-excluded": {
+   "text": "Only adult male citizens could speak and vote; women, slaves and resident foreigners (metics) had no political rights. Pericles' funeral speech praises the woman who is 'least talked of among the men'.",
+   "label": "consensus",
+   "sources": [
+    "demos",
+    "thuc2"
+   ],
+   "show": false
+  },
+  "c-delian": {
+   "text": "The Delian League was founded in 478 BCE under Athenian leadership with its treasury on Delos; the treasury moved to Athens in 454/3, and the allies' payments became, in effect, tribute.",
+   "label": "consensus",
+   "sources": [
+    "brit-pelwar-sum",
+    "aio-ig259"
+   ],
+   "show": false
+  },
+  "c-first-stele": {
+   "text": "The 'first stele' of the tribute lists, about 3.8 m tall and rebuilt from 184 fragments, records payments from 454/3 to 440/39 BCE.",
+   "label": "consensus",
+   "sources": [
+    "aio-ig259"
+   ],
+   "show": false
+  },
+  "c-athens-pop": {
+   "text": "Attica in 431 BCE may have held about 250,000 people, of whom about 60,000 were adult male citizens.",
+   "label": "debated",
+   "sources": [
+    "sehepunkte-akrigg",
+    "cfa-akrigg",
+    "bmcr-akrigg"
+   ],
+   "show": true,
+   "note": "This follows Mogens Hansen and Ben Akrigg; reviewers of Akrigg's book report his totals differently (one reads him as allowing 400,000 or more), and every figure is a reconstruction."
+  },
+  "c-slaves": {
+   "text": "Estimates of the number of slaves in Athens differ more than fivefold, from about 20,000 to about 100,000.",
+   "label": "debated",
+   "sources": [
+    "akrigg-ch4"
+   ],
+   "show": true,
+   "note": "Low: A. H. M. Jones and Victor Hanson (20,000-30,000). High: Mogens Hansen (66,000-93,000), Peter Rhodes (about 100,000). An ancient 'census' of 400,000 slaves is generally rejected. Akrigg sets a floor of more than 30,000 enslaved men in 431."
+  },
+  "c-empire-gain": {
+   "text": "Who gained most from the Athenian empire is disputed.",
+   "label": "debated",
+   "sources": [
+    "bmcr-akrigg"
+   ],
+   "show": true,
+   "note": "Akrigg, following Moses Finley, argues the rich gained most; his reviewer Matthew Simonton finds the evidence too thin to say."
+  },
+  "c-truest-cause": {
+   "text": "Thucydides named the war's real cause as 'the growth of the power of Athens, and the alarm which this inspired in Lacedaemon' (1.23).",
+   "label": "debated",
+   "sources": [
+    "thuc1"
+   ],
+   "show": true,
+   "note": "The words are certain; whether they are the right explanation is a long-running argument (the modern 'Thucydides trap' idea builds on them)."
+  },
+  "c-resources431": {
+   "text": "In 431 BCE, Pericles reckoned, Athens took in about 600 talents a year from its allies, held 6,000 talents of coined silver on the Acropolis, and had 13,000 hoplites, 16,000 garrison troops and 300 seaworthy triremes (2.13).",
+   "label": "approx",
+   "sources": [
+    "thuc2"
+   ],
+   "show": true,
+   "note": "These are figures Thucydides puts in Pericles' mouth; modern scholars broadly accept their scale."
+  },
+  "c-war-course": {
+   "text": "The war ran from 431 to 404 BCE: a first decade ended by the Peace of Nicias (421), the disaster in Sicily (415-413), a brief oligarchy at Athens (411), and Sparta's victory at Aegospotami (405), paid for with Persian money.",
+   "label": "consensus",
+   "sources": [
+    "brit-pelwar-sum"
+   ],
+   "show": false
+  },
+  "c-thuc-exile": {
+   "text": "Thucydides was himself an Athenian general; after losing Amphipolis in 424 BCE he spent twenty years in exile (5.26).",
+   "label": "consensus",
+   "sources": [
+    "thuc5"
+   ],
+   "show": false
+  },
+  "c-plague": {
+   "text": "A plague reached Athens through its port in 430 BCE; Thucydides, who 'had the disease myself', describes fever, inflamed eyes, coughing, pustules and unbearable thirst (2.48-49). It killed Pericles.",
+   "label": "consensus",
+   "sources": [
+    "thuc2",
+    "brit-pelwar-sum"
+   ],
+   "show": false
+  },
+  "c-plague-toll": {
+   "text": "Perhaps up to a third of the people of Athens died.",
+   "label": "approx",
+   "sources": [
+    "sd-typhoid2006"
+   ],
+   "show": true,
+   "note": "No count survives; this is a modern estimate."
+  },
+  "c-typhoid": {
+   "text": "DNA from teeth in a mass grave of 430-426 BCE in the Kerameikos cemetery matched sequences similar to typhoid fever, which the team called 'the probable cause'.",
+   "label": "debated",
+   "sources": [
+    "sd-typhoid2006",
+    "ijid-noproof",
+    "nature-plague"
+   ],
+   "show": true,
+   "note": "Challenged at once in a reply titled 'No proof that typhoid caused the Plague of Athens'. Earlier candidates include smallpox, measles and bubonic plague; no newer study has settled it."
+  },
+  "c-melos": {
+   "text": "In 416 BCE Athens demanded that neutral Melos submit; in Thucydides' dialogue the Athenians say 'the strong do what they can and the weak suffer what they must' (5.89). When Melos fell, Athens killed its men and enslaved its women and children (5.116).",
+   "label": "debated",
+   "sources": [
+    "thuc5"
+   ],
+   "show": true,
+   "note": "The killing is narrated as fact; the dialogue is Thucydides' own composition, read by some as a lesson in realism and by others as an indictment of Athenian arrogance."
+  },
+  "c-socrates-trial": {
+   "text": "In 399 BCE Socrates, aged 70, was tried for impiety and corrupting the young, found guilty and sentenced to death; in Plato's Apology he says that if thirty votes had gone the other way he would have been acquitted.",
+   "label": "consensus",
+   "sources": [
+    "apology",
+    "sep-socrates"
+   ],
+   "show": false
+  },
+  "c-socrates-politics": {
+   "text": "The trial came four years after the oligarchy of the Thirty, among them Socrates' associate Critias, had been overthrown.",
+   "label": "debated",
+   "sources": [
+    "sep-socrates",
+    "brit-socrates"
+   ],
+   "show": true,
+   "note": "Many scholars think his links to the Thirty mattered, though an amnesty barred charges for their crimes; our accounts of the trial come from his admirers Plato and Xenophon."
+  },
+  "c-philip": {
+   "text": "Philip II of Macedon (ruled 359-336 BCE) made his kingdom the dominant power in Greece, by war and diplomacy, by 339.",
+   "label": "consensus",
+   "sources": [
+    "brit-philip2"
+   ],
+   "show": false
+  },
+  "c-alexander": {
+   "text": "Alexander, born at Pella in 356 BCE, became king in 336 and died at Babylon in June 323, aged 32.",
+   "label": "consensus",
+   "sources": [
+    "brit-alexander"
+   ],
+   "show": false
+  },
+  "c-gaugamela": {
+   "text": "At Gaugamela, on 1 October 331 BCE, Alexander defeated Darius III's larger army; Darius was later killed by one of his own governors, and the Persian empire passed to Alexander.",
+   "label": "consensus",
+   "sources": [
+    "brit-gaugamela"
+   ],
+   "show": false
+  },
+  "c-alexandria-found": {
+   "text": "Alexander founded Alexandria in Egypt in 332 or 331 BCE.",
+   "label": "approx",
+   "sources": [
+    "brit-alexandria"
+   ],
+   "show": true,
+   "note": "Sources differ by a year."
+  },
+  "c-hydaspes": {
+   "text": "On the Hydaspes (Jhelum) in 326 BCE Alexander defeated the Indian king Porus and kept him on as ruler; soon after, at the Beas, his army refused to go further.",
+   "label": "consensus",
+   "sources": [
+    "brit-hydaspes"
+   ],
+   "show": false
+  },
+  "c-hellenistic": {
+   "text": "Historians call the period from Alexander's death (323 BCE) to the battle of Actium (31 BCE) 'Hellenistic'; his empire split among dynasties founded by his generals, chiefly the Ptolemies in Egypt, the Seleucids in Asia and the Antigonids in Macedonia, with the Attalids at Pergamon.",
+   "label": "consensus",
+   "sources": [
+    "met-hellenistic"
+   ],
+   "show": false
+  },
+  "c-library": {
+   "text": "The Ptolemies built the Library of Alexandria from the early 3rd century BCE, with a 'daughter' collection at the Serapeum; where exactly it stood and how it was laid out are unknown.",
+   "label": "consensus",
+   "sources": [
+    "brit-library"
+   ],
+   "show": false
+  },
+  "c-library-size": {
+   "text": "Ancient writers credit the Library with 40,000, about 490,000 or 700,000 book-rolls.",
+   "label": "debated",
+   "sources": [
+    "bagnall2002",
+    "ou-library"
+   ],
+   "show": true,
+   "note": "Roger Bagnall argues the figures 'do not deserve any credence' and the real holdings were probably smaller 'by as much as one order of magnitude'; popular accounts repeat the big numbers."
+  },
+  "c-library-end": {
+   "text": "How the Library ended is uncertain: one account blames the fighting in Alexandria under the emperor Aurelian in the 270s CE, another a Christian attack on the Serapeum in 391 CE.",
+   "label": "debated",
+   "sources": [
+    "brit-library"
+   ],
+   "show": true,
+   "note": "Many scholars doubt any great library still existed by 391; the decline was probably gradual."
+  },
+  "c-septuagint": {
+   "text": "Linguistic study dates the Greek translation of the Torah, the core of the Septuagint, to the mid-3rd century BCE, and most other books to the 2nd century BCE.",
+   "label": "approx",
+   "sources": [
+    "brit-septuagint"
+   ],
+   "show": true,
+   "note": "The dates come from the language of the translation itself."
+  },
+  "c-aristeas": {
+   "text": "The Letter of Aristeas says Ptolemy II asked for the translation and 72 elders, six from each tribe, produced it.",
+   "label": "tradition",
+   "sources": [
+    "brit-septuagint",
+    "ou-library"
+   ],
+   "show": true,
+   "note": "Scholars treat the story as legend, widely read as Jewish writing aimed at Greek readers."
+  },
+  "c-aikhanoum": {
+   "text": "Aï Khanoum, a Greek city on the Oxus in northern Afghanistan, had a huge gymnasium, a theatre and a copy of the moral maxims of Delphi; steppe nomads destroyed it about 150 BCE.",
+   "label": "approx",
+   "sources": [
+    "iranica-aikhanoum",
+    "met-afghan2009"
+   ],
+   "show": true,
+   "note": "The destruction date is approximate; Bactria broke away from the Seleucids about 250 BCE."
+  },
+  "c-antiochus-egypt": {
+   "text": "In 168 BCE the Seleucid king Antiochus IV was invading Egypt when a Roman envoy drew a circle in the sand around him and demanded an answer before he stepped out of it; he withdrew.",
+   "label": "consensus",
+   "sources": [
+    "brit-antiochus4"
+   ],
+   "show": false
+  },
+  "c-antiochus-ban": {
+   "text": "In 167 BCE Antiochus IV garrisoned Jerusalem, banned Jewish worship, the Sabbath and circumcision, and set up an altar to Zeus in the Temple.",
+   "label": "consensus",
+   "sources": [
+    "brit-antiochus4",
+    "brit-maccabees"
+   ],
+   "show": false
+  },
+  "c-desolating": {
+   "text": "1 Maccabees calls the new altar 'a desolating sacrilege' (1:54) and tells of women put to death for having their children circumcised (1:60-61).",
+   "label": "tradition",
+   "sources": [
+    "bg-1macc1"
+   ],
+   "show": true,
+   "note": "1 Maccabees was written about a generation after the events, from the Hasmonean side."
+  },
+  "c-rededication": {
+   "text": "Judas Maccabeus' rebels retook the Temple and rededicated it in December 164 BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-antiochus4"
+   ],
+   "show": false
+  },
+  "c-eight-days": {
+   "text": "1 Maccabees says the altar's dedication was celebrated 'for eight days' and decreed an annual festival (4:56-59); 2 Maccabees compares it to the festival of Booths (10:6).",
+   "label": "tradition",
+   "sources": [
+    "bg-1macc4",
+    "bg-2macc10"
+   ],
+   "show": true,
+   "note": "This is the origin of Hanukkah as the texts give it."
+  },
+  "c-oil": {
+   "text": "The story of one jar of oil that burned for eight days is not in Maccabees; it first appears in the Babylonian Talmud (Shabbat 21b), compiled centuries later.",
+   "label": "consensus",
+   "sources": [
+    "sefaria-shabbat21b"
+   ],
+   "show": false
+  },
+  "c-hasmonean": {
+   "text": "1 Maccabees dates Judea's independence to the year when 'the yoke of the nations was removed from Israel' and documents began to be dated by Simon, 'the great high priest and commander and leader of the Jews' (13:41-42), that is, 142 BCE.",
+   "label": "tradition",
+   "sources": [
+    "bg-2macc10"
+   ],
+   "show": true,
+   "note": "The years in Maccabees are counted in the Seleucid era; year 170 corresponds to 143/142 BCE."
+  },
+  "c-pompey": {
+   "text": "The Roman general Pompey captured Jerusalem in 63 BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-jerusalem-roman"
+   ],
+   "show": false
+  },
+  "c-herod": {
+   "text": "Rome's Senate named Herod king of Judea in 40 BCE; he died in 4 BCE. He enlarged the Temple platform with huge retaining walls, of which the Western Wall is part, and the rebuilt Temple took more than a generation to finish.",
+   "label": "consensus",
+   "sources": [
+    "brit-jerusalem-roman"
+   ],
+   "show": false
+  },
+  "c-sadducees": {
+   "text": "The Sadducees, a priestly and aristocratic party, accepted only the written Torah and denied resurrection; the Pharisees also treated an oral tradition as going back to Moses.",
+   "label": "consensus",
+   "sources": [
+    "brit-sadducee"
+   ],
+   "show": false
+  },
+  "c-essenes": {
+   "text": "Josephus, Philo and Pliny the Elder all describe a third group, the Essenes; Philo and Josephus each put their number at about 4,000. Their accounts differ in details, and the New Testament never names them.",
+   "label": "consensus",
+   "sources": [
+    "brit-essene",
+    "upenn-essenes",
+    "cojs-pliny-essenes"
+   ],
+   "show": false
+  },
+  "c-dss": {
+   "text": "From 1947, eleven caves near Qumran yielded about 15,000 fragments from some 800 to 900 manuscripts, mostly in Hebrew; every book of the Hebrew Bible except Esther is represented.",
+   "label": "approx",
+   "sources": [
+    "brit-dss"
+   ],
+   "show": true,
+   "note": "Counts depend on how fragments are grouped into manuscripts."
+  },
+  "c-qumran": {
+   "text": "Who lived at Qumran, and whether they wrote the scrolls, is disputed.",
+   "label": "debated",
+   "sources": [
+    "brit-essene",
+    "benami2004"
+   ],
+   "show": true,
+   "note": "Most scholars, following the excavator Roland de Vaux, see an Essene community. Yizhar Hirschfeld argued for a wealthy estate; Yitzhak Magen and Yuval Peleg for a fort turned pottery workshop, with scrolls hidden by refugees from Jerusalem."
+  },
+  "c-enoch": {
+   "text": "In 2025 a team radiocarbon-dated 27 scroll samples and used them to train an AI model of handwriting called 'Enoch'; many manuscripts came out older than handwriting experts had thought.",
+   "label": "debated",
+   "sources": [
+    "popovic2025",
+    "eurekalert-enoch"
+   ],
+   "show": true,
+   "note": "New. Experts judged about 79 percent of the model's estimates realistic; the result challenges the standard sequence of scripts."
+  },
+  "c-daniel-frag": {
+   "text": "One Daniel manuscript from Qumran (4Q114) was radiocarbon-dated to 230-160 BCE, close to the 160s BCE in which most critical scholars date the book's visions.",
+   "label": "debated",
+   "sources": [
+    "popovic2025",
+    "bg-dan11"
+   ],
+   "show": true,
+   "note": "New. The authors call it possibly the first biblical fragment from about its author's lifetime; traditional readers instead date Daniel to the 6th century BCE."
+  },
+  "c-early-rome": {
+   "text": "Rome began as a small cluster of huts on its hills in the 10th century BCE.",
+   "label": "approx",
+   "sources": [
+    "met-romr"
+   ],
+   "show": true,
+   "note": "An archaeological date; the traditional founding date of 753 BCE is a later calculation."
+  },
+  "c-lapis": {
+   "text": "An inscription of the 6th century BCE in the Forum, under the black stone called the Lapis Niger, contains the word for 'king', supporting the tradition that early Rome had kings.",
+   "label": "tradition",
+   "sources": [
+    "jobin-lapis"
+   ],
+   "show": true,
+   "note": "The names and dates of the seven kings in Livy are 'traditional but impossible to verify'."
+  },
+  "c-sauer": {
+   "text": "A current Cambridge project argues that archaeology, not Livy, should set the outline of early Rome, and that the old picture of a rich 6th-century monarchy followed by a poorer early republic is outdated.",
+   "label": "debated",
+   "sources": [
+    "carlsberg-sauer"
+   ],
+   "show": true,
+   "note": "The traditional outline follows Livy's chronology."
+  },
+  "c-gabii": {
+   "text": "In 2025 excavators at Gabii, east of Rome, reported a large stone-lined basin of about 250 BCE at the city centre, perhaps a monumental pool in a forum-like square built on Greek models.",
+   "label": "approx",
+   "sources": [
+    "sd-gabii2025"
+   ],
+   "show": true,
+   "note": "New. The use of the basin is an interpretation."
+  },
+  "c-509": {
+   "text": "By tradition the Romans expelled their last king in 509 BCE and replaced him with two consuls elected each year.",
+   "label": "tradition",
+   "sources": [
+    "brit-republic"
+   ],
+   "show": true,
+   "note": "The date and story come from later Roman writers."
+  },
+  "c-institutions": {
+   "text": "The Senate was formally an advisory body but held enormous power; the centuriate assembly declared war and elected the senior magistrates, and the tribal assemblies passed most laws.",
+   "label": "consensus",
+   "sources": [
+    "brit-republic"
+   ],
+   "show": false
+  },
+  "c-orders": {
+   "text": "In the 'Conflict of the Orders' the plebeians won their own tribunes and a written law code, the Twelve Tables, partly by walking out of the city en masse; the Lex Hortensia of 287 BCE made the plebeian assembly's decisions binding on all citizens.",
+   "label": "consensus",
+   "sources": [
+    "brit-orders",
+    "brit-hortensia"
+   ],
+   "show": false
+  },
+  "c-polybius-mixed": {
+   "text": "Polybius described Rome's constitution as a mix of monarchy (the consuls), aristocracy (the Senate) and democracy (the people), each able to block the others, so that even a Roman could not say which it was (6.11-18).",
+   "label": "debated",
+   "sources": [
+    "polyb6"
+   ],
+   "show": true,
+   "note": "That is what Polybius says; how far his model describes how Rome actually worked is a matter of interpretation."
+  },
+  "c-pyrrhus": {
+   "text": "Pyrrhus of Epirus, invited by Tarentum, beat Roman armies in 280 and 279 BCE at such a cost to his own army that 'Pyrrhic victory' became a phrase; he left Italy after 275, and Rome was master of the peninsula.",
+   "label": "consensus",
+   "sources": [
+    "brit-pyrrhus",
+    "brit-republic"
+   ],
+   "show": false
+  },
+  "c-social-war": {
+   "text": "Rome's Italian allies, refused citizenship, revolted in 91 BCE; the Lex Julia of 90 granted it to communities that stayed loyal or quickly laid down their arms, and it was extended across Italy over the following decades.",
+   "label": "consensus",
+   "sources": [
+    "ebsco-julian"
+   ],
+   "show": false
+  },
+  "c-punic1": {
+   "text": "The First Punic War (264-241 BCE) began over Messana in Sicily and ended, after a Roman naval victory at the Aegates Islands, with Carthage giving up Sicily.",
+   "label": "consensus",
+   "sources": [
+    "brit-punic"
+   ],
+   "show": false
+  },
+  "c-barcids": {
+   "text": "After that defeat Hamilcar Barca built a Carthaginian domain in Spain from 237 BCE, gaining what the Met calls 'the richest silver mines in the ancient world'.",
+   "label": "consensus",
+   "sources": [
+    "brit-punic",
+    "met-iberia"
+   ],
+   "show": false
+  },
+  "c-cartagena": {
+   "text": "Hasdrubal founded Qart Hadasht, 'New Town' (Cartagena), whose silver mines helped pay for the war against Rome; Scipio captured it in 209 BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-cartagena"
+   ],
+   "show": false
+  },
+  "c-saguntum": {
+   "text": "Hannibal's siege of Saguntum in 219 BCE set off the Second Punic War (218-201).",
+   "label": "consensus",
+   "sources": [
+    "brit-punic"
+   ],
+   "show": false
+  },
+  "c-hannibal": {
+   "text": "In 218 BCE Hannibal marched from Spain over the Alps into Italy with about 25,000 infantry and 6,000 cavalry, and won at the Trebia (218), Lake Trasimene (217) and Cannae (216).",
+   "label": "approx",
+   "sources": [
+    "brit-hannibal"
+   ],
+   "show": true,
+   "note": "The army figures are Polybius'; many more set out from Spain."
+  },
+  "c-cannae": {
+   "text": "At Cannae perhaps 55,000 to 70,000 Romans were killed in a single day.",
+   "label": "approx",
+   "sources": [
+    "brit-hannibal"
+   ],
+   "show": true,
+   "note": "Livy gives 55,000, Polybius 70,000; both may be high."
+  },
+  "c-zama": {
+   "text": "Scipio, later called Africanus, carried the war to Africa and defeated Hannibal at Zama in 202 BCE; Rome destroyed Carthage itself in 146.",
+   "label": "consensus",
+   "sources": [
+    "brit-hannibal",
+    "brit-republic"
+   ],
+   "show": false
+  },
+  "c-provinces": {
+   "text": "Rome organised its Spanish lands as two provinces, Nearer and Further Spain, in 197 BCE; Augustus later divided them into Tarraconensis, Lusitania and Baetica.",
+   "label": "consensus",
+   "sources": [
+    "brit-nearer-spain"
+   ],
+   "show": false
+  },
+  "c-numantia": {
+   "text": "Numantia, near modern Soria, led Celtiberian resistance; Scipio Aemilianus ringed it with about 10 km of walls, and after some eight months of starvation it surrendered in 133 BCE and was razed.",
+   "label": "approx",
+   "sources": [
+    "brit-numantia",
+    "grout-numantia"
+   ],
+   "show": true,
+   "note": "The siege's size (perhaps 60,000 Romans against about 4,000 defenders) comes from the ancient historian Appian."
+  },
+  "c-cantabrian": {
+   "text": "The conquest of Iberia took nearly 200 years; it ended only with the Cantabrian Wars in the north, where Augustus campaigned in person, in 19 BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-cantabrian",
+    "met-iberia"
+   ],
+   "show": false
+  },
+  "c-latin-spanish": {
+   "text": "Spanish grew from the spoken Latin of Roman Hispania; Castilian emerged in Cantabria around the 9th century CE, and its first written traces are notes in 10th-century manuscripts.",
+   "label": "consensus",
+   "sources": [
+    "ebsco-spanish",
+    "brit-spanish"
+   ],
+   "show": false
+  },
+  "c-medulas": {
+   "text": "At Las Médulas in León, Roman engineers mined gold for about two centuries from the 1st century CE by channelling water to bring down whole hillsides.",
+   "label": "consensus",
+   "sources": [
+    "unesco-medulas"
+   ],
+   "show": false
+  },
+  "c-riotinto": {
+   "text": "Roman miners at Riotinto (Huelva) left vast heaps of slag, mostly from silver; modern open-cast mining has destroyed much of the ancient workings.",
+   "label": "approx",
+   "sources": [
+    "jones1980"
+   ],
+   "show": true,
+   "note": "Estimates of total Roman output rest on slag that has partly disappeared."
+  },
+  "c-iberian-lead": {
+   "text": "The Greenland lead record accelerates with Carthaginian and Roman mining, which its authors place mainly in the Iberian Peninsula.",
+   "label": "debated",
+   "sources": [
+    "ku-mcconnell2018",
+    "mcconnell2018"
+   ],
+   "show": true,
+   "note": "The record itself is secure; reading lead as a measure of the whole economy is debated."
+  },
+  "c-tgracchus": {
+   "text": "Tiberius Gracchus, tribune in 133 BCE, pushed through a land reform to rebuild the class of small farmers and was killed that year by a mob led by senators.",
+   "label": "consensus",
+   "sources": [
+    "brit-tgracchus"
+   ],
+   "show": false
+  },
+  "c-ggracchus": {
+   "text": "His brother Gaius, tribune in 123-122 BCE, proposed citizenship for the Italian allies and died in 121 BCE when his supporters were attacked on the Aventine.",
+   "label": "consensus",
+   "sources": [
+    "brit-ggracchus"
+   ],
+   "show": false
+  },
+  "c-marius": {
+   "text": "Gaius Marius was consul seven times (107, 104-100 and 86 BCE), and was the first to show how much political support a successful general could draw from his veterans.",
+   "label": "consensus",
+   "sources": [
+    "brit-marius"
+   ],
+   "show": false
+  },
+  "c-marian-reform": {
+   "text": "Textbooks say Marius' reform of 107 BCE opened the legions to the propertyless and created armies loyal to their generals rather than to Rome.",
+   "label": "debated",
+   "sources": [
+    "bmcr-cadiou",
+    "faventia-cadiou"
+   ],
+   "show": true,
+   "note": "François Cadiou (2018) calls the 'post-Marian army' 'a historiographical mirage': recruitment by property class went on and most soldiers were still conscripts. His reviewer David Rafferty accepts much, but not all, of the case."
+  },
+  "c-sulla": {
+   "text": "Sulla marched his army on Rome in 88 BCE; after winning a civil war he made himself dictator with no time limit, killed his enemies by lists of the proscribed, strengthened the Senate, cut the tribunes' powers, and then resigned.",
+   "label": "consensus",
+   "sources": [
+    "brit-sulla"
+   ],
+   "show": false
+  },
+  "c-caesar": {
+   "text": "Caesar allied with Pompey and Crassus in 60 BCE, conquered Gaul from 58, crossed the Rubicon into Italy with his army in 49, was made dictator for life, and was killed on 15 March 44 BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-caesar"
+   ],
+   "show": false
+  },
+  "c-carrhae": {
+   "text": "At Carrhae in 53 BCE a Parthian army of about 10,000 horsemen destroyed Crassus' army of about 43,000; Crassus was killed, removing a balance between Caesar and Pompey.",
+   "label": "approx",
+   "sources": [
+    "brit-carrhae"
+   ],
+   "show": true,
+   "note": "The numbers are ancient figures; the outcome is certain."
+  },
+  "c-augustus": {
+   "text": "Octavian, Caesar's adopted heir, defeated Antony and Cleopatra at Actium in 31 BCE, took the name Augustus in 27 BCE and ruled until his death in 14 CE.",
+   "label": "consensus",
+   "sources": [
+    "brit-augustus-sum",
+    "brit-augustus"
+   ],
+   "show": false
+  },
+  "c-res-gestae": {
+   "text": "Augustus' own account says he 'transferred the republic from my own control to the will of the senate and the Roman people', and that afterwards he took precedence of all in rank but held no more power than his colleagues (Res Gestae 34).",
+   "label": "debated",
+   "sources": [
+    "resgestae",
+    "brit-princeps"
+   ],
+   "show": true,
+   "note": "Historians treat this as self-presentation: in practice he replaced the oligarchy of the Republic with his own rule, and the title princeps, 'first citizen', made the claim look plausible."
+  },
+  "c-why-fall": {
+   "text": "Why the Republic fell is debated.",
+   "label": "debated",
+   "sources": [
+    "princeton-flower",
+    "ucp-gruen"
+   ],
+   "show": true,
+   "note": "Harriet Flower argues that Rome had a series of republics, not one system in long decline; Erich Gruen is commonly read as holding that its institutions still worked until civil war broke them; older accounts stress private armies and the strains of empire."
+  },
+  "c-five-good": {
+   "text": "From 96 to 180 CE five emperors (Nerva, Trajan, Hadrian, Antoninus Pius and Marcus Aurelius) succeeded one another by adoption rather than by birth; under Trajan the empire reached from Britain to Dacia and, briefly, Mesopotamia.",
+   "label": "consensus",
+   "sources": [
+    "brit-fivegood",
+    "brit-trajan"
+   ],
+   "show": false
+  },
+  "c-gibbon": {
+   "text": "Edward Gibbon called this the period in which the human race was 'most happy and prosperous'.",
+   "label": "debated",
+   "sources": [
+    "brit-fivegood"
+   ],
+   "show": true,
+   "note": "Modern historians temper the judgement, pointing to signs of fiscal strain and, under Marcus Aurelius, plague and war."
+  },
+  "c-pilate-stone": {
+   "text": "A stone found in 1961 in the theatre at Caesarea names Pontius Pilate as prefect of Judea, the title governors of Judea actually held at the time.",
+   "label": "consensus",
+   "sources": [
+    "cojs-pilate"
+   ],
+   "show": false
+  },
+  "c-tacitus": {
+   "text": "Tacitus, writing about 115 CE, says that 'Christus' had been executed 'in the reign of Tiberius, by sentence of the procurator Pontius Pilatus' (Annals 15.44).",
+   "label": "consensus",
+   "sources": [
+    "tacitus-ann15"
+   ],
+   "show": false
+  },
+  "c-testimonium": {
+   "text": "Josephus' paragraph about Jesus (Antiquities 18.63-64) the 'Testimonium Flavianum', is among the most argued-over passages in ancient literature.",
+   "label": "debated",
+   "sources": [
+    "goldberg-tf"
+   ],
+   "show": true,
+   "note": "Most scholars (Paul Winter, Louis Feldman, John Meier) think it has a genuine core with Christian additions such as 'He was the Messiah'; an Arabic version lacks them. A minority think it wholly forged, and a few wholly genuine. A second passage, on James 'the brother of Jesus', is widely accepted."
+  },
+  "c-paul-letters": {
+   "text": "Paul's letters, written in the 40s and 50s CE, are the earliest Christian writings; seven of the thirteen under his name are accepted as genuinely his by most scholars.",
+   "label": "approx",
+   "sources": [
+    "brit-paul"
+   ],
+   "show": true,
+   "note": "The seven are Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon; he probably died in Rome in the 60s."
+  },
+  "c-gal1": {
+   "text": "Paul says he stayed fifteen days with Cephas (Peter) in Jerusalem and also saw 'James the Lord's brother' (Galatians 1:18-19).",
+   "label": "consensus",
+   "sources": [
+    "bg-gal1"
+   ],
+   "show": false
+  },
+  "c-jesus-dates": {
+   "text": "Jesus was born about 6-4 BCE, preached in Galilee, and was arrested, tried and crucified in Jerusalem about 30 CE.",
+   "label": "approx",
+   "sources": [
+    "brit-jesus"
+   ],
+   "show": true,
+   "note": "The dates are estimates from the Gospels and Roman chronology."
+  },
+  "c-gospel-dates": {
+   "text": "Most scholars date Mark to about 70 CE, Matthew and Luke to about 80-85, and John to about 90-95.",
+   "label": "debated",
+   "sources": [
+    "ehrman-dates",
+    "stpaul-dates"
+   ],
+   "show": true,
+   "note": "This is the majority view (for example Bart Ehrman). A minority, such as Jonathan Bernier (2022), dates all four before 70, with Mark in the 40s."
+  },
+  "c-existed": {
+   "text": "That Jesus existed as a historical person is accepted by 'virtually every expert on the planet', in the words of the agnostic scholar Bart Ehrman.",
+   "label": "debated",
+   "sources": [
+    "deseret-ehrman",
+    "carrier"
+   ],
+   "show": true,
+   "note": "A small 'mythicist' minority, notably Richard Carrier, argues he probably never lived as a man; specialists overwhelmingly reject this."
+  },
+  "c-jesus-range": {
+   "text": "Among historians who study him, the most common picture is of a Jewish prophet who expected God to bring the present age to an end soon.",
+   "label": "debated",
+   "sources": [
+    "hurtado-fredriksen",
+    "bauckham"
+   ],
+   "show": true,
+   "note": "E. P. Sanders, Bart Ehrman and Paula Fredriksen hold versions of this and differ on why he was arrested. Larry Hurtado thinks Fredriksen underplays his place in early devotion; Richard Bauckham argues the Gospels rest closely on eyewitness testimony."
+  },
+  "c-temple70": {
+   "text": "Rome crushed the Jewish revolt of 66 CE and destroyed the Temple in the summer of 70; the spoils, including the menorah, were paraded in Rome and carved on the Arch of Titus, where traces of yellow paint were found in 2012.",
+   "label": "consensus",
+   "sources": [
+    "yu-titus"
+   ],
+   "show": false
+  },
+  "c-masada": {
+   "text": "Masada, Herod's palace-fortress, preserves the most complete Roman siege works anywhere; according to Josephus its defenders killed themselves rather than surrender in 73 or 74 CE.",
+   "label": "tradition",
+   "sources": [
+    "unesco-masada"
+   ],
+   "show": true,
+   "note": "The siege works are archaeology; the mass suicide is Josephus' account."
+  },
+  "c-barkokhba": {
+   "text": "A second revolt (132-135 CE), led by Simeon bar Kosiba, whom Rabbi Akiva hailed as messiah, ended at Bethar; Jerusalem was refounded as the Roman colony Aelia Capitolina and closed to Jews.",
+   "label": "consensus",
+   "sources": [
+    "brit-barkokhba"
+   ],
+   "show": false
+  },
+  "c-bk-cause": {
+   "text": "Its cause is disputed: Cassius Dio blames Hadrian's founding of Aelia Capitolina with a temple to Jupiter; others add a ban on circumcision. Dio says 580,000 Jews were killed.",
+   "label": "debated",
+   "sources": [
+    "dio69",
+    "brit-barkokhba"
+   ],
+   "show": true,
+   "note": "Ancient casualty figures like Dio's cannot be checked."
+  },
+  "c-bk-letters": {
+   "text": "In 1960 Yigael Yadin found letters of Bar Kosiba in the Cave of Letters; one, in Aramaic, orders palm branches, citrons, myrtle and willow for the festival of Booths.",
+   "label": "consensus",
+   "sources": [
+    "cojs-bk-letter"
+   ],
+   "show": false
+  },
+  "c-swords2023": {
+   "text": "In 2023 archaeologists announced four Roman swords and a javelin hidden in a cave near Ein Gedi, probably taken as booty by rebels during the Bar Kokhba revolt.",
+   "label": "approx",
+   "sources": [
+    "dawn-swords2023"
+   ],
+   "show": true,
+   "note": "New. The find is certain; the link to the revolt is the excavators' interpretation."
+  },
+  "c-sepulchre": {
+   "text": "Excavations under the Church of the Holy Sepulchre, reported in 2025, found that an old quarry on the site was later cultivated with olives and vines.",
+   "label": "debated",
+   "sources": [
+    "lpj-sepulchre"
+   ],
+   "show": true,
+   "note": "New. Reporters linked it to John 19:41, 'there was a garden'; the date of the garden phase has not been fixed, and the link is suggestive, not proven."
+  },
+  "c-parting": {
+   "text": "When Judaism and Christianity became separate religions is debated.",
+   "label": "debated",
+   "sources": [
+    "ms-ways"
+   ],
+   "show": true,
+   "note": "The traditional model has them clearly apart by the 2nd century; the essays in The Ways That Never Parted (2003) argue that the overlap lasted much longer."
+  },
+  "c-pop-empire": {
+   "text": "The empire held perhaps 45 million people under Augustus and 60 million by the 160s CE.",
+   "label": "debated",
+   "sources": [
+    "scheidel-pop"
+   ],
+   "show": true,
+   "note": "Bruce Frier's estimates (45.5 million in 14 CE, 61.4 million in 164); Karl Julius Beloch suggested about 54 million, and later higher figures. No census of the whole empire survives."
+  },
+  "c-pop-italy": {
+   "text": "For Roman Italy, a 'low count' of about 6-8 million people faces a 'high count' of about 14-20 million, depending on how the Augustan census figures are read.",
+   "label": "debated",
+   "sources": [
+    "scheidel-pop"
+   ],
+   "show": true,
+   "note": "Low: Beloch, Brunt, Frier. High: Elio Lo Cascio and others."
+  },
+  "c-gdp": {
+   "text": "One reconstruction puts the empire's output in the 2nd century CE at about 50 million tons of wheat a year, close to 20 billion sesterces; a top 1.5 percent took about a fifth of income, and a 'middling' tenth another fifth.",
+   "label": "approx",
+   "sources": [
+    "scheidel-friesen"
+   ],
+   "show": true,
+   "note": "Walter Scheidel and Steven Friesen (2009); every input is an estimate, and they give ranges."
+  },
+  "c-living": {
+   "text": "How well ordinary Romans lived is disputed.",
+   "label": "debated",
+   "sources": [
+    "temin",
+    "allen2007"
+   ],
+   "show": true,
+   "note": "Peter Temin argues that 'markets dominated' and that 2nd-century Italy was about as prosperous as the Dutch Republic in its golden age. Robert Allen, using wages in Diocletian's Price Edict of 301 CE, finds workers earned just enough for a bare subsistence basket."
+  },
+  "c-slaves-italy": {
+   "text": "Walter Scheidel thinks enslaved people in Roman Italy numbered no more than about 1.5 million, and about 10 percent of the empire's population, perhaps 6 million.",
+   "label": "debated",
+   "sources": [
+    "scheidel2005",
+    "scheidel1997"
+   ],
+   "show": true,
+   "note": "Older estimates for Italy run higher: about 2 million (Beloch) and 3 million (Peter Brunt). Scheidel argues most slaves were born into slavery rather than captured."
+  },
+  "c-testaccio": {
+   "text": "Monte Testaccio in Rome is a hill made of some 25 million broken amphorae; about 80 percent held olive oil from Baetica, the Guadalquivir valley in southern Spain, and dumping ran from Augustus to about the 260s-270s CE.",
+   "label": "approx",
+   "sources": [
+    "broekaert"
+   ],
+   "show": true,
+   "note": "The total is an estimate from sample trenches; painted labels on the jars record weights, shippers and inspections."
+  },
+  "c-denarius-rep": {
+   "text": "The Republican denarius was almost pure silver until about 90 BCE, fell to around 90 percent during the crisis of the Social War and was restored a few years later.",
+   "label": "consensus",
+   "sources": [
+    "warwick-denarius"
+   ],
+   "show": false
+  },
+  "c-debasement": {
+   "text": "Under the emperors the denarius was gradually debased, from about 93 percent silver under Nero to about 74 percent by the 180s CE.",
+   "label": "approx",
+   "sources": [
+    "oregon-debasement"
+   ],
+   "show": true,
+   "note": "Figures from a teaching table that does not name its underlying study; treat them as approximate."
+  },
+  "c-antonine": {
+   "text": "A great epidemic, the Antonine plague, came back with Roman armies from the east in 166 CE and recurred for some twenty years; the physician Galen saw it.",
+   "label": "consensus",
+   "sources": [
+    "bas-antonine"
+   ],
+   "show": false
+  },
+  "c-antonine-toll": {
+   "text": "Older estimates of its death toll include about 7-10 percent of the empire's population (Littman and Littman, 1973) and 'over 5 million' people (a reviewer summarising Kyle Harper); a 2025 model for the city of Rome suggests a much smaller effect.",
+   "label": "debated",
+   "sources": [
+    "bas-antonine-daily",
+    "cc-harper",
+    "karasaridis2025",
+    "newfield2022"
+   ],
+   "show": true,
+   "note": "New (2025): models for the city of Rome suggest mortality rose by at most 7 percent, far below the high estimates. Whether it was smallpox is also in doubt (Newfield, Duggan and Poinar, 2022)."
+  },
+  "c-antonine-climate": {
+   "text": "A 2024 study of sediment cores from the Gulf of Taranto found an unusually cold spell in about 160-180 CE, the years of the epidemic.",
+   "label": "debated",
+   "sources": [
+    "smith-climate2024"
+   ],
+   "show": true,
+   "note": "New. The authors suggest climate stress made the empire more vulnerable; the link is a correlation, not proof."
+  },
+  "c-parthia": {
+   "text": "Parthia, ruled by the Arsacid dynasty from about 247 BCE to 224 CE, controlled most of the trade routes between Asia and the Roman world; it fell to the Persian Sasanians in 224.",
+   "label": "consensus",
+   "sources": [
+    "brit-parthia"
+   ],
+   "show": false
+  },
+  "c-ganying": {
+   "text": "In 97 CE the Chinese envoy Gan Ying, sent by the Protector General Ban Chao, set out for Da Qin (Rome) but turned back at the head of the Persian Gulf after Parthian sailors warned him the voyage could take two years.",
+   "label": "consensus",
+   "sources": [
+    "hhs-hill"
+   ],
+   "show": false
+  },
+  "c-166-envoys": {
+   "text": "In 166 CE men claiming to come from 'Andun', king of Da Qin (Marcus Aurelius Antoninus), reached China by sea through Vietnam with ivory, rhinoceros horn and tortoiseshell.",
+   "label": "debated",
+   "sources": [
+    "hhs-hill"
+   ],
+   "show": true,
+   "note": "The Chinese history itself notes the gifts were 'neither precious nor rare'; most scholars think they were merchants rather than official envoys."
+  },
+  "c-meroe": {
+   "text": "The kingdom of Kush, centred first on Napata and later on Meroë on the middle Nile, flourished from the 8th century BCE to the 4th century CE; it built pyramids for its rulers and smelted iron.",
+   "label": "consensus",
+   "sources": [
+    "unesco-meroe",
+    "brit-napata"
+   ],
+   "show": false
+  },
+  "c-meroe-head": {
+   "text": "In 25 BCE Kushite forces raided Roman Egypt and carried off a bronze head of Augustus, which they buried beneath the steps of a temple at Meroë; peace followed between Rome and the Kushite queen.",
+   "label": "consensus",
+   "sources": [
+    "bm-meroe-head"
+   ],
+   "show": false
+  },
+  "c-aksum": {
+   "text": "Aksum in the Ethiopian highlands rose from the 1st century CE as a trading kingdom with a Red Sea port at Adulis, and raised its great carved stone stelae in the 3rd and 4th centuries.",
+   "label": "approx",
+   "sources": [
+    "unesco-aksum"
+   ],
+   "show": true,
+   "note": "The stelae's dates are approximate."
+  },
+  "c-pliny-voyage": {
+   "text": "Pliny the Elder describes the route: by camel from the Nile to Berenice, 'where there is a harbour on the Red Sea'; travel by sea 'begins at midsummer', and ships 'set sail from India on the return voyage at the beginning of the Egyptian month Tybis', which he equates with December (Natural History 6).",
+   "label": "consensus",
+   "sources": [
+    "pliny-india"
+   ],
+   "show": false
+  },
+  "c-muziris": {
+   "text": "A papyrus of the mid-2nd century CE values the cargo of one ship, the Hermapollon, returning from Muziris in south India: pepper, malabathron, nard and 167 elephant tusks; a quarter was taken in tax at the Egyptian border.",
+   "label": "consensus",
+   "sources": [
+    "deromanis2014"
+   ],
+   "show": false
+  },
+  "c-berenike": {
+   "text": "In 2023 excavators at Berenike, a Roman port on the Red Sea, found a marble statue of the Buddha, 'the best evidence of Buddhism thus far excavated in Egypt'.",
+   "label": "approx",
+   "sources": [
+    "ahram-berenike"
+   ],
+   "show": true,
+   "note": "New. A Sanskrit inscription from the site dates to 244-249 CE; the statue may be earlier."
+  },
+  "c-teutoburg": {
+   "text": "In 9 CE Arminius, a Roman-trained chief of the Cherusci, destroyed three legions under Varus in Germany, nearly 20,000 men; Rome then kept the Rhine as its frontier.",
+   "label": "approx",
+   "sources": [
+    "brit-teutoburg"
+   ],
+   "show": true,
+   "note": "The losses are ancient figures; the outcome is certain."
+  },
+  "c-kalkriese": {
+   "text": "Kalkriese, in Lower Saxony, has yielded more than 5,000 Roman finds since 1987, and a 2026 metal analysis links some of them to the 19th Legion, one of the three lost with Varus.",
+   "label": "debated",
+   "sources": [
+    "smith-kalkriese",
+    "idw-kalkriese2026"
+   ],
+   "show": true,
+   "note": "New. The researchers say this does not prove Kalkriese was the battlefield; no inscription naming a legion has been found."
+  }
+ },
+ "pages": [
+  {
+   "title": "Persia, Greece and Rome",
+   "sub": "the classical Mediterranean, c. 500 BCE to 250 CE",
+   "lede": "In 500 BCE the largest state on earth was Persia, and the Greeks were a scatter of quarrelling cities on its western edge. By 150 CE one empire, Rome, ruled every shore of the Mediterranean. This chapter follows that shift, and the ideas that came out of it: democracy, the republic, history-writing, rabbinic Judaism and Christianity.",
+   "body": [
+    "The story has four acts. First the Greek cities beat off Persia, [[c-salamis]] and Athens built a democracy and an empire. Then Alexander of Macedon conquered Persia itself, [[c-alexander]] and his generals' kingdoms spread Greek language and cities from Egypt to Afghanistan. [[c-hellenistic]] Meanwhile Rome conquered Italy, destroyed Carthage [[c-zama]] and absorbed the Greek kingdoms one by one. Finally the Roman Republic gave way to emperors, [[c-augustus]] whose peace lasted, with interruptions, into the 2nd century CE. [[c-five-good]]",
+    "This is the first period in this book for which we have real historians. Herodotus wrote the history of the Persian Wars a generation after them; [[c-herodotus]] Thucydides wrote about a war he fought in, and told his readers how he composed his speeches. [[c-thuc-speeches]] Polybius explained Rome's rise to the Greeks, [[c-polybius]] Livy told Rome's story to the Romans, [[c-livy]] and Josephus, a Jewish general who changed sides, wrote the history of his own people's war with Rome. [[c-josephus]] All of them had views and loyalties, and all of them made up speeches.",
+    "So historians test the texts against other evidence. Inscriptions preserve official records that the writers never quote. [[c-inscriptions]] Shipwrecks map the rise and fall of seaborne trade, though not perfectly. [[c-wrecks]] And the Greenland ice sheet holds a year-by-year record of Roman mining and smelting, written in lead. [[c-lead-ice]] [[c-lead-iq]] And new texts are still appearing: scrolls burned by Vesuvius are being read by X-ray and machine learning. [[c-herculaneum]]",
+    {
+     "table": {
+      "head": [
+       "Witness",
+       "Wrote",
+       "About",
+       "Caution"
+      ],
+      "rows": [
+       [
+        "Herodotus",
+        "c. 430s-420s BCE",
+        "the Persian Wars",
+        "numbers inflated; speeches invented"
+       ],
+       [
+        "Thucydides",
+        "from 431 BCE",
+        "the Peloponnesian War",
+        "speeches give 'the general sense'"
+       ],
+       [
+        "Polybius",
+        "2nd century BCE",
+        "Rome's rise, 220-146 BCE",
+        "admirer of Rome and of his patrons"
+       ],
+       [
+        "Livy",
+        "late 1st century BCE",
+        "Rome from its founding",
+        "early books mostly legend; 35 of 142 books survive"
+       ],
+       [
+        "Josephus",
+        "70s-90s CE",
+        "Judea and the Jewish War",
+        "a participant, writing under Roman patrons"
+       ],
+       [
+        "Greenland ice",
+        "1100 BCE-800 CE, year by year",
+        "lead from mining and smelting",
+        "a proxy, not a measure of the whole economy"
+       ]
+      ],
+      "note": "[[c-herodotus]] [[c-thuc-speeches]] [[c-polybius]] [[c-livy]] [[c-josephus]] [[c-lead-ice]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "Who tells us, and when they wrote",
+    "title": "The main ancient historians, with five turning points",
+    "max": 500,
+    "min": -130,
+    "unit": "ka",
+    "ticks": [
+     500,
+     400,
+     300,
+     200,
+     100,
+     0,
+     -100
+    ],
+    "tickLabels": [
+     "500 BCE",
+     "400",
+     "300",
+     "200",
+     "100 BCE",
+     "1 CE",
+     "100 CE"
+    ],
+    "axis": "years BCE and CE; lifetimes approximate",
+    "hint": "Hover or click a row",
+    "marks": [
+     {
+      "ya": 480,
+      "t": "Salamis, 480"
+     },
+     {
+      "ya": 323,
+      "t": "Alexander dies, 323"
+     },
+     {
+      "ya": 146,
+      "t": "Carthage destroyed, 146"
+     },
+     {
+      "ya": 31,
+      "t": "Actium, 31 BCE"
+     },
+     {
+      "ya": -70,
+      "t": "Temple destroyed, 70 CE",
+      "anchor": "end"
+     }
+    ],
+    "rows": [
+     {
+      "t": "Herodotus",
+      "sub": "of Halicarnassus",
+      "from": 484,
+      "to": 425,
+      "lab": "c. 484-425",
+      "acc": true,
+      "plate": {
+       "kicker": "8.0 · how we know",
+       "title": "Herodotus",
+       "sub": "the Persian Wars",
+       "text": "[[c-herodotus]] [[c-xerxes-army]]",
+       "sources": [
+        "brit-herodotus",
+        "tarn1908"
+       ]
+      }
+     },
+     {
+      "t": "Thucydides",
+      "sub": "of Athens",
+      "from": 431,
+      "to": 400,
+      "lab": "wrote from 431",
+      "acc": true,
+      "plate": {
+       "kicker": "8.0 · how we know",
+       "title": "Thucydides",
+       "sub": "the Peloponnesian War",
+       "text": "[[c-thuc-speeches]] [[c-thuc-exile]]",
+       "sources": [
+        "thuc1",
+        "thuc5"
+       ]
+      }
+     },
+     {
+      "t": "Polybius",
+      "sub": "of Megalopolis",
+      "from": 200,
+      "to": 118,
+      "lab": "c. 200-118",
+      "acc": true,
+      "plate": {
+       "kicker": "8.0 · how we know",
+       "title": "Polybius",
+       "sub": "Rome's rise",
+       "text": "[[c-polybius]] [[c-polybius-mixed]]",
+       "sources": [
+        "brit-polybius",
+        "polyb1",
+        "polyb6"
+       ]
+      }
+     },
+     {
+      "t": "Livy",
+      "sub": "of Patavium",
+      "from": 59,
+      "to": -17,
+      "lab": "c. 59 BCE-17 CE",
+      "acc": true,
+      "plate": {
+       "kicker": "8.0 · how we know",
+       "title": "Livy",
+       "sub": "History of Rome",
+       "text": "[[c-livy]] [[c-lapis]]",
+       "sources": [
+        "brit-livy",
+        "jobin-lapis"
+       ]
+      }
+     },
+     {
+      "t": "Josephus",
+      "sub": "of Jerusalem",
+      "from": -37,
+      "to": -100,
+      "lab": "37-c. 100 CE",
+      "acc": true,
+      "plate": {
+       "kicker": "8.0 · how we know",
+       "title": "Josephus",
+       "sub": "the Jewish War and Antiquities",
+       "text": "[[c-josephus]] [[c-testimonium]]",
+       "sources": [
+        "brit-josephus",
+        "goldberg-tf"
+       ]
+      }
+     },
+     {
+      "t": "Greenland lead record",
+      "sub": "NGRIP ice core: 1100 BCE-800 CE",
+      "from": 500,
+      "to": -130,
+      "open": true,
+      "plate": {
+       "kicker": "8.0 · how we know",
+       "title": "Lead in the ice",
+       "sub": "1100 BCE to 800 CE",
+       "text": "[[c-lead-ice]] [[c-lead-iq]] [[c-iberian-lead]]",
+       "sources": [
+        "mcconnell2018",
+        "mcconnell2025",
+        "nbc-lead2025"
+       ]
+      }
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do historians value the Greenland lead record alongside writers like Livy and Polybius?",
+     "choices": [
+      "It records the names of Roman mine owners year by year",
+      "It is a yearly physical record no author could slant",
+      "It proves that lead poisoning brought about the fall of Rome",
+      "It confirms the battle figures given by Herodotus and Livy"
+     ],
+     "answer": 1,
+     "why": "Greenland ice records European mining and smelting year by year from 1100 BCE to 800 CE, so it can be checked against the texts.",
+     "wrong": {
+      "0": "The ice holds traces of lead, not names.",
+      "2": "The 2025 IQ estimate is new and model-based, and Lanphear notes 'it's never just one thing'.",
+      "3": "The ice records mining and smelting, not battles; matching its dips to particular wars is interpretation."
+     }
+    },
+    {
+     "q": "Shipwreck counts peak in the 1st century CE. What is the most important caution in reading that peak?",
+     "choices": [
+      "Barrels are easier to find than amphorae, inflating some counts",
+      "Wilson, who compiled the counts, treats them as a direct measure",
+      "Amphora cargoes are easy to find; barrels and perishables are not",
+      "Greenland lead shows trade in fact fell during the 1st century CE"
+     ],
+     "answer": 2,
+     "why": "Andrew Wilson, who compiled the figures, warns that wrecks are not a direct measure of trade: the counts partly reflect what survives and which coasts have been surveyed.",
+     "wrong": {
+      "0": "It is the other way round: amphora cargoes are easy to find, and barrels are not.",
+      "1": "Wilson warns that wrecks are not a direct measure of trade.",
+      "3": "Lead in the Greenland ice peaks under the Roman empire."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Persian Wars",
+   "sub": "499 to 479 BCE",
+   "lede": "Twice in ten years the largest empire on earth sent forces against a scatter of small Greek cities, and twice it went home. The Greeks made the story into the founding legend of the West; the Persian records show how small a frontier war it was from the other side.",
+   "body": [
+    "The Greek cities of the Anatolian coast had lived under Persia since Cyrus (see 7.8). Around 499 BCE they rose in revolt, and Athens and Eretria sent ships to help. [[c-ionian]] The revolt was crushed by 494, and Darius sent a punitive force across the Aegean. At Marathon in 490 the Athenians and their Plataean allies beat it on the beach. [[c-marathon]] A Persian administrative tablet places a man named Datiya, probably the Persian commander Datis, carrying royal documents in the west four years earlier. [[c-datis]]",
+    "Ten years later Xerxes came himself, with an army that crossed the Hellespont on a bridge of boats and a fleet that was spared the storms off Mount Athos by a canal cut across the peninsula. [[c-athos]] Leonidas held Thermopylae for two days in August 480, [[c-thermopylae]] the Persians burned an empty Athens, [[c-athens-burned]] and in September the Greek fleet trapped the Persian ships in the strait of Salamis. [[c-salamis]] In 479 the Greeks won on land at Plataea and destroyed the remaining Persian fleet at Mycale. [[c-plataea]]",
+    "Almost all we know comes from Herodotus, writing a generation later. [[c-herodotus]] His numbers cannot be right: an army of millions could not have been fed. [[c-xerxes-army]] His speeches and his scenes at the Persian court are reconstructions. [[c-herodotus-court]] Yet the Athos canal is real, and so are the burned layers of Athens. The Persian side survives only in administrative tablets from Persepolis, [[c-pfa]] [[c-pfa-return]] and in royal inscriptions that call the Greeks Yaunā, the Ionians. [[c-yauna]]",
+    {
+     "table": {
+      "head": [
+       "Battle",
+       "Date",
+       "Result",
+       "Numbers, and where they come from"
+      ],
+      "rows": [
+       [
+        "Marathon",
+        "490 BCE",
+        "Athenian victory",
+        "Herodotus: 192 Greek and 6,400 Persian dead"
+       ],
+       [
+        "Thermopylae",
+        "August 480",
+        "Persians force the pass",
+        "300 Spartans among several thousand Greeks"
+       ],
+       [
+        "Salamis",
+        "September 480",
+        "Greek naval victory",
+        "about 370 Greek ships against perhaps 800"
+       ],
+       [
+        "Plataea",
+        "479",
+        "Greek victory on land",
+        "one modern estimate: 200,000 men in all"
+       ],
+       [
+        "Mycale",
+        "479",
+        "Persian fleet destroyed",
+        "-"
+       ]
+      ],
+      "note": "[[c-marathon]] [[c-thermopylae]] [[c-salamis]] [[c-plataea]] [[c-xerxes-army]]"
+     }
+    },
+    {
+     "compare": "The Book of Esther is set in Susa at the court of King Ahasuerus (Esther 1:1-2), the Hebrew form of the name the Greeks wrote as Xerxes. Most scholars read it as a story rather than a chronicle. No Persian record mentions Esther; Persepolis tablets name officials called Marduka, but whether one of them is Mordecai is disputed."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 25.6,
+     "lat": 38.6,
+     "zoom": 36
+    },
+    "caption": "The Persian Wars, 490 and 480-479 BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc dash",
+      "Xerxes' march, 480 (simplified)"
+     ],
+     [
+      "acc",
+      "Persian fleet, 490"
+     ],
+     [
+      "dot",
+      "battle or key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          28.04,
+          38.49
+         ],
+         [
+          27.4,
+          39.3
+         ],
+         [
+          26.4,
+          40.15
+         ],
+         [
+          26.1,
+          40.6
+         ],
+         [
+          25.3,
+          40.9
+         ],
+         [
+          24.4,
+          40.95
+         ],
+         [
+          23.4,
+          40.75
+         ],
+         [
+          22.9,
+          40.6
+         ],
+         [
+          22.5,
+          40.0
+         ],
+         [
+          22.4,
+          39.3
+         ],
+         [
+          22.54,
+          38.8
+         ],
+         [
+          23.2,
+          38.35
+         ],
+         [
+          23.72,
+          37.97
+         ]
+        ],
+        "label": "Xerxes, 480",
+        "lab": [
+         24.4,
+         40.95
+        ],
+        "ldy": -10,
+        "acc": true,
+        "head": true
+       }
+      ]
+     },
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          26.9,
+          37.7
+         ],
+         [
+          25.4,
+          37.1
+         ],
+         [
+          25.27,
+          37.4
+         ],
+         [
+          24.3,
+          38.2
+         ],
+         [
+          23.79,
+          38.39
+         ],
+         [
+          23.97,
+          38.15
+         ]
+        ],
+        "label": "Datis, 490",
+        "lab": [
+         25.4,
+         37.1
+        ],
+        "ldy": 16
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         28.6,
+         39.4
+        ],
+        "label": "LYDIA",
+        "size": 10
+       },
+       {
+        "ll": [
+         28.5,
+         37.95
+        ],
+        "label": "IONIA",
+        "size": 10
+       },
+       {
+        "ll": [
+         22.1,
+         37.3
+        ],
+        "label": "PELOPONNESE",
+        "size": 9
+       },
+       {
+        "ll": [
+         22.2,
+         39.6
+        ],
+        "label": "THESSALY",
+        "size": 9
+       },
+       {
+        "ll": [
+         25.0,
+         41.3
+        ],
+        "label": "THRACE",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         28.0403,
+         38.4883
+        ],
+        "label": "Sardis",
+        "date": "Persian capital of the west",
+        "acc": true,
+        "big": true,
+        "dy": 14,
+        "plate": {
+         "kicker": "8.1 · Persia",
+         "title": "Sardis",
+         "sub": "the satrap's seat",
+         "text": "[[c-ionian]] [[c-datis]] [[c-pfa]]",
+         "sources": [
+          "brit-grecopersian",
+          "livius-datis",
+          "isac-pfa"
+         ]
+        }
+       },
+       {
+        "ll": [
+         27.2775,
+         37.5292
+        ],
+        "label": "Miletus",
+        "date": "revolt crushed 494",
+        "dy": 16
+       },
+       {
+        "ll": [
+         27.42,
+         37.04
+        ],
+        "label": "Halicarnassus",
+        "date": "home of Herodotus",
+        "dy": 14,
+        "plate": {
+         "kicker": "8.1 · the historian",
+         "title": "Herodotus",
+         "sub": "of Halicarnassus",
+         "text": "[[c-herodotus]] [[c-herodotus-court]] [[c-xerxes-army]]",
+         "sources": [
+          "brit-herodotus",
+          "bmcr-2021-09-04",
+          "tarn1908"
+         ]
+        }
+       },
+       {
+        "ll": [
+         27.15,
+         37.66
+        ],
+        "label": "Mycale",
+        "date": "479",
+        "acc": true,
+        "anchor": "end",
+        "dy": -10
+       },
+       {
+        "ll": [
+         23.92,
+         40.38
+        ],
+        "label": "Athos canal",
+        "date": "dug c. 483-480",
+        "dy": 16,
+        "plate": {
+         "kicker": "8.1 · evidence",
+         "title": "Xerxes' canal",
+         "sub": "Athos peninsula",
+         "text": "[[c-athos]]",
+         "sources": [
+          "isserlin2003"
+         ]
+        }
+       },
+       {
+        "ll": [
+         22.5436,
+         38.796
+        ],
+        "label": "Thermopylae",
+        "date": "August 480",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "8.1 · battle",
+         "title": "Thermopylae",
+         "sub": "August 480 BCE",
+         "text": "[[c-thermopylae]]",
+         "sources": [
+          "brit-grecopersian"
+         ]
+        }
+       },
+       {
+        "ll": [
+         23.9701,
+         38.1466
+        ],
+        "label": "Marathon",
+        "date": "490",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "8.1 · battle",
+         "title": "Marathon",
+         "sub": "490 BCE",
+         "text": "[[c-marathon]] [[c-datis]]",
+         "sources": [
+          "brit-grecopersian",
+          "livius-datis"
+         ]
+        }
+       },
+       {
+        "ll": [
+         23.2735,
+         38.2211
+        ],
+        "label": "Plataea",
+        "date": "479",
+        "acc": true,
+        "anchor": "end",
+        "dy": -6
+       },
+       {
+        "ll": [
+         23.72,
+         37.97
+        ],
+        "label": "Athens",
+        "date": "burned 480",
+        "acc": true,
+        "big": true,
+        "dy": 22,
+        "plate": {
+         "kicker": "8.1 · Athens",
+         "title": "Athens burned",
+         "sub": "480 BCE",
+         "text": "[[c-athens-burned]]",
+         "sources": [
+          "gr-2500"
+         ]
+        }
+       },
+       {
+        "ll": [
+         23.5303,
+         37.9488
+        ],
+        "label": "Salamis",
+        "date": "September 480",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 18,
+        "plate": {
+         "kicker": "8.1 · battle",
+         "title": "Salamis",
+         "sub": "September 480 BCE",
+         "text": "[[c-salamis]]",
+         "sources": [
+          "brit-salamis",
+          "livius-salamis"
+         ]
+        }
+       },
+       {
+        "ll": [
+         22.4247,
+         37.0818
+        ],
+        "label": "Sparta",
+        "acc": true,
+        "dy": 14
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does the Persepolis tablet naming 'Datiya' add that Herodotus cannot?",
+     "choices": [
+      "The likely number of Persians killed in the battle at Marathon",
+      "A Persian record probably placing Datis in the west in 494",
+      "Darius's own words ordering Datis to invade Greece by sea",
+      "Proof that, for Persia, Marathon was the decisive defeat"
+     ],
+     "answer": 1,
+     "why": "It is a ration record of 494 BCE, written for bookkeeping rather than for glory. Identifying Datiya with Datis is widely accepted but not proven.",
+     "wrong": {
+      "0": "The 6,400 figure comes from Herodotus; the tablet issues wine to a traveller.",
+      "2": "The archive records food stores and rations, not royal speeches.",
+      "3": "Jona Lendering argues that, for Persia, Marathon was a minor setback."
+     }
+    },
+    {
+     "q": "Why do historians reject Herodotus' army figures yet still rely on him?",
+     "choices": [
+      "He was born after the wars had ended and met no witnesses",
+      "An army of millions is impossible, but finds confirm key details",
+      "Persian tablets give exact army totals that replace his",
+      "He wrote in Persian, so his numbers suffered badly in translation"
+     ],
+     "answer": 1,
+     "why": "Historians test each kind of statement separately: an army of millions could not have been fed, but the Athos canal and the burned layers of Athens are real.",
+     "wrong": {
+      "0": "He was born about 484 BCE and wrote a generation after the wars.",
+      "2": "The Persepolis archive records food stores and rations, not army totals.",
+      "3": "He came from a Greek city, Halicarnassus, and wrote his Histories in Greek."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Athenian democracy",
+   "sub": "how it worked, and who it left out",
+   "lede": "For almost two centuries the citizens of one Greek city governed themselves directly: they voted on war and peace in person, filled most offices by lottery and sat by the hundred on juries. It was the most radical democracy in history, and most of the people who lived under it had no vote.",
+   "body": [
+    "The system began with Cleisthenes, who in 508/7 BCE broke the power of the old aristocratic clans by mixing the population into ten new tribes. [[c-cleisthenes]] Each tribe sent 50 men, chosen by lot, to a Council of 500, which prepared business for the Assembly of all citizens on the Pnyx hill. [[c-council]] [[c-quorum]] The lottery was the point: it gave every citizen an equal chance at office. The great exception was the generals, who were elected, because a city at war could not leave command to luck. [[c-generals]]",
+    "The Athenians invented ostracism to guard against tyranny. Each year they could vote to send one leading man into exile for ten years, without a trial; he kept his property and came back afterwards. [[c-ostracism]] Thousands of the potsherd ballots survive, many of them with the names of famous politicians scratched on them. [[c-ostraka]] Under Pericles, from the 450s, Athens began to pay citizens for jury service, so that poor men could afford to take part; [[c-pay]] juries of hundreds of citizens, 201 for small private suits and 501 or more for public cases, decided them with no professional judges. [[c-juries]]",
+    "The same Pericles narrowed who counted as a citizen: from about 451 BCE, both parents had to be Athenian. [[c-citizen-law]] Women, slaves and resident foreigners could not vote at all. [[c-excluded]] A rough reconstruction makes the voters about a quarter of the population. [[c-athens-pop]] The number of slaves is one of the most disputed figures in ancient history. [[c-slaves]]",
+    "Democracy at home went with empire abroad. The Delian League, formed in 478 to keep fighting Persia, turned into an Athenian empire; in 454/3 its treasury moved to Athens, and the allies' contributions became tribute recorded on stone. [[c-delian]] [[c-first-stele]] [[c-inscriptions]] Some of that money paid for the Parthenon and for the jurors' wages. Historians still argue over which Athenians gained most. [[c-empire-gain]]",
+    {
+     "table": {
+      "head": [
+       "Body",
+       "How chosen",
+       "Size",
+       "Pay"
+      ],
+      "rows": [
+       [
+        "Assembly",
+        "every adult male citizen who came",
+        "6,000 needed for some votes",
+        "1 obol, then 2, then 3, in the 390s"
+       ],
+       [
+        "Council",
+        "lot, 50 per tribe, aged 30 or more",
+        "500",
+        "paid"
+       ],
+       [
+        "Law courts",
+        "lot",
+        "juries of 201 to 1,500",
+        "3 obols a day"
+       ],
+       [
+        "Generals",
+        "election",
+        "10",
+        "-"
+       ],
+       [
+        "Ostracism",
+        "Assembly vote with potsherds",
+        "one man exiled for 10 years",
+        "-"
+       ]
+      ],
+      "note": "[[c-council]] [[c-quorum]] [[c-pay]] [[c-juries]] [[c-generals]] [[c-ostracism]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "split",
+    "caption": "Who could vote in Athens?",
+    "title": "People of Attica: adult male citizens and everyone else (one reconstruction)",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "About 470 BCE",
+      "parts": [
+       {
+        "v": 30000,
+        "lab": "citizens: c. 30,000",
+        "name": "adult male citizens",
+        "acc": true,
+        "tip": "could speak and vote in the Assembly"
+       },
+       {
+        "v": 110000,
+        "lab": "everyone else: c. 110,000",
+        "name": "women, children, metics, slaves",
+        "tip": "no political rights"
+       }
+      ]
+     },
+     {
+      "t": "431 BCE",
+      "parts": [
+       {
+        "v": 60000,
+        "lab": "citizens: c. 60,000",
+        "name": "adult male citizens",
+        "acc": true,
+        "tip": "could speak and vote in the Assembly"
+       },
+       {
+        "v": 190000,
+        "lab": "everyone else: c. 190,000",
+        "name": "women, children, metics, slaves",
+        "tip": "no political rights"
+       }
+      ]
+     }
+    ],
+    "notes": [
+     "After Ben Akrigg (2019). Other reconstructions differ widely."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Which Athenian office was filled by election rather than by lot?",
+     "choices": [
+      "Member of the Council",
+      "General (strategos)",
+      "Juror in the law courts",
+      "Member of the Assembly"
+     ],
+     "answer": 1,
+     "why": "Athenians trusted the lottery for most jobs, but not for command in war, where skill mattered more than equal chances.",
+     "wrong": {
+      "0": "Councillors were chosen by lot, 50 from each tribe.",
+      "2": "Juries were chosen by lot.",
+      "3": "Every adult male citizen who came could take part; there was no selection."
+     }
+    },
+    {
+     "q": "Why do estimates of the number of slaves in Athens range from about 20,000 to about 100,000?",
+     "choices": [
+      "The tribute lists record slaves, but the stones are damaged",
+      "No reliable count survives, and estimates rest on assumptions",
+      "Slaves hid from census takers, so the counts run low",
+      "Hansen trusts the ancient census, while Jones and Hanson do not"
+     ],
+     "answer": 1,
+     "why": "Low estimates (Jones, Hanson) and high ones (Hansen, Rhodes) rest on different assumptions, not different counts.",
+     "wrong": {
+      "0": "The tribute lists record the allies' payments, not slaves.",
+      "2": "The one ancient 'census', of 400,000 slaves, is generally rejected as too high, not too low.",
+      "3": "The ancient 'census' of 400,000 is generally rejected; Hansen's own estimate is 66,000-93,000."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Peloponnesian War",
+   "sub": "431 to 404 BCE, and Thucydides",
+   "lede": "For twenty-seven years the two greatest Greek powers, Athens at sea and Sparta on land, fought a war that neither could win quickly. Its historian, an Athenian general exiled for failing to save a city, wrote the first analysis of power politics, and students of international relations still read him.",
+   "body": [
+    "Thucydides looked past the quarrels that started the war to a deeper cause: Athens was growing, and Sparta was afraid. [[c-truest-cause]] Athens had money, a navy and walls that ran down to its harbour; [[c-resources431]] Pericles' plan was to abandon the countryside to Spartan raids, shelter the people inside the walls and fight at sea.",
+    "The plan collided with disease. In 430 BCE a plague broke out in the crowded city. Thucydides caught it and survived, and his description of the symptoms is the earliest of its kind; [[c-plague]] perhaps up to a third of the people died, Pericles among them. [[c-plague-toll]] DNA from a mass grave of the plague years pointed to typhoid fever, but the result was challenged at once and the disease is still unidentified. [[c-typhoid]]",
+    "The war went on through a peace in 421, a catastrophic invasion of Sicily that destroyed an Athenian army and fleet in 413, and Sparta's final naval victory in 405, won with Persian gold. [[c-war-course]] Its most famous passage concerns the small island of Melos, which wanted to stay neutral. Thucydides gives the Athenian envoys the bluntest statement of power politics in ancient literature, and then records what Athens did to Melos. [[c-melos]] He wrote as an exile, having lost Amphipolis as a general in 424. [[c-thuc-exile]]",
+    "Defeat brought a pro-Spartan oligarchy, the Thirty, and a year of terror before the democracy was restored in 403. [[c-socrates-politics]] Four years later a jury of citizens condemned the philosopher Socrates to death for impiety and for corrupting the young. [[c-socrates-trial]] His pupil Plato drew the lesson that the crowd should not rule, and the case against democracy has been argued from his books ever since.",
+    {
+     "table": {
+      "head": [
+       "Years (BCE)",
+       "Phase",
+       "What happened"
+      ],
+      "rows": [
+       [
+        "431-421",
+        "Archidamian War",
+        "Spartan raids on Attica; plague in Athens (430-426); Pericles dies"
+       ],
+       [
+        "421",
+        "Peace of Nicias",
+        "a truce that lasted six years"
+       ],
+       [
+        "416",
+        "Melos",
+        "the island is conquered; its men killed, women and children enslaved"
+       ],
+       [
+        "415-413",
+        "Sicilian expedition",
+        "an Athenian army and fleet destroyed at Syracuse"
+       ],
+       [
+        "411",
+        "Oligarchic coup",
+        "democracy suspended for a few months"
+       ],
+       [
+        "405-404",
+        "Aegospotami; surrender",
+        "Sparta, with Persian money, wins at sea; the Thirty take power"
+       ]
+      ],
+      "note": "[[c-war-course]] [[c-plague]] [[c-melos]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 20.6,
+     "lat": 38.6,
+     "zoom": 20
+    },
+    "caption": "The Peloponnesian War, 431-404 BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc dash",
+      "Sicilian expedition, 415 (simplified)"
+     ],
+     [
+      "dot",
+      "battle, siege or key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          23.63,
+          37.94
+         ],
+         [
+          23.3,
+          37.4
+         ],
+         [
+          23.2,
+          36.35
+         ],
+         [
+          22.3,
+          36.3
+         ],
+         [
+          21.5,
+          36.8
+         ],
+         [
+          20.9,
+          37.9
+         ],
+         [
+          20.3,
+          39.1
+         ],
+         [
+          19.5,
+          39.8
+         ],
+         [
+          18.6,
+          40.0
+         ],
+         [
+          17.3,
+          39.5
+         ],
+         [
+          16.8,
+          38.6
+         ],
+         [
+          15.75,
+          38.0
+         ],
+         [
+          15.4,
+          37.3
+         ],
+         [
+          15.28,
+          37.07
+         ]
+        ],
+        "label": "to Sicily, 415",
+        "lab": [
+         18.6,
+         40.0
+        ],
+        "ldy": -10,
+        "acc": true,
+        "head": true
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         22.0,
+         37.5
+        ],
+        "label": "PELOPONNESE",
+        "size": 10
+       },
+       {
+        "ll": [
+         14.2,
+         37.6
+        ],
+        "label": "SICILY",
+        "size": 10
+       },
+       {
+        "ll": [
+         25.2,
+         38.4
+        ],
+        "label": "AEGEAN SEA",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         23.72,
+         37.97
+        ],
+        "label": "Athens",
+        "date": "plague 430; surrender 404",
+        "acc": true,
+        "big": true,
+        "dy": -10,
+        "plate": {
+         "kicker": "8.3 · Athens",
+         "title": "The plague of Athens",
+         "sub": "from 430 BCE",
+         "text": "[[c-plague]] [[c-plague-toll]] [[c-typhoid]]",
+         "sources": [
+          "thuc2",
+          "sd-typhoid2006",
+          "ijid-noproof"
+         ]
+        }
+       },
+       {
+        "ll": [
+         22.4247,
+         37.0818
+        ],
+        "label": "Sparta",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "8.3 · Sparta",
+         "title": "Why the war came",
+         "sub": "431 BCE",
+         "text": "[[c-truest-cause]] [[c-resources431]]",
+         "sources": [
+          "thuc1",
+          "thuc2"
+         ]
+        }
+       },
+       {
+        "ll": [
+         23.8416,
+         40.8258
+        ],
+        "label": "Amphipolis",
+        "date": "424: Thucydides exiled",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "8.3 · the historian",
+         "title": "Thucydides",
+         "sub": "general and exile",
+         "text": "[[c-thuc-exile]] [[c-thuc-speeches]]",
+         "sources": [
+          "thuc5",
+          "thuc1"
+         ]
+        }
+       },
+       {
+        "ll": [
+         24.4233,
+         36.7439
+        ],
+        "label": "Melos",
+        "date": "416",
+        "acc": true,
+        "big": true,
+        "dy": 14,
+        "plate": {
+         "kicker": "8.3 · power",
+         "title": "Melos",
+         "sub": "416 BCE",
+         "text": "[[c-melos]]",
+         "sources": [
+          "thuc5"
+         ]
+        }
+       },
+       {
+        "ll": [
+         15.2833,
+         37.0701
+        ],
+        "label": "Syracuse",
+        "date": "Athenian defeat, 413",
+        "acc": true,
+        "big": true,
+        "dy": 14
+       },
+       {
+        "ll": [
+         26.5994,
+         40.3315
+        ],
+        "label": "Aegospotami",
+        "date": "405",
+        "acc": true,
+        "dy": -8
+       },
+       {
+        "ll": [
+         26.555,
+         39.105
+        ],
+        "label": "Mytilene",
+        "date": "revolt 428-427",
+        "dy": 14
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What is the safest way to use the Melian Dialogue as evidence?",
+     "choices": [
+      "As a word-for-word record of what the envoys said",
+      "As Thucydides' reconstruction, tied to a real outcome",
+      "As a story whose outcome is as invented as its speeches",
+      "As proof that Melos joined the Athenian empire willingly"
+     ],
+     "answer": 1,
+     "why": "Thucydides says he wrote speeches to fit 'the general sense' of what was said, while he narrates the fate of Melos as fact.",
+     "wrong": {
+      "0": "The dialogue is Thucydides' own composition.",
+      "2": "The killing and enslavement of the Melians is narrated as fact.",
+      "3": "Melos wanted to stay neutral, and when it fell Athens killed its men."
+     }
+    },
+    {
+     "q": "What is the status of the 2006 claim that typhoid caused the plague of Athens?",
+     "choices": [
+      "Settled, and now the standard view among specialists",
+      "A DNA result challenged at once; the cause is still open",
+      "Disproved, because Thucydides names the disease as smallpox",
+      "Based on DNA taken from the tomb of Pericles himself"
+     ],
+     "answer": 1,
+     "why": "A single result, quickly disputed, does not close a long debate; no newer study has settled it.",
+     "wrong": {
+      "0": "A reply titled 'No proof that typhoid caused the Plague of Athens' challenged it at once.",
+      "2": "Thucydides describes the symptoms; smallpox is one of several earlier candidates, and none is settled.",
+      "3": "The teeth came from a mass grave in the Kerameikos cemetery."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Alexander and the Hellenistic world",
+   "sub": "336 to 31 BCE",
+   "lede": "In eleven years a Macedonian king conquered the Persian empire and marched to India. He left no working state behind him, but the kingdoms his generals carved out spread Greek language and cities from Egypt to Afghanistan for three centuries.",
+   "body": [
+    "Macedonia, on the northern edge of the Greek world, became its master under Philip II. [[c-philip]] His son Alexander inherited the army and a planned war on Persia in 336 BCE. [[c-alexander]] He crossed into Asia in 334, took Egypt, where he founded Alexandria, [[c-alexandria-found]] and broke Darius III at Gaugamela in 331. [[c-gaugamela]] He pushed on through Iran and Central Asia to the Indus, where his army finally refused to go further. [[c-hydaspes]]",
+    "He died at Babylon in 323, and his generals fought over the empire for a generation. What emerged was a world of Greek-speaking dynasties ruling non-Greek majorities: the Ptolemies in Egypt, the Seleucids in Syria, Mesopotamia and Iran, the Antigonids in Macedonia. [[c-hellenistic]] Greek cities were planted as far east as the Oxus, where the French excavators of Aï Khanoum found a gymnasium, a theatre and the maxims of Delphi carved in stone. [[c-aikhanoum]]",
+    "The Ptolemies made Alexandria the intellectual capital of the age. Their Library is the most famous lost institution of antiquity, [[c-library]] but the figures for its size come from late writers, and one leading papyrologist thinks they are ten times too large. [[c-library-size]] Its end is equally uncertain. [[c-library-end]]",
+    "For readers of the Bible, the great Hellenistic event is the Septuagint. Alexandria had a large Jewish community whose language was Greek, and in the mid-3rd century BCE the Torah was translated for them. [[c-septuagint]] A later legend has 72 elders do it at the king's request. [[c-aristeas]] The Septuagint became the Bible of the early Christians, which is why the Old Testament of many churches follows its order and contents.",
+    {
+     "table": {
+      "head": [
+       "Dynasty",
+       "Heartland",
+       "Capital",
+       "Taken by Rome"
+      ],
+      "rows": [
+       [
+        "Antigonids",
+        "Macedonia",
+        "Pella",
+        "168 BCE"
+       ],
+       [
+        "Attalids",
+        "western Anatolia",
+        "Pergamon",
+        "133 BCE, by bequest"
+       ],
+       [
+        "Seleucids",
+        "Syria, Mesopotamia, Iran",
+        "Antioch",
+        "64 BCE"
+       ],
+       [
+        "Ptolemies",
+        "Egypt",
+        "Alexandria",
+        "30 BCE, the last"
+       ]
+      ],
+      "note": "[[c-hellenistic]]"
+     }
+    },
+    {
+     "compare": "The Septuagint's books and order differ from the Hebrew Bible: it includes works such as 1 and 2 Maccabees, Tobit and Judith. Catholic and Orthodox Old Testaments keep many of them; Protestant Bibles follow the shorter Hebrew canon and print them, if at all, as the Apocrypha."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 48.5,
+     "lat": 33.0,
+     "zoom": 6.2
+    },
+    "caption": "Alexander's campaigns, 334-323 BCE, and the kingdoms after him",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc dash",
+      "march out, 334-326 (simplified)"
+     ],
+     [
+      "dash",
+      "return, 325-323"
+     ],
+     [
+      "dot",
+      "battle or key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          22.52,
+          40.76
+         ],
+         [
+          26.4,
+          40.2
+         ],
+         [
+          27.3,
+          40.2
+         ],
+         [
+          32.0,
+          39.65
+         ],
+         [
+          36.2,
+          36.85
+         ],
+         [
+          35.2,
+          33.27
+         ],
+         [
+          34.45,
+          31.5
+         ],
+         [
+          31.25,
+          29.85
+         ],
+         [
+          29.92,
+          31.2
+         ],
+         [
+          34.45,
+          31.5
+         ],
+         [
+          35.6,
+          33.8
+         ],
+         [
+          38.2,
+          36.0
+         ],
+         [
+          43.48,
+          36.59
+         ],
+         [
+          44.42,
+          32.54
+         ],
+         [
+          48.25,
+          32.19
+         ],
+         [
+          52.89,
+          29.94
+         ],
+         [
+          48.5,
+          34.8
+         ],
+         [
+          52.0,
+          35.5
+         ],
+         [
+          58.0,
+          37.0
+         ],
+         [
+          62.2,
+          34.35
+         ],
+         [
+          62.1,
+          32.4
+         ],
+         [
+          65.7,
+          31.6
+         ],
+         [
+          69.2,
+          34.9
+         ],
+         [
+          66.9,
+          36.76
+         ],
+         [
+          66.97,
+          39.65
+         ],
+         [
+          66.9,
+          36.76
+         ],
+         [
+          69.2,
+          34.5
+         ],
+         [
+          72.0,
+          33.9
+         ],
+         [
+          73.73,
+          32.93
+         ],
+         [
+          75.3,
+          31.5
+         ]
+        ],
+        "label": "Alexander",
+        "lab": [
+         58.0,
+         37.0
+        ],
+        "ldy": -10,
+        "acc": true,
+        "head": true
+       }
+      ]
+     },
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          75.3,
+          31.5
+         ],
+         [
+          72.5,
+          30.5
+         ],
+         [
+          71.0,
+          28.5
+         ],
+         [
+          68.4,
+          25.4
+         ],
+         [
+          64.5,
+          25.6
+         ],
+         [
+          61.0,
+          26.4
+         ],
+         [
+          57.0,
+          28.5
+         ],
+         [
+          52.89,
+          29.94
+         ],
+         [
+          48.25,
+          32.19
+         ],
+         [
+          44.42,
+          32.54
+         ]
+        ],
+        "label": "return through Gedrosia",
+        "lab": [
+         62.0,
+         26.2
+        ],
+        "ldy": 16,
+        "head": true
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         22.0,
+         41.8
+        ],
+        "label": "MACEDONIA",
+        "size": 9
+       },
+       {
+        "ll": [
+         30.0,
+         26.5
+        ],
+        "label": "EGYPT",
+        "size": 11
+       },
+       {
+        "ll": [
+         54.5,
+         31.5
+        ],
+        "label": "PERSIA",
+        "size": 11
+       },
+       {
+        "ll": [
+         65.5,
+         40.8
+        ],
+        "label": "BACTRIA",
+        "size": 10
+       },
+       {
+        "ll": [
+         72.5,
+         28.0
+        ],
+        "label": "INDUS",
+        "size": 9
+       },
+       {
+        "ll": [
+         43.5,
+         34.5
+        ],
+        "label": "MESOPOTAMIA",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         22.52,
+         40.76
+        ],
+        "label": "Pella",
+        "date": "born 356",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "8.4 · Macedonia",
+         "title": "Philip and Alexander",
+         "sub": "359 to 323 BCE",
+         "text": "[[c-philip]] [[c-alexander]]",
+         "sources": [
+          "brit-philip2",
+          "brit-alexander"
+         ]
+        }
+       },
+       {
+        "ll": [
+         27.18,
+         39.13
+        ],
+        "label": "Pergamon",
+        "date": "Attalids",
+        "dy": 16
+       },
+       {
+        "ll": [
+         29.92,
+         31.2
+        ],
+        "label": "Alexandria",
+        "date": "founded 332/331",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 4,
+        "plate": {
+         "kicker": "8.4 · Alexandria",
+         "title": "Alexandria",
+         "sub": "the Library and the Septuagint",
+         "text": "[[c-alexandria-found]] [[c-library]] [[c-library-size]] [[c-septuagint]] [[c-aristeas]]",
+         "sources": [
+          "brit-alexandria",
+          "brit-library",
+          "bagnall2002",
+          "brit-septuagint"
+         ]
+        }
+       },
+       {
+        "ll": [
+         36.16,
+         36.2
+        ],
+        "label": "Antioch",
+        "date": "Seleucids",
+        "dy": -8
+       },
+       {
+        "ll": [
+         43.48,
+         36.59
+        ],
+        "label": "Gaugamela",
+        "date": "331",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "8.4 · battle",
+         "title": "Gaugamela",
+         "sub": "1 October 331 BCE",
+         "text": "[[c-gaugamela]]",
+         "sources": [
+          "brit-gaugamela"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.42,
+         32.54
+        ],
+        "label": "Babylon",
+        "date": "died 323",
+        "acc": true,
+        "dy": 16,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         52.89,
+         29.94
+        ],
+        "label": "Persepolis",
+        "dy": 16
+       },
+       {
+        "ll": [
+         69.41,
+         37.17
+        ],
+        "label": "Aï Khanoum",
+        "date": "Greek city on the Oxus",
+        "anchor": "end",
+        "dy": -8,
+        "plate": {
+         "kicker": "8.4 · Bactria",
+         "title": "Aï Khanoum",
+         "sub": "destroyed about 150 BCE",
+         "text": "[[c-aikhanoum]]",
+         "sources": [
+          "iranica-aikhanoum",
+          "met-afghan2009"
+         ]
+        }
+       },
+       {
+        "ll": [
+         73.73,
+         32.93
+        ],
+        "label": "Hydaspes",
+        "date": "326",
+        "acc": true,
+        "anchor": "end",
+        "dy": -6,
+        "plate": {
+         "kicker": "8.4 · India",
+         "title": "The Hydaspes",
+         "sub": "326 BCE",
+         "text": "[[c-hydaspes]]",
+         "sources": [
+          "brit-hydaspes"
+         ]
+        }
+       },
+       {
+        "ll": [
+         75.3,
+         31.5
+        ],
+        "label": "Beas",
+        "date": "army turns back",
+        "anchor": "end",
+        "dy": 18
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why does Roger Bagnall reject the large ancient figures, up to 700,000 rolls, for the Library of Alexandria?",
+     "choices": [
+      "Excavators found the building and measured its many shelves",
+      "The numbers come from late writers and look far too big",
+      "He accepts 700,000 but thinks most were duplicate copies",
+      "The ancient sources agree on one figure, suggesting copying"
+     ],
+     "answer": 1,
+     "why": "Bagnall argues the figures 'do not deserve any credence' and that the real holdings were probably smaller 'by as much as one order of magnitude'.",
+     "wrong": {
+      "0": "Where the Library stood and how it was laid out are unknown.",
+      "2": "He argues the figures 'do not deserve any credence'.",
+      "3": "The ancient figures differ widely: 40,000, about 490,000 or 700,000."
+     }
+    },
+    {
+     "q": "What do the Greek inscriptions and buildings of Aï Khanoum show best?",
+     "choices": [
+      "That Bactria stayed loyal to the Seleucids until about 150 BCE",
+      "That Greek civic life took root far to the east, on the Oxus",
+      "That the city survived into the Roman imperial period",
+      "That Persian rather than Greek culture shaped its public life"
+     ],
+     "answer": 1,
+     "why": "A gymnasium, a theatre and the maxims of Delphi in northern Afghanistan show a Greek city far from Greece, kept up until about 150 BCE.",
+     "wrong": {
+      "0": "Bactria broke away from the Seleucids about 250 BCE.",
+      "2": "Steppe nomads destroyed it about 150 BCE.",
+      "3": "It had a gymnasium, a theatre and the maxims of Delphi carved in stone."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Judea between empires",
+   "sub": "from the Maccabees to Herod",
+   "lede": "Under Alexander's successors the small temple-state of Judea was fought over by Egypt and Syria, revolted against a king who outlawed its religion, won some eighty years of independence, and fell to Rome. In these centuries Judaism took the forms, and split into the parties, that the New Testament knows.",
+   "body": [
+    "After Antiochus III's victory at Panium in 200 BCE, Judea belonged to the Seleucid kings in Antioch. In 168 Antiochus IV was turned back from Egypt by a Roman envoy, [[c-antiochus-egypt]] and the next year he garrisoned Jerusalem, outlawed the Sabbath and circumcision and set up an altar to Zeus in the Temple. [[c-antiochus-ban]] 1 Maccabees, written from the rebels' side, calls it 'a desolating sacrilege'. [[c-desolating]]",
+    "A priestly family, the Maccabees, led a guerrilla revolt. In December 164 BCE they retook and rededicated the Temple, [[c-rededication]] and the eight-day festival they founded is Hanukkah. [[c-eight-days]] The familiar story of the oil comes from a much later source. [[c-oil]] Judas' brother Simon won full independence in 142, [[c-hasmonean]] and his descendants, the Hasmoneans, ruled as high priests and then kings until the Roman general Pompey took Jerusalem in 63. [[c-pompey]] Rome then ruled through Herod, who rebuilt the Temple on a vast new platform. [[c-herod]]",
+    "Josephus describes three 'philosophies' among the Jews. The Sadducees were the priestly elite; the Pharisees, ancestors of rabbinic Judaism, added an oral law to the written one; [[c-sadducees]] the Essenes lived apart under strict rules. [[c-essenes]]",
+    "In 1947 shepherds found the first of the Dead Sea Scrolls near Qumran: the oldest surviving manuscripts of the Hebrew Bible, along with rules, hymns and commentaries of a separatist group. [[c-dss]] Most scholars think that group was Essene, but not all. [[c-qumran]] A 2025 study combining radiocarbon with AI analysis of handwriting has pushed many dates earlier, [[c-enoch]] including a copy of Daniel made perhaps within a lifetime of the book's composition. [[c-daniel-frag]]",
+    {
+     "table": {
+      "head": [
+       "Group",
+       "What our sources say",
+       "Caution"
+      ],
+      "rows": [
+       [
+        "Sadducees",
+        "priestly elite; written Torah only; no resurrection",
+        "known mainly from opponents; vanish after 70 CE"
+       ],
+       [
+        "Pharisees",
+        "oral tradition alongside the Torah; resurrection",
+        "described by Josephus, a Pharisee sympathiser, and by the Gospels"
+       ],
+       [
+        "Essenes",
+        "communal life, strict purity; about 4,000 (Philo, Josephus)",
+        "never named in the New Testament"
+       ],
+       [
+        "Qumran community",
+        "the scrolls' rule books",
+        "Essene identity is the majority view, not certain"
+       ]
+      ],
+      "note": "[[c-sadducees]] [[c-essenes]] [[c-qumran]]"
+     }
+    },
+    {
+     "compare": "1 Maccabees 1:54 calls Antiochus' altar 'a desolating sacrilege', and Daniel uses the same words for what is set up in the Temple: 'the desolating sacrilege' (Daniel 11:31; 12:11). The echo is one reason critical scholars date Daniel's visions to these years, 167-164 BCE; traditional readers take them as prophecy from the 6th century."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 35.25,
+     "lat": 31.85,
+     "zoom": 110
+    },
+    "caption": "Judea, 2nd to 1st century BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         35.05,
+         31.6
+        ],
+        "label": "JUDEA",
+        "size": 12
+       },
+       {
+        "ll": [
+         35.25,
+         32.3
+        ],
+        "label": "SAMARIA",
+        "size": 10
+       },
+       {
+        "ll": [
+         35.4,
+         32.85
+        ],
+        "label": "GALILEE",
+        "size": 10
+       },
+       {
+        "ll": [
+         34.85,
+         31.25
+        ],
+        "label": "IDUMEA",
+        "size": 9
+       },
+       {
+        "ll": [
+         35.75,
+         31.5
+        ],
+        "label": "DEAD SEA",
+        "size": 8
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         35.235,
+         31.778
+        ],
+        "label": "Jerusalem",
+        "date": "Temple rededicated 164",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "8.5 · Jerusalem",
+         "title": "The Temple",
+         "sub": "167 BCE to 4 BCE",
+         "text": "[[c-antiochus-ban]] [[c-rededication]] [[c-eight-days]] [[c-pompey]] [[c-herod]]",
+         "sources": [
+          "brit-antiochus4",
+          "bg-1macc4",
+          "brit-jerusalem-roman"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.0,
+         31.93
+        ],
+        "label": "Modein",
+        "date": "home of the Maccabees",
+        "anchor": "end",
+        "dy": -8
+       },
+       {
+        "ll": [
+         35.459,
+         31.741
+        ],
+        "label": "Qumran",
+        "date": "scrolls found 1947",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "8.5 · the scrolls",
+         "title": "Qumran",
+         "sub": "the Dead Sea Scrolls",
+         "text": "[[c-dss]] [[c-qumran]] [[c-enoch]] [[c-daniel-frag]]",
+         "sources": [
+          "brit-dss",
+          "benami2004",
+          "popovic2025"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.354,
+         31.316
+        ],
+        "label": "Masada",
+        "date": "Herod's fortress",
+        "acc": true
+       },
+       {
+        "ll": [
+         34.89,
+         32.5
+        ],
+        "label": "Caesarea",
+        "date": "Herod's port",
+        "anchor": "end"
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "A friend says: '1 Maccabees tells us Hanukkah lasts eight days because the oil lasted eight days.' What is the best correction?",
+     "choices": [
+      "1 Maccabees mentions no eight-day festival of any kind",
+      "The eight days were for the altar; the oil story came later",
+      "The oil story comes from Josephus, not from the books of Maccabees",
+      "2 Maccabees links the eight days to the Passover festival"
+     ],
+     "answer": 1,
+     "why": "1 Maccabees gives eight days for the altar's dedication. The oil story first appears centuries later, in the Babylonian Talmud. Keep the text and the later tradition apart.",
+     "wrong": {
+      "0": "1 Maccabees 4:56-59 describes eight days and an annual festival.",
+      "2": "The oil story first appears in the Babylonian Talmud, Shabbat 21b.",
+      "3": "2 Maccabees 10:6 compares the festival to Booths."
+     }
+    },
+    {
+     "q": "What does the 2025 'Enoch' study chiefly change?",
+     "choices": [
+      "It proves the Essenes, not refugees, wrote the scrolls",
+      "Many manuscripts came out older than experts had thought",
+      "It moves most of the scroll dates later, to after 70 CE",
+      "It relies on handwriting alone, with no laboratory dating"
+     ],
+     "answer": 1,
+     "why": "Dates anchored by radiocarbon came out older than handwriting experts had assigned, which challenges the standard sequence of scripts.",
+     "wrong": {
+      "0": "It dates manuscripts; who wrote them is a separate debate.",
+      "2": "Many came out older, and its Daniel fragment dates to 230-160 BCE.",
+      "3": "27 radiocarbon-dated samples were used to train the model."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Roman Republic",
+   "sub": "a constitution of checks",
+   "lede": "Rome began as a village of huts and became master of Italy under a constitution with no single ruler. A Greek hostage who watched it work thought its secret was that every part of the state could block every other, and the framers of the American Constitution read him.",
+   "body": [
+    "Archaeology finds a cluster of huts on Rome's hills by the 10th century BCE. [[c-early-rome]] The Romans' own story, of seven kings and a republic founded in 509, survives in writers of the 1st century BCE, and only scraps of early evidence back it. [[c-lapis]] [[c-509]] Historians now argue about how much of Livy's early Rome to keep at all, [[c-sauer]] and new excavations, such as the city centre of nearby Gabii, keep adding to the picture. [[c-gabii]]",
+    "By the 3rd century BCE the system had a clear shape. Two consuls, elected for a year, commanded the armies. The Senate of former magistrates had no formal power to legislate, but controlled money and foreign policy. Assemblies of citizens elected magistrates, declared war and passed laws. [[c-institutions]] The plebeians, the mass of ordinary citizens, had won their own officers, the tribunes, and a written code by a long struggle that ended in 287 BCE. [[c-orders]]",
+    "Polybius, writing in the 2nd century BCE, explained Rome's success by its 'mixed constitution'. [[c-polybius-mixed]] It is the ancestor of the idea of checks and balances; whether it describes how Rome really worked, where wealthy families dominated every office, is another question.",
+    "The Republic conquered Italy by war and by alliance. A Greek king, Pyrrhus, came to stop it and won battles he could not afford. [[c-pyrrhus]] Rome bound the defeated as allies who supplied soldiers but could not vote. When they demanded citizenship and were refused, they rebelled in 91 BCE, and Rome conceded what they had asked for. [[c-social-war]]",
+    {
+     "table": {
+      "head": [
+       "Office or body",
+       "Who",
+       "Term",
+       "Main powers"
+      ],
+      "rows": [
+       [
+        "Consuls",
+        "2, elected",
+        "1 year",
+        "command armies; preside over Senate and assemblies"
+       ],
+       [
+        "Senate",
+        "about 300 former magistrates",
+        "for life",
+        "finance, foreign policy, advice"
+       ],
+       [
+        "Tribunes of the plebs",
+        "10, elected by plebeians",
+        "1 year",
+        "veto; protect citizens; propose laws"
+       ],
+       [
+        "Assemblies",
+        "adult male citizens",
+        "-",
+        "elect magistrates, declare war, pass laws"
+       ]
+      ],
+      "note": "[[c-institutions]] [[c-orders]] [[c-polybius-mixed]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ledger",
+    "signs": false,
+    "caption": "Polybius' mixed constitution",
+    "title": "How each part of the Roman state could check the others (Polybius, Histories 6)",
+    "left": {
+     "h": "Each part held power...",
+     "items": [
+      {
+       "t": "Consuls: supreme command in war",
+       "s": "Polybius 6.12 (the monarchic part)"
+      },
+      {
+       "t": "Senate: the treasury and embassies",
+       "s": "Polybius 6.13 (the aristocratic part)"
+      },
+      {
+       "t": "People: honours, punishments, laws, war and peace",
+       "s": "Polybius 6.14 (the democratic part)"
+      }
+     ]
+    },
+    "right": {
+     "h": "...and depended on the others",
+     "items": [
+      {
+       "t": "Consuls need Senate funds and popular votes",
+       "s": "Polybius 6.15"
+      },
+      {
+       "t": "Senate's decrees can be blocked by a tribune's veto",
+       "s": "Polybius 6.16"
+      },
+      {
+       "t": "People depend on the Senate for contracts and judges",
+       "s": "Polybius 6.17"
+      }
+     ]
+    },
+    "notes": [
+     "Polybius 6.18: when one part grows too strong, the others hold it back. This is his model, not a legal text."
+    ]
+   },
+   "practice": [
+    {
+     "q": "According to Polybius, why was the Roman Republic stable?",
+     "choices": [
+      "The Senate held absolute power, so there was no rivalry",
+      "Consuls, Senate and people could each check the others",
+      "Its consuls were elected for life, giving continuity",
+      "Even a Roman could tell at once that it was a democracy"
+     ],
+     "answer": 1,
+     "why": "Polybius saw a mix of monarchy (the consuls), aristocracy (the Senate) and democracy (the people), each able to block the others.",
+     "wrong": {
+      "0": "He says each part could block the others.",
+      "2": "Consuls were elected for one-year terms, two at a time.",
+      "3": "He says even a Roman could not say which kind of constitution it was."
+     }
+    },
+    {
+     "q": "What did the Lex Hortensia of 287 BCE change?",
+     "choices": [
+      "It created the consulship and the system of two consuls",
+      "It gave Roman citizenship to the Italian allies",
+      "It made plebeian assembly decisions bind every citizen",
+      "It took control of finance away from the Senate"
+     ],
+     "answer": 2,
+     "why": "It made the plebeian assembly's decisions binding on all citizens, and is usually taken as the end of the Conflict of the Orders.",
+     "wrong": {
+      "0": "By tradition, two consuls replaced the kings in 509 BCE.",
+      "1": "That came after the allies' revolt of 91 BCE, from 90 BCE.",
+      "3": "The Senate still controlled money and foreign policy."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Rome, Carthage and Hispania",
+   "sub": "264 BCE to 19 BCE",
+   "lede": "Rome and Carthage fought three wars over a century for the western Mediterranean, and much of the second was fought in and for Spain. Rome needed nearly two centuries to conquer the peninsula; in the process it left Spain its language, its towns and a layer of lead in the Greenland ice.",
+   "body": [
+    "The first war, fought over Sicily, ended in 241 BCE with Carthage's defeat at sea. [[c-punic1]] Carthage looked west for compensation. The Barcid family built a power base in southern and eastern Spain, with silver mines that paid for armies, [[c-barcids]] and a new capital at Cartagena, still called after Carthage today. [[c-cartagena]]",
+    "From Spain Hannibal launched the second war. He besieged Saguntum in 219, [[c-saguntum]] crossed the Pyrenees and the Alps with elephants, and destroyed three Roman armies in three years. [[c-hannibal]] At Cannae in 216 more Romans died in one afternoon than in almost any battle in history. [[c-cannae]] Rome refused to make peace. Scipio cut off Hannibal's Spanish base by taking Cartagena in 209 and beat him in Africa at Zama in 202. Half a century later, in 146, Rome razed Carthage. [[c-zama]]",
+    "Rome stayed in Spain, organising two provinces in 197 BCE. [[c-provinces]] The conquest was long and brutal: the Celtiberian town of Numantia held out until 133, when its starving people surrendered, [[c-numantia]] and the north was subdued only under Augustus. [[c-cantabrian]] By then southern Spain was among the most Roman places outside Italy. Spanish descends from the Latin spoken there. [[c-latin-spanish]]",
+    "The Romans also mined Spain on an industrial scale: gold at Las Médulas, where they washed away mountains, [[c-medulas]] and silver at Riotinto. [[c-riotinto]] Smelting released lead that drifted to Greenland and fell in the snow, so the ice cores carry a year-by-year record of Iberian mining. [[c-iberian-lead]] [[c-lead-ice]]",
+    {
+     "table": {
+      "head": [
+       "Year (BCE)",
+       "Event"
+      ],
+      "rows": [
+       [
+        "264-241",
+        "First Punic War; Carthage loses Sicily"
+       ],
+       [
+        "237",
+        "Hamilcar Barca begins a Carthaginian domain in Spain"
+       ],
+       [
+        "218-201",
+        "Second Punic War: Hannibal in Italy, Scipio in Spain and Africa"
+       ],
+       [
+        "209",
+        "Scipio takes Cartagena"
+       ],
+       [
+        "197",
+        "Nearer and Further Spain become Roman provinces"
+       ],
+       [
+        "146",
+        "Carthage destroyed"
+       ],
+       [
+        "133",
+        "Numantia falls"
+       ],
+       [
+        "19",
+        "Cantabrian Wars end the conquest of Iberia"
+       ]
+      ],
+      "note": "[[c-punic1]] [[c-barcids]] [[c-cartagena]] [[c-provinces]] [[c-zama]] [[c-numantia]] [[c-cantabrian]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 3.2,
+     "lat": 40.0,
+     "zoom": 11
+    },
+    "caption": "Rome and Carthage in the west, 264-19 BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc dash",
+      "Hannibal's march, 218-216 (simplified)"
+     ],
+     [
+      "dot",
+      "battle, siege or key place"
+     ],
+     [
+      "pt",
+      "other place or mine"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          -0.98,
+          37.6
+         ],
+         [
+          -0.3,
+          39.5
+         ],
+         [
+          0.8,
+          41.0
+         ],
+         [
+          2.5,
+          42.0
+         ],
+         [
+          3.0,
+          42.8
+         ],
+         [
+          4.0,
+          43.7
+         ],
+         [
+          4.8,
+          44.0
+         ],
+         [
+          5.8,
+          44.8
+         ],
+         [
+          6.8,
+          45.2
+         ],
+         [
+          7.7,
+          45.1
+         ],
+         [
+          9.6,
+          45.05
+         ],
+         [
+          11.0,
+          44.4
+         ],
+         [
+          12.1,
+          43.13
+         ],
+         [
+          13.5,
+          42.3
+         ],
+         [
+          16.13,
+          41.31
+         ]
+        ],
+        "label": "Hannibal, 218",
+        "lab": [
+         4.8,
+         44.0
+        ],
+        "ldy": -14,
+        "acc": true,
+        "head": true
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         -2.8,
+         41.2
+        ],
+        "label": "CELTIBERIA",
+        "size": 9
+       },
+       {
+        "ll": [
+         -5.2,
+         43.2
+        ],
+        "label": "CANTABRIA",
+        "size": 8
+       },
+       {
+        "ll": [
+         2.5,
+         46.5
+        ],
+        "label": "GAUL",
+        "size": 10
+       },
+       {
+        "ll": [
+         5.6,
+         35.4
+        ],
+        "label": "NUMIDIA",
+        "size": 9
+       },
+       {
+        "ll": [
+         -5.0,
+         38.4
+        ],
+        "label": "BAETICA",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         12.49,
+         41.89
+        ],
+        "label": "Rome",
+        "acc": true,
+        "big": true,
+        "dy": -10
+       },
+       {
+        "ll": [
+         10.323,
+         36.853
+        ],
+        "label": "Carthage",
+        "date": "destroyed 146",
+        "acc": true,
+        "big": true,
+        "dy": -12,
+        "plate": {
+         "kicker": "8.7 · Carthage",
+         "title": "Carthage",
+         "sub": "destroyed 146 BCE",
+         "text": "[[c-punic1]] [[c-zama]]",
+         "sources": [
+          "brit-punic",
+          "brit-hannibal"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -0.98,
+         37.6
+        ],
+        "label": "Cartagena",
+        "date": "Qart Hadasht; taken 209",
+        "acc": true,
+        "big": true,
+        "dy": 14,
+        "plate": {
+         "kicker": "8.7 · Spain",
+         "title": "Qart Hadasht",
+         "sub": "Cartagena",
+         "text": "[[c-barcids]] [[c-cartagena]]",
+         "sources": [
+          "met-iberia",
+          "brit-cartagena"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -0.28,
+         39.68
+        ],
+        "label": "Saguntum",
+        "date": "219",
+        "acc": true
+       },
+       {
+        "ll": [
+         3.12,
+         42.13
+        ],
+        "label": "Emporion",
+        "date": "Romans land 218",
+        "dy": 14
+       },
+       {
+        "ll": [
+         9.6,
+         45.05
+        ],
+        "label": "Trebia",
+        "date": "218",
+        "acc": true,
+        "dy": -8
+       },
+       {
+        "ll": [
+         12.1,
+         43.13
+        ],
+        "label": "Trasimene",
+        "date": "217",
+        "acc": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         16.13,
+         41.31
+        ],
+        "label": "Cannae",
+        "date": "216",
+        "acc": true,
+        "big": true,
+        "dy": 14,
+        "plate": {
+         "kicker": "8.7 · battle",
+         "title": "Cannae",
+         "sub": "216 BCE",
+         "text": "[[c-hannibal]] [[c-cannae]]",
+         "sources": [
+          "brit-hannibal"
+         ]
+        }
+       },
+       {
+        "ll": [
+         9.4,
+         36.3
+        ],
+        "label": "Zama",
+        "date": "202",
+        "acc": true,
+        "anchor": "end",
+        "dy": 16
+       },
+       {
+        "ll": [
+         -2.44,
+         41.81
+        ],
+        "label": "Numantia",
+        "date": "falls 133",
+        "acc": true,
+        "big": true,
+        "dy": -8,
+        "plate": {
+         "kicker": "8.7 · Hispania",
+         "title": "Numantia",
+         "sub": "133 BCE",
+         "text": "[[c-numantia]] [[c-cantabrian]]",
+         "sources": [
+          "brit-numantia",
+          "grout-numantia",
+          "brit-cantabrian"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -6.77,
+         42.46
+        ],
+        "label": "Las Médulas",
+        "date": "gold, 1st-2nd century CE",
+        "anchor": "end",
+        "plate": {
+         "kicker": "8.7 · mining",
+         "title": "Las Médulas",
+         "sub": "Roman gold mines",
+         "text": "[[c-medulas]] [[c-iberian-lead]]",
+         "sources": [
+          "unesco-medulas",
+          "ku-mcconnell2018"
+         ]
+        }
+       },
+       {
+        "ll": [
+         -6.59,
+         37.69
+        ],
+        "label": "Riotinto",
+        "date": "silver",
+        "anchor": "end",
+        "plate": {
+         "kicker": "8.7 · mining",
+         "title": "Riotinto",
+         "sub": "Roman silver mines",
+         "text": "[[c-riotinto]] [[c-iberian-lead]]",
+         "sources": [
+          "jones1980",
+          "ku-mcconnell2018"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why does ice from Greenland record the history of Roman Spain?",
+     "choices": [
+      "Romans shipped Spanish ore north to smelters in Greenland",
+      "Smelting sent lead north on the wind, into the snow",
+      "The ice records volcanic eruptions, not human activity",
+      "Lead peaked under the Republic and vanished under Augustus"
+     ],
+     "answer": 1,
+     "why": "Smelting lead-silver ore released lead that drifted to Greenland and fell in the snow, leaving a year-by-year record of Iberian mining.",
+     "wrong": {
+      "0": "The ore was smelted in Spain; the lead reached Greenland through the air.",
+      "2": "It records European mining and smelting year by year.",
+      "3": "Lead in the ice peaks under the Roman empire."
+     }
+    },
+    {
+     "q": "Why did Carthage's presence in Spain matter so much to Rome?",
+     "choices": [
+      "Spain was Carthage's oldest and most loyal overseas colony",
+      "Its silver paid for armies, and Hannibal marched from there",
+      "Rome had already conquered the whole of Spain before 218 BCE",
+      "Hannibal sailed from Cartagena to invade Italy by sea"
+     ],
+     "answer": 1,
+     "why": "Spanish silver paid for Carthage's war, and Hannibal launched his invasion from Spain. That is why Scipio struck at Cartagena in 209 BCE.",
+     "wrong": {
+      "0": "The Barcid domain in Spain dates from 237 BCE, after the First Punic War.",
+      "2": "The conquest of Iberia was completed only in 19 BCE.",
+      "3": "He marched overland, across the Pyrenees and the Alps."
+     }
+    }
+   ]
+  },
+  {
+   "title": "From Republic to Empire",
+   "sub": "133 BCE to 180 CE",
+   "lede": "In a hundred years the Roman Republic went from reforming tribunes to rival generals, civil wars and finally one man's rule, dressed up as a republic restored. It is the most studied case in history of how a republic dies, and the arguments about why have never stopped.",
+   "body": [
+    "Conquest flooded Italy with slaves and wealth, and many small farmers lost their land. In 133 BCE the tribune Tiberius Gracchus pushed through a land reform and was clubbed to death by senators and their followers; his brother Gaius died in a similar outbreak of violence in 121. [[c-tgracchus]] [[c-ggracchus]] For the first time, Roman politics had been settled by killing.",
+    "Then came the generals. Marius won seven consulships and showed what a general's veterans could do for him in politics. [[c-marius]] Textbooks credit him with a reform that gave Rome armies loyal to their commanders, though that story has recently been attacked. [[c-marian-reform]] In 88 BCE Sulla became the first Roman to march an army on Rome, made himself dictator and killed his enemies from published lists. [[c-sulla]] Caesar did it again in 49, crossing the Rubicon. [[c-caesar]] [[c-carrhae]]",
+    "Caesar's murder in 44 BCE did not restore the Republic. His adopted son Octavian won the next round of civil wars at Actium in 31 and became Augustus. [[c-augustus]] His genius was to rule as a monarch while claiming to have handed the state back to the Senate and people. [[c-res-gestae]] Historians still argue over whether the Republic was doomed, or was broken by particular men and choices. [[c-why-fall]]",
+    "The system Augustus built lasted. In the 2nd century CE a run of emperors chosen by adoption ruled an empire from Britain to the Euphrates, [[c-five-good]] a time Gibbon thought the happiest in human history. [[c-gibbon]]",
+    {
+     "table": {
+      "head": [
+       "Emperor",
+       "Reign (CE)",
+       "How he came to power"
+      ],
+      "rows": [
+       [
+        "Nerva",
+        "96-98",
+        "chosen by the Senate"
+       ],
+       [
+        "Trajan",
+        "98-117",
+        "adopted by Nerva"
+       ],
+       [
+        "Hadrian",
+        "117-138",
+        "adopted by Trajan"
+       ],
+       [
+        "Antoninus Pius",
+        "138-161",
+        "adopted by Hadrian"
+       ],
+       [
+        "Marcus Aurelius",
+        "161-180",
+        "adopted by Antoninus; succeeded by his son Commodus"
+       ]
+      ],
+      "note": "[[c-five-good]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "How the Republic ended, 133 BCE to 14 CE",
+    "title": "Reformers, generals and the first emperor",
+    "max": 140,
+    "min": -20,
+    "unit": "ka",
+    "ticks": [
+     140,
+     120,
+     100,
+     80,
+     60,
+     40,
+     20,
+     0
+    ],
+    "tickLabels": [
+     "140 BCE",
+     "120",
+     "100",
+     "80",
+     "60",
+     "40",
+     "20 BCE",
+     "1 CE"
+    ],
+    "axis": "years BCE and CE",
+    "hint": "Hover or click a row",
+    "marks": [
+     {
+      "ya": 53,
+      "t": "Carrhae, 53"
+     },
+     {
+      "ya": 44,
+      "t": "Caesar killed, 44"
+     },
+     {
+      "ya": 31,
+      "t": "Actium, 31",
+      "anchor": "end"
+     }
+    ],
+    "rows": [
+     {
+      "t": "Tiberius Gracchus",
+      "sub": "tribune",
+      "from": 133.5,
+      "to": 132.5,
+      "lab": "133",
+      "plate": {
+       "kicker": "8.8 · the Gracchi",
+       "title": "The Gracchi",
+       "sub": "133 and 121 BCE",
+       "text": "[[c-tgracchus]] [[c-ggracchus]]",
+       "sources": [
+        "brit-tgracchus",
+        "brit-ggracchus"
+       ]
+      }
+     },
+     {
+      "t": "Gaius Gracchus",
+      "sub": "tribune",
+      "from": 123,
+      "to": 121,
+      "lab": "123-121"
+     },
+     {
+      "t": "Marius",
+      "sub": "seven consulships",
+      "from": 107,
+      "to": 86,
+      "lab": "107-86",
+      "acc": true,
+      "plate": {
+       "kicker": "8.8 · the generals",
+       "title": "Marius",
+       "sub": "consul 107-86 BCE",
+       "text": "[[c-marius]] [[c-marian-reform]]",
+       "sources": [
+        "brit-marius",
+        "bmcr-cadiou"
+       ]
+      }
+     },
+     {
+      "t": "Sulla",
+      "sub": "marches on Rome; dictator",
+      "from": 88,
+      "to": 79,
+      "lab": "88-79",
+      "acc": true,
+      "plate": {
+       "kicker": "8.8 · the generals",
+       "title": "Sulla",
+       "sub": "dictator 82-79 BCE",
+       "text": "[[c-sulla]]",
+       "sources": [
+        "brit-sulla"
+       ]
+      }
+     },
+     {
+      "t": "Caesar",
+      "sub": "Gaul, civil war, dictatorship",
+      "from": 58,
+      "to": 44,
+      "lab": "58-44",
+      "acc": true,
+      "plate": {
+       "kicker": "8.8 · Caesar",
+       "title": "Julius Caesar",
+       "sub": "100 to 44 BCE",
+       "text": "[[c-caesar]] [[c-carrhae]]",
+       "sources": [
+        "brit-caesar",
+        "brit-carrhae"
+       ]
+      }
+     },
+     {
+      "t": "Augustus",
+      "sub": "sole ruler",
+      "from": 31,
+      "to": -14,
+      "lab": "31 BCE-14 CE",
+      "acc": true,
+      "plate": {
+       "kicker": "8.8 · Augustus",
+       "title": "Augustus",
+       "sub": "the Republic restored?",
+       "text": "[[c-augustus]] [[c-res-gestae]] [[c-why-fall]]",
+       "sources": [
+        "brit-augustus-sum",
+        "resgestae",
+        "brit-princeps",
+        "princeton-flower"
+       ]
+      }
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Which development best explains why late-Republican generals could turn their armies against Rome?",
+     "choices": [
+      "A general's veterans became his personal political base",
+      "The Senate abolished the consulship after Sulla's march",
+      "Sulla's reforms gave the tribunes unlimited lawmaking power",
+      "Augustus created permanent provincial armies in 133 BCE"
+     ],
+     "answer": 0,
+     "why": "Marius showed how much political support a successful general could draw from his veterans; Sulla first marched such an army on Rome in 88 BCE.",
+     "wrong": {
+      "1": "The consulship survived; Marius held it again in 86 BCE.",
+      "2": "Sulla cut the tribunes' powers.",
+      "3": "Augustus took power after Actium in 31 BCE; 133 was the year of Tiberius Gracchus' tribunate."
+     }
+    },
+    {
+     "q": "Augustus wrote that he 'transferred the republic' to the Senate and people. How do most historians treat this?",
+     "choices": [
+      "As accurate: the Senate truly governed Rome after 27 BCE",
+      "As self-presentation that masked his real one-man rule",
+      "As proof that he gave up power and retired in 27 BCE",
+      "As an honest account, since princeps meant absolute monarch"
+     ],
+     "answer": 1,
+     "why": "In practice he replaced the oligarchy of the Republic with his own rule; the title princeps, 'first citizen', made the claim look plausible.",
+     "wrong": {
+      "0": "In practice he replaced the rule of the senatorial oligarchy with his own.",
+      "2": "He took the name Augustus in 27 BCE and ruled until his death in 14 CE.",
+      "3": "Princeps means 'first citizen', a title that made his claim look plausible."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Jesus, Paul and the first Christians",
+   "sub": "Judea under Rome, c. 30 to 135 CE",
+   "lede": "A Jewish preacher was executed by a Roman governor in about 30 CE. Within a few decades his followers had communities across the eastern Mediterranean, and within a century Judea itself had been devastated by two failed revolts. Historians work here with an unusual mix of sources: letters, Gospels, a few Roman notices and a growing body of archaeology.",
+   "body": [
+    "Outside the New Testament, the firmest evidence is Roman. A stone from Caesarea names Pontius Pilate as prefect of Judea, [[c-pilate-stone]] and the historian Tacitus records that 'Christus' was executed under him. [[c-tacitus]] Josephus mentions Jesus twice, though one of the passages was later expanded by Christian copyists. [[c-testimonium]] Historians date Jesus' life to roughly 6-4 BCE to 30 CE, [[c-jesus-dates]] and almost all specialists, religious or not, accept that he existed. [[c-existed]]",
+    "The earliest Christian writings are Paul's letters, from the 40s and 50s. [[c-paul-letters]] Paul never met Jesus, but he knew his inner circle: he says he spent two weeks with Peter and met 'James the Lord's brother'. [[c-gal1]] The Gospels came later, probably between about 70 and 95 CE, though a minority dates them earlier. [[c-gospel-dates]] From these sources most historians reconstruct a Jewish prophet who announced that God's kingdom was about to come; they disagree about much else. [[c-jesus-range]]",
+    "The first revolt against Rome broke out in 66 CE. In 70 the Romans took Jerusalem and burned the Temple, and its treasures were carried through Rome in triumph. [[c-temple70]] The last rebels held out at Masada. [[c-masada]] Without the Temple, Judaism reorganised around the rabbis and the synagogue.",
+    "A second revolt, under Simeon bar Kosiba (Bar Kokhba), ended in 135 with Jerusalem turned into a Roman colony that Jews could not enter. [[c-barkokhba]] [[c-bk-cause]] His own letters survive, [[c-bk-letters]] and in 2023 a cave by the Dead Sea gave up Roman swords the rebels had hidden. [[c-swords2023]] Over these same decades, Christians and Jews drifted apart, more slowly than the traditional story says. [[c-parting]] [[c-sepulchre]]",
+    {
+     "table": {
+      "head": [
+       "Evidence",
+       "Date",
+       "What it shows"
+      ],
+      "rows": [
+       [
+        "Pilate inscription, Caesarea",
+        "26-36 CE",
+        "Pilate's title: prefect of Judea"
+       ],
+       [
+        "Paul's letters",
+        "40s-50s CE",
+        "earliest Christian writing; names James, Jesus' brother"
+       ],
+       [
+        "Gospel of Mark",
+        "c. 70 CE (most scholars)",
+        "the earliest Gospel"
+       ],
+       [
+        "Josephus, Antiquities",
+        "93/94 CE",
+        "two passages on Jesus, one expanded by Christians"
+       ],
+       [
+        "Tacitus, Annals",
+        "c. 115 CE",
+        "execution of 'Christus' under Pilate"
+       ],
+       [
+        "Bar Kosiba letters",
+        "132-135 CE",
+        "the leader of the second revolt, in his own words"
+       ]
+      ],
+      "note": "[[c-pilate-stone]] [[c-paul-letters]] [[c-gospel-dates]] [[c-testimonium]] [[c-tacitus]] [[c-bk-letters]]"
+     }
+    },
+    {
+     "compare": "In Mark 13:2 Jesus looks at the Temple and says 'Not one stone will be left here upon another'. Most scholars read the chapter as written around the time of the destruction in 70 CE, one reason they date Mark then; those who date the Gospels earlier take it as a prediction made before the event."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "The earliest sources on Jesus",
+    "title": "When each was written (approximate), and the events they describe",
+    "max": 10,
+    "min": -140,
+    "unit": "ka",
+    "ticks": [
+     0,
+     -20,
+     -40,
+     -60,
+     -80,
+     -100,
+     -120,
+     -140
+    ],
+    "tickLabels": [
+     "1 CE",
+     "20",
+     "40",
+     "60",
+     "80",
+     "100",
+     "120",
+     "140 CE"
+    ],
+    "axis": "years CE; all dates approximate",
+    "hint": "Hover or click a row",
+    "marks": [
+     {
+      "ya": -70,
+      "t": "Temple destroyed, 70"
+     },
+     {
+      "ya": -135,
+      "t": "end of the Bar Kokhba revolt, 135",
+      "anchor": "end"
+     }
+    ],
+    "rows": [
+     {
+      "t": "Life of Jesus",
+      "from": 6,
+      "to": -30,
+      "lab": "c. 6-4 BCE to c. 30 CE",
+      "open": true,
+      "plate": {
+       "kicker": "8.9 · Jesus",
+       "title": "The historical Jesus",
+       "sub": "c. 4 BCE to c. 30 CE",
+       "text": "[[c-jesus-dates]] [[c-existed]] [[c-jesus-range]]",
+       "sources": [
+        "brit-jesus",
+        "deseret-ehrman",
+        "hurtado-fredriksen"
+       ]
+      }
+     },
+     {
+      "t": "Pilate prefect of Judea",
+      "from": -26,
+      "to": -36,
+      "lab": "26-36",
+      "open": true,
+      "plate": {
+       "kicker": "8.9 · inscription",
+       "title": "The Pilate stone",
+       "sub": "Caesarea",
+       "text": "[[c-pilate-stone]]",
+       "sources": [
+        "cojs-pilate"
+       ]
+      }
+     },
+     {
+      "t": "Paul's letters",
+      "from": -48,
+      "to": -60,
+      "lab": "c. 48-60",
+      "acc": true,
+      "plate": {
+       "kicker": "8.9 · Paul",
+       "title": "Paul's letters",
+       "sub": "the earliest Christian writings",
+       "text": "[[c-paul-letters]] [[c-gal1]]",
+       "sources": [
+        "brit-paul",
+        "bg-gal1"
+       ]
+      }
+     },
+     {
+      "t": "Mark",
+      "from": -68,
+      "to": -72,
+      "lab": "c. 70",
+      "acc": true,
+      "plate": {
+       "kicker": "8.9 · the Gospels",
+       "title": "Dating the Gospels",
+       "sub": "majority and minority views",
+       "text": "[[c-gospel-dates]]",
+       "sources": [
+        "ehrman-dates",
+        "stpaul-dates",
+        "bg-mark13"
+       ]
+      }
+     },
+     {
+      "t": "Matthew, Luke",
+      "from": -80,
+      "to": -85,
+      "lab": "c. 80-85",
+      "acc": true
+     },
+     {
+      "t": "John",
+      "from": -90,
+      "to": -95,
+      "lab": "c. 90-95",
+      "acc": true
+     },
+     {
+      "t": "Gospels: early dating",
+      "sub": "minority view (Bernier)",
+      "from": -42,
+      "to": -70,
+      "lab": "all before 70",
+      "open": true
+     },
+     {
+      "t": "Josephus, Antiquities",
+      "from": -93,
+      "to": -94,
+      "lab": "93/94",
+      "plate": {
+       "kicker": "8.9 · Josephus",
+       "title": "The Testimonium Flavianum",
+       "sub": "Antiquities 18.63-64",
+       "text": "[[c-testimonium]] [[c-josephus]]",
+       "sources": [
+        "goldberg-tf",
+        "brit-josephus"
+       ]
+      }
+     },
+     {
+      "t": "Tacitus, Annals",
+      "from": -114,
+      "to": -117,
+      "lab": "c. 115",
+      "plate": {
+       "kicker": "8.9 · Tacitus",
+       "title": "Tacitus on Christus",
+       "sub": "Annals 15.44",
+       "text": "[[c-tacitus]]",
+       "sources": [
+        "tacitus-ann15"
+       ]
+      }
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why do historians give Galatians 1:18-19 so much weight as evidence about Jesus' family?",
+     "choices": [
+      "Paul wrote early, and says he met James face to face",
+      "The Gospel of John is lost, leaving Paul as the main witness",
+      "Paul was a Roman official with access to Pilate's archives",
+      "Galatians survives as a stone inscription from Jerusalem"
+     ],
+     "answer": 0,
+     "why": "Paul's letters, from the 40s and 50s CE, are the earliest Christian writings, and here he says he met 'James the Lord's brother' in person.",
+     "wrong": {
+      "1": "John survives; it is later, usually dated about 90-95 CE.",
+      "2": "Paul's letters are the earliest Christian writings, not Roman records.",
+      "3": "Galatians is one of Paul's letters; the inscription on this page is the Pilate stone from Caesarea."
+     }
+    },
+    {
+     "q": "What is the most common scholarly view of Josephus' paragraph on Jesus (Antiquities 18.63-64)?",
+     "choices": [
+      "It is genuine throughout, as Feldman and Meier hold",
+      "It is a Christian forgery from start to finish",
+      "It has a genuine core, with Christian additions",
+      "It was written by Tacitus and later copied into Josephus"
+     ],
+     "answer": 2,
+     "why": "Most scholars, including Paul Winter, Louis Feldman and John Meier, see a genuine core with additions such as 'He was the Messiah'; an Arabic version lacks them.",
+     "wrong": {
+      "0": "Feldman and Meier think it has a genuine core with Christian additions; few think it wholly genuine.",
+      "1": "Some scholars argue this, but it is a minority view.",
+      "3": "Tacitus' separate notice is in Annals 15.44."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Roman economy",
+   "sub": "how rich was Rome, and for whom?",
+   "lede": "Rome is the first economy that economists try to measure. There are no national accounts, so every number is built from proxies: census figures, wages, coins, shipwrecks, jars of olive oil, even lead in the Greenland ice. The answers range from 'nearly early-modern Holland' to 'bare subsistence'.",
+   "body": [
+    "Start with people. The empire probably held around 45 million under Augustus and 60 million by the 160s, [[c-pop-empire]] but for Italy alone, scholars split between a low count of about 7 million and a high count of more than twice that. [[c-pop-italy]] Enslaved people were a large minority, perhaps 10 percent across the empire and far more in Italy. [[c-slaves-italy]]",
+    "Next, output. One widely cited reconstruction puts the 2nd-century economy at about 50 million tons of wheat-equivalent a year, very unequally shared. [[c-gdp]] Whether ordinary people were comfortable or poor is one of the liveliest arguments in economic history. [[c-living]]",
+    "Trade left physical traces. Shipwreck counts peak around the 1st century CE, [[c-wrecks]] and on the banks of the Tiber, a hill of broken jars records some two and a half centuries of olive oil shipped from southern Spain to feed the capital. [[c-testaccio]] Lead in the Greenland ice rises with mining for silver; [[c-lead-ice]] a 2025 study argues it also harmed Romans' health. [[c-lead-iq]]",
+    "Money tells a story of strain. The silver denarius was nearly pure under the Republic, [[c-denarius-rep]] and emperors short of cash quietly reduced its silver content. [[c-debasement]] In 166 CE an epidemic came back with the armies from the east; [[c-antonine]] it coincided with a cold spell, [[c-antonine-climate]] and how many it killed is now disputed again. [[c-antonine-toll]] By the 3rd century the wrecks, the lead and the coins all point downward, the story of Chapter 10.",
+    {
+     "table": {
+      "head": [
+       "Question",
+       "Lower estimate",
+       "Higher estimate"
+      ],
+      "rows": [
+       [
+        "Population of the empire",
+        "c. 45 million (Frier, for 14 CE)",
+        "up to 100 million in the 2nd century CE (Beloch's later figure)"
+       ],
+       [
+        "Population of Italy",
+        "6-8 million ('low count')",
+        "14-20 million ('high count')"
+       ],
+       [
+        "Slaves in Italy",
+        "up to 1.5 million (Scheidel)",
+        "c. 3 million (Brunt)"
+       ],
+       [
+        "Living standards",
+        "bare subsistence (Allen)",
+        "like the Dutch golden age (Temin)"
+       ],
+       [
+        "Antonine plague deaths",
+        "mortality in Rome up at most 7% (2025 model; city only)",
+        "7-10% of the empire's people (Littman and Littman)"
+       ]
+      ],
+      "note": "[[c-pop-empire]] [[c-pop-italy]] [[c-slaves-italy]] [[c-living]] [[c-antonine-toll]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "split",
+    "caption": "Who got the income?",
+    "title": "The Roman empire in the 2nd century CE: shares of people and of income (one reconstruction)",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "Share of people",
+      "parts": [
+       {
+        "v": 1.5,
+        "lab": "",
+        "name": "elite: c. 1.5%",
+        "acc": true,
+        "tip": "senators, equestrians, town councillors and their families"
+       },
+       {
+        "v": 10,
+        "lab": "middling: c. 10%",
+        "name": "middling",
+        "tip": "comfortable households above subsistence"
+       },
+       {
+        "v": 88.5,
+        "lab": "everyone else: c. 88%",
+        "name": "everyone else",
+        "open": true,
+        "tip": "near subsistence"
+       }
+      ]
+     },
+     {
+      "t": "Share of income",
+      "parts": [
+       {
+        "v": 20,
+        "lab": "elite: c. 20%",
+        "name": "elite",
+        "acc": true,
+        "tip": "about a fifth of all income"
+       },
+       {
+        "v": 20,
+        "lab": "middling: c. 20%",
+        "name": "middling",
+        "tip": "another fifth"
+       },
+       {
+        "v": 60,
+        "lab": "everyone else: c. 60%",
+        "name": "everyone else",
+        "open": true,
+        "tip": "the remainder"
+       }
+      ]
+     }
+    ],
+    "notes": [
+     "Source: Scheidel and Friesen (2009); the third group is the remainder. All shares are estimates."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Peter Temin and Robert Allen reach opposite conclusions about Roman living standards. What best explains the gap?",
+     "choices": [
+      "They use different evidence: market models versus wage baskets",
+      "Allen based his figures on the jars of Monte Testaccio",
+      "Temin argued that the Roman economy had no real markets",
+      "Both compare Rome to the Dutch Republic but date it differently"
+     ],
+     "answer": 0,
+     "why": "Temin argues that 'markets dominated' and compares 2nd-century Italy with the Dutch Republic; Allen converts wages in Diocletian's edict of 301 CE into a subsistence basket.",
+     "wrong": {
+      "1": "Allen used wages in Diocletian's Price Edict; Monte Testaccio is evidence for the oil trade.",
+      "2": "Temin argues that 'markets dominated'.",
+      "3": "Only Temin makes the Dutch comparison; Allen finds wages just enough for bare subsistence."
+     }
+    },
+    {
+     "q": "Shipwreck counts fall sharply after the 1st century CE. Why can't we simply read this as a collapse of trade?",
+     "choices": [
+      "Wrecks are found by their amphorae; barrels leave little trace",
+      "No Roman wrecks later than 100 CE have yet been found",
+      "Lead in Greenland ice rose steeply in the 3rd century",
+      "The denarius stayed pure silver, so trade must have held up"
+     ],
+     "answer": 0,
+     "why": "Andrew Wilson, who compiled the counts, warns that amphora cargoes are easy to find while barrels and perishable goods are not, and some coasts are barely surveyed.",
+     "wrong": {
+      "1": "Wrecks continue, at under a third of the 1st-century level.",
+      "2": "The ice record peaks under the empire; by the 3rd century the lead points downward.",
+      "3": "Its silver content fell to about 74 percent by the 180s CE."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Rome's neighbours",
+   "sub": "Parthia, Kush, Aksum, India, China and the Germans",
+   "lede": "Rome was never alone. Its armies were stopped in Mesopotamia and in Germany, its merchants sailed to India, its gold reached Han China only through middlemen, and an African kingdom kept the head of its first emperor buried under a temple step.",
+   "body": [
+    "To the east lay Parthia, an Iranian empire of horsemen that controlled the land routes between the Mediterranean and Asia. [[c-parthia]] At Carrhae in 53 BCE Parthian archers destroyed a Roman army; [[c-carrhae]] for the next three centuries the two empires fought over Armenia and Mesopotamia without either winning for good.",
+    "Beyond Parthia was Han China, the other great empire of the age (see Chapter 9). The two knew of each other only dimly. In 97 CE a Chinese envoy, sent west from the Tarim Basin by the general Ban Chao, reached the Persian Gulf and was talked out of going further by Parthian sailors; [[c-ganying]] in 166 traders claiming to represent the Roman emperor reached China by sea. [[c-166-envoys]]",
+    "The sea was the open road. Ships left Egypt's Red Sea ports at midsummer and sailed home from India in December, out on one monsoon and back on the next (1.6). [[c-pliny-voyage]] One papyrus prices a single returning cargo of pepper and ivory, [[c-muziris]] and at Berenike excavators have found a statue of the Buddha. [[c-berenike]] Up the Nile, the kingdom of Kush at Meroë traded with Rome and once raided it, [[c-meroe]] [[c-meroe-head]] and in the Ethiopian highlands Aksum was rising. [[c-aksum]]",
+    "In the north, Augustus tried to push the frontier from the Rhine to the Elbe. In 9 CE a German chief who had served in the Roman army lured three legions into a trap; [[c-teutoburg]] after Germanicus' punitive campaigns of 14-16 CE, Rome gave up the plan and held the Rhine. Since the first finds in 1987, work at Kalkriese has probably located the battlefield, and new metal analysis ties finds there to one of the lost legions. [[c-kalkriese]]",
+    {
+     "table": {
+      "head": [
+       "Neighbour",
+       "Where",
+       "Relations with Rome"
+      ],
+      "rows": [
+       [
+        "Parthia",
+        "Iran and Mesopotamia",
+        "rival empire; Carrhae 53 BCE; long wars over Armenia"
+       ],
+       [
+        "Han China",
+        "East Asia",
+        "knew of 'Da Qin'; contact only through middlemen"
+       ],
+       [
+        "South India",
+        "Malabar coast",
+        "pepper and ivory trade by sea, via the monsoon"
+       ],
+       [
+        "Kush (Meroë)",
+        "middle Nile",
+        "raid on Egypt 25 BCE, then peace and trade"
+       ],
+       [
+        "Aksum",
+        "Ethiopian highlands",
+        "Red Sea trade through Adulis"
+       ],
+       [
+        "Germanic peoples",
+        "beyond the Rhine",
+        "Teutoburg 9 CE; the Rhine frontier"
+       ]
+      ],
+      "note": "[[c-parthia]] [[c-ganying]] [[c-muziris]] [[c-meroe-head]] [[c-aksum]] [[c-teutoburg]]"
+     }
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 55.5,
+     "lat": 30.0,
+     "zoom": 3.4
+    },
+    "caption": "Rome and its neighbours, 1st-2nd centuries CE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "acc dash",
+      "sea route to India (simplified)"
+     ],
+     [
+      "dash",
+      "Silk Road; Gan Ying's route, 97 CE"
+     ],
+     [
+      "dot",
+      "key place"
+     ],
+     [
+      "pt",
+      "other place"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          35.47,
+          23.91
+         ],
+         [
+          37.5,
+          20.0
+         ],
+         [
+          40.5,
+          15.5
+         ],
+         [
+          43.4,
+          12.6
+         ],
+         [
+          50.0,
+          12.5
+         ],
+         [
+          60.0,
+          12.0
+         ],
+         [
+          70.0,
+          11.0
+         ],
+         [
+          76.21,
+          10.16
+         ]
+        ],
+        "label": "monsoon route",
+        "lab": [
+         60.0,
+         12.0
+        ],
+        "ldy": 16,
+        "acc": true,
+        "head": true
+       }
+      ]
+     },
+     {
+      "type": "route",
+      "items": [
+       {
+        "path": [
+         [
+          82.96,
+          41.72
+         ],
+         [
+          75.99,
+          39.47
+         ],
+         [
+          68.8,
+          38.6
+         ],
+         [
+          61.8,
+          37.6
+         ],
+         [
+          54.6,
+          36.5
+         ],
+         [
+          48.5,
+          34.8
+         ],
+         [
+          44.58,
+          33.09
+         ],
+         [
+          47.6,
+          30.6
+         ]
+        ],
+        "label": "Gan Ying, 97 CE",
+        "lab": [
+         68.8,
+         38.6
+        ],
+        "ldy": -10,
+        "head": true
+       },
+       {
+        "path": [
+         [
+          112.45,
+          34.62
+         ],
+         [
+          108.9,
+          34.3
+         ],
+         [
+          103.8,
+          36.1
+         ],
+         [
+          94.7,
+          40.1
+         ],
+         [
+          87.0,
+          41.5
+         ],
+         [
+          82.96,
+          41.72
+         ]
+        ],
+        "label": "Silk Road",
+        "lab": [
+         94.7,
+         40.1
+        ],
+        "ldy": -10
+       }
+      ]
+     },
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         54.0,
+         32.5
+        ],
+        "label": "PARTHIA",
+        "size": 12
+       },
+       {
+        "ll": [
+         106.0,
+         30.0
+        ],
+        "label": "HAN CHINA",
+        "size": 12
+       },
+       {
+        "ll": [
+         16.0,
+         46.5
+        ],
+        "label": "ROMAN EMPIRE",
+        "size": 11
+       },
+       {
+        "ll": [
+         78.5,
+         21.5
+        ],
+        "label": "INDIA",
+        "size": 11
+       },
+       {
+        "ll": [
+         13.0,
+         54.5
+        ],
+        "label": "GERMANIA",
+        "size": 9
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         12.49,
+         41.89
+        ],
+        "label": "Rome",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 4
+       },
+       {
+        "ll": [
+         8.13,
+         52.41
+        ],
+        "label": "Kalkriese",
+        "date": "Varus, 9 CE",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "8.11 · Germania",
+         "title": "The Varus disaster",
+         "sub": "9 CE",
+         "text": "[[c-teutoburg]] [[c-kalkriese]]",
+         "sources": [
+          "brit-teutoburg",
+          "idw-kalkriese2026"
+         ]
+        }
+       },
+       {
+        "ll": [
+         39.03,
+         36.87
+        ],
+        "label": "Carrhae",
+        "date": "53 BCE",
+        "acc": true,
+        "anchor": "end",
+        "dy": -6,
+        "plate": {
+         "kicker": "8.11 · Parthia",
+         "title": "Carrhae",
+         "sub": "53 BCE",
+         "text": "[[c-carrhae]] [[c-parthia]]",
+         "sources": [
+          "brit-carrhae",
+          "brit-parthia"
+         ]
+        }
+       },
+       {
+        "ll": [
+         44.58,
+         33.09
+        ],
+        "label": "Ctesiphon",
+        "anchor": "end",
+        "dy": 16
+       },
+       {
+        "ll": [
+         47.6,
+         30.6
+        ],
+        "label": "Characene",
+        "date": "Gan Ying turns back",
+        "dy": 16,
+        "plate": {
+         "kicker": "8.11 · China",
+         "title": "Gan Ying",
+         "sub": "97 CE",
+         "text": "[[c-ganying]] [[c-166-envoys]]",
+         "sources": [
+          "hhs-hill"
+         ]
+        }
+       },
+       {
+        "ll": [
+         82.96,
+         41.72
+        ],
+        "label": "Kucha",
+        "date": "Ban Chao's base",
+        "dy": 16
+       },
+       {
+        "ll": [
+         112.45,
+         34.62
+        ],
+        "label": "Luoyang",
+        "date": "Han capital",
+        "acc": true,
+        "anchor": "end",
+        "dy": -8
+       },
+       {
+        "ll": [
+         33.75,
+         16.94
+        ],
+        "label": "Meroë",
+        "date": "Kush",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "8.11 · Kush",
+         "title": "Meroë",
+         "sub": "the head of Augustus",
+         "text": "[[c-meroe]] [[c-meroe-head]]",
+         "sources": [
+          "unesco-meroe",
+          "bm-meroe-head"
+         ]
+        }
+       },
+       {
+        "ll": [
+         38.72,
+         14.13
+        ],
+        "label": "Aksum",
+        "dy": 16,
+        "plate": {
+         "kicker": "8.11 · Aksum",
+         "title": "Aksum",
+         "sub": "from the 1st century CE",
+         "text": "[[c-aksum]]",
+         "sources": [
+          "unesco-aksum"
+         ]
+        }
+       },
+       {
+        "ll": [
+         35.47,
+         23.91
+        ],
+        "label": "Berenike",
+        "date": "Buddha, found 2023",
+        "anchor": "end",
+        "plate": {
+         "kicker": "8.11 · the Red Sea",
+         "title": "Berenike",
+         "sub": "Roman port",
+         "text": "[[c-berenike]]",
+         "sources": [
+          "ahram-berenike"
+         ]
+        }
+       },
+       {
+        "ll": [
+         76.21,
+         10.16
+        ],
+        "label": "Muziris",
+        "date": "pepper port (site uncertain; perhaps Pattanam)",
+        "acc": true,
+        "dy": 16,
+        "plate": {
+         "kicker": "8.11 · India",
+         "title": "Muziris",
+         "sub": "the pepper trade",
+         "text": "[[c-muziris]]",
+         "sources": [
+          "deromanis2014"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does the Chinese account of Gan Ying (97 CE) best show about contact between Rome and Han China?",
+     "choices": [
+      "Parthian middlemen stood between the two great empires",
+      "Gan Ying reached Rome and met the emperor in person",
+      "Roman legions marched overland to China in 166 CE",
+      "Han China and Rome exchanged regular embassies by land"
+     ],
+     "answer": 0,
+     "why": "Parthian sailors turned him back at the head of the Persian Gulf; Parthia controlled most of the routes between Asia and the Roman world.",
+     "wrong": {
+      "1": "He turned back at the head of the Persian Gulf, far from Rome.",
+      "2": "The visitors of 166 came by sea with trade goods, and were probably merchants.",
+      "3": "The two empires knew each other only dimly, through middlemen."
+     }
+    },
+    {
+     "q": "Why is the 2026 metal analysis from Kalkriese important but not decisive?",
+     "choices": [
+      "It links finds to a lost legion but does not prove the battle site",
+      "It found an inscription naming the 19th Legion at the site itself",
+      "It shows that no Roman army ever campaigned in the region",
+      "It proves that Kalkriese was a Roman town rather than a battlefield"
+     ],
+     "answer": 0,
+     "why": "It ties some finds to the 19th Legion, one of the three lost with Varus, but the researchers say this does not prove Kalkriese was the battlefield.",
+     "wrong": {
+      "1": "No inscription naming a legion has been found.",
+      "2": "Varus' legions, and Germanicus after them, campaigned in Germany.",
+      "3": "The analysis concerns metal finds and the 19th Legion; it says nothing of a town."
+     }
+    }
+   ]
+  }
+ ]
+}

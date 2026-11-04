@@ -1,0 +1,4102 @@
+{
+ "id": "ch04",
+ "no": "04",
+ "title": "Egypt",
+ "sub": "the gift of the Nile",
+ "sources": {
+  "herodotus-2": {
+   "citation": "Herodotus, Histories, Book 2 (trans. Godley), LacusCurtius",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/2A*.html"
+  },
+  "herodotus-2b": {
+   "citation": "Herodotus, Histories, Book 2, chapters 99-182 (trans. Godley), LacusCurtius",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/2B*.html"
+  },
+  "herodotus-gut": {
+   "citation": "Herodotus, Histories (trans. Macaulay), Project Gutenberg",
+   "url": "https://www.gutenberg.org/files/2131/2131.txt"
+  },
+  "brit-nile": {
+   "citation": "Encyclopaedia Britannica, \"Nile River\"",
+   "url": "https://www.britannica.com/place/Nile-River"
+  },
+  "brit-nile-hydro": {
+   "citation": "Encyclopaedia Britannica, \"Nile River: Climate and hydrology\"",
+   "url": "https://www.britannica.com/place/Nile-River/Climate-and-hydrology"
+  },
+  "si-kemet": {
+   "citation": "Smithsonian, \"Forces of Change: soils of the Nile\"",
+   "url": "https://forces.si.edu/soils/02_08_03.html"
+  },
+  "pliny-nile": {
+   "citation": "Pliny, Natural History 5.10 (trans. Bostock), Perseus",
+   "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=5:chapter=10"
+  },
+  "egymon-predyn": {
+   "citation": "Egyptian Ministry of Tourism and Antiquities, \"Predynastic Period\"",
+   "url": "https://egymonuments.gov.eg/historical-periods/predynastic-period/"
+  },
+  "snape-pop": {
+   "citation": "Steven Snape, on population estimates for ancient Egypt (Brewminate reprint)",
+   "url": "https://brewminate.com/estimating-population-in-ancient-egypt/"
+  },
+  "janzen-pop": {
+   "citation": "Mark Janzen, \"Ancient Egypt: population estimates\", TheTorah.com",
+   "url": "https://www.thetorah.com/article/ancient-egypt-population-estimates-slaves-and-citizens"
+  },
+  "ucl-naqada": {
+   "citation": "UCL Digital Egypt, \"Naqada chronology\"",
+   "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/naqadan/chronology.html"
+  },
+  "sd-dee2013": {
+   "citation": "ScienceDaily on Dee et al., Proceedings of the Royal Society A (2013)",
+   "url": "https://www.sciencedaily.com/releases/2013/09/130913091606.htm"
+  },
+  "past-uj": {
+   "citation": "Current World Archaeology, \"The discovery of Tomb U-j\"",
+   "url": "https://the-past.com/shorts/the-picture-desk/the-discovery-of-tomb-u-j"
+  },
+  "arch-uj1999": {
+   "citation": "Archaeology magazine, \"Early Egyptian writing\" (1999)",
+   "url": "https://archive.archaeology.org/9903/newsbriefs/egypt.html"
+  },
+  "egymon-narmer": {
+   "citation": "Egyptian Ministry of Tourism and Antiquities, \"Narmer Palette\"",
+   "url": "https://egymonuments.gov.eg/collections/narmer-palette-1/"
+  },
+  "oconnor-narmer": {
+   "citation": "David O'Connor, \"Narmer's Enigmatic Palette\", Archaeology Odyssey (2004)",
+   "url": "https://library.biblicalarchaeology.org/article/narmers-enigmatic-palette/"
+  },
+  "brit-menes": {
+   "citation": "Encyclopaedia Britannica, \"Menes\"",
+   "url": "https://www.britannica.com/biography/Menes"
+  },
+  "penn-retainers": {
+   "citation": "Penn Museum, on retainer sacrifice at Abydos (2004)",
+   "url": "https://penn.museum/about/press-room/press-releases/archaeologists-discover-evidence-that-courtiers-were-sacrificed-to-accompany-early-egyptian-kings-into-the-afterlife"
+  },
+  "livesci-sacrifice2026": {
+   "citation": "Live Science on Campbell, retainer sacrifice at Abydos (2026)",
+   "url": "https://www.livescience.com/archaeology/ancient-egyptians/ancient-egyptians-sacrificed-pharaohs-servants-so-they-could-continue-to-serve-their-king-in-the-afterlife-new-study-finds"
+  },
+  "livesci-genome2025": {
+   "citation": "Live Science on the first whole genome from ancient Egypt, Nature (2025)",
+   "url": "https://www.livescience.com/archaeology/ancient-egyptians/oldest-and-most-complete-ancient-egyptian-human-genome-ever-sequenced-reveals-ties-to-mesopotamia"
+  },
+  "brit-pharaoh": {
+   "citation": "Encyclopaedia Britannica, \"Pharaoh\"",
+   "url": "https://www.britannica.com/topic/pharaoh"
+  },
+  "met-divine": {
+   "citation": "The Met, \"Divine Egypt\" (2025 exhibition)",
+   "url": "https://www.metmuseum.org/en/exhibitions/divine-egypt%2Finside-the-exhibition"
+  },
+  "gem-maat": {
+   "citation": "Global Egyptian Museum, glossary: \"Maat\"",
+   "url": "https://www.globalegyptianmuseum.org/glossary.aspx?id=228"
+  },
+  "brit-egyptian-religion": {
+   "citation": "Encyclopaedia Britannica, \"Egyptian religion\"",
+   "url": "https://www.britannica.com/topic/Egyptian-religion"
+  },
+  "baines2014": {
+   "citation": "John Baines, on Egyptian kingship, Annuaire EPHE 121 (2014)",
+   "url": "https://core.ac.uk/download/223796382.pdf"
+  },
+  "ucl-sed": {
+   "citation": "UCL Digital Egypt, \"The Sed festival\"",
+   "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/ideology/sed/index.html"
+  },
+  "unesco-memphis": {
+   "citation": "UNESCO World Heritage, \"Memphis and its Necropolis: the Pyramid Fields from Giza to Dahshur\"",
+   "url": "https://whc.unesco.org/en/list/86/"
+  },
+  "brit-imhotep": {
+   "citation": "Encyclopaedia Britannica, \"Imhotep\"",
+   "url": "https://www.britannica.com/biography/Imhotep"
+  },
+  "gem-imhotep": {
+   "citation": "Global Egyptian Museum, statue base of Djoser naming Imhotep",
+   "url": "https://www.globalegyptianmuseum.org/record.aspx?id=15183"
+  },
+  "smithsonian-bent": {
+   "citation": "Smithsonian Magazine on the Bent Pyramid (2019)",
+   "url": "https://www.smithsonianmag.com/smart-news/egypt-opens-its-bent-pyramid-first-time-50-years-180972673/"
+  },
+  "brit-dahshur": {
+   "citation": "Encyclopaedia Britannica, \"Dahshur\"",
+   "url": "https://www.britannica.com/place/Dahshur"
+  },
+  "smarthistory-giza": {
+   "citation": "Smarthistory, \"The Great Pyramids of Giza\"",
+   "url": "https://smarthistory.org/?p=1080"
+  },
+  "historyrevealed": {
+   "citation": "BBC History Revealed, \"What overtook the Great Pyramid as the tallest man-made structure?\"",
+   "url": "https://www.historyrevealed.com/feature/what-overtook-the-great-pyramid-of-giza-as-the-tallest-manmade-structure/"
+  },
+  "nova-lehner": {
+   "citation": "PBS NOVA, interview with Mark Lehner",
+   "url": "https://www.pbs.org/wgbh/nova/article/lehner-giza"
+  },
+  "brit-slaves": {
+   "citation": "Encyclopaedia Britannica, \"Did enslaved people build the pyramids?\"",
+   "url": "https://www.britannica.com/video/226777/did-enslaved-people-build-the-pyramids"
+  },
+  "aera-city": {
+   "citation": "AERA, \"The Lost City of the Pyramid Builders\"",
+   "url": "https://www.aeraweb.org/lost-city/"
+  },
+  "livesci-merer": {
+   "citation": "Live Science on the Wadi al-Jarf papyri",
+   "url": "https://livescience.com/55439-ancient-logbook-on-great-pyramid-unveiled.html"
+  },
+  "arch-ramps": {
+   "citation": "Archaeology magazine on the Hatnub quarry ramp (2018)",
+   "url": "https://archaeology.org/news/2018/10/31/181031-egypt-quarry-ramp/"
+  },
+  "ghoneim2024": {
+   "citation": "Ghoneim et al., the Ahramat branch of the Nile, Communications Earth & Environment (2024)",
+   "url": "https://doaj.org/article/796e696641644070bdf930857ddf7081"
+  },
+  "sn-corridor": {
+   "citation": "Science News on the ScanPyramids corridor, Nature Communications (2023)",
+   "url": "https://www.sciencenews.org/?p=3122417"
+  },
+  "brit-sphinx": {
+   "citation": "Encyclopaedia Britannica, \"Great Sphinx\"",
+   "url": "https://www.britannica.com/place/Great-Sphinx"
+  },
+  "gem-ennead": {
+   "citation": "Global Egyptian Museum, glossary: \"Ennead\"",
+   "url": "https://globalegyptianmuseum.org/glossary.aspx?id=147"
+  },
+  "bham-osiris": {
+   "citation": "University of Birmingham, \"Osiris: the mythological origins of mummification\"",
+   "url": "https://more.bham.ac.uk/birminghamegyptology/virtual-museum/toward-the-horizon/osiris-the-mythological-origins-of-mummification"
+  },
+  "plutarch-isis": {
+   "citation": "Plutarch, On Isis and Osiris (trans. Babbitt), Perseids",
+   "url": "https://cts.perseids.org/read/greekLit/tlg0007/tlg089/perseus-eng3/18"
+  },
+  "fitz-soul": {
+   "citation": "Fitzwilliam Museum, \"The soul in ancient Egypt\"",
+   "url": "https://book-of-the-dead.fitzmuseum.cam.ac.uk/explore/book-of-the-dead/the-soul-in-ancient-egypt"
+  },
+  "carnegie-mummy": {
+   "citation": "Carnegie Museum of Natural History, on mummification",
+   "url": "https://carnegiemnh.org/tag/mummification/"
+  },
+  "manchester-animals": {
+   "citation": "University of Manchester, on animal mummies (2015)",
+   "url": "https://www.manchester.ac.uk/discover/news/bbc-horizon-egypts-dark-secret/"
+  },
+  "brit-pyramid-texts": {
+   "citation": "Encyclopaedia Britannica, \"Pyramid Texts\"",
+   "url": "https://britannica.com/topic/Pyramid-Texts"
+  },
+  "fitz-bod": {
+   "citation": "Fitzwilliam Museum, \"The Book of the Dead\"",
+   "url": "https://book-of-the-dead.fitzmuseum.cam.ac.uk/explore/book-of-the-dead"
+  },
+  "fitz-125": {
+   "citation": "Fitzwilliam Museum, \"Spell 125\"",
+   "url": "https://book-of-the-dead.fitzmuseum.cam.ac.uk/explore/the-book-of-the-dead/spell-125"
+  },
+  "smith-democratisation": {
+   "citation": "Mark Smith, \"Democratization of the Afterlife\", UCLA Encyclopedia of Egyptology (2009)",
+   "url": "https://escholarship.org/content/qt70g428wj/qt70g428wj.pdf?t=rzuec9"
+  },
+  "bas-hieroglyphs": {
+   "citation": "Biblical Archaeology Society, \"How many hieroglyphs are there?\"",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/quizzes/quiz-how-many-hieroglyphs-are-there/"
+  },
+  "brit-determinative": {
+   "citation": "Encyclopaedia Britannica, \"Determinative\"",
+   "url": "https://britannica.com/topic/determinative"
+  },
+  "bm-eureka": {
+   "citation": "British Museum blog, \"Eureka! Finding the key to ancient Egypt\"",
+   "url": "https://www.britishmuseum.org/blog/eureka-finding-key-ancient-egypt"
+  },
+  "brit-egyptian-lang": {
+   "citation": "Encyclopaedia Britannica, \"Egyptian language\" (summary)",
+   "url": "https://www.britannica.com/summary/Egyptian-language"
+  },
+  "zinn-literacy": {
+   "citation": "Katharina Zinn, \"Literacy, Pharaonic Egypt\", Encyclopedia of Ancient History (2013)",
+   "url": "https://repository.uwtsd.ac.uk/569/1/Literacy%2C%20Pharaonic%20Egypt.pdf"
+  },
+  "ucl-literacy": {
+   "citation": "UCL Digital Egypt, \"Literacy\"",
+   "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/literature/literacy.html"
+  },
+  "bm-satire": {
+   "citation": "British Museum, writing board with the Teaching of Khety (EA29550)",
+   "url": "https://www.britishmuseum.org/collection/object/Y_EA29550"
+  },
+  "bm-rosetta": {
+   "citation": "British Museum, \"The Rosetta Stone\" (EA24)",
+   "url": "https://www.britishmuseum.org/collection/object/Y_EA24"
+  },
+  "brit-rosetta": {
+   "citation": "Encyclopaedia Britannica, \"What does the Rosetta Stone say?\"",
+   "url": "https://www.britannica.com/story/what-does-the-rosetta-stone-say"
+  },
+  "brit-pepi2": {
+   "citation": "Encyclopaedia Britannica, \"Pepi II\"",
+   "url": "https://www.britannica.com/biography/Pepi-II"
+  },
+  "met-mk": {
+   "citation": "The Met, \"Egypt in the Middle Kingdom\"",
+   "url": "https://www.metmuseum.org/essays/egypt-in-the-middle-kingdom-2030-1640-b-c"
+  },
+  "bell1971": {
+   "citation": "Barbara Bell, \"The Dark Ages in Ancient History I\", AJA 75 (1971)",
+   "url": "https://gizamedia.rc.fas.harvard.edu/images/MFA-images/Giza/GizaImage/full/library/bell_aja_75_1971.pdf"
+  },
+  "moeller2005": {
+   "citation": "Nadine Moeller, \"The First Intermediate Period: a time of famine and climate change?\" (2005)",
+   "url": "https://austriaca.at:443/0xc1aa5576%200x00114427.pdf"
+  },
+  "coulon-famine": {
+   "citation": "Laurent Coulon, \"Famine\", UCLA Encyclopedia of Egyptology (2008)",
+   "url": "https://escholarship.org/content/qt2nv473z9/qt2nv473z9.pdf"
+  },
+  "yale-moeller": {
+   "citation": "Yale News, \"Forever changes: climate lessons from ancient Egypt\" (2021)",
+   "url": "https://news.yale.edu/2021/08/02/forever-changes-climate-lessons-ancient-egypt"
+  },
+  "ucl-ipuwer": {
+   "citation": "UCL Digital Egypt, \"Dating Middle Kingdom literature\"",
+   "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/literature/teachingaidating.html"
+  },
+  "vanseters-ipuwer": {
+   "citation": "John Van Seters, \"The Date of the Admonitions\"",
+   "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9781315728773-8/date-admonitions-second-intermediate-period-john-van-seters"
+  },
+  "enmarch2009": {
+   "citation": "Roland Enmarch, A World Upturned (British Academy, 2009)",
+   "url": "https://collections.thebritishacademy.ac.uk/object-bab-1902642"
+  },
+  "brit-mk": {
+   "citation": "Encyclopaedia Britannica, \"Ancient Egypt: the Middle Kingdom and Second Intermediate period\"",
+   "url": "https://www.britannica.com/place/ancient-Egypt/The-Middle-Kingdom-1938-c-1630-bce-and-the-Second-Intermediate-period-c-1630-1540-bce"
+  },
+  "met-semna": {
+   "citation": "The Met, Semna boundary stela of Senusret III",
+   "url": "https://www.metmuseum.org/art/collection/search/591230"
+  },
+  "ees-buhen": {
+   "citation": "Egypt Exploration Society, \"Buhen: an Egyptian fortress in Nubia\"",
+   "url": "https://ees.ac.uk/resource/buhen--an-egyptian-fortress-in-nubia.html"
+  },
+  "ucl-fayum": {
+   "citation": "UCL Digital Egypt, \"The Fayum in the Middle Kingdom\"",
+   "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/fayum/fmk.html"
+  },
+  "allen-mel": {
+   "citation": "James P. Allen, Middle Egyptian Literature (Cambridge, 2014)",
+   "url": "https://www.lavoisier.fr/livre/autre/middle-egyptian-literature/allen/descriptif_3308090"
+  },
+  "jvl-hyksos": {
+   "citation": "Encyclopaedia Judaica, \"Hyksos\" (Jewish Virtual Library)",
+   "url": "https://www.jewishvirtuallibrary.org/hyksos"
+  },
+  "josephus-apion": {
+   "citation": "Josephus, Against Apion (Project Gutenberg)",
+   "url": "https://www.gutenberg.org/files/2849/2849-h/2849-h.htm"
+  },
+  "auaris": {
+   "citation": "Austrian Archaeological Institute, \"Tell el-Dab'a / Avaris: history\"",
+   "url": "https://auaris.at/html/history_en.html"
+  },
+  "stantis2020": {
+   "citation": "Stantis et al., \"Who were the Hyksos?\", PLOS ONE (2020)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7363063"
+  },
+  "tatomir2014": {
+   "citation": "Tatomir, on the horse in Egypt (2014)",
+   "url": "https://www.academia.edu/8814160"
+  },
+  "bas-hyksos": {
+   "citation": "Biblical Archaeology Society, \"The expulsion of the Hyksos\"",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/the-expulsion-of-the-hyksos/"
+  },
+  "sars-kurgus": {
+   "citation": "Sudan & Nubia 18 (2014), on Hagr el-Merwa, Kurgus",
+   "url": "https://www.sudarchrs.org.uk/wp-content/uploads/2019/03/SARS_SN18_Murtada_et_al.pdf"
+  },
+  "brit-thutmose3": {
+   "citation": "Encyclopaedia Britannica, \"Thutmose III\"",
+   "url": "https://www.britannica.com/biography/Thutmose-III"
+  },
+  "fordham-megiddo": {
+   "citation": "Fordham Ancient History Sourcebook, \"The Battle of Megiddo\" (trans. Breasted)",
+   "url": "https://sourcebooks.web.fordham.edu/ancient/1469BC-egypt-megiddo.asp"
+  },
+  "knohl-exodus": {
+   "citation": "Israel Knohl, \"Exodus: the history behind the story\", TheTorah.com",
+   "url": "https://thetorah.com/article/exodus-the-history-behind-the-story"
+  },
+  "ucl-hatshepsut": {
+   "citation": "UCL Digital Egypt, \"Hatshepsut\"",
+   "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/hatshepsut.html"
+  },
+  "unesco-thebes": {
+   "citation": "UNESCO World Heritage, \"Ancient Thebes with its Necropolis\"",
+   "url": "https://whc.unesco.org/en/list/087"
+  },
+  "pol-punt": {
+   "citation": "Polish-Egyptian Mission, Temple of Hatshepsut, the Punt portico",
+   "url": "https://www.templeofhatshepsut.uw.edu.pl/en/middle_portico_south_portico_of_punt.html"
+  },
+  "grathwol2023": {
+   "citation": "Grathwol et al., on baboon mummies and Punt, eLife (2023)",
+   "url": "https://elifesciences.org/articles/87513"
+  },
+  "dorman2001": {
+   "citation": "Peter Dorman, on the proscription of Hatshepsut, Oriental Institute News & Notes 168 (2001)",
+   "url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/nn168.pdf"
+  },
+  "wong2025": {
+   "citation": "Antiquity, on Jun Yi Wong's study of Hatshepsut's statues (2025)",
+   "url": "https://antiquity.ac.uk/news/2025/reconstructing-shattered-visage-queen-hatshepsut"
+  },
+  "arce-c4": {
+   "citation": "ARCE, \"Wadi C: Thutmose II identified as owner of tomb Wadi C-4\" (2025)",
+   "url": "https://cairo.arce.org/articles/latest-discovery-wadi-c-thutmes-ii-identified-owner-tomb-wadi-c-4"
+  },
+  "brit-akhenaten": {
+   "citation": "Encyclopaedia Britannica, \"Akhenaten\"",
+   "url": "https://www.britannica.com/biography/Akhenaten"
+  },
+  "amarna-stelae": {
+   "citation": "The Amarna Project, \"Boundary stelae\"",
+   "url": "https://www.amarnaproject.com/amarna-the-place/boundary-stelae/"
+  },
+  "bg-ps104": {
+   "citation": "Psalm 104:20-26, NRSVUE (Bible Gateway)",
+   "url": "https://www.biblegateway.com/passage/?search=Psalm+104%3A20-26&version=NRSVUE"
+  },
+  "koller-psalm104": {
+   "citation": "Aaron Koller, \"Psalm 104 and its parallels in Pharaoh Akhenaten's hymn\", TheTorah.com",
+   "url": "https://www.thetorah.com/article/psalm-104-and-its-parallels-in-pharaoh-akhenatens-hymn"
+  },
+  "rendsburg-hornung": {
+   "citation": "Gary Rendsburg, review of Hornung, Akhenaten and the Religion of Light, JARCE",
+   "url": "https://jewishstudies.rutgers.edu/images/documents/faculty/Rendsburg/JARCE_Hornung_Akhenaton.pdf"
+  },
+  "sanders-assmann": {
+   "citation": "Paul Sanders, review of Assmann, Review of Biblical Literature (2018)",
+   "url": "https://www.pthu.nl/Over-PThU/Organisatie/Medewerkers/p.sanders/downloads/review-assmann-akhenaten-moses.pdf"
+  },
+  "brit-nefertiti": {
+   "citation": "Encyclopaedia Britannica, \"Nefertiti\"",
+   "url": "https://www.britannica.com/biography/Nefertiti"
+  },
+  "ucl-amarna-letters": {
+   "citation": "UCL Digital Egypt, \"The Amarna letters\"",
+   "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/amarna/cuneiform2.html"
+  },
+  "usc-amarna": {
+   "citation": "USC West Semitic Research Project, \"El-Amarna tablets\"",
+   "url": "https://dornsife.usc.edu/wsrp/el-amarna-tablets/"
+  },
+  "brit-tutankhamun": {
+   "citation": "Encyclopaedia Britannica, \"Tutankhamun\"",
+   "url": "https://www.britannica.com/biography/Tutankhamun"
+  },
+  "torch-tut": {
+   "citation": "TORCH, University of Oxford, on the discovery of Tutankhamun's tomb",
+   "url": "https://torch.ox.ac.uk/node/731196"
+  },
+  "griffith-tut": {
+   "citation": "Griffith Institute, Oxford, \"Discovering Tutankhamun\": Howard Carter's diaries",
+   "url": "https://www.griffith.ox.ac.uk/discoveringTut/"
+  },
+  "afp-gem": {
+   "citation": "AFP via Al-Monitor, \"King Tut's collection displayed for first time at Egypt's grand museum\" (4 November 2025)",
+   "url": "https://www.al-monitor.com/originals/2025/11/king-tuts-collection-displayed-first-time-egypts-grand-museum"
+  },
+  "archmag-thutmose2": {
+   "citation": "Archaeology Magazine, \"Long-lost tomb of pharaoh Thutmose II\" (2025)",
+   "url": "https://archaeologymag.com/2025/02/long-lost-tomb-of-pharaoh-thutmose-ii"
+  },
+  "brit-ramesses": {
+   "citation": "Encyclopaedia Britannica, \"Ramses II\"",
+   "url": "https://www.britannica.com/biography/Ramses-II-king-of-Egypt"
+  },
+  "brit-kadesh": {
+   "citation": "Encyclopaedia Britannica, \"Battle of Kadesh\"",
+   "url": "https://www.britannica.com/event/Battle-of-Kadesh"
+  },
+  "turkmus-treaty": {
+   "citation": "Turkish Museums, \"The world's first international peace treaty\"",
+   "url": "https://turkishmuseums.com/blog/detail/do-you-know-worlds-first-international-peace-treaty/10040/4"
+  },
+  "ausmus-kadesh": {
+   "citation": "Australian Museum, Amenhotep III to the death of Ramesses II (teaching resource)",
+   "url": "https://media.australian.museum/media/dd/documents/Amenhotep_III_to_the_Death_of_Ramesses_II_-_Activity_6.529b32e.pdf"
+  },
+  "unesco-hattusa": {
+   "citation": "UNESCO World Heritage, \"Hattusha: the Hittite Capital\"",
+   "url": "https://whc.unesco.org/en/list/377/"
+  },
+  "discover-treaty2026": {
+   "citation": "Discover Magazine on a new fragment of the Kadesh treaty (2026)",
+   "url": "https://www.discovermagazine.com/a-newly-discovered-fragment-of-the-world-s-oldest-peace-treaty-reveals-protections-for-refugees-and-their-homes-49715"
+  },
+  "michel-treaties": {
+   "citation": "Cécile Michel, on the oldest treaties, University of Hamburg CSMC (2024)",
+   "url": "https://www.csmc.uni-hamburg.de/publications/mesopotamia/2024-01-13.html"
+  },
+  "wibilex-piramesse": {
+   "citation": "Pusch and Franzmeier, \"Pi-Ramesse\", WiBiLex (Deutsche Bibelgesellschaft)",
+   "url": "https://www.die-bibel.de/ressourcen/wibilex/altes-testament/pi-ramesse"
+  },
+  "cojs-merneptah": {
+   "citation": "Center for Online Judaic Studies, the Merneptah Stele",
+   "url": "https://cojs.org/stelae_and_reliefs_of_pharaoh_merneptah-_c-_1207_bce/"
+  },
+  "bar-merneptah": {
+   "citation": "Biblical Archaeology Society, \"Does the Merneptah Stele contain the first mention of Israel?\"",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/does-the-merneptah-stele-contain-the-first-mention-of-israel/"
+  },
+  "wood-exodus": {
+   "citation": "Bryant Wood, \"Recent Research on the Date and Setting of the Exodus\" (Associates for Biblical Research)",
+   "url": "https://www.biblearchaeology.org/images/Emilys/Recent-Research-on-the-Date-and-Setting-of-the-Exodus.pdf"
+  },
+  "finkelstein2001": {
+   "citation": "Finkelstein and Silberman, on the Exodus, Bible and Interpretation (2001)",
+   "url": "https://bibleinterp.arizona.edu/articles/Finkelstein_Silberman022001"
+  },
+  "themelios-dever": {
+   "citation": "Themelios review of William Dever, Who Were the Early Israelites?",
+   "url": "https://www.thegospelcoalition.org/themelios/review/who-were-the-early-israelites-and-where-did-they-come-from/"
+  },
+  "hoffmeier-review": {
+   "citation": "Denver Journal review of James Hoffmeier, Israel in Egypt",
+   "url": "https://denverjournal.denverseminary.edu/the-denver-journal-article/israel-in-egypt-the-evidence-for-the-authenticity-of-the-exodus-tradition/"
+  },
+  "friedman-exodus": {
+   "citation": "Richard Elliott Friedman, \"The Historical Exodus\", TheTorah.com",
+   "url": "https://www.thetorah.com/article/the-historical-exodus"
+  },
+  "wibilex-pithom": {
+   "citation": "Jansen-Winkeln, \"Pitom\", WiBiLex (Deutsche Bibelgesellschaft)",
+   "url": "https://www.die-bibel.de/ressourcen/wibilex/altes-testament/pitom"
+  },
+  "bas-exodus-date": {
+   "citation": "Biblical Archaeology Society, \"Dating the Exodus\"",
+   "url": "https://library.biblicalarchaeology.org/sidebar/dating-the-exodus/"
+  },
+  "ucl-calendar": {
+   "citation": "UCL Digital Egypt, \"The Egyptian calendar\"",
+   "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/calendar.html"
+  },
+  "wilson-bread": {
+   "citation": "Hilary Wilson, \"Bread, beer and economics\", The Past",
+   "url": "https://the-past.com/feature/hilary-wilson-on-bread-beer-and-economics-part-2/"
+  },
+  "mcdowell-sciam": {
+   "citation": "Andrea McDowell, \"Daily Life in Ancient Egypt\", Scientific American",
+   "url": "https://www.scientificamerican.com/article/daily-life-in-ancient-egypt-2005-01/"
+  },
+  "turin-strike": {
+   "citation": "Museo Egizio, Turin, \"The Turin Strike Papyrus\"",
+   "url": "https://collezionepapiri.museoegizio.it/en-GB/section/Papyrus-Collection/History-and-content/Highlights-Turin-Strike-Papyrus/"
+  },
+  "johnson-women": {
+   "citation": "Janet Johnson (Oriental Institute), \"Women's Legal Rights in Ancient Egypt\"",
+   "url": "https://fathom.lib.uchicago.edu/1/777777190170"
+  },
+  "cup-naunakhte": {
+   "citation": "\"Naunakhte\", in Women in the Ancient Mediterranean World (Cambridge)",
+   "url": "https://core-prod.cambridgecore.org/core/books/women-in-the-ancient-mediterranean-world/naunakhte/2D1731F265A0D1004DA3290A2EB32447"
+  },
+  "boneandjoint-smith": {
+   "citation": "Bone & Joint, on the Edwin Smith Papyrus",
+   "url": "https://boneandjoint.org.uk/Article/10.1302/2048-0105.22.360124"
+  },
+  "brit-ebers": {
+   "citation": "Encyclopaedia Britannica, \"Ebers papyrus\"",
+   "url": "https://www.britannica.com/topic/Ebers-papyrus"
+  },
+  "ucl-daba": {
+   "citation": "UCL Digital Egypt, \"Age at death: Tell el-Dab'a\" (after Winkler and Wilfing 1991)",
+   "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/age/telleldaba.html"
+  },
+  "ebsco-kerma": {
+   "citation": "EBSCO Research Starters, \"Kerma Kingdom rules Nubia\"",
+   "url": "https://www.ebsco.com/research-starters/anthropology/kerma-kingdom-rules-nubia"
+  },
+  "aja-kerma": {
+   "citation": "Krzysztof Grzymski, review of Bonnet, American Journal of Archaeology",
+   "url": "https://ajaonline.org/book-review/553/"
+  },
+  "kerma-ch": {
+   "citation": "Swiss-French-Sudanese Archaeological Mission at Kerma",
+   "url": "https://kerma.ch/staticj/www.kerma.ch/index/index-40.html"
+  },
+  "kerma-necropolis": {
+   "citation": "Kerma mission, the eastern necropolis",
+   "url": "https://kerma.ch/en/?p=544"
+  },
+  "brit-thutmose1": {
+   "citation": "Encyclopaedia Britannica, \"Thutmose I\"",
+   "url": "https://www.britannica.com/biography/Thutmose-I"
+  },
+  "kurgus": {
+   "citation": "Digital Epigraphy, \"Nubia in the New Kingdom: the Egyptians at Kurgus\"",
+   "url": "https://digital-epigraphy.com/readings/nubia-in-the-new-kingdom-the-egyptians-at-kurgus"
+  },
+  "unesco-barkal": {
+   "citation": "UNESCO World Heritage, \"Gebel Barkal and the Sites of the Napatan Region\"",
+   "url": "https://whc.unesco.org/en/list/1073/"
+  },
+  "brit-piye": {
+   "citation": "Encyclopaedia Britannica, \"Piye\"",
+   "url": "https://www.britannica.com/biography/Piye"
+  },
+  "brit-taharqa": {
+   "citation": "Encyclopaedia Britannica, \"Taharqa\"",
+   "url": "https://www.britannica.com/biography/Taharqa"
+  },
+  "bg-2kings19": {
+   "citation": "2 Kings 19:9, NRSVUE and KJV (Bible Gateway)",
+   "url": "https://www.biblegateway.com/passage/?search=2+Kings+19%3A9&version=NRSVUE;KJV"
+  },
+  "sefaria-2kings19": {
+   "citation": "2 Kings 19:9, Sefaria",
+   "url": "https://www.sefaria.org/II_Kings.19.9"
+  },
+  "brit-tanutamon": {
+   "citation": "Encyclopaedia Britannica, \"Tanutamon\"",
+   "url": "https://www.britannica.com/biography/Tanutamon"
+  },
+  "unesco-meroe": {
+   "citation": "UNESCO World Heritage, \"Archaeological Sites of the Island of Meroe\"",
+   "url": "https://whc.unesco.org/en/list/1336/"
+  },
+  "ma-sudan": {
+   "citation": "Museums Association on looting at the Sudan National Museum (2024)",
+   "url": "https://www.museumsassociation.org/museums-journal/news/2024/09/reports-of-large-scale-looting-at-sudan-national-museum/"
+  },
+  "brit-cambyses": {
+   "citation": "Encyclopaedia Britannica, \"Cambyses II\"",
+   "url": "https://www.britannica.com/biography/Cambyses-II"
+  },
+  "brit-alexandria": {
+   "citation": "Encyclopaedia Britannica, \"Alexandria\"",
+   "url": "https://www.britannica.com/place/Alexandria-Egypt"
+  },
+  "brit-ptolemaic": {
+   "citation": "Encyclopaedia Britannica, \"Ptolemaic dynasty\"",
+   "url": "https://www.britannica.com/topic/Ptolemaic-dynasty"
+  },
+  "brit-library": {
+   "citation": "Encyclopaedia Britannica, \"Library of Alexandria\"",
+   "url": "https://www.britannica.com/topic/Library-of-Alexandria"
+  },
+  "heritage-pharos": {
+   "citation": "HeritageDaily, \"Blocks from the Lighthouse of Alexandria recovered from seabed\" (2025)",
+   "url": "https://www.heritagedaily.com/2025/07/blocks-from-the-lighthouse-of-alexandria-recovered-from-seabed/155568"
+  },
+  "brit-cleopatra": {
+   "citation": "Encyclopaedia Britannica, \"Cleopatra\"",
+   "url": "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt"
+  },
+  "brit-coptic": {
+   "citation": "Encyclopaedia Britannica, \"Coptic language\"",
+   "url": "https://www.britannica.com/topic/Coptic-language"
+  },
+  "brit-hieroglyph": {
+   "citation": "Encyclopaedia Britannica, \"Hieroglyph\"",
+   "url": "https://www.britannica.com/topic/hieroglyph"
+  },
+  "turin-canon": {
+   "citation": "Museo Egizio, Turin, the Royal Canon (Cat. 1874)",
+   "url": "https://collezionepapiri.museoegizio.it/en-GB/document/97/"
+  },
+  "hsu-palermo": {
+   "citation": "Shih-Wei Hsu, on the Palermo Stone, Altorientalische Forschungen (2010)",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1524/aofo.2010.0006/html"
+  },
+  "brit-egypt-chron": {
+   "citation": "Encyclopaedia Britannica, \"Chronology: Egyptian\"",
+   "url": "https://www.britannica.com/topic/chronology/Egyptian"
+  },
+  "bronkramsey2010": {
+   "citation": "Bronk Ramsey et al., \"Radiocarbon-Based Chronology for Dynastic Egypt\", Science 328 (2010)",
+   "url": "https://www.ltrr.arizona.edu/~tswetnam/CMATE/Ramsey%20et%20al%20Science%202010%20Egypt%20radiocarbon.pdf"
+  },
+  "isaw-shaw": {
+   "citation": "Chronological table after Ian Shaw, ed., Oxford History of Ancient Egypt (2000), NYU ISAW",
+   "url": "https://dlib.nyu.edu/awdl/isaw/oasis-city/chronologicaltable.xhtml"
+  }
+ },
+ "claims": {
+  "c-gift": {
+   "text": "Herodotus wrote that the Egypt reached by Greek ships was land 'acquired by the Egyptians, given them by the river', built up from its mud: the origin of the phrase 'the gift of the Nile'.",
+   "label": "consensus",
+   "sources": [
+    "herodotus-2",
+    "herodotus-gut"
+   ],
+   "show": false
+  },
+  "c-nile-length": {
+   "text": "The Nile is about 6,650 km long.",
+   "label": "approx",
+   "sources": [
+    "brit-nile"
+   ],
+   "show": false,
+   "note": "The figure depends on where the source is taken to be."
+  },
+  "c-flood": {
+   "text": "The annual flood came from heavy summer rain on the Ethiopian highlands: at its peak the Blue Nile supplied almost 70 percent of the water, the Atbara more than 20 and the White Nile about 10.",
+   "label": "consensus",
+   "sources": [
+    "brit-nile-hydro"
+   ],
+   "show": false
+  },
+  "c-flood-timing": {
+   "text": "Before the modern dams, the flood reached Aswan in July and peaked at Cairo in October.",
+   "label": "consensus",
+   "sources": [
+    "brit-nile-hydro"
+   ],
+   "show": false
+  },
+  "c-kemet": {
+   "text": "The flood left fertile black silt; Egyptians called their land Kemet, 'the black land', and the desert Deshret, 'the red land'.",
+   "label": "consensus",
+   "sources": [
+    "si-kemet"
+   ],
+   "show": false
+  },
+  "c-pliny-flood": {
+   "text": "Pliny recorded that a flood of 12 cubits meant famine, 14 gladness and 16 'unbounded transports of joy'; floods were measured on Nilometers.",
+   "label": "tradition",
+   "sources": [
+    "pliny-nile"
+   ],
+   "show": false,
+   "note": "A Roman writer of the 1st century CE."
+  },
+  "c-two-lands": {
+   "text": "Upper (southern) Egypt and Lower (northern) Egypt had distinct cultures before unification, and kings were later called 'Lord of the Two Lands'.",
+   "label": "consensus",
+   "sources": [
+    "egymon-predyn"
+   ],
+   "show": false
+  },
+  "c-population": {
+   "text": "Karl Butzer estimated Egypt's population at about 0.9 million at unification, 1.6 million by 2500 BCE and 2.9 million under Ramesses II.",
+   "label": "debated",
+   "sources": [
+    "snape-pop",
+    "janzen-pop"
+   ],
+   "show": true,
+   "note": "No count of pharaonic Egypt's whole population survives; these are estimates of what the land could support. Others estimate 4-5 million for the New Kingdom."
+  },
+  "c-naqada": {
+   "text": "The Naqada culture of Upper Egypt runs through three phases, from about 4000 to 3000 BCE.",
+   "label": "approx",
+   "sources": [
+    "ucl-naqada"
+   ],
+   "show": false
+  },
+  "c-dee": {
+   "text": "Radiocarbon dating (2013) shows the Egyptian state formed faster than once thought: the Predynastic period began about 3800-3700 BCE, and King Aha came to the throne about 3111-3045 BCE.",
+   "label": "approx",
+   "sources": [
+    "sd-dee2013"
+   ],
+   "show": false
+  },
+  "c-uj": {
+   "text": "Tomb U-j at Abydos, about 3200 BCE, held small bone and ivory labels with signs recording goods and places, among the earliest Egyptian writing.",
+   "label": "debated",
+   "sources": [
+    "past-uj",
+    "arch-uj1999"
+   ],
+   "show": true,
+   "note": "Günter Dreyer, who found them, saw evidence for an independent and very early Egyptian invention of writing; others think Mesopotamia came first."
+  },
+  "c-narmer": {
+   "text": "The Narmer Palette, about 3100 BCE, shows the king wearing the red crown of the north on one side and the white crown of the south on the other, smiting an enemy.",
+   "label": "consensus",
+   "sources": [
+    "egymon-narmer"
+   ],
+   "show": false
+  },
+  "c-narmer-event": {
+   "text": "Whether the Narmer Palette records a real conquest is debated.",
+   "label": "debated",
+   "sources": [
+    "oconnor-narmer",
+    "brit-menes"
+   ],
+   "show": true,
+   "note": "Some see Narmer as the first known unifier; John Baines reads the scene as a ritual statement of kingship. Unification probably took several reigns."
+  },
+  "c-menes": {
+   "text": "Later tradition credits a king called Menes with uniting Egypt and founding Memphis; which historical king, if any, he was is unknown.",
+   "label": "tradition",
+   "sources": [
+    "brit-menes"
+   ],
+   "show": false
+  },
+  "c-retainers": {
+   "text": "Kings of the 1st Dynasty were buried with servants killed to accompany them; a 2026 study found injuries at the time of death on 18 of 46 skulls from these graves.",
+   "label": "debated",
+   "sources": [
+    "penn-retainers",
+    "livesci-sacrifice2026"
+   ],
+   "show": true,
+   "note": "The evidence comes from the layout of the graves and from old, incomplete collections; the practice seems to end with the 1st Dynasty."
+  },
+  "c-genome": {
+   "text": "The first whole genome from ancient Egypt (2025), of a man who lived about 2855-2570 BCE, shows about 80 percent North African and 20 percent eastern Fertile Crescent ancestry.",
+   "label": "approx",
+   "sources": [
+    "livesci-genome2025"
+   ],
+   "show": false,
+   "note": "One individual."
+  },
+  "c-pharaoh-word": {
+   "text": "'Pharaoh' comes from per-aa, 'great house', the palace; it was used for the king himself only from the New Kingdom.",
+   "label": "consensus",
+   "sources": [
+    "brit-pharaoh"
+   ],
+   "show": false
+  },
+  "c-titulary": {
+   "text": "A king had five official names, each introduced by its own title.",
+   "label": "consensus",
+   "sources": [
+    "brit-pharaoh"
+   ],
+   "show": false
+  },
+  "c-horus": {
+   "text": "The living king was identified with the god Horus and, in death, with Osiris.",
+   "label": "consensus",
+   "sources": [
+    "met-divine",
+    "brit-pharaoh"
+   ],
+   "show": false
+  },
+  "c-maat": {
+   "text": "Maat was the order of the universe established at creation, and also truth and justice; the king's task was to uphold it against chaos.",
+   "label": "consensus",
+   "sources": [
+    "gem-maat",
+    "met-divine",
+    "brit-egyptian-religion"
+   ],
+   "show": false
+  },
+  "c-divine-king": {
+   "text": "How divine Egyptians thought their king was is debated.",
+   "label": "debated",
+   "sources": [
+    "baines2014"
+   ],
+   "show": true,
+   "note": "Henri Frankfort stressed the king's divinity; Georges Posener countered him; John Baines sees the king as the manifestation of Horus in the palace, whose ordinary status was hardly that of a god."
+  },
+  "c-sed": {
+   "text": "The Sed festival, known from the 1st Dynasty, renewed the king's powers, traditionally after 30 years of rule.",
+   "label": "approx",
+   "sources": [
+    "ucl-sed"
+   ],
+   "show": false
+  },
+  "c-step": {
+   "text": "Djoser's Step Pyramid at Saqqara, about 2650 BCE, is the first pyramid and the first large building of stone in Egypt.",
+   "label": "consensus",
+   "sources": [
+    "unesco-memphis",
+    "brit-imhotep"
+   ],
+   "show": false
+  },
+  "c-imhotep": {
+   "text": "Imhotep, an official of Djoser, is traditionally its architect; much later he was worshipped as a god of medicine.",
+   "label": "tradition",
+   "sources": [
+    "gem-imhotep",
+    "brit-imhotep"
+   ],
+   "show": false,
+   "note": "His name and titles appear on a statue base of Djoser; the role of architect is tradition."
+  },
+  "c-sneferu": {
+   "text": "Sneferu built or completed three pyramids, at Meidum (probably begun by his predecessor Huni) and Dahshur; the Bent Pyramid changes angle partway up, and the Red Pyramid was the first true pyramid completed.",
+   "label": "consensus",
+   "sources": [
+    "smithsonian-bent",
+    "brit-dahshur"
+   ],
+   "show": false
+  },
+  "c-great-pyramid": {
+   "text": "The Great Pyramid of Khufu stood about 146 metres tall, with sides over 230 metres long that differ by only a few centimetres, and contains an estimated 2.3 million blocks.",
+   "label": "approx",
+   "sources": [
+    "smarthistory-giza"
+   ],
+   "show": false
+  },
+  "c-tallest": {
+   "text": "It remained the tallest structure built by people for well over three thousand years, until a European cathedral spire surpassed it in the 13th or 14th century CE.",
+   "label": "approx",
+   "sources": [
+    "smarthistory-giza",
+    "historyrevealed"
+   ],
+   "show": true,
+   "note": "Sources differ on which cathedral came first."
+  },
+  "c-not-slaves": {
+   "text": "The pyramids were built not by slaves but by organised labour: perhaps 10,000 core workers on rotating shifts, fed by the state.",
+   "label": "debated",
+   "sources": [
+    "nova-lehner",
+    "brit-slaves",
+    "aera-city"
+   ],
+   "show": true,
+   "note": "That they were not slaves is the consensus; how voluntary the work was is debated. Mark Lehner calls it obligatory labour."
+  },
+  "c-herodotus-pyramid": {
+   "text": "Herodotus, writing two thousand years later, said Khufu forced 100,000 Egyptians at a time to work on his pyramid for twenty years.",
+   "label": "tradition",
+   "sources": [
+    "herodotus-2b"
+   ],
+   "show": false
+  },
+  "c-workers-town": {
+   "text": "Excavations since 1988 have uncovered the town of the pyramid builders south of the Sphinx, with bakeries, grain stores and barracks.",
+   "label": "consensus",
+   "sources": [
+    "aera-city"
+   ],
+   "show": false
+  },
+  "c-merer": {
+   "text": "Papyri found in 2013 at Wadi al-Jarf include the logbook of Merer, an official who shipped limestone from Tura to Giza by boat in Khufu's 27th year.",
+   "label": "consensus",
+   "sources": [
+    "livesci-merer"
+   ],
+   "show": false
+  },
+  "c-ramps": {
+   "text": "How the blocks were raised is still debated: straight ramps, spiral ramps or other methods.",
+   "label": "debated",
+   "sources": [
+    "arch-ramps"
+   ],
+   "show": true,
+   "note": "A ramp with steps and post-holes of Khufu's time has been found at the Hatnub quarry."
+  },
+  "c-ahramat": {
+   "text": "A 2024 study mapped a lost branch of the Nile running past the pyramid fields, which would have let boats bring materials close to the building sites.",
+   "label": "debated",
+   "sources": [
+    "ghoneim2024"
+   ],
+   "show": true,
+   "note": "A proposal based on radar and cores; not yet widely tested."
+  },
+  "c-corridor": {
+   "text": "In 2023 cosmic-ray imaging found a hidden corridor about 9 metres long above the Great Pyramid's entrance; its purpose is unknown.",
+   "label": "consensus",
+   "sources": [
+    "sn-corridor"
+   ],
+   "show": false
+  },
+  "c-sphinx": {
+   "text": "The Great Sphinx, about 73 metres long, was carved from the bedrock, probably for Khafre.",
+   "label": "approx",
+   "sources": [
+    "brit-sphinx"
+   ],
+   "show": false
+  },
+  "c-gods-egypt": {
+   "text": "Many Egyptian gods were linked with animals: Horus with the falcon, Hathor with the cow, Thoth with the ibis, Amun with the ram.",
+   "label": "consensus",
+   "sources": [
+    "met-divine"
+   ],
+   "show": false
+  },
+  "c-ennead": {
+   "text": "The priests of Heliopolis taught that from the creator Atum came eight further gods, the Ennead, including Osiris, Isis and Seth.",
+   "label": "consensus",
+   "sources": [
+    "gem-ennead"
+   ],
+   "show": false
+  },
+  "c-osiris": {
+   "text": "No continuous Egyptian account of the Osiris myth survives; the fullest version is by the Greek writer Plutarch, about 120 CE.",
+   "label": "consensus",
+   "sources": [
+    "bham-osiris",
+    "plutarch-isis"
+   ],
+   "show": false
+  },
+  "c-soul": {
+   "text": "Egyptians thought a person had several spiritual parts, among them the ka, a life-force that received offerings, and the ba, which could leave the tomb by day.",
+   "label": "consensus",
+   "sources": [
+    "fitz-soul"
+   ],
+   "show": false
+  },
+  "c-mummification": {
+   "text": "Embalming took about 70 days, and its quality depended on what a family could pay.",
+   "label": "approx",
+   "sources": [
+    "carnegie-mummy",
+    "herodotus-gut"
+   ],
+   "show": true,
+   "note": "Herodotus says 70 days in natron; modern accounts usually say 70 days for the whole process."
+  },
+  "c-animal-mummies": {
+   "text": "Perhaps up to 70 million animals were mummified as offerings; scans show about a third of the wrappings contain no animal at all.",
+   "label": "approx",
+   "sources": [
+    "manchester-animals"
+   ],
+   "show": false
+  },
+  "c-texts": {
+   "text": "The earliest religious texts written in a tomb are the Pyramid Texts of King Unas, about 2350 BCE; they were followed by the Coffin Texts and, in the New Kingdom, the Book of the Dead.",
+   "label": "approx",
+   "sources": [
+    "brit-pyramid-texts",
+    "fitz-bod"
+   ],
+   "show": false
+  },
+  "c-weighing": {
+   "text": "In Spell 125 of the Book of the Dead, the heart of the dead person is weighed against the feather of Maat, after a declaration of sins not committed.",
+   "label": "consensus",
+   "sources": [
+    "fitz-125"
+   ],
+   "show": false
+  },
+  "c-democratisation": {
+   "text": "Scholars once held that an afterlife reserved for kings was 'democratised' after the Old Kingdom; many now argue that ordinary elites already hoped for one, and that what changed was writing it down.",
+   "label": "debated",
+   "sources": [
+    "smith-democratisation"
+   ],
+   "show": true,
+   "note": "James Breasted proposed the idea in 1912; Mark Smith (2009) argues against it."
+  },
+  "c-sign-counts": {
+   "text": "Egyptian scribes used over 1,000 hieroglyphs in the Old Kingdom and about 750 in the Middle Kingdom; Ptolemaic temple inscriptions used several thousand.",
+   "label": "approx",
+   "sources": [
+    "bas-hieroglyphs"
+   ],
+   "show": true,
+   "note": "Counts depend on how variant forms are counted; one estimate for the Ptolemaic period is up to about 8,000."
+  },
+  "c-script-types": {
+   "text": "The script mixed signs for sounds, signs for whole words, and 'determinatives', unpronounced signs that showed what kind of word was meant; vowels were not written.",
+   "label": "consensus",
+   "sources": [
+    "brit-determinative",
+    "bm-eureka"
+   ],
+   "show": false
+  },
+  "c-hieratic": {
+   "text": "Hieratic was a quick handwritten form of hieroglyphs; demotic, a still faster script, was used for everyday documents from about 700 BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-egyptian-lang"
+   ],
+   "show": false
+  },
+  "c-literacy": {
+   "text": "Perhaps 1 percent of Egyptians could read and write in the third millennium BCE; estimates for later periods and particular places run from about 5 to 15 percent.",
+   "label": "debated",
+   "sources": [
+    "zinn-literacy",
+    "ucl-literacy"
+   ],
+   "show": true,
+   "note": "John Baines's low estimate is widely cited; others argue the evidence is too thin to be sure, and literacy was higher in some communities."
+  },
+  "c-satire": {
+   "text": "The 'Satire of the Trades', a Middle Kingdom school text, has a father praise the scribe's life and mock the hardships of other trades.",
+   "label": "consensus",
+   "sources": [
+    "bm-satire"
+   ],
+   "show": false
+  },
+  "c-rosetta": {
+   "text": "The Rosetta Stone records a decree of 196 BCE for Ptolemy V in hieroglyphic, demotic and Greek: three scripts, two languages. French soldiers found it in 1799.",
+   "label": "consensus",
+   "sources": [
+    "bm-rosetta",
+    "brit-rosetta"
+   ],
+   "show": false
+  },
+  "c-champollion": {
+   "text": "Thomas Young first showed that hieroglyphs could spell foreign royal names by sound; Jean-François Champollion announced the decipherment in 1822, showing that sound-signs and word-signs worked together.",
+   "label": "consensus",
+   "sources": [
+    "bm-eureka"
+   ],
+   "show": false
+  },
+  "c-pepi": {
+   "text": "The Old Kingdom ended after the unusually long reign of Pepi II.",
+   "label": "approx",
+   "sources": [
+    "brit-pepi2"
+   ],
+   "show": true,
+   "note": "Contemporary texts record his 62nd and 65th years."
+  },
+  "c-fip": {
+   "text": "In the First Intermediate Period (about 2160-2055 BCE) Egypt split between rival kings at Herakleopolis in the north and Thebes in the south; Thebes won.",
+   "label": "approx",
+   "sources": [
+    "met-mk",
+    "isaw-shaw"
+   ],
+   "show": false
+  },
+  "c-fip-drought": {
+   "text": "Whether drought caused the Old Kingdom's collapse is debated: Barbara Bell (1971) argued for failed Nile floods; Nadine Moeller argued that the famine texts are largely ideology and that the climate dried gradually.",
+   "label": "debated",
+   "sources": [
+    "bell1971",
+    "moeller2005",
+    "coulon-famine",
+    "yale-moeller"
+   ],
+   "show": true,
+   "note": "Moeller now sees the arid phase about 2200 BCE as 'just one factor' among several."
+  },
+  "c-ipuwer": {
+   "text": "The 'Admonitions of Ipuwer', a poem describing Egypt turned upside down, survives in one later copy; scholars date its composition to the Middle Kingdom or later, not to the collapse itself.",
+   "label": "debated",
+   "sources": [
+    "ucl-ipuwer",
+    "vanseters-ipuwer"
+   ],
+   "show": true,
+   "note": "Older scholarship read it as an eyewitness account of the First Intermediate Period; John Van Seters argued for a still later date."
+  },
+  "c-ipuwer-exodus": {
+   "text": "Some popular writers read Ipuwer's 'the river is blood' as a record of the Exodus plagues; Egyptologists generally reject this.",
+   "label": "debated",
+   "sources": [
+    "enmarch2009",
+    "ucl-ipuwer"
+   ],
+   "show": true,
+   "note": "Roland Enmarch, the poem's recent editor, finds the link unconvincing: the text is a literary lament of uncertain date, and it describes foreigners entering Egypt, not leaving."
+  },
+  "c-mentuhotep": {
+   "text": "Mentuhotep II of Thebes, who became king about 2055 BCE, reunited Egypt during his reign, beginning the Middle Kingdom.",
+   "label": "approx",
+   "sources": [
+    "met-mk",
+    "isaw-shaw"
+   ],
+   "show": false
+  },
+  "c-semna": {
+   "text": "Senusret III fixed Egypt's southern border at Semna, guarded by a chain of mud-brick fortresses such as Buhen, against the kingdom of Kush.",
+   "label": "consensus",
+   "sources": [
+    "brit-mk",
+    "met-semna",
+    "ees-buhen"
+   ],
+   "show": false
+  },
+  "c-fayum": {
+   "text": "Middle Kingdom kings developed farmland in the Faiyum basin and built pyramids at Lahun and Hawara.",
+   "label": "consensus",
+   "sources": [
+    "ucl-fayum"
+   ],
+   "show": false
+  },
+  "c-classical": {
+   "text": "Middle Egyptian became the classical literary language; its works include the Story of Sinuhe and the Eloquent Peasant.",
+   "label": "consensus",
+   "sources": [
+    "brit-egyptian-lang",
+    "allen-mel"
+   ],
+   "show": false
+  },
+  "c-hyksos": {
+   "text": "The Hyksos, from an Egyptian phrase meaning 'rulers of foreign lands', ruled northern Egypt from Avaris in the eastern Delta in the 17th-16th centuries BCE.",
+   "label": "consensus",
+   "sources": [
+    "jvl-hyksos",
+    "auaris"
+   ],
+   "show": false
+  },
+  "c-avaris": {
+   "text": "Avaris had housed communities of people from the Levant since the late 12th Dynasty, many working for the crown; under the Hyksos it grew to about 250 hectares.",
+   "label": "approx",
+   "sources": [
+    "auaris"
+   ],
+   "show": false
+  },
+  "c-stantis": {
+   "text": "A 2020 study of tooth enamel at Avaris found that many people had grown up outside Egypt before Hyksos rule began, suggesting the Hyksos rose from within rather than invading.",
+   "label": "debated",
+   "sources": [
+    "stantis2020"
+   ],
+   "show": true,
+   "note": "One site, 75 individuals; the method cannot show where the newcomers came from. The later Egyptian tradition describes an invasion."
+  },
+  "c-chariot": {
+   "text": "The Hyksos period is usually credited with bringing the horse and chariot and the composite bow to Egypt.",
+   "label": "debated",
+   "sources": [
+    "tatomir2014",
+    "brit-mk"
+   ],
+   "show": true,
+   "note": "Some horse remains may be earlier."
+  },
+  "c-ahmose": {
+   "text": "Ahmose of Thebes, king from about 1550 BCE, took Avaris and drove out the Hyksos, founding the New Kingdom; the early 18th Dynasty later built a palace precinct there.",
+   "label": "approx",
+   "sources": [
+    "bas-hyksos",
+    "isaw-shaw"
+   ],
+   "show": false
+  },
+  "c-megiddo": {
+   "text": "In his 23rd year, about 1457 BCE, Thutmose III defeated a coalition at Megiddo after leading his army through a narrow pass; his annals at Karnak describe the campaign in detail.",
+   "label": "approx",
+   "sources": [
+    "fordham-megiddo",
+    "brit-thutmose3"
+   ],
+   "show": false
+  },
+  "c-empire": {
+   "text": "At its height the New Kingdom empire reached from beyond the Euphrates in Syria to beyond the Fourth Cataract of the Nile.",
+   "label": "consensus",
+   "sources": [
+    "brit-thutmose3",
+    "sars-kurgus"
+   ],
+   "show": false
+  },
+  "c-hyksos-israel": {
+   "text": "The Egyptian priest Manetho, as quoted by Josephus, said the expelled Hyksos went on to found Jerusalem, and Josephus called them 'our forefathers'.",
+   "label": "tradition",
+   "sources": [
+    "josephus-apion"
+   ],
+   "show": false
+  },
+  "c-hyksos-israel-view": {
+   "text": "Most scholars do not equate the Hyksos with the Israelites, though some think distant memories of Hyksos movements may lie behind elements of the Exodus story.",
+   "label": "debated",
+   "sources": [
+    "jvl-hyksos",
+    "knohl-exodus",
+    "bas-hyksos"
+   ],
+   "show": true,
+   "note": "Manetho wrote over a thousand years after the events and survives only in quotation."
+  },
+  "c-hatshepsut": {
+   "text": "Hatshepsut ruled as king, with full royal titles, from about 1473 to 1458 BCE, first alongside the young Thutmose III, and built the terraced temple at Deir el-Bahri.",
+   "label": "approx",
+   "sources": [
+    "ucl-hatshepsut",
+    "unesco-thebes"
+   ],
+   "show": false
+  },
+  "c-punt": {
+   "text": "Her temple shows an expedition to Punt bringing back myrrh trees, incense, gold, ebony and animals; Punt probably lay in the region of Eritrea, Ethiopia and Somalia.",
+   "label": "debated",
+   "sources": [
+    "pol-punt",
+    "grathwol2023"
+   ],
+   "show": true,
+   "note": "The expedition is well documented; Punt's location is debated. A 2023 study of baboon mummies points to Eritrea and nearby regions."
+  },
+  "c-defacement": {
+   "text": "Thutmose III later had Hatshepsut's images removed, but only some twenty years after her death, which makes simple revenge unlikely.",
+   "label": "debated",
+   "sources": [
+    "dorman2001",
+    "wong2025"
+   ],
+   "show": true,
+   "note": "Peter Dorman doubts revenge; Jun Yi Wong (2025) argues that much of the statue damage was ritual 'deactivation' also done to other kings."
+  },
+  "c-akhenaten": {
+   "text": "Akhenaten (reigned about 1352-1336 BCE) made the Aten, the disk of the sun, the focus of worship, closed the temples of other gods, and built a new capital at Amarna.",
+   "label": "approx",
+   "sources": [
+    "brit-akhenaten",
+    "amarna-stelae"
+   ],
+   "show": false
+  },
+  "c-monotheism": {
+   "text": "Whether Akhenaten's religion was true monotheism is debated.",
+   "label": "debated",
+   "sources": [
+    "rendsburg-hornung",
+    "sanders-assmann"
+   ],
+   "show": true,
+   "note": "Erik Hornung stresses that the king and queen shared in the divine; Jan Assmann sees a radical, exclusive break; others call Akhenaten a monotheist outright."
+  },
+  "c-psalm104": {
+   "text": "The Great Hymn to the Aten has striking parallels with Psalm 104.",
+   "label": "debated",
+   "sources": [
+    "koller-psalm104",
+    "rendsburg-hornung",
+    "bg-ps104"
+   ],
+   "show": true,
+   "note": "That the parallels exist is agreed. Aaron Koller and others argue for direct borrowing; others see shared tradition or a common genre of praise."
+  },
+  "c-nefertiti": {
+   "text": "His queen Nefertiti shared in the cult; her painted bust was found in a sculptor's workshop at Amarna in 1912.",
+   "label": "consensus",
+   "sources": [
+    "brit-nefertiti"
+   ],
+   "show": false
+  },
+  "c-amarna-letters": {
+   "text": "The Amarna letters, about 350 letters among 382 tablets, mostly in Akkadian cuneiform, record Egypt's correspondence with great kings and with its vassals in Canaan and Syria.",
+   "label": "consensus",
+   "sources": [
+    "ucl-amarna-letters",
+    "usc-amarna"
+   ],
+   "show": false
+  },
+  "c-habiru": {
+   "text": "Vassals such as the ruler of Jerusalem complained of the Habiru (Apiru), a class of outlaws and mercenaries; any link to the word 'Hebrew' is debated.",
+   "label": "debated",
+   "sources": [
+    "usc-amarna"
+   ],
+   "show": true,
+   "note": "The term was used for many groups across the Near East."
+  },
+  "c-tut-restore": {
+   "text": "Under Tutankhamun the court left Amarna and restored the worship of Amun.",
+   "label": "consensus",
+   "sources": [
+    "brit-tutankhamun"
+   ],
+   "show": false
+  },
+  "c-tut": {
+   "text": "Howard Carter found Tutankhamun's tomb in the Valley of the Kings in November 1922; clearing its more than 5,000 objects took about a decade.",
+   "label": "consensus",
+   "sources": [
+    "torch-tut",
+    "griffith-tut"
+   ],
+   "show": false
+  },
+  "c-gem": {
+   "text": "The Grand Egyptian Museum near Giza opened fully in November 2025, showing Tutankhamun's objects together for the first time.",
+   "label": "consensus",
+   "sources": [
+    "afp-gem"
+   ],
+   "show": false
+  },
+  "c-thutmose2": {
+   "text": "In 2025 a tomb west of the Valley of the Kings was identified as that of Thutmose II, the first pharaoh's tomb found since Tutankhamun's.",
+   "label": "consensus",
+   "sources": [
+    "archmag-thutmose2",
+    "arce-c4"
+   ],
+   "show": false
+  },
+  "c-ramesses": {
+   "text": "Ramesses II reigned from 1279 to 1213 BCE, one of the longest reigns in Egyptian history.",
+   "label": "approx",
+   "sources": [
+    "brit-ramesses"
+   ],
+   "show": false
+  },
+  "c-kadesh": {
+   "text": "At Kadesh in Syria, about 1274 BCE, Ramesses II fought the Hittite king Muwatalli II; Egyptian temple reliefs proclaim a great victory, but the Hittites kept Kadesh and historians judge it a draw.",
+   "label": "consensus",
+   "sources": [
+    "brit-kadesh",
+    "ausmus-kadesh"
+   ],
+   "show": false
+  },
+  "c-kadesh-armies": {
+   "text": "Britannica estimates the Egyptian advance force at about 20,000 infantry and 2,000 chariots, and the Hittites at about 40,000 infantry and 3,000 chariots.",
+   "label": "approx",
+   "sources": [
+    "brit-kadesh"
+   ],
+   "show": false,
+   "note": "Ancient army sizes are uncertain."
+  },
+  "c-treaty": {
+   "text": "About 1259 BCE Ramesses II and the Hittite king Hattusili III made a treaty of peace and alliance; it survives in an Egyptian version on temple walls and an Akkadian version from the Hittite capital.",
+   "label": "approx",
+   "sources": [
+    "turkmus-treaty",
+    "unesco-hattusa",
+    "discover-treaty2026"
+   ],
+   "show": false,
+   "note": "A new fragment of the Akkadian version, with clauses protecting returned fugitives and their families, was announced in 2026."
+  },
+  "c-treaty-first": {
+   "text": "The treaty is often called the world's first peace treaty; in fact older treaties are known from 3rd-millennium Mesopotamia and Syria.",
+   "label": "consensus",
+   "sources": [
+    "michel-treaties",
+    "turkmus-treaty"
+   ],
+   "show": false,
+   "note": "Cécile Michel lists treaties between Lagash and Uruk, Ebla and Abarsal, and Naram-Sin and Elam, all before 2200 BCE."
+  },
+  "c-piramesse": {
+   "text": "Ramesses II built a new capital, Pi-Ramesses, in the eastern Delta at Qantir; magnetic surveys reveal several square kilometres of buildings.",
+   "label": "consensus",
+   "sources": [
+    "wibilex-piramesse"
+   ],
+   "show": false
+  },
+  "c-merneptah": {
+   "text": "A victory stele of Pharaoh Merneptah, about 1208 BCE, says 'Israel is wasted, bare of seed', writing Israel with the sign for a people, while Ashkelon and Gezer get the sign for a place.",
+   "label": "consensus",
+   "sources": [
+    "cojs-merneptah"
+   ],
+   "show": false
+  },
+  "c-merneptah-first": {
+   "text": "The Merneptah Stele is generally regarded as the earliest secure mention of Israel outside the Bible.",
+   "label": "debated",
+   "sources": [
+    "bar-merneptah",
+    "cojs-merneptah"
+   ],
+   "show": true,
+   "note": "Some scholars read 'Israel' on a broken relief in Berlin about two centuries older; most reject the reading on grounds of spelling."
+  },
+  "c-exodus-silence": {
+   "text": "No Egyptian text mentions the Exodus or Israelites living in Egypt.",
+   "label": "consensus",
+   "sources": [
+    "wood-exodus",
+    "finkelstein2001"
+   ],
+   "show": false,
+   "note": "Scholars agree on the silence and disagree about what it means: some say royal records omitted defeats and foreign slaves, others that a mass departure would have left traces."
+  },
+  "c-exodus-views": {
+   "text": "Scholarly views on the Exodus range from a historical core of the biblical account, to a smaller group (perhaps the Levites) who came from Egypt, to a story composed centuries later with no mass departure behind it.",
+   "label": "debated",
+   "sources": [
+    "hoffmeier-review",
+    "friedman-exodus",
+    "themelios-dever",
+    "finkelstein2001"
+   ],
+   "show": true,
+   "note": "James Hoffmeier argues the Egyptian background supports the tradition; Richard Elliott Friedman argues for a Levite exodus; William Dever sees most early Israelites as people already living in Canaan; Israel Finkelstein and Neil Asher Silberman see the story as shaped in 7th-century Judah."
+  },
+  "c-pithom": {
+   "text": "Where the biblical store-city of Pithom stood is debated, and one candidate site, Tell el-Maskhuta, was unoccupied from about 1500 BCE until about 600 BCE.",
+   "label": "debated",
+   "sources": [
+    "wibilex-pithom"
+   ],
+   "show": true,
+   "note": "Pithom has been placed at Tell el-Maskhuta or at Tell er-Retaba. Some take the store-city names in Exodus 1:11 to reflect later geography; others, such as Kenneth Kitchen, disagree."
+  },
+  "c-exodus-date": {
+   "text": "Those who see a historical Exodus disagree on its date: 1 Kings 6:1 points to about 1446 BCE, while many prefer the 13th century, under Ramesses II.",
+   "label": "debated",
+   "sources": [
+    "bas-exodus-date"
+   ],
+   "show": true,
+   "note": "Each date faces difficulties: little evidence of destruction in Canaan around 1400 BCE for the early date; the compressed period of the Judges for the late date."
+  },
+  "c-seasons": {
+   "text": "The Egyptian civil year had three seasons, Akhet, Peret and Shemu, each of four 30-day months, plus five extra days: 365 in all.",
+   "label": "consensus",
+   "sources": [
+    "ucl-calendar"
+   ],
+   "show": false
+  },
+  "c-wages": {
+   "text": "Wages were paid in grain, bread and beer, scaled by rank.",
+   "label": "consensus",
+   "sources": [
+    "wilson-bread",
+    "mcdowell-sciam"
+   ],
+   "show": false
+  },
+  "c-deirmedina": {
+   "text": "Deir el-Medina, the village of the royal tomb-builders, has yielded tens of thousands of written documents, mostly on potsherds and flakes of limestone, from about 1275 to 1075 BCE.",
+   "label": "approx",
+   "sources": [
+    "mcdowell-sciam"
+   ],
+   "show": false
+  },
+  "c-literacy-dm": {
+   "text": "In some periods most men at Deir el-Medina could read and write, against perhaps 1-2 percent of Egyptians as a whole.",
+   "label": "approx",
+   "sources": [
+    "mcdowell-sciam"
+   ],
+   "show": true,
+   "note": "Estimates of literacy are rough; how many women at Deir el-Medina could read is unknown."
+  },
+  "c-strike": {
+   "text": "In year 29 of Ramesses III, about 1156 BCE, the tomb-builders stopped work because their rations were late, the first recorded strike in history.",
+   "label": "approx",
+   "sources": [
+    "turin-strike"
+   ],
+   "show": true,
+   "note": "The date depends on the chronology used; the Turin papyrus records several stoppages."
+  },
+  "c-women": {
+   "text": "Egyptian women could own and sell property, make contracts, go to court and serve as witnesses, and either spouse could end a marriage.",
+   "label": "consensus",
+   "sources": [
+    "johnson-women"
+   ],
+   "show": false
+  },
+  "c-naunakhte": {
+   "text": "About 1145 BCE a woman of Deir el-Medina named Naunakhte made a will before a village court, disinheriting the children who had not supported her in old age.",
+   "label": "consensus",
+   "sources": [
+    "cup-naunakhte"
+   ],
+   "show": false
+  },
+  "c-medicine": {
+   "text": "The Edwin Smith Papyrus, copied about 1600 BCE, describes 48 cases of injury from head to foot, with a judgement for each; the Ebers Papyrus, about 1550 BCE, has about 700 remedies, practical and magical.",
+   "label": "consensus",
+   "sources": [
+    "boneandjoint-smith",
+    "brit-ebers"
+   ],
+   "show": false
+  },
+  "c-daba-ages": {
+   "text": "At Tell el-Dab'a, about 1700-1550 BCE, almost a third of the 257 people buried died by the age of six; adult women died at about 30 on average and men at about 34.",
+   "label": "approx",
+   "sources": [
+    "ucl-daba"
+   ],
+   "show": true,
+   "note": "One site; estimating age from skeletons is imprecise."
+  },
+  "c-kerma": {
+   "text": "Kerma in Sudan was the capital of the kingdom of Kush, about 2500-1500 BCE, a planned city of more than 30 hectares.",
+   "label": "approx",
+   "sources": [
+    "ebsco-kerma",
+    "kerma-ch",
+    "aja-kerma"
+   ],
+   "show": false
+  },
+  "c-reisner": {
+   "text": "George Reisner, who excavated Kerma in 1913-16, saw it as an Egyptian trading post; Charles Bonnet's excavations from 1977 showed it was the capital of an African state.",
+   "label": "consensus",
+   "sources": [
+    "kerma-ch"
+   ],
+   "show": false
+  },
+  "c-kerma-tombs": {
+   "text": "Kerma's kings were buried under earth mounds up to about 90 metres across, with rows of cattle skulls, with many people sacrificed in the largest tombs.",
+   "label": "approx",
+   "sources": [
+    "kerma-necropolis",
+    "ebsco-kerma"
+   ],
+   "show": true,
+   "note": "Estimates of the number sacrificed range from dozens to several hundred."
+  },
+  "c-thutmose-nubia": {
+   "text": "Thutmose I (about 1504-1492 BCE) pushed beyond the Fourth Cataract and set up a boundary inscription at Kurgus; Nubian gold drew Egypt south.",
+   "label": "consensus",
+   "sources": [
+    "brit-thutmose1",
+    "kurgus"
+   ],
+   "show": false
+  },
+  "c-napata": {
+   "text": "Gebel Barkal near Napata was sacred to Amun from about 1500 BCE and became the religious centre of a revived kingdom of Kush from about 900 BCE.",
+   "label": "approx",
+   "sources": [
+    "unesco-barkal"
+   ],
+   "show": false
+  },
+  "c-piye": {
+   "text": "About 728 BCE the Kushite king Piye marched north and conquered Egypt, founding the 25th Dynasty.",
+   "label": "approx",
+   "sources": [
+    "brit-piye",
+    "isaw-shaw"
+   ],
+   "show": true,
+   "note": "Dates for Piye's reign differ between sources by several years."
+  },
+  "c-taharqa": {
+   "text": "Taharqa (about 690-664 BCE), the Tirhakah of 2 Kings 19:9 (NRSVUE 'King Tirhakah of Cush'; KJV 'king of Ethiopia'), supported the kingdoms of the Levant against Assyria; the Assyrians took Memphis in 671 and sacked Thebes in 664-663, driving the Kushites out of Egypt.",
+   "label": "consensus",
+   "sources": [
+    "brit-taharqa",
+    "sefaria-2kings19",
+    "bg-2kings19",
+    "brit-tanutamon"
+   ],
+   "show": false
+  },
+  "c-meroe": {
+   "text": "Kush remained a major power at Napata and later Meroë until the 4th century CE; its kings were buried in steep pyramids.",
+   "label": "consensus",
+   "sources": [
+    "unesco-meroe"
+   ],
+   "show": false
+  },
+  "c-sudan-loot": {
+   "text": "Since 2023, during Sudan's civil war, the Sudan National Museum has been looted on a large scale.",
+   "label": "consensus",
+   "sources": [
+    "ma-sudan"
+   ],
+   "show": false
+  },
+  "c-cambyses": {
+   "text": "The Persian king Cambyses II conquered Egypt in 525 BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-cambyses"
+   ],
+   "show": false
+  },
+  "c-alexandria": {
+   "text": "Alexander the Great founded Alexandria in 332 BCE; after his death his general Ptolemy made himself king in 305 BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-alexandria",
+    "brit-ptolemaic"
+   ],
+   "show": false
+  },
+  "c-library": {
+   "text": "The Ptolemies founded the Library and Museum of Alexandria in the early 3rd century BCE.",
+   "label": "consensus",
+   "sources": [
+    "brit-library"
+   ],
+   "show": false,
+   "note": "When and how the Library was destroyed is debated."
+  },
+  "c-pharos": {
+   "text": "The lighthouse of Alexandria, completed under Ptolemy II, was at least 100 metres tall and stood until earthquakes wrecked it between the 10th and 14th centuries.",
+   "label": "approx",
+   "sources": [
+    "heritage-pharos"
+   ],
+   "show": false
+  },
+  "c-cleopatra": {
+   "text": "Cleopatra VII ruled from 51 BCE until her death in 30 BCE, when Egypt became a Roman province; Plutarch says she was the only one of her dynasty to learn Egyptian.",
+   "label": "consensus",
+   "sources": [
+    "brit-cleopatra"
+   ],
+   "show": false
+  },
+  "c-last-hieroglyphs": {
+   "text": "The last known hieroglyphic inscription dates to 394 CE; the language lived on as Coptic, written in Greek letters, and survives in the liturgy of the Coptic Church.",
+   "label": "consensus",
+   "sources": [
+    "brit-hieroglyph",
+    "brit-coptic"
+   ],
+   "show": false
+  },
+  "c-kinglists": {
+   "text": "Egyptian chronology is built from king lists such as the Palermo Stone and the Turin papyrus, from Manetho's history written in Greek for Ptolemy II, and from astronomical records.",
+   "label": "consensus",
+   "sources": [
+    "turin-canon",
+    "hsu-palermo",
+    "brit-egypt-chron"
+   ],
+   "show": false
+  },
+  "c-bronkramsey": {
+   "text": "A 2010 radiocarbon study of 211 samples broadly confirmed the conventional chronology, suggesting that the New Kingdom may have begun a decade or two earlier.",
+   "label": "approx",
+   "sources": [
+    "bronkramsey2010"
+   ],
+   "show": true,
+   "note": "It placed Djoser's accession at 2691-2625 BCE and Ahmose's at 1570-1544 BCE, against the conventional 2667 and 1550."
+  },
+  "c-periods-egypt": {
+   "text": "Egyptologists divide its history into kingdoms and intermediate periods; this book uses the dates of the Oxford History of Ancient Egypt (2000).",
+   "label": "approx",
+   "sources": [
+    "isaw-shaw"
+   ],
+   "show": false,
+   "note": "All dates before 664 BCE are approximate."
+  }
+ },
+ "pages": [
+  {
+   "title": "Egypt",
+   "sub": "the gift of the Nile",
+   "lede": "Egypt is a long green ribbon in a desert. The Nile watered it, fed it, carried its trade and set its calendar, and for three thousand years it held one of the most stable civilizations in history.",
+   "body": [
+    "Herodotus, visiting in the 5th century BCE, wrote that Egypt was land 'acquired by the Egyptians, given them by the river', built up from its mud: the origin of 'the gift of the Nile'. [[c-gift]] The Nile is about 6,650 km long, [[c-nile-length]] and almost none of Egypt's water fell on Egypt. Each summer, heavy rains on the Ethiopian highlands swelled the Blue Nile and the Atbara, and the flood reached Aswan in July and peaked near Cairo in October. [[c-flood]] [[c-flood-timing]]",
+    "The flood laid down fresh black silt. Egyptians called their country Kemet, 'the black land', and the desert beyond it Deshret, 'the red land'. [[c-kemet]] Everything depended on the height of the water: a Roman writer recorded that a low flood meant famine and a high one 'unbounded transports of joy'. [[c-pliny-flood]]",
+    {
+     "table": {
+      "head": [
+       "",
+       "Ancient Egypt"
+      ],
+      "rows": [
+       [
+        "rain",
+        "almost none"
+       ],
+       [
+        "water",
+        "the Nile flood, July-October"
+       ],
+       [
+        "the flood's source",
+        "summer rain in Ethiopia (c. 90%)"
+       ],
+       [
+        "farmland",
+        "a strip along the river, and the Delta"
+       ],
+       [
+        "population",
+        "perhaps 1-3 million, some say up to 5 (estimates differ)"
+       ]
+      ],
+      "note": "[[c-flood]] [[c-population]]"
+     }
+    },
+    "Egypt had two halves: Upper Egypt, the narrow valley in the south, and Lower Egypt, the broad Delta in the north. They had distinct cultures before they were united, and the king remained 'Lord of the Two Lands'. [[c-two-lands]] How many people lived there is uncertain: one estimate rises from under a million at unification to about three million under Ramesses II. [[c-population]]",
+    {
+     "compare": "Compare Mesopotamia (3.0): two rivers, irrigation, little rain. But the Nile flood came at the right time of year for crops and was far more predictable than the Tigris and Euphrates."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 31.6,
+     "lat": 27.3,
+     "zoom": 28
+    },
+    "caption": "The Nile valley and the Delta",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "pt",
+      "city or site"
+     ]
+    ],
+    "cartouche": [
+     "Egypt",
+     "the gift of the river"
+    ],
+    "seaLabels": [
+     {
+      "t": "MEDITERRANEAN SEA",
+      "ll": [
+       30.5,
+       32.4
+      ]
+     },
+     {
+      "t": "RED SEA",
+      "ll": [
+       35.3,
+       26.0
+      ]
+     }
+    ],
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         30.8,
+         30.9
+        ],
+        "label": "LOWER EGYPT",
+        "size": 12
+       },
+       {
+        "ll": [
+         33.3,
+         26.6
+        ],
+        "label": "UPPER EGYPT",
+        "size": 12
+       },
+       {
+        "ll": [
+         29.0,
+         26.5
+        ],
+        "label": "DESHRET · THE RED LAND",
+        "size": 10
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         31.2611,
+         29.8555
+        ],
+        "label": "Memphis",
+        "big": true,
+        "plate": {
+         "kicker": "4.0 · Egypt",
+         "title": "Memphis",
+         "sub": "capital from c. 3100 BCE",
+         "text": "[[c-two-lands]]",
+         "sources": [
+          "unesco-memphis",
+          "egymon-predyn"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.1342,
+         29.9792
+        ],
+        "label": "Giza",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         31.908,
+         26.175
+        ],
+        "label": "Abydos",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         32.64,
+         25.7
+        ],
+        "label": "Thebes",
+        "big": true
+       },
+       {
+        "ll": [
+         32.779,
+         25.097
+        ],
+        "label": "Hierakonpolis",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         32.9,
+         24.09
+        ],
+        "label": "Aswan",
+        "date": "First Cataract",
+        "plate": {
+         "kicker": "4.0 · the Nile",
+         "title": "The flood",
+         "sub": "reached Aswan in July",
+         "text": "[[c-flood]] [[c-flood-timing]] [[c-pliny-flood]]",
+         "sources": [
+          "brit-nile-hydro",
+          "pliny-nile"
+         ]
+        }
+       },
+       {
+        "ll": [
+         30.896,
+         27.645
+        ],
+        "label": "Amarna",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         29.91,
+         31.2
+        ],
+        "label": "Alexandria",
+        "anchor": "end",
+        "date": "founded 332 BCE"
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Where did most of the water of Egypt's annual flood come from?",
+     "choices": [
+      "Summer rain on the highlands of Ethiopia",
+      "The White Nile, from the lakes of central Africa",
+      "Winter rains along the Mediterranean coast",
+      "Melting snow on the Ethiopian mountains"
+     ],
+     "answer": 0,
+     "why": "Heavy summer rain on the Ethiopian highlands swelled the Blue Nile and the Atbara, which together supplied about 90 percent of the water at the flood's peak.",
+     "wrong": {
+      "1": "The White Nile supplied only about 10 percent at the peak.",
+      "2": "The flood reached Aswan in July and peaked at Cairo in October; it did not come with winter rain.",
+      "3": "The flood came from heavy summer rain, not snow."
+     }
+    },
+    {
+     "q": "What do figures like '2.9 million people under Ramesses II' represent?",
+     "choices": [
+      "Totals taken from a census of the whole kingdom",
+      "Disputed estimates of what the land could support",
+      "A figure that most specialists now agree on",
+      "Evidence that Egypt's population shrank over time"
+     ],
+     "answer": 1,
+     "why": "No count of pharaonic Egypt's whole population survives; Karl Butzer's figures estimate what the land could support, and others estimate 4-5 million for the New Kingdom.",
+     "wrong": {
+      "0": "No count of pharaonic Egypt's whole population survives.",
+      "2": "Others estimate 4-5 million for the New Kingdom.",
+      "3": "Butzer's estimates rise, from about 0.9 million at unification to 2.9 million under Ramesses II."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The first kings",
+   "sub": "c. 4000 to 2686 BCE",
+   "lede": "Before there were pharaohs there were chiefs, cemeteries and rival centres along the Nile. Within a few centuries they became a single kingdom, with writing, a capital and a king who was buried with his servants.",
+   "body": [
+    "The Naqada culture of Upper Egypt, from about 4000 to 3000 BCE, saw growing towns, rich graves and trade. [[c-naqada]] Radiocarbon dates show the Egyptian state formed quickly: the first king of the 1st Dynasty, Aha, came to the throne about 3100 BCE. [[c-dee]]",
+    "Writing appeared at about the same time as in Mesopotamia. In a tomb at Abydos of about 3200 BCE, archaeologists found small bone and ivory labels with signs recording goods and places. [[c-uj]] On the Narmer Palette, about 3100 BCE, the king wears the white crown of the south on one side, striking down an enemy, and the red crown of the north on the other. [[c-narmer]] Whether it records an actual conquest or a statement of royal power is debated; unification probably took several reigns. [[c-narmer-event]] Later Egyptians credited it to a king called Menes, whose identity is unknown. [[c-menes]]",
+    {
+     "table": {
+      "head": [
+       "Phase",
+       "Dates (BCE)"
+      ],
+      "rows": [
+       [
+        "Naqada I",
+        "c. 4000-3500"
+       ],
+       [
+        "Naqada II",
+        "c. 3500-3200"
+       ],
+       [
+        "Naqada III ('Dynasty 0')",
+        "c. 3200-3000"
+       ],
+       [
+        "Early Dynastic (Dynasties 1-2)",
+        "c. 3000-2686"
+       ]
+      ],
+      "note": "[[c-naqada]] Early Dynastic dates after the Oxford History of Ancient Egypt; radiocarbon now places Aha's accession about 3100 BCE, earlier than its c. 3000. [[c-dee]]"
+     }
+    },
+    "The first kings were buried at Abydos, ringed by the graves of servants. A 2026 study found that many of their skulls bear injuries from the time of death: they were killed to serve the king in the afterlife. The practice seems to have ended with the 1st Dynasty. [[c-retainers]]",
+    "In 2025 geneticists published the first complete genome from an ancient Egyptian, a man buried around the start of the pyramid age: mostly North African ancestry, with about a fifth from the eastern Fertile Crescent. [[c-genome]]",
+    {
+     "compare": "Compare the royal tombs of Ur (3.5), where attendants died with their rulers some four centuries later."
+    }
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 31.9,
+     "lat": 27.4,
+     "zoom": 34
+    },
+    "caption": "The first kingdom, c. 3200-2686 BCE",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "pt",
+      "site"
+     ],
+     [
+      "dot",
+      "royal tombs and early writing"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         31.908,
+         26.175
+        ],
+        "label": "Abydos",
+        "date": "tomb U-j; royal tombs",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "4.1 · the first kings",
+         "title": "Abydos",
+         "sub": "Umm el-Qa'ab, the royal cemetery",
+         "text": "[[c-uj]] [[c-retainers]]",
+         "sources": [
+          "past-uj",
+          "arch-uj1999",
+          "penn-retainers",
+          "livesci-sacrifice2026"
+         ]
+        }
+       },
+       {
+        "ll": [
+         32.779,
+         25.097
+        ],
+        "label": "Hierakonpolis",
+        "date": "Narmer Palette",
+        "plate": {
+         "kicker": "4.1 · the first kings",
+         "title": "The Narmer Palette",
+         "sub": "Hierakonpolis, c. 3100 BCE",
+         "text": "[[c-narmer]] [[c-narmer-event]]",
+         "sources": [
+          "egymon-narmer",
+          "oconnor-narmer"
+         ]
+        }
+       },
+       {
+        "ll": [
+         32.72,
+         25.9
+        ],
+        "label": "Naqada",
+        "dy": -6
+       },
+       {
+        "ll": [
+         31.2611,
+         29.8555
+        ],
+        "label": "Memphis",
+        "date": "capital; tradition says founded by Menes",
+        "plate": {
+         "kicker": "4.1 · the first kings",
+         "title": "Memphis",
+         "sub": "the capital at the head of the Delta",
+         "text": "[[c-menes]] [[c-dee]]",
+         "sources": [
+          "brit-menes",
+          "sd-dee2013"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.2167,
+         29.8711
+        ],
+        "label": "Saqqara",
+        "anchor": "end",
+        "dy": 12
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What does the Narmer Palette show most securely?",
+     "choices": [
+      "Royal power over both lands, not a proven event",
+      "The name of Menes, the king who united Egypt",
+      "Narmer wearing the white crown on both sides",
+      "A real conquest in one battle, as Baines argues"
+     ],
+     "answer": 0,
+     "why": "The king wears the white crown of the south on one side and the red crown of the north on the other; whether it records an actual conquest or a statement of royal power is debated.",
+     "wrong": {
+      "1": "Menes comes from later tradition, and which historical king he was is unknown.",
+      "2": "One side shows the red crown of the north.",
+      "3": "John Baines reads the scene as a ritual statement of kingship, and unification probably took several reigns."
+     }
+    },
+    {
+     "q": "What does the 2026 study of skulls from the 1st-Dynasty royal cemetery best support?",
+     "choices": [
+      "Some early royal servants were killed at burial",
+      "Servant sacrifice went on throughout pharaonic history",
+      "Most of the 46 skulls showed injuries at death",
+      "The servants died naturally and were buried later"
+     ],
+     "answer": 0,
+     "why": "Injuries from the time of death on 18 of 46 skulls show that servants were killed to accompany the king; the practice seems to end with the 1st Dynasty.",
+     "wrong": {
+      "1": "The practice seems to end with the 1st Dynasty.",
+      "2": "18 of the 46 skulls showed such injuries.",
+      "3": "Injuries from the time of death show that many were killed."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The pharaoh and maat",
+   "sub": "kingship and the order of the world",
+   "lede": "The Egyptian king stood between the gods and humanity. His task was to keep maat, the right order of the universe, against the chaos that always threatened it.",
+   "body": [
+    "Egyptians did not call their king 'pharaoh' until the New Kingdom. The word comes from per-aa, 'great house', the palace, much as people today say 'the White House'. [[c-pharaoh-word]] The king had five official names, [[c-titulary]] and was identified in life with Horus, the falcon god of kingship, and in death with Osiris. [[c-horus]]",
+    "His central duty was maat: the order of the universe established at creation, and also truth and justice among people. By building temples, making offerings, judging fairly and defeating Egypt's enemies, he held back chaos. [[c-maat]]",
+    "How divine was he? Egyptians spoke of him as a god and depicted him among the gods, but scholars debate how literally they meant it: one influential view sees the king as the manifestation of Horus in the palace, a role that made a mortal man more than human while he held it. [[c-divine-king]] After about thirty years on the throne, and then every few years, a king might hold a Sed festival to renew his powers. [[c-sed]]",
+    {
+     "compare": "Compare Naram-Sin and Shulgi in Mesopotamia (3.6, 3.7), who claimed divinity in their lifetimes, and the Hebrew Bible's very different picture of kingship (5.9)."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ledger",
+    "signs": false,
+    "caption": "What the king did for maat",
+    "title": "The king's duties, and the order they protected",
+    "left": {
+     "h": "The king",
+     "items": [
+      {
+       "t": "Builds and endows temples",
+       "s": "houses for the gods"
+      },
+      {
+       "t": "Makes offerings",
+       "s": "keeps the gods content"
+      },
+      {
+       "t": "Judges fairly",
+       "s": "justice among people"
+      },
+      {
+       "t": "Defeats enemies",
+       "s": "smiting scenes, as on the Narmer Palette"
+      }
+     ]
+    },
+    "right": {
+     "h": "Maat",
+     "items": [
+      {
+       "t": "Cosmic order",
+       "s": "the sun rises, the Nile floods"
+      },
+      {
+       "t": "Divine favour",
+       "s": "the gods stay in Egypt"
+      },
+      {
+       "t": "Truth and justice",
+       "s": "the feather of Maat (4.4)"
+      },
+      {
+       "t": "Order against chaos",
+       "s": "foreigners and disorder held back"
+      }
+     ]
+    }
+   },
+   "practice": [
+    {
+     "q": "What did 'pharaoh' originally mean?",
+     "choices": [
+      "'Great house', the palace; later, the king",
+      "The formal title of the kings since Narmer",
+      "'Son of Re', the sun god, as a royal title",
+      "A Greek word for 'king' used by Herodotus"
+     ],
+     "answer": 0,
+     "why": "'Pharaoh' comes from per-aa, 'great house', the palace; it was used for the king himself only from the New Kingdom, much as people say 'the White House' today.",
+     "wrong": {
+      "1": "It was used for the king himself only from the New Kingdom.",
+      "2": "It comes from per-aa, 'great house', the palace.",
+      "3": "It comes from Egyptian per-aa, 'great house'."
+     }
+    },
+    {
+     "q": "Which statement best reflects scholarship on the Egyptian king's divinity?",
+     "choices": [
+      "Debated: Frankfort stressed divinity; Posener disagreed",
+      "Debated: Posener stressed divinity; Frankfort disagreed",
+      "Egyptians saw the king as a purely human ruler",
+      "Agreed: the king was held to be fully a god"
+     ],
+     "answer": 0,
+     "why": "Henri Frankfort stressed the king's divinity; Georges Posener countered him; John Baines sees the king as the manifestation of Horus in the palace, whose ordinary status was hardly that of a god.",
+     "wrong": {
+      "1": "Reversed: Frankfort stressed the king's divinity, and Posener countered him.",
+      "2": "He was identified with Horus in life and Osiris in death.",
+      "3": "Scholars disagree; Baines sees the manifestation of Horus in a man whose ordinary status was hardly a god's."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The pyramids",
+   "sub": "c. 2650 to 2500 BCE",
+   "lede": "In less than a century, Egyptian kings went from the first stone building to the largest stone structure on Earth. The pyramids are monuments to an idea of kingship, and to a state that could organise labour on an enormous scale.",
+   "body": [
+    "Djoser's Step Pyramid at Saqqara, about 2650 BCE, is the first pyramid and the first large stone building in Egypt; his official Imhotep is remembered as its architect. [[c-step]] [[c-imhotep]] Sneferu built three pyramids, learning as he went: at Dahshur the Bent Pyramid changes angle halfway up, and the Red Pyramid became the first true pyramid completed. [[c-sneferu]]",
+    "His son Khufu built the Great Pyramid at Giza, about 146 metres high, its sides over 230 metres long and almost perfectly equal, made of an estimated 2.3 million blocks. [[c-great-pyramid]] It remained the tallest structure people had built for more than three thousand years. [[c-tallest]] Khufu's son Khafre, who followed the short reign of Djedefre, added a second pyramid and, probably, the Great Sphinx. [[c-sphinx]]",
+    "Who built them? Herodotus said Khufu forced 100,000 Egyptians at a time to labour on it. [[c-herodotus-pyramid]] Archaeology tells a different story: a town of workers south of the Sphinx with bakeries, grain stores and barracks, [[c-workers-town]] and a logbook kept by an official named Merer, who shipped limestone by boat from the quarries at Tura to Giza. [[c-merer]] The workers were not slaves but organised, fed and rotated, though their labour was hardly voluntary. [[c-not-slaves]]",
+    {
+     "table": {
+      "head": [
+       "Pyramid",
+       "King",
+       "Height"
+      ],
+      "rows": [
+       [
+        "Step Pyramid, Saqqara",
+        "Djoser",
+        "about 61 m"
+       ],
+       [
+        "Bent Pyramid, Dahshur",
+        "Sneferu",
+        "about 101 m"
+       ],
+       [
+        "Great Pyramid, Giza",
+        "Khufu",
+        "about 146 m"
+       ]
+      ],
+      "note": "[[c-great-pyramid]]"
+     }
+    },
+    "Mysteries remain. How the blocks were raised is still argued. [[c-ramps]] A 2024 study mapped a lost branch of the Nile that may have brought boats close to the pyramid fields, [[c-ahramat]] and in 2023 cosmic-ray imaging found a hidden corridor inside the Great Pyramid. [[c-corridor]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 31.75,
+     "lat": 29.5,
+     "zoom": 100
+    },
+    "caption": "The pyramid fields and Merer's route",
+    "hint": "Click a site",
+    "legend": [
+     [
+      "pt",
+      "pyramid site"
+     ],
+     [
+      "dot",
+      "the Great Pyramid"
+     ],
+     [
+      "acc",
+      "Merer's limestone route (schematic)"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          31.318,
+          29.946
+         ],
+         [
+          31.25,
+          29.97
+         ],
+         [
+          31.16,
+          29.98
+         ]
+        ],
+        "label": "Tura limestone by boat",
+        "lab": [
+         31.24,
+         30.05
+        ],
+        "ldy": -6
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         31.1342,
+         29.9792
+        ],
+        "label": "Giza",
+        "date": "Khufu, Khafre, Menkaure",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "4.3 · the pyramids",
+         "title": "Giza",
+         "sub": "c. 2589 to 2503 BCE",
+         "text": "[[c-great-pyramid]] [[c-tallest]] [[c-workers-town]] [[c-corridor]]",
+         "facts": [
+          [
+           "height",
+           "about 146 m"
+          ],
+          [
+           "blocks",
+           "about 2.3 million"
+          ],
+          [
+           "base sides",
+           "over 230 m"
+          ]
+         ],
+         "sources": [
+          "smarthistory-giza",
+          "aera-city",
+          "sn-corridor"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.2167,
+         29.8711
+        ],
+        "label": "Saqqara",
+        "date": "Step Pyramid",
+        "dy": 4,
+        "plate": {
+         "kicker": "4.3 · the pyramids",
+         "title": "The Step Pyramid",
+         "sub": "Djoser, c. 2650 BCE",
+         "text": "[[c-step]] [[c-imhotep]]",
+         "sources": [
+          "unesco-memphis",
+          "brit-imhotep",
+          "gem-imhotep"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.2061,
+         29.8
+        ],
+        "label": "Dahshur",
+        "date": "Bent and Red Pyramids",
+        "anchor": "end",
+        "dy": 14,
+        "plate": {
+         "kicker": "4.3 · the pyramids",
+         "title": "Dahshur",
+         "sub": "Sneferu",
+         "text": "[[c-sneferu]]",
+         "sources": [
+          "smithsonian-bent",
+          "brit-dahshur"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.1569,
+         29.3881
+        ],
+        "label": "Meidum",
+        "date": "Sneferu",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         31.318,
+         29.946
+        ],
+        "label": "Tura",
+        "date": "limestone quarries",
+        "dy": 14
+       },
+       {
+        "ll": [
+         32.6583,
+         28.8917
+        ],
+        "label": "Wadi al-Jarf",
+        "date": "Merer's papyri",
+        "anchor": "end",
+        "plate": {
+         "kicker": "4.3 · the builders",
+         "title": "Merer's logbook",
+         "sub": "Khufu's 27th year",
+         "text": "[[c-merer]] [[c-not-slaves]]",
+         "sources": [
+          "livesci-merer",
+          "nova-lehner"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What is the strongest evidence that the pyramids were built by organised state labour rather than slaves?",
+     "choices": [
+      "The workers' town at Giza and Merer's logbook",
+      "Herodotus's account of 100,000 forced men",
+      "The vast size of the Great Pyramid itself",
+      "Inscriptions calling the workers volunteers"
+     ],
+     "answer": 0,
+     "why": "A town of workers with bakeries, grain stores and barracks, and Merer's logbook of shipping limestone from Tura to Giza, point to organised crews fed by the state.",
+     "wrong": {
+      "1": "Herodotus wrote two thousand years later and says the workers were forced.",
+      "2": "Size shows a state that could organise labour, but not whether the workers were slaves.",
+      "3": "The evidence is archaeological, the workers' town and Merer's logbook; Mark Lehner calls the labour obligatory, not voluntary."
+     }
+    },
+    {
+     "q": "What does the 2024 'Ahramat branch' study mainly try to explain?",
+     "choices": [
+      "How boats brought materials near the pyramid fields",
+      "How the blocks were lifted up the pyramid's sides",
+      "What the hidden corridor found in 2023 was for",
+      "Why Tura limestone was dragged overland to Giza"
+     ],
+     "answer": 0,
+     "why": "It mapped a lost branch of the Nile running past the pyramid fields, which would have let boats bring materials close to the building sites; the proposal is not yet widely tested.",
+     "wrong": {
+      "1": "How the blocks were raised is a separate debate.",
+      "2": "The corridor was found by cosmic-ray imaging; its purpose is unknown.",
+      "3": "Merer's logbook shows the limestone came by boat."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Gods and the afterlife",
+   "sub": "Osiris, mummies and the weighing of the heart",
+   "lede": "Egyptians invested more in death than almost any people in history. Their religion promised that the dead, properly prepared and judged worthy, could live for ever.",
+   "body": [
+    "Egypt had hundreds of gods, many linked with animals: Horus with the falcon, Hathor with the cow, Thoth with the ibis, Amun with the ram. [[c-gods-egypt]] Priests at Heliopolis taught that from the creator Atum came eight further gods, among them Osiris, Isis and Seth. [[c-ennead]] Osiris was murdered by his brother Seth, restored by his wife Isis and became king of the dead; but no full Egyptian telling survives, and the fullest version is by the Greek writer Plutarch, about 120 CE. [[c-osiris]]",
+    "A person had several spiritual parts, including the ka, a life-force that received food offerings, and the ba, shown as a bird with a human head that could leave the tomb by day. [[c-soul]] Both needed the body, so it was preserved. Embalming took about 70 days, and its quality depended on what a family could afford. [[c-mummification]] Millions of animals were mummified too, as offerings to gods; many wrappings, scans show, contain no animal at all. [[c-animal-mummies]]",
+    {
+     "table": {
+      "head": [
+       "Text",
+       "Written in",
+       "First appears"
+      ],
+      "rows": [
+       [
+        "Pyramid Texts",
+        "royal pyramids",
+        "Unas, c. 2350 BCE"
+       ],
+       [
+        "Coffin Texts",
+        "coffins of officials",
+        "First Intermediate Period and Middle Kingdom"
+       ],
+       [
+        "Book of the Dead",
+        "papyrus scrolls",
+        "New Kingdom"
+       ]
+      ],
+      "note": "[[c-texts]]"
+     }
+    },
+    "The texts that guided the dead changed over time. [[c-texts]] In the Book of the Dead, the dead person declares before the gods the sins they have not committed, and their heart is weighed against the feather of Maat; a heavy heart is devoured. [[c-weighing]] Scholars once thought the afterlife began as a privilege of kings and was 'democratised' after the Old Kingdom; many now argue that elites already hoped for it, and what changed was the practice of writing it down. [[c-democratisation]]",
+    {
+     "compare": "Compare the bleak Mesopotamian underworld (3.3), where the dead drank muddy water whoever they had been."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ledger",
+    "signs": false,
+    "caption": "The parts of a person",
+    "title": "What Egyptians believed survived death",
+    "left": {
+     "h": "Part",
+     "items": [
+      {
+       "t": "Body",
+       "s": "preserved by mummification"
+      },
+      {
+       "t": "Ka",
+       "s": "the life-force"
+      },
+      {
+       "t": "Ba",
+       "s": "a bird with a human head"
+      },
+      {
+       "t": "Akh",
+       "s": "the transfigured spirit"
+      }
+     ]
+    },
+    "right": {
+     "h": "What it needed",
+     "items": [
+      {
+       "t": "A tomb and a proper burial",
+       "s": "about 70 days of embalming"
+      },
+      {
+       "t": "Food and drink offerings",
+       "s": "brought to the tomb"
+      },
+      {
+       "t": "To return to the body each night",
+       "s": "leaving the tomb by day"
+      },
+      {
+       "t": "To pass the judgement",
+       "s": "Spell 125, the weighing of the heart"
+      }
+     ]
+    }
+   },
+   "practice": [
+    {
+     "q": "Why is Plutarch so important for the myth of Osiris?",
+     "choices": [
+      "Egyptian sources give no full telling of it",
+      "He was an Egyptian priest at Heliopolis",
+      "He translated the Pyramid Texts into Greek",
+      "He first wrote down the Book of the Dead"
+     ],
+     "answer": 0,
+     "why": "No continuous Egyptian account of the Osiris myth survives; the fullest version is by the Greek writer Plutarch, about 120 CE.",
+     "wrong": {
+      "1": "He was a Greek writer, about 120 CE.",
+      "2": "His is the fullest version of the myth, not a translation of an Egyptian text.",
+      "3": "The Book of the Dead is an Egyptian text of the New Kingdom, long before Plutarch."
+     }
+    },
+    {
+     "q": "What is the main criticism of the idea that the afterlife was 'democratised' after the Old Kingdom?",
+     "choices": [
+      "Elites hoped for an afterlife before it was written down",
+      "Breasted argued against it, and Smith first proposed it",
+      "Kings alone hoped for an afterlife, before and after",
+      "The idea was first put forward in 2009 by Smith"
+     ],
+     "answer": 0,
+     "why": "James Breasted proposed the idea in 1912; Mark Smith (2009) and others argue that elites already hoped for an afterlife in the Old Kingdom, and that what changed was writing it down.",
+     "wrong": {
+      "1": "Reversed: Breasted proposed the idea in 1912, and Mark Smith (2009) argues against it.",
+      "2": "Many now argue that elites already hoped for an afterlife in the Old Kingdom.",
+      "3": "James Breasted proposed it in 1912; Smith argues against it."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Writing and scribes",
+   "sub": "hieroglyphs, and how they were read again",
+   "lede": "Egyptian writing was beautiful, complex and, for most of history, the possession of a tiny elite. For fourteen centuries after its last use no one could read it, until the Rosetta Stone.",
+   "body": [
+    "Hieroglyphs combined three kinds of sign: signs for sounds, signs for whole words, and 'determinatives', silent signs that showed what kind of thing a word meant. Vowels were not written. [[c-script-types]] Scribes of the Old Kingdom used over a thousand signs, those of the Middle Kingdom about 750, and Ptolemaic priests thousands. [[c-sign-counts]]",
+    "Hieroglyphs were for monuments. For daily use scribes wrote hieratic, a flowing hand, and from about 700 BCE demotic, a still faster script. [[c-hieratic]] Writing was rare: perhaps 1 percent of Egyptians could read in the third millennium BCE, though some communities did far better. [[c-literacy]] A Middle Kingdom school text, the 'Satire of the Trades', urged boys to become scribes and escape the miseries of every other job. [[c-satire]]",
+    {
+     "table": {
+      "head": [
+       "Script",
+       "Used for",
+       "Period"
+      ],
+      "rows": [
+       [
+        "hieroglyphic",
+        "monuments, sacred texts",
+        "c. 3200 BCE-394 CE"
+       ],
+       [
+        "hieratic",
+        "handwriting on papyrus",
+        "from c. 3200-3000 BCE"
+       ],
+       [
+        "demotic",
+        "everyday documents",
+        "c. 700 BCE-5th century CE"
+       ],
+       [
+        "Coptic",
+        "Greek letters plus 7 signs",
+        "from the 2nd century CE"
+       ]
+      ]
+     }
+    },
+    "In 1799 French soldiers found a stone at Rosetta carrying a decree of 196 BCE in hieroglyphic, demotic and Greek: three scripts, two languages. [[c-rosetta]] Thomas Young showed that hieroglyphs could spell foreign royal names by sound; in 1822 Jean-François Champollion showed how sound-signs and word-signs worked together, and the script could be read again. [[c-champollion]]",
+    {
+     "compare": "Compare the decipherment of cuneiform (3.2, 3.12), which also depended on a trilingual inscription, at Bisotun."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "bars",
+    "caption": "How many hieroglyphs?",
+    "title": "Approximate number of different signs in use",
+    "max": 8500,
+    "ticks": [
+     0,
+     2000,
+     4000,
+     6000,
+     8000
+    ],
+    "axis": "number of signs",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "Old Kingdom",
+      "sub": "c. 2686-2160 BCE",
+      "v": 1000,
+      "lab": "over 1,000"
+     },
+     {
+      "t": "Middle Kingdom",
+      "sub": "classical Egyptian",
+      "v": 750,
+      "lab": "about 750"
+     },
+     {
+      "t": "Ptolemaic and Roman",
+      "sub": "temple inscriptions",
+      "v": 7000,
+      "lab": "several thousand",
+      "acc": true
+     }
+    ],
+    "notes": [
+     "Source: Biblical Archaeology Society. Counts vary with how variants are counted."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why could the hieroglyphs not be read by treating each sign as a single sound?",
+     "choices": [
+      "Hieroglyphs stood for whole words, not for sounds",
+      "Word-signs and silent signs sat beside sound-signs",
+      "The Rosetta texts say different things in each script",
+      "Vowels were written but consonants were left out"
+     ],
+     "answer": 1,
+     "why": "The script mixed signs for sounds, signs for whole words and determinatives, silent signs that showed what kind of thing a word meant; vowels were not written.",
+     "wrong": {
+      "0": "Sound-signs were one of the three kinds of sign.",
+      "2": "The stone carries one decree in three scripts.",
+      "3": "Reversed: vowels were not written."
+     }
+    },
+    {
+     "q": "What does the wide range of estimates for Egyptian literacy mainly show?",
+     "choices": [
+      "Most Egyptians could read and write by the New Kingdom",
+      "Literacy rates are known exactly from census records",
+      "The evidence is thin, and literacy varied by place",
+      "Baines thought most could read; others say 1 percent"
+     ],
+     "answer": 2,
+     "why": "Estimates run from about 1 percent in the third millennium BCE to 5-15 percent for some later periods and places; some argue the evidence is too thin to be sure.",
+     "wrong": {
+      "0": "Even the higher estimates, 5 to 15 percent, describe a minority.",
+      "1": "The figures are estimates from thin evidence, not counts.",
+      "3": "Reversed: John Baines gave the low estimate of about 1 percent."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Collapse and renewal",
+   "sub": "the First Intermediate Period and the Middle Kingdom",
+   "lede": "After the pyramid age, Egypt fell apart into rival kingdoms for about a century. When it was reunited, its rulers and writers looked back on the collapse as a warning, and produced the classics of Egyptian literature.",
+   "body": [
+    "The Old Kingdom ended after the unusually long reign of Pepi II; contemporary texts record his 62nd and 65th years. [[c-pepi]] In the First Intermediate Period, rival kings ruled from Herakleopolis in the north and Thebes in the south. [[c-fip]] Was drought to blame? Barbara Bell argued in 1971 that the Nile floods failed; Nadine Moeller has argued that the famine texts in tombs are largely boasts of good governance, and that the climate dried gradually. Today she sees drought as one factor among several. [[c-fip-drought]]",
+    "A poem, the 'Admonitions of Ipuwer', describes Egypt turned upside down: the poor grow rich, the river is blood. It was long read as an eyewitness account of the collapse, and some popular writers read it as a record of the Exodus plagues. Most Egyptologists now date it later and read it as literature. [[c-ipuwer]] [[c-ipuwer-exodus]]",
+    "Mentuhotep II of Thebes, king from about 2055 BCE, reunited Egypt during his long reign. [[c-mentuhotep]] The Middle Kingdom's kings developed the Faiyum basin, [[c-fayum]] and Senusret III fixed the southern border at Semna, guarded by mud-brick fortresses against Kush. [[c-semna]]",
+    {
+     "table": {
+      "head": [
+       "Period",
+       "Dates (BCE)",
+       "Capital"
+      ],
+      "rows": [
+       [
+        "Old Kingdom",
+        "2686-2160",
+        "Memphis"
+       ],
+       [
+        "First Intermediate",
+        "2160-2055",
+        "Herakleopolis and Thebes"
+       ],
+       [
+        "Middle Kingdom",
+        "2055-1650",
+        "Thebes, then Itjtawy near the Faiyum"
+       ]
+      ],
+      "note": "Dates after the Oxford History of Ancient Egypt."
+     }
+    },
+    "The Middle Kingdom's language, Middle Egyptian, became the classical tongue that scribes copied for the rest of Egyptian history. Its literature includes the Story of Sinuhe, an official who flees to Canaan and longs to be buried in Egypt, and the Eloquent Peasant, who demands justice from officials. [[c-classical]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 31.2,
+     "lat": 25.4,
+     "zoom": 21
+    },
+    "caption": "Egypt divided and reunited, c. 2160-1650 BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "pt",
+      "city or site"
+     ],
+     [
+      "dot",
+      "fortress"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         31.25,
+         29.85
+        ],
+        "label": "Memphis",
+        "date": "Old Kingdom capital",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         30.93,
+         29.09
+        ],
+        "label": "Herakleopolis",
+        "date": "northern kings",
+        "anchor": "end",
+        "dy": 14
+       },
+       {
+        "ll": [
+         30.97,
+         29.23
+        ],
+        "label": "Lahun",
+        "date": "Faiyum",
+        "dy": -6,
+        "plate": {
+         "kicker": "4.6 · Middle Kingdom",
+         "title": "The Faiyum",
+         "sub": "Lahun and Hawara",
+         "text": "[[c-fayum]]",
+         "sources": [
+          "ucl-fayum"
+         ]
+        }
+       },
+       {
+        "ll": [
+         32.64,
+         25.7
+        ],
+        "label": "Thebes",
+        "date": "southern kings; Mentuhotep II",
+        "big": true,
+        "plate": {
+         "kicker": "4.6 · reunification",
+         "title": "Thebes",
+         "sub": "Mentuhotep II, king from c. 2055 BCE",
+         "text": "[[c-fip]] [[c-mentuhotep]]",
+         "sources": [
+          "met-mk",
+          "isaw-shaw"
+         ]
+        }
+       },
+       {
+        "ll": [
+         32.9,
+         24.09
+        ],
+        "label": "Aswan",
+        "date": "First Cataract",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         31.28,
+         21.92
+        ],
+        "label": "Buhen",
+        "acc": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "4.6 · the Nubian frontier",
+         "title": "Buhen",
+         "sub": "a Middle Kingdom fortress",
+         "text": "[[c-semna]] The site was flooded by Lake Nasser in 1964.",
+         "sources": [
+          "ees-buhen"
+         ]
+        }
+       },
+       {
+        "ll": [
+         30.95,
+         21.5
+        ],
+        "label": "Semna",
+        "date": "border of Senusret III",
+        "acc": true,
+        "anchor": "end",
+        "dy": 14,
+        "plate": {
+         "kicker": "4.6 · the Nubian frontier",
+         "title": "Semna",
+         "sub": "the southern border",
+         "text": "[[c-semna]]",
+         "sources": [
+          "met-semna",
+          "brit-mk"
+         ]
+        }
+       },
+       {
+        "ll": [
+         30.41,
+         19.6
+        ],
+        "label": "Kerma",
+        "date": "capital of Kush (4.11)"
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What is Nadine Moeller's main objection to Barbara Bell's drought explanation?",
+     "choices": [
+      "The Nile floods stopped altogether in this period",
+      "Famine texts are boasts, and drying was gradual",
+      "Bell read the texts as boasts; Moeller saw real famine",
+      "Bell dated the collapse wrongly by a thousand years"
+     ],
+     "answer": 1,
+     "why": "Moeller argued that the famine texts in tombs are largely boasts of good governance and that the climate dried gradually; she now sees the arid phase about 2200 BCE as one factor among several.",
+     "wrong": {
+      "0": "Moeller argues that the climate dried gradually, not that the floods stopped.",
+      "2": "Reversed: Bell argued that the floods failed; Moeller reads the famine texts as largely ideology.",
+      "3": "The dispute is about causes, not dates."
+     }
+    },
+    {
+     "q": "Why do most Egyptologists doubt that the 'Admonitions of Ipuwer' describes the Exodus?",
+     "choices": [
+      "The papyrus is a forgery made in the 19th century CE",
+      "It is literature, and describes foreigners coming in",
+      "Its 'river is blood' line is missing from the text",
+      "It is an eyewitness account of the Old Kingdom's fall"
+     ],
+     "answer": 1,
+     "why": "Most Egyptologists read it as a literary lament composed in the Middle Kingdom or later, and its recent editor, Roland Enmarch, notes that it describes foreigners entering Egypt, not leaving.",
+     "wrong": {
+      "0": "It survives in a genuine later copy; the problem is its genre and date.",
+      "2": "The line is there; the link fails because the poem is literature of uncertain date.",
+      "3": "That older reading is now rejected: scholars date its composition to the Middle Kingdom or later."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The Hyksos and the New Kingdom",
+   "sub": "from foreign rule to empire, c. 1650-1350 BCE",
+   "lede": "For about a century, kings of Levantine origin ruled northern Egypt. When the Thebans drove them out, Egypt built an empire that reached from Syria to the heart of Sudan.",
+   "body": [
+    "The Hyksos, 'rulers of foreign lands', governed from Avaris in the eastern Delta. [[c-hyksos]] People from the Levant had lived there for generations, many in royal service, and under the Hyksos the town grew to about 250 hectares. [[c-avaris]] A 2020 study of tooth enamel found that many of its people had grown up outside Egypt before the Hyksos took power, suggesting they rose from within rather than invading. [[c-stantis]] The period is usually credited with bringing the horse and chariot to Egypt. [[c-chariot]]",
+    "Ahmose of Thebes, king from about 1550 BCE, took Avaris and drove the Hyksos out, beginning the New Kingdom. [[c-ahmose]] His successors turned outward. In his 23rd year Thutmose III defeated a coalition of Canaanite and Syrian rulers at Megiddo after leading his army through a narrow pass; his annals at Karnak tell the story in detail. [[c-megiddo]] At its height the empire reached beyond the Euphrates and south past the Fourth Cataract. [[c-empire]]",
+    {
+     "table": {
+      "head": [
+       "King",
+       "Reign (BCE)",
+       "Known for"
+      ],
+      "rows": [
+       [
+        "Ahmose",
+        "c. 1550-1525",
+        "expelled the Hyksos"
+       ],
+       [
+        "Thutmose I",
+        "c. 1504-1492",
+        "reached the Euphrates and Kurgus"
+       ],
+       [
+        "Hatshepsut",
+        "c. 1473-1458",
+        "Punt; Deir el-Bahri (4.8)"
+       ],
+       [
+        "Thutmose III",
+        "c. 1479-1425",
+        "Megiddo; widest empire"
+       ]
+      ],
+      "note": "Dates after the Oxford History of Ancient Egypt; Hatshepsut ruled within Thutmose III's reign."
+     }
+    },
+    "Much later, the Egyptian priest Manetho, quoted by the Jewish historian Josephus, claimed that the expelled Hyksos founded Jerusalem, and Josephus called them 'our forefathers'. [[c-hyksos-israel]] Most scholars do not equate the two, though some think distant memories of these movements may echo in the Exodus story. [[c-hyksos-israel-view]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 34.3,
+     "lat": 27.6,
+     "zoom": 13
+    },
+    "caption": "The New Kingdom empire, c. 1450 BCE (extent approximate)",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "pt",
+      "city or site"
+     ],
+     [
+      "dot",
+      "battle or boundary"
+     ]
+    ],
+    "seaLabels": [
+     {
+      "t": "MEDITERRANEAN",
+      "ll": [
+       30.5,
+       33.2
+      ]
+     },
+     {
+      "t": "RED SEA",
+      "ll": [
+       38.0,
+       20.0
+      ]
+     }
+    ],
+    "layers": [
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          32.36,
+          30.9
+         ],
+         [
+          33.8,
+          31.13
+         ],
+         [
+          34.46,
+          31.5
+         ],
+         [
+          35.18,
+          32.58
+         ]
+        ],
+        "label": "Thutmose III to Megiddo, from Sile",
+        "lab": [
+         33.8,
+         31.13
+        ],
+        "ldy": 16,
+        "anchor": "end"
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         31.833,
+         30.783
+        ],
+        "label": "Avaris",
+        "date": "Hyksos capital",
+        "anchor": "end",
+        "plate": {
+         "kicker": "4.7 · the Hyksos",
+         "title": "Avaris (Tell el-Dab'a)",
+         "sub": "eastern Delta",
+         "text": "[[c-hyksos]] [[c-avaris]] [[c-stantis]]",
+         "sources": [
+          "auaris",
+          "stantis2020"
+         ]
+        }
+       },
+       {
+        "ll": [
+         32.658,
+         25.718
+        ],
+        "label": "Thebes",
+        "date": "Karnak",
+        "big": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         35.184,
+         32.585
+        ],
+        "label": "Megiddo",
+        "date": "c. 1457 BCE",
+        "acc": true,
+        "plate": {
+         "kicker": "4.7 · empire",
+         "title": "The Battle of Megiddo",
+         "sub": "year 23 of Thutmose III",
+         "text": "[[c-megiddo]]",
+         "sources": [
+          "fordham-megiddo",
+          "brit-thutmose3"
+         ]
+        }
+       },
+       {
+        "ll": [
+         38.0,
+         36.83
+        ],
+        "label": "Euphrates crossing (approx.)",
+        "date": "Thutmose I and III",
+        "acc": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         33.48,
+         19.23
+        ],
+        "label": "Kurgus",
+        "date": "southern boundary",
+        "acc": true,
+        "plate": {
+         "kicker": "4.7 · empire",
+         "title": "Kurgus",
+         "sub": "boundary inscriptions of Thutmose I and III",
+         "text": "[[c-empire]]",
+         "sources": [
+          "sars-kurgus"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.83,
+         18.54
+        ],
+        "label": "Gebel Barkal",
+        "anchor": "end"
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What did the 2020 tooth-enamel study at Avaris find?",
+     "choices": [
+      "Almost everyone at Avaris was born in the Delta",
+      "Many had grown up abroad before Hyksos rule began",
+      "Its DNA shows the newcomers came from Anatolia",
+      "Most newcomers arrived after the Hyksos took power"
+     ],
+     "answer": 1,
+     "why": "Many people at Avaris had grown up outside Egypt before Hyksos rule began, which suggests the Hyksos rose from within rather than invading; the study covers one site and 75 individuals.",
+     "wrong": {
+      "0": "Many people had grown up outside Egypt.",
+      "2": "The method cannot show where the newcomers came from.",
+      "3": "Reversed: many had grown up outside Egypt before Hyksos rule began."
+     }
+    },
+    {
+     "q": "Why is Manetho's identification of the Hyksos with Israel treated with caution?",
+     "choices": [
+      "He wrote his history in Hebrew for Jewish readers",
+      "He wrote much later and survives only in quotation",
+      "Josephus quoted him in order to refute the claim",
+      "The Hyksos remained in Avaris after Ahmose's reign"
+     ],
+     "answer": 1,
+     "why": "Manetho wrote over a thousand years after the events and survives only in quotation by Josephus; most scholars do not equate the Hyksos with the Israelites.",
+     "wrong": {
+      "0": "Manetho was an Egyptian priest, quoted by the Jewish historian Josephus.",
+      "2": "Josephus embraced it, calling the Hyksos 'our forefathers'.",
+      "3": "Ahmose took Avaris and drove the Hyksos out."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Hatshepsut and Akhenaten",
+   "sub": "a woman king and a religious revolution",
+   "lede": "Two rulers of the 18th Dynasty broke the rules in different ways: Hatshepsut ruled as king, and Akhenaten tried to replace Egypt's gods with one.",
+   "body": [
+    "Hatshepsut, widow of Thutmose II, first acted for her young stepson Thutmose III and then took the full titles of a king, ruling from about 1473 to 1458 BCE. She built the terraced temple at Deir el-Bahri. [[c-hatshepsut]] Its walls show an expedition to the land of Punt bringing back myrrh trees, incense, gold and ebony; Punt probably lay in the region of Eritrea, Ethiopia and Somalia. [[c-punt]] Thutmose III later had her images removed, but some twenty years after her death, which makes simple revenge unlikely. [[c-defacement]]",
+    "About a century later Amenhotep IV renamed himself Akhenaten, made the Aten, the disk of the sun, the centre of worship, closed the temples of other gods, and built a new capital at Amarna. [[c-akhenaten]] Whether this was monotheism is debated: the king and queen Nefertiti shared in the cult as the Aten's only intermediaries. [[c-monotheism]] [[c-nefertiti]]",
+    "His Great Hymn to the Aten praises the sun as creator of all life, and it has striking parallels with Psalm 104 (compare the plate on the right). Some scholars think the psalmist knew the hymn; others see a shared tradition of praise. [[c-psalm104]]",
+    "Clay tablets found at Amarna, mostly letters in Akkadian, record Egypt's dealings with great kings and with vassal rulers in Canaan. [[c-amarna-letters]] The ruler of Jerusalem complained of raids by the Habiru, outlaws and mercenaries; whether the name is linked to 'Hebrew' is debated. [[c-habiru]] After Akhenaten's death the court left Amarna, and under Tutankhamun the old gods returned. [[c-tut-restore]]"
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ledger",
+    "signs": false,
+    "caption": "The Hymn to the Aten and Psalm 104",
+    "title": "Parallel themes (paraphrased hymn; Psalm in the NRSVUE)",
+    "left": {
+     "h": "Great Hymn to the Aten",
+     "items": [
+      {
+       "t": "When the sun sets, the land is in darkness",
+       "s": "the hymn"
+      },
+      {
+       "t": "Every lion comes out of its den",
+       "s": "the hymn"
+      },
+      {
+       "t": "Ships sail north and south; fish leap in the river",
+       "s": "the hymn"
+      },
+      {
+       "t": "How many are your deeds!",
+       "s": "the hymn"
+      }
+     ]
+    },
+    "right": {
+     "h": "Psalm 104",
+     "items": [
+      {
+       "t": "'You make darkness, and it is night'",
+       "s": "Psalm 104:20"
+      },
+      {
+       "t": "'The young lions roar for their prey'",
+       "s": "Psalm 104:21"
+      },
+      {
+       "t": "'There go the ships'",
+       "s": "Psalm 104:26"
+      },
+      {
+       "t": "'O LORD, how manifold are your works!'",
+       "s": "Psalm 104:24"
+      }
+     ]
+    }
+   },
+   "practice": [
+    {
+     "q": "Why does Peter Dorman doubt that Thutmose III attacked Hatshepsut's images out of revenge?",
+     "choices": [
+      "Her images were left undamaged by Thutmose III",
+      "The removal began two decades after her death",
+      "Hatshepsut had defaced her own images before she died",
+      "Akhenaten, a century later, removed them instead"
+     ],
+     "answer": 1,
+     "why": "Revenge would hardly wait two decades; Jun Yi Wong (2025) argues that much of the statue damage was ritual 'deactivation' also done to other kings.",
+     "wrong": {
+      "0": "Thutmose III did have her images removed.",
+      "2": "The images were removed under Thutmose III, some twenty years after her death.",
+      "3": "Thutmose III had them removed; Akhenaten reigned about a century later."
+     }
+    },
+    {
+     "q": "Which statement best fits the evidence about the Habiru in the Amarna letters?",
+     "choices": [
+      "They have been proven to be the early Israelites",
+      "A class of outlaws; any link to 'Hebrew' is debated",
+      "A people found in the Bible but not in the letters",
+      "The scribes who wrote the Amarna letters in Akkadian"
+     ],
+     "answer": 1,
+     "why": "Vassals such as the ruler of Jerusalem complained of the Habiru, a class of outlaws and mercenaries; the term was used for many groups across the Near East, so any link to 'Hebrew' is debated.",
+     "wrong": {
+      "0": "Any link to the word 'Hebrew' is debated, and the term was used for many groups.",
+      "2": "Vassals such as the ruler of Jerusalem complained of them in the letters.",
+      "3": "The letters record the correspondence of great kings and vassal rulers; the Habiru were outlaws and mercenaries they complained of."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Ramesses, Kadesh and the Exodus question",
+   "sub": "the 13th century BCE",
+   "lede": "Ramesses II ruled for 66 years, built on a colossal scale and fought the Hittites to a standstill. His son's reign gives the earliest secure mention of Israel, and his own is often linked with the Exodus.",
+   "body": [
+    "Ramesses II reigned from 1279 to 1213 BCE. [[c-ramesses]] He built a new capital in the eastern Delta, Pi-Ramesses, [[c-piramesse]] and covered Egypt with temples. Around 1274 BCE he marched north and met the Hittite king Muwatalli II at Kadesh in Syria. His temples proclaim a great victory; in fact the Hittites kept Kadesh, and historians judge the battle a draw. [[c-kadesh]] About fifteen years later Ramesses and the Hittite king Hattusili III made a treaty of peace and alliance, preserved in both Egyptian and Akkadian. [[c-treaty]] It is often called the first peace treaty in history; older ones are known. [[c-treaty-first]]",
+    "About 1208 BCE, his son Merneptah set up a stele boasting of victories in Canaan, naming places such as Ashkelon and Gezer, and declaring: 'Israel is wasted, bare of seed.' Israel is written with the sign for a people, not a city or land. [[c-merneptah]] It is generally regarded as the earliest secure mention of Israel outside the Bible. [[c-merneptah-first]]",
+    "What about the Exodus? No Egyptian text mentions it, or Israelites in Egypt. [[c-exodus-silence]] Scholars read that silence very differently. Some argue the Egyptian background of the story is authentic; some that a smaller group, perhaps the Levites, came out of Egypt; others that the story was composed much later. [[c-exodus-views]] Even the places named are disputed: one candidate for Pithom, Tell el-Maskhuta, was unoccupied from about 1500 BCE until it was refounded about 600 BCE, while Raamses (Exodus 1:11) matches Ramesses II's capital Pi-Ramesses, occupied in the 13th century. [[c-pithom]] Those who accept a historical Exodus disagree on its date. [[c-exodus-date]]",
+    {
+     "table": {
+      "head": [
+       "View",
+       "Exodus",
+       "Represented by"
+      ],
+      "rows": [
+       [
+        "early date",
+        "c. 1446 BCE (1 Kings 6:1)",
+        "Bryant Wood"
+       ],
+       [
+        "late date",
+        "13th century, under Ramesses II",
+        "many scholars who accept a historical core"
+       ],
+       [
+        "smaller exodus",
+        "a group such as the Levites",
+        "Richard Elliott Friedman"
+       ],
+       [
+        "later composition",
+        "no mass departure",
+        "Finkelstein and Silberman"
+       ]
+      ],
+      "note": "[[c-exodus-date]] [[c-exodus-views]]"
+     }
+    },
+    "Egypt's past keeps resurfacing: Tutankhamun's tomb was found in 1922, [[c-tut]] the tomb of Thutmose II in 2025, [[c-thutmose2]] and in November 2025 the Grand Egyptian Museum opened near Giza. [[c-gem]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 34.6,
+     "lat": 34.6,
+     "zoom": 15
+    },
+    "caption": "Egypt, Canaan and the Hittites in the 13th century BCE",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "pt",
+      "city"
+     ],
+     [
+      "dot",
+      "named on the Merneptah Stele"
+     ]
+    ],
+    "seaLabels": [
+     {
+      "t": "MEDITERRANEAN SEA",
+      "ll": [
+       31.0,
+       33.6
+      ]
+     }
+    ],
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         33.5,
+         39.6
+        ],
+        "label": "HATTI",
+        "size": 13
+       },
+       {
+        "ll": [
+         31.0,
+         28.5
+        ],
+        "label": "EGYPT",
+        "size": 13
+       },
+       {
+        "ll": [
+         36.2,
+         31.1
+        ],
+        "label": "CANAAN",
+        "size": 11
+       }
+      ]
+     },
+     {
+      "type": "arrow",
+      "items": [
+       {
+        "path": [
+         [
+          31.83,
+          30.8
+         ],
+         [
+          33.5,
+          31.2
+         ],
+         [
+          35.0,
+          32.6
+         ],
+         [
+          36.0,
+          33.8
+         ],
+         [
+          36.51,
+          34.52
+         ]
+        ],
+        "label": "Ramesses marches north",
+        "lab": [
+         33.6,
+         31.6
+        ],
+        "ldy": -10,
+        "anchor": "end"
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         36.51,
+         34.57
+        ],
+        "label": "Kadesh",
+        "date": "c. 1274 BCE",
+        "big": true,
+        "plate": {
+         "kicker": "4.9 · Kadesh",
+         "title": "The Battle of Kadesh",
+         "sub": "c. 1274 BCE",
+         "text": "[[c-kadesh]] [[c-kadesh-armies]] [[c-treaty]]",
+         "sources": [
+          "brit-kadesh",
+          "ausmus-kadesh"
+         ]
+        }
+       },
+       {
+        "ll": [
+         34.62,
+         40.01
+        ],
+        "label": "Hattusa",
+        "date": "Hittite capital",
+        "plate": {
+         "kicker": "4.9 · the treaty",
+         "title": "Hattusa",
+         "sub": "capital of the Hittites",
+         "text": "[[c-treaty]] [[c-treaty-first]]",
+         "sources": [
+          "unesco-hattusa",
+          "turkmus-treaty",
+          "michel-treaties"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.83,
+         30.8
+        ],
+        "label": "Pi-Ramesses",
+        "date": "Ramesses II's capital",
+        "anchor": "end",
+        "plate": {
+         "kicker": "4.9 · Ramesses II",
+         "title": "Pi-Ramesses",
+         "sub": "Qantir, eastern Delta",
+         "text": "[[c-piramesse]] [[c-ramesses]]",
+         "sources": [
+          "wibilex-piramesse",
+          "brit-ramesses"
+         ]
+        }
+       },
+       {
+        "ll": [
+         32.1,
+         30.55
+        ],
+        "label": "Tell el-Maskhuta",
+        "date": "Pithom?",
+        "dy": 16,
+        "plate": {
+         "kicker": "4.9 · the Exodus question",
+         "title": "Pithom?",
+         "sub": "Tell el-Maskhuta or Tell er-Retaba",
+         "text": "[[c-pithom]] [[c-exodus-silence]]",
+         "sources": [
+          "wibilex-pithom",
+          "wood-exodus"
+         ]
+        }
+       },
+       {
+        "ll": [
+         34.57,
+         31.67
+        ],
+        "label": "Ashkelon",
+        "acc": true,
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         34.92,
+         31.86
+        ],
+        "label": "Gezer",
+        "acc": true,
+        "dy": -6
+       },
+       {
+        "ll": [
+         35.25,
+         32.05
+        ],
+        "label": "Israel (a people; place not stated)",
+        "acc": true,
+        "dy": 14,
+        "plate": {
+         "kicker": "4.9 · the Merneptah Stele",
+         "title": "'Israel is wasted'",
+         "sub": "c. 1208 BCE",
+         "text": "[[c-merneptah]] [[c-merneptah-first]]",
+         "facts": [
+          [
+           "Ashkelon, Gezer, Yenoam",
+           "written as places"
+          ],
+          [
+           "Israel",
+           "written as a people"
+          ]
+         ],
+         "sources": [
+          "cojs-merneptah",
+          "bar-merneptah"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "The Merneptah Stele writes 'Israel' with the sign for a people, but Ashkelon and Gezer with the sign for a place. What is the most defensible inference?",
+     "choices": [
+      "A people called Israel existed by about 1208 BCE",
+      "The Exodus took place under Merneptah, about 1208 BCE",
+      "Israel was already a kingdom with its own capital city",
+      "Israel was a city-state, just like Ashkelon and Gezer"
+     ],
+     "answer": 0,
+     "why": "The signs sort names into categories: Ashkelon and Gezer are marked as places, Israel as a people. The stele is generally regarded as the earliest secure mention of Israel outside the Bible.",
+     "wrong": {
+      "1": "The stele is a victory monument that names Israel as a people; it says nothing about an Exodus.",
+      "2": "Israel is written with the sign for a people, not a city or land.",
+      "3": "Reversed: Ashkelon and Gezer get the sign for a place; Israel gets the sign for a people."
+     }
+    },
+    {
+     "q": "Why do historians call Kadesh a draw although Ramesses' reliefs claim victory?",
+     "choices": [
+      "The Hittites still held Kadesh after the battle",
+      "The Egyptian accounts were carved centuries later",
+      "The battle was fought inside Egypt's own borders",
+      "Ramesses was killed in the fighting at Kadesh"
+     ],
+     "answer": 0,
+     "why": "The Hittites kept Kadesh, so the outcome on the ground contradicts the victory proclaimed on Ramesses' temples; about fifteen years later the two powers made peace.",
+     "wrong": {
+      "1": "Ramesses' own temples proclaim the victory, in his reign.",
+      "2": "Kadesh lies in Syria.",
+      "3": "He reigned until 1213 BCE, decades later."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Daily life",
+   "sub": "farmers, tomb-builders and a strike",
+   "lede": "Most Egyptians were farmers whose year followed the river. The best window on ordinary lives, though, is a village of craftsmen who built the royal tombs and wrote down almost everything.",
+   "body": [
+    "The year had three seasons of four months each, Akhet, Peret and Shemu, plus five extra days at the end. [[c-seasons]] Wages were paid in kind: grain, bread and beer, scaled by rank. [[c-wages]]",
+    "Deir el-Medina, near the Valley of the Kings, was home to the workmen who cut and painted the royal tombs. They left tens of thousands of notes on potsherds and flakes of limestone: letters, accounts, laundry lists, love poems and court records. [[c-deirmedina]] In some periods most of the village men could read, against perhaps 1-2 percent of Egyptians as a whole, so the village was not typical. [[c-literacy-dm]] When their rations were late in year 29 of Ramesses III, about 1156 BCE, they put down their tools, sat behind a temple and shouted 'We are hungry': the first recorded strike. [[c-strike]]",
+    "Egyptian women had unusual legal rights for the ancient world: they could own and sell property, make contracts, go to court and divorce. [[c-women]] An elderly villager named Naunakhte made a will before a court of her neighbours and cut out the children who had not looked after her. [[c-naunakhte]]",
+    {
+     "table": {
+      "head": [
+       "",
+       "Ancient Egypt"
+      ],
+      "rows": [
+       [
+        "year",
+        "3 seasons x 4 months x 30 days, + 5 days"
+       ],
+       [
+        "wages",
+        "grain, bread and beer"
+       ],
+       [
+        "literacy",
+        "perhaps 1-2%; most men at Deir el-Medina"
+       ],
+       [
+        "women",
+        "could own property, sue and divorce"
+       ],
+       [
+        "medicine",
+        "Edwin Smith and Ebers papyri"
+       ]
+      ]
+     }
+    },
+    "Medicine mixed close observation with magic. The Edwin Smith Papyrus works through 48 injuries from head to foot, judging which to treat; the Ebers Papyrus lists about 700 remedies. [[c-medicine]] Lives were short: at one Delta town, almost a third of those buried died by the age of six. [[c-daba-ages]]"
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "bars",
+    "caption": "Age at death at Tell el-Dab'a, c. 1700-1550 BCE",
+    "title": "Share of 257 burials, by age at death",
+    "max": 50,
+    "ticks": [
+     0,
+     10,
+     20,
+     30,
+     40,
+     50
+    ],
+    "tickLabels": [
+     "0%",
+     "10%",
+     "20%",
+     "30%",
+     "40%",
+     "50%"
+    ],
+    "axis": "percent of burials",
+    "hint": "Hover a bar",
+    "rows": [
+     {
+      "t": "0-6",
+      "v": 31.9,
+      "lab": "c. 32%",
+      "acc": true,
+      "tip": "including stillbirths (0.8%)"
+     },
+     {
+      "t": "7-12",
+      "v": 6.2,
+      "lab": "6%"
+     },
+     {
+      "t": "13-18",
+      "v": 9.9,
+      "lab": "10%"
+     },
+     {
+      "t": "19-40",
+      "v": 42.4,
+      "lab": "42%"
+     },
+     {
+      "t": "41-60",
+      "v": 9.1,
+      "lab": "9%"
+     },
+     {
+      "t": "Over 60",
+      "v": 0.4,
+      "lab": "under 1%"
+     }
+    ],
+    "notes": [
+     "Source: UCL Digital Egypt, after Winkler and Wilfing (1991). One site; skeletal ages are estimates."
+    ]
+   },
+   "practice": [
+    {
+     "q": "Much of what we know about New Kingdom daily life comes from Deir el-Medina. What caution follows?",
+     "choices": [
+      "Its villagers were unusually literate, so not typical",
+      "Its documents are largely forgeries made for dealers",
+      "Its writers were illiterate slaves using scribes",
+      "Its texts are religious, not about daily life"
+     ],
+     "answer": 0,
+     "why": "In some periods most of the village men could read, against perhaps 1-2 percent of Egyptians as a whole, so the evidence comes from an unusual community.",
+     "wrong": {
+      "1": "The villagers themselves left tens of thousands of notes on potsherds and limestone flakes.",
+      "2": "In some periods most of the village men could read and write.",
+      "3": "They include letters, accounts, laundry lists, love poems and court records."
+     }
+    },
+    {
+     "q": "What does Naunakhte's will best show?",
+     "choices": [
+      "A woman could disinherit children before a court",
+      "Women needed a husband's consent to own property",
+      "Women could not go to court on their own behalf",
+      "Parents had to divide property equally among children"
+     ],
+     "answer": 0,
+     "why": "Naunakhte made a will before a court of her neighbours and disinherited the children who had not supported her in old age; Egyptian women could own and sell property and go to court.",
+     "wrong": {
+      "1": "Women owned and sold property in their own names.",
+      "2": "Women could go to court and serve as witnesses.",
+      "3": "Naunakhte cut out the children who had not looked after her."
+     }
+    }
+   ]
+  },
+  {
+   "title": "Egypt and Nubia",
+   "sub": "an African rival, and a Kushite dynasty",
+   "lede": "South of the First Cataract lay Nubia, home to kingdoms that traded with Egypt, fought it, were conquered by it and, in the 8th century BCE, conquered Egypt in turn.",
+   "body": [
+    "Kerma, in what is now Sudan, was the capital of the kingdom of Kush from about 2500 to 1500 BCE, a planned city of more than 30 hectares. [[c-kerma]] The first excavator, George Reisner, took it for an Egyptian trading post; from 1977 Charles Bonnet's excavations showed it was the capital of a powerful African state. [[c-reisner]] Its kings were buried under great earth mounds with rows of cattle skulls, and many people were sacrificed beside them. [[c-kerma-tombs]] Egypt's Middle Kingdom built a chain of forts on the Nile to hold Kush back (4.6).",
+    "In the New Kingdom, Egypt struck back. Thutmose I pushed beyond the Fourth Cataract and carved a boundary inscription at Kurgus; Nubian gold paid for much of Egypt's empire. [[c-thutmose-nubia]] Egyptian temples rose in Nubia, and the mountain of Gebel Barkal became a seat of Amun. [[c-napata]]",
+    "Then the tables turned. About 728 BCE the Kushite king Piye marched north and conquered Egypt, founding the 25th Dynasty. [[c-piye]] Piye's son Taharqa (about 690-664 BCE), 'King Tirhakah of Cush' in 2 Kings 19:9 (the King James Version has 'Tirhakah king of Ethiopia'), backed the kingdoms of the Levant against Assyria. The Assyrians took Memphis in 671 and sacked Thebes in 664-663, and the Kushites withdrew south. [[c-taharqa]]",
+    {
+     "table": {
+      "head": [
+       "Kush",
+       "Dates",
+       "Capital"
+      ],
+      "rows": [
+       [
+        "Kerma kingdom",
+        "c. 2500-1500 BCE",
+        "Kerma"
+       ],
+       [
+        "under Egyptian rule",
+        "c. 1500-1070 BCE",
+        "(Egyptian viceroys)"
+       ],
+       [
+        "Napatan kingdom",
+        "c. 900-270 BCE",
+        "Napata"
+       ],
+       [
+        "25th Dynasty in Egypt",
+        "c. 747-656 BCE",
+        "Napata and Memphis"
+       ],
+       [
+        "Meroitic kingdom",
+        "c. 270 BCE-350 CE",
+        "Meroë"
+       ]
+      ],
+      "note": "Approximate dates; the 25th Dynasty is conventionally counted from Piye's accession in Kush (c. 747), before his conquest of Egypt (c. 728). [[c-napata]] [[c-meroe]] [[c-piye]]"
+     }
+    },
+    "Kush endured for another thousand years at Napata and then Meroë, where its kings were buried under steep pyramids. [[c-meroe]] Its heritage is at risk again: since 2023 the Sudan National Museum has been looted during the civil war. [[c-sudan-loot]]"
+   ],
+   "figure": {
+    "kind": "map",
+    "view": {
+     "lon": 32.4,
+     "lat": 21.8,
+     "zoom": 17
+    },
+    "caption": "Egypt and Nubia along the Nile",
+    "hint": "Click a place",
+    "legend": [
+     [
+      "pt",
+      "city or site"
+     ],
+     [
+      "dot",
+      "capital of Kush"
+     ]
+    ],
+    "seas": false,
+    "layers": [
+     {
+      "type": "region",
+      "items": [
+       {
+        "ll": [
+         31.0,
+         26.6
+        ],
+        "label": "EGYPT",
+        "size": 13
+       },
+       {
+        "ll": [
+         30.0,
+         21.3
+        ],
+        "label": "NUBIA (KUSH)",
+        "size": 12
+       }
+      ]
+     },
+     {
+      "type": "points",
+      "items": [
+       {
+        "ll": [
+         32.64,
+         25.7
+        ],
+        "label": "Thebes",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         32.9,
+         24.09
+        ],
+        "label": "Aswan",
+        "date": "First Cataract",
+        "anchor": "end"
+       },
+       {
+        "ll": [
+         30.41,
+         19.6
+        ],
+        "label": "Kerma",
+        "date": "c. 2500-1500 BCE",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "plate": {
+         "kicker": "4.11 · Kush",
+         "title": "Kerma",
+         "sub": "capital of Kush, c. 2500 to 1500 BCE",
+         "text": "[[c-kerma]] [[c-reisner]] [[c-kerma-tombs]]",
+         "sources": [
+          "kerma-ch",
+          "kerma-necropolis",
+          "ebsco-kerma"
+         ]
+        }
+       },
+       {
+        "ll": [
+         31.83,
+         18.54
+        ],
+        "label": "Napata (Gebel Barkal)",
+        "date": "c. 900-270 BCE",
+        "acc": true,
+        "big": true,
+        "anchor": "end",
+        "dy": 4,
+        "plate": {
+         "kicker": "4.11 · Kush",
+         "title": "Napata and Gebel Barkal",
+         "sub": "the sacred mountain of Amun",
+         "text": "[[c-napata]] [[c-piye]] [[c-taharqa]]",
+         "sources": [
+          "unesco-barkal",
+          "brit-piye",
+          "brit-taharqa"
+         ]
+        }
+       },
+       {
+        "ll": [
+         33.71,
+         16.94
+        ],
+        "label": "Meroë",
+        "date": "c. 270 BCE-350 CE",
+        "acc": true,
+        "big": true,
+        "plate": {
+         "kicker": "4.11 · Kush",
+         "title": "Meroë",
+         "sub": "royal pyramids from the 3rd century BCE",
+         "text": "[[c-meroe]]",
+         "sources": [
+          "unesco-meroe"
+         ]
+        }
+       },
+       {
+        "ll": [
+         33.48,
+         19.23
+        ],
+        "label": "Kurgus",
+        "date": "boundary of Thutmose I",
+        "plate": {
+         "kicker": "4.11 · empire",
+         "title": "Kurgus",
+         "sub": "the southern boundary of Egypt",
+         "text": "[[c-thutmose-nubia]]",
+         "sources": [
+          "brit-thutmose1",
+          "kurgus"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "Why was George Reisner's view of Kerma as an Egyptian trading post abandoned?",
+     "choices": [
+      "Bonnet's digs showed it was the capital of Kush",
+      "Kerma was founded after Egypt had conquered Nubia",
+      "Its royal tombs turned out to be Egyptian pyramids",
+      "Bonnet found it was an Egyptian fort, not a trading post"
+     ],
+     "answer": 0,
+     "why": "From 1977 Charles Bonnet's excavations showed a planned city of more than 30 hectares, the capital of the kingdom of Kush from about 2500 to 1500 BCE.",
+     "wrong": {
+      "1": "Kerma was the capital of Kush from about 2500 BCE, long before Thutmose I pushed south.",
+      "2": "Its kings were buried under great earth mounds; Kush's pyramids came later, at Napata and Meroë.",
+      "3": "Bonnet showed it was the capital of an African state."
+     }
+    },
+    {
+     "q": "What does 'King Tirhakah of Cush' in 2 Kings 19:9 reflect?",
+     "choices": [
+      "A Kushite king who aided the Levant against Assyria",
+      "Kush was then governed as a province of Egypt",
+      "An Assyrian king who invaded Egypt and the Levant",
+      "A Kushite dynasty that ruled Egypt until the Ptolemies"
+     ],
+     "answer": 0,
+     "why": "Taharqa (about 690-664 BCE), of the Kushite 25th Dynasty, supported the kingdoms of the Levant against Assyria, until the Assyrians took Memphis in 671 and sacked Thebes in 664-663.",
+     "wrong": {
+      "1": "At the time Kushite kings ruled Egypt as the 25th Dynasty.",
+      "2": "Taharqa was a Kushite king of Egypt; the Assyrians were his enemies.",
+      "3": "The Assyrians drove the Kushites out of Egypt in the 660s BCE."
+     }
+    }
+   ]
+  },
+  {
+   "title": "The long afterlife of Egypt",
+   "sub": "Persians, Greeks, Romans, and how we date it all",
+   "lede": "Pharaonic Egypt lasted three thousand years, and it did not end with a single fall. Persians, Greeks and Romans ruled it in turn, its last pharaohs were Greek, and its language survives in a church liturgy today.",
+   "body": [
+    "After the Kushites, a native dynasty ruled from Sais (664-525 BCE) until the Persians conquered Egypt in 525 BCE. [[c-cambyses]] Alexander the Great took it in 332 BCE and founded Alexandria, and his general Ptolemy made himself king. [[c-alexandria]] For three centuries Greek-speaking Ptolemies ruled as pharaohs. They founded the Library of Alexandria [[c-library]] and built the great lighthouse, whose blocks archaeologists are still raising from the harbour. [[c-pharos]] The last, Cleopatra VII, was, Plutarch says, the only one of her line to learn Egyptian; at her death in 30 BCE Egypt became a Roman province. [[c-cleopatra]]",
+    "Hieroglyphs were carved for the last known time in 394 CE. The language lived on as Coptic, written in Greek letters, and is still used in the liturgy of the Coptic Church. [[c-last-hieroglyphs]]",
+    "How do we date all this? Egyptologists divide this history into kingdoms and intermediate periods (see the plate). [[c-periods-egypt]] To date them they combine king lists such as the Palermo Stone and the Turin papyrus, the history Manetho wrote in Greek for Ptolemy II, which gave us the 'dynasties', and records of the stars. [[c-kinglists]] In 2010 a radiocarbon study of 211 samples from dated objects broadly confirmed the conventional dates. [[c-bronkramsey]]",
+    {
+     "table": {
+      "head": [
+       "King",
+       "Conventional accession",
+       "Radiocarbon (95% range)"
+      ],
+      "rows": [
+       [
+        "Djoser",
+        "2667 BCE",
+        "2691-2625 BCE"
+       ],
+       [
+        "Mentuhotep II",
+        "2055 BCE",
+        "2064-2019 BCE"
+       ],
+       [
+        "Ahmose",
+        "1550 BCE",
+        "1570-1544 BCE"
+       ]
+      ],
+      "note": "Bronk Ramsey et al., Science (2010). [[c-bronkramsey]]"
+     }
+    },
+    {
+     "compare": "Egypt's story runs on through this volume: the Persians in Chapter 7; Greeks, Romans and the first Christians in Chapter 8; the Christian empire and Islam in Chapter 10."
+    }
+   ],
+   "figure": {
+    "kind": "chart",
+    "chart": "ranges",
+    "caption": "The periods of ancient Egypt",
+    "title": "Kingdoms and intermediate periods (dates after the Oxford History of Ancient Egypt)",
+    "max": 3100,
+    "min": 0,
+    "unit": "ka",
+    "ticks": [
+     3000,
+     2500,
+     2000,
+     1500,
+     1000,
+     500,
+     0
+    ],
+    "tickLabels": [
+     "3000 BCE",
+     "2500",
+     "2000",
+     "1500",
+     "1000",
+     "500",
+     "1 CE"
+    ],
+    "axis": "years BCE; all dates before 664 BCE approximate",
+    "readout": "",
+    "hint": "Hover a row",
+    "rows": [
+     {
+      "t": "Early Dynastic",
+      "from": 3000,
+      "to": 2686,
+      "lab": "c. 3000-2686"
+     },
+     {
+      "t": "Old Kingdom",
+      "sub": "pyramids",
+      "from": 2686,
+      "to": 2160,
+      "lab": "2686-2160",
+      "acc": true
+     },
+     {
+      "t": "First Intermediate",
+      "from": 2160,
+      "to": 2055,
+      "lab": "2160-2055",
+      "open": true
+     },
+     {
+      "t": "Middle Kingdom",
+      "from": 2055,
+      "to": 1650,
+      "lab": "2055-1650",
+      "acc": true
+     },
+     {
+      "t": "Second Intermediate",
+      "sub": "Hyksos",
+      "from": 1650,
+      "to": 1550,
+      "lab": "1650-1550",
+      "open": true
+     },
+     {
+      "t": "New Kingdom",
+      "sub": "empire",
+      "from": 1550,
+      "to": 1069,
+      "lab": "1550-1069",
+      "acc": true
+     },
+     {
+      "t": "Third Intermediate",
+      "sub": "incl. Kushite rule",
+      "from": 1069,
+      "to": 664,
+      "lab": "1069-664",
+      "open": true
+     },
+     {
+      "t": "Late Period",
+      "sub": "incl. Persian rule",
+      "from": 664,
+      "to": 332,
+      "lab": "664-332"
+     },
+     {
+      "t": "Ptolemaic",
+      "from": 332,
+      "to": 30,
+      "lab": "332-30"
+     }
+    ]
+   },
+   "practice": [
+    {
+     "q": "What did the 2010 radiocarbon study of Egyptian chronology show?",
+     "choices": [
+      "It broadly confirmed the conventional chronology",
+      "It replaced the king lists, making them obsolete",
+      "It pushed the Old Kingdom back by several centuries",
+      "It put the New Kingdom's start decades later"
+     ],
+     "answer": 0,
+     "why": "A study of 211 samples broadly confirmed the conventional dates, suggesting that the New Kingdom may have begun a decade or two earlier.",
+     "wrong": {
+      "1": "It broadly confirmed the chronology built from the king lists.",
+      "2": "It placed Djoser's accession at 2691-2625 BCE, close to the conventional 2667.",
+      "3": "Reversed: it suggests the New Kingdom may have begun a decade or two earlier."
+     }
+    },
+    {
+     "q": "If the last hieroglyphic inscription dates to 394 CE, what ended then?",
+     "choices": [
+      "The script; the language lived on as Coptic",
+      "The language, which had died with Cleopatra",
+      "Coptic, a language unrelated to Egyptian",
+      "Spoken Egyptian, replaced at once by Greek"
+     ],
+     "answer": 0,
+     "why": "394 CE is the date of the last known hieroglyphic inscription; the language lived on as Coptic, written in Greek letters, and survives in the liturgy of the Coptic Church.",
+     "wrong": {
+      "1": "Hieroglyphs were still carved until 394 CE, and the language lived on as Coptic.",
+      "2": "Coptic is the Egyptian language, written in Greek letters.",
+      "3": "The language lived on as Coptic, still used in the Coptic Church's liturgy."
+     }
+    }
+   ]
+  }
+ ]
+}
