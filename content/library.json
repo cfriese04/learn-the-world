@@ -9,112 +9,176 @@
      "no": "01",
      "title": "The shape of human history",
      "sub": "three hundred thousand years, from far away",
-     "file": "content/ch01.json"
+     "file": "content/ch01.json",
+     "span": [
+      -298000,
+      2026
+     ]
     },
     {
      "id": "ch02",
      "no": "02",
      "title": "Before history",
      "sub": "foragers, and the turn to farming",
-     "file": "content/ch02.json"
+     "file": "content/ch02.json",
+     "span": [
+      -300000,
+      -3500
+     ]
     },
     {
      "id": "ch03",
      "no": "03",
      "title": "Mesopotamia",
      "sub": "the first cities, between two rivers",
-     "file": "content/ch03.json"
+     "file": "content/ch03.json",
+     "span": [
+      -4000,
+      -500
+     ]
     },
     {
      "id": "ch04",
      "no": "04",
      "title": "Egypt",
      "sub": "the gift of the Nile",
-     "file": "content/ch04.json"
+     "file": "content/ch04.json",
+     "span": [
+      -4000,
+      -30
+     ]
     },
     {
      "id": "ch05",
      "no": "05",
      "title": "The Indus and early China",
      "sub": "two river civilizations, one still unread",
-     "file": "content/ch05.json"
+     "file": "content/ch05.json",
+     "span": [
+      -3300,
+      -256
+     ]
     },
     {
      "id": "ch06",
      "no": "06",
      "title": "The Bronze Age world",
      "sub": "a club of great powers, and its collapse",
-     "file": "content/ch06.json"
+     "file": "content/ch06.json",
+     "span": [
+      -1700,
+      -1150
+     ]
     },
     {
      "id": "ch07",
      "no": "07",
      "title": "Iron, empire and the Axial Age",
      "sub": "c. 1200 to 500 BCE",
-     "file": "content/ch07.json"
+     "file": "content/ch07.json",
+     "span": [
+      -1200,
+      -500
+     ]
     },
     {
      "id": "ch08",
      "no": "08",
      "title": "Persia, Greece and Rome",
      "sub": "c. 500 BCE to 250 CE",
-     "file": "content/ch08.json"
+     "file": "content/ch08.json",
+     "span": [
+      -500,
+      250
+     ]
     },
     {
      "id": "ch09",
      "no": "09",
      "title": "India and China in the classical age",
      "sub": "c. 500 BCE to 550 CE",
-     "file": "content/ch09.json"
+     "file": "content/ch09.json",
+     "span": [
+      -500,
+      550
+     ]
     },
     {
      "id": "ch10",
      "no": "10",
      "title": "Late antiquity and the rise of Islam",
      "sub": "c. 250 to 750",
-     "file": "content/ch10.json"
+     "file": "content/ch10.json",
+     "span": [
+      250,
+      750
+     ]
     },
     {
      "id": "ch11",
      "no": "11",
      "title": "Regional webs",
      "sub": "c. 750 to 1250",
-     "file": "content/ch11.json"
+     "file": "content/ch11.json",
+     "span": [
+      750,
+      1250
+     ]
     },
     {
      "id": "ch12",
      "no": "12",
      "title": "The Mongols and the Black Death",
      "sub": "c. 1250 to 1500",
-     "file": "content/ch12.json"
+     "file": "content/ch12.json",
+     "span": [
+      1250,
+      1500
+     ]
     },
     {
      "id": "ch13",
      "no": "13",
      "title": "The world joined",
      "sub": "c. 1450 to 1750",
-     "file": "content/ch13.json"
+     "file": "content/ch13.json",
+     "span": [
+      1450,
+      1750
+     ]
     },
     {
      "id": "ch14",
      "no": "14",
      "title": "Revolutions",
      "sub": "political and industrial, 1750 to 1914",
-     "file": "content/ch14.json"
+     "file": "content/ch14.json",
+     "span": [
+      1750,
+      1914
+     ]
     },
     {
      "id": "ch15",
      "no": "15",
      "title": "The violent century",
      "sub": "1914 to 1991",
-     "file": "content/ch15.json"
+     "file": "content/ch15.json",
+     "span": [
+      1914,
+      1991
+     ]
     },
     {
      "id": "ch16",
      "no": "16",
      "title": "The present age",
      "sub": "1991 to now",
-     "file": "content/ch16.json"
+     "file": "content/ch16.json",
+     "span": [
+      1991,
+      2026
+     ]
     }
    ]
   },
@@ -126,56 +190,88 @@
      "no": "US1",
      "title": "Colonies to Constitution",
      "sub": "1607 to 1789",
-     "file": "content/us01.json"
+     "file": "content/us01.json",
+     "span": [
+      1607,
+      1789
+     ]
     },
     {
      "id": "us02",
      "no": "US2",
      "title": "How the government works",
      "sub": "the Constitution, clause by clause",
-     "file": "content/us02.json"
+     "file": "content/us02.json",
+     "span": [
+      1787,
+      2026
+     ]
     },
     {
      "id": "us03",
      "no": "US3",
      "title": "The young republic",
      "sub": "1789 to 1848",
-     "file": "content/us03.json"
+     "file": "content/us03.json",
+     "span": [
+      1789,
+      1848
+     ]
     },
     {
      "id": "us04",
      "no": "US4",
      "title": "Slavery, war and Reconstruction",
      "sub": "1848 to 1877",
-     "file": "content/us04.json"
+     "file": "content/us04.json",
+     "span": [
+      1848,
+      1877
+     ]
     },
     {
      "id": "us05",
      "no": "US5",
      "title": "Industry, immigration and reform",
      "sub": "1877 to 1920",
-     "file": "content/us05.json"
+     "file": "content/us05.json",
+     "span": [
+      1877,
+      1920
+     ]
     },
     {
      "id": "us06",
      "no": "US6",
      "title": "Depression, New Deal and war",
      "sub": "1920 to 1945",
-     "file": "content/us06.json"
+     "file": "content/us06.json",
+     "span": [
+      1920,
+      1945
+     ]
     },
     {
      "id": "us07",
      "no": "US7",
      "title": "Superpower and civil rights",
      "sub": "1945 to 1980",
-     "file": "content/us07.json"
+     "file": "content/us07.json",
+     "span": [
+      1945,
+      1980
+     ]
     },
     {
      "id": "us08",
      "no": "US8",
      "title": "The modern republic",
      "sub": "1980 to now",
-     "file": "content/us08.json"
+     "file": "content/us08.json",
+     "span": [
+      1980,
+      2026
+     ]
     }
    ]
   }

@@ -113,7 +113,7 @@ function topoFeature(t, o){
   return o.type === 'GeometryCollection' ? {type: 'FeatureCollection', features: o.geometries.map(feat)} : feat(o);
 }
 function loadThumbTopo(){
-  return S.thumbP || (S.thumbP = getJSON('vendor/world-110m.json').then(t => (S.thumbLand = topoFeature(t, t.objects.land))).catch(() => null));
+  return S.thumbP || (S.thumbP = getJSON('vendor/world-110m.json').then(t => { S.thumbRivers = t.objects.rivers ? topoFeature(t, t.objects.rivers) : null; return (S.thumbLand = topoFeature(t, t.objects.land)); }).catch(() => null));
 }
 function loadTopo(){
   if (S.topoP) return S.topoP;
@@ -164,7 +164,8 @@ function showContents(){
       card.append(el('div', 'no', '<span>No. ' + esc(c.no) + '</span><span>' + (pages ? pages + ' pages' : '') + '</span>'), el('h2', null, esc(c.title)), el('i', null, esc(c.sub)));
       if (X) {
         card.href = '#' + c.id;
-        const th = el('div', 'thumb'); th.append(thumbSVG()); card.append(th);
+        const th = el('div', 'thumb'); th.append(thumbSVG(c.id)); card.append(th);
+        const sp = spanStrip(c.span); if (sp) card.append(sp);
         const n = X.pages.filter((p, i) => S.read[c.id + '.' + i]).length;
         const bar = el('div', 'bar'); bar.title = n + ' of ' + X.pages.length + ' pages read'; const s = el('span'); s.style.width = Math.round(100 * n / X.pages.length) + '%'; bar.append(s); card.append(bar);
       } else { card.setAttribute('aria-disabled', 'true'); card.classList.add('off'); card.append(el('span', 'soon', 'In preparation')); }
@@ -187,16 +188,36 @@ function renderResume(){
 function footHTML(){
   return '<span>' + esc(SITE.name) + ' · by Carter Friese</span><a href="#about">About and sources</a>' + (SITE.repo ? '<a href="' + esc(SITE.repo) + '" target="_blank" rel="noopener">Source on GitHub</a><a href="' + esc(reportURL('the site')) + '" target="_blank" rel="noopener">Report an error</a>' : '') + '<span>Text CC BY 4.0 · Code MIT</span>';
 }
-function thumbSVG(){
+/* Each chapter card: a small map framed on the chapter's places, and a strip showing when it happens. */
+function thumbSVG(id){
   const svg = document.createElementNS(NS, 'svg'); svg.setAttribute('viewBox', '0 0 240 124'); svg.setAttribute('aria-hidden', 'true');
+  const T = S.index[id] && S.index[id].thumb;
   const draw = () => {
     if (!S.thumbLand || !window.d3) return;
-    const pr = d3.geoNaturalEarth1().fitExtent([[4, 4], [236, 120]], {type: 'Sphere'});
-    const p = d3.geoPath(pr);
-    svg.innerHTML = '<path d="' + p({type: 'Sphere'}) + '" fill="var(--sea)" stroke="var(--land-ink)" stroke-width=".6"/><path d="' + p(d3.geoGraticule10()) + '" fill="none" stroke="var(--grat)" stroke-width=".4"/><path d="' + p(S.thumbLand) + '" fill="var(--land)" stroke="var(--land-ink)" stroke-width=".45"/>';
+    const world = !T || !T.bbox;
+    let pr;
+    if (world) pr = d3.geoNaturalEarth1().fitExtent([[4, 4], [236, 120]], {type: 'Sphere'});
+    else { const [[w, s0], [e, n]] = T.bbox; pr = d3.geoMercator().fitExtent([[4, 4], [236, 120]], {type: 'MultiPoint', coordinates: [[w, s0], [e, n], [w, n], [e, s0]]}).clipExtent([[0, 0], [240, 124]]); }
+    const gp = d3.geoPath(pr), p = g => gp(g) || '';
+    let h = world ? '<path d="' + p({type: 'Sphere'}) + '" fill="var(--sea)" stroke="var(--land-ink)" stroke-width=".6"/>' : '<rect width="240" height="124" fill="var(--sea)"/>';
+    h += '<path d="' + p(world ? d3.geoGraticule10() : d3.geoGraticule().step([10, 10])()) + '" fill="none" stroke="var(--grat)" stroke-width=".4"/>';
+    h += '<path d="' + p(S.thumbLand) + '" fill="var(--land)" stroke="var(--land-ink)" stroke-width=".45"/>';
+    if (!world && S.thumbRivers) h += '<path d="' + p(S.thumbRivers) + '" fill="none" stroke="var(--river)" stroke-width=".6"/>';
+    if (!world) h += '<rect width="240" height="124" fill="none" stroke="var(--land-ink)" stroke-width="1"/>';
+    ((T && T.pts) || []).forEach(q => { const xy = pr(q); if (xy && xy[0] >= 0 && xy[0] <= 240 && xy[1] >= 0 && xy[1] <= 124) h += '<circle cx="' + xy[0].toFixed(1) + '" cy="' + xy[1].toFixed(1) + '" r="2.4" fill="var(--accent)" stroke="var(--leaf)" stroke-width=".8"/>'; });
+    svg.innerHTML = h;
   };
   if (S.thumbLand) draw(); else loadThumbTopo().then(draw);
   return svg;
+}
+const yearLabel = y => y <= -10000 ? fmt(Math.round((2026 - y) / 1000) * 1000) + ' years ago' : y < 0 ? fmt(-y) + ' BCE' : y >= 2026 ? 'now' : String(y);
+function spanStrip(span){
+  if (!Array.isArray(span) || span.length !== 2) return null;
+  const pos = y => { const ya = Math.max(10, 2026 - num(y) + 10); return Math.max(0, Math.min(1, 1 - (Math.log10(ya) - 1) / (Math.log10(300010) - 1))); };
+  const a = pos(span[0]), b = pos(span[1]), label = 'Covers ' + yearLabel(span[0]) + ' to ' + yearLabel(span[1]);
+  const box = el('div', 'when'); box.title = label;
+  box.innerHTML = '<span class="sr">' + esc(label) + '</span><div class="span" aria-hidden="true"><i style="left:' + (a * 100).toFixed(1) + '%;width:' + Math.max(1.2, (b - a) * 100).toFixed(1) + '%"></i></div><div class="span-lab" aria-hidden="true"><span>300,000 yrs ago</span><b style="left:' + (pos(1) * 100).toFixed(1) + '%">1 CE</b><span>now</span></div>';
+  return box;
 }
 
 /* ============ the book ============ */

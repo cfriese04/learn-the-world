@@ -93,6 +93,12 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .card i{font:italic 16px/1.3 var(--text);color:var(--ink-3)}
 .card .thumb{margin-top:auto;padding-top:16px;opacity:.9;transition:opacity .2s}
 .card .thumb svg{display:block;width:100%;height:auto}
+.when{margin-top:10px}
+.when .span{position:relative;height:6px;border-radius:3px;background:var(--hair)}
+.when .span::after{content:"";position:absolute;left:49.3%;top:-2px;bottom:-2px;width:1px;background:var(--ink-3)}
+.when .span i{position:absolute;top:0;bottom:0;min-width:3px;border-radius:3px;background:var(--accent)}
+.when .span-lab{position:relative;display:flex;justify-content:space-between;margin-top:5px;font:10px/1 var(--mono);color:var(--ink-3)}
+.when .span-lab b{position:absolute;transform:translateX(-50%);font-weight:400}
 .card .bar{height:2px;background:var(--hair);margin-top:14px;border-radius:2px;overflow:hidden}
 .card .bar span{display:block;height:100%;background:var(--ink)}
 .card .soon{margin-top:auto;font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
